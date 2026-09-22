@@ -142,7 +142,7 @@
                 tutteLeNotizie = data.notizie;
                 
                 document.getElementById('stats').textContent = 
-                    📊 ${data.totale_notizie} notizie da ${[...new Set(tutteLeNotizie.map(n => n.fonte))].length} fonti · Aggiornato: ${new Date(data.aggiornato).toLocaleString('it-IT')};
+                    `${data.totale_notizie} notizie da ${[...new Set(tutteLeNotizie.map(n => n.fonte))].length} fonti - Aggiornato: ${new Date(data.aggiornato).toLocaleString('it-IT')}`;
                 
                 // Crea pulsanti per ogni fonte
                 const fonti = [...new Set(tutteLeNotizie.map(n => n.fonte))];
