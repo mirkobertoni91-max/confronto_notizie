@@ -26,6 +26,12 @@ FEEDS = [
     # Feed in italiano (non tradotti)
     {"url": "https://www.ansa.it/sito/ansait_rss.xml", "lingua": "it", "fonte": "ANSA"},
     {"url": "https://www.repubblica.it/rss/homepage/rss2.0.xml", "lingua": "it", "fonte": "Repubblica"},
+    # Nuove fonti internazionali
+    {"url": "https://feeds.reuters.com/reuters/worldNews", "lingua": "en", "fonte": "Reuters"},
+    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "lingua": "en", "fonte": "Al Jazeera"},
+    # Fonti russe (verranno tradotte automaticamente in italiano)
+    {"url": "https://tass.com/rss/v2.xml", "lingua": "ru", "fonte": "TASS"},
+    {"url": "https://www.rt.com/rss/", "lingua": "ru", "fonte": "RT"},
 ]
 
 # Usa l'endpoint non ufficiale di Google Translate (gratuito, senza chiave)
