@@ -1,1 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confronta Notizie</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Segoe UI', system-ui, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            padding: 20px;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        header {
+            text-align: center;
+            padding: 40px 0;
+            background: linear-gradient(135deg, #1a1a2e, #16213e);
+            color: white;
+            border-radius: 12px;
+            margin-bottom: 30px;
+        }
+        header h1 { font-size: 2.5rem; margin-bottom: 10px; }
+        header p { opacity: 0.8; }
+        .filtri {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+            justify-content: center;
+        }
+        .filtri button {
+            padding: 10px 20px;
+            border: 2px solid #1a1a2e;
+            background: white;
+            color: #1a1a2e;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        .filtri button:hover, .filtri button.attivo {
+            background: #1a1a2e;
+            color: white;
+        }
+        .griglia {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 20px;
+        }
+        .card {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            transition: transform 0.3s, box-shadow 0.3s;
+            border-left: 4px solid #e94560;
+        }
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        .card .fonte {
+            font-size: 0.8rem;
+            color: #e94560;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+        .card .lingua {
+            display: inline-block;
+            background: #eee;
+            padding: 2px 10px;
+            border-radius: 10px;
+            font-size: 0.75rem;
+            margin-bottom: 10px;
+        }
+        .card h2 {
+            font-size: 1.1rem;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        .card p {
+            font-size: 0.9rem;
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+        .card a {
+            display: inline-block;
+            color: #1a1a2e;
+            font-weight: 600;
+            text-decoration: none;
+            border-bottom: 2px solid #e94560;
+            padding-bottom: 2px;
+        }
+        .card a:hover { color: #e94560; }
+        .stats {
+            text-align: center;
+            color: #888;
+            margin: 30px 0;
+            font-size: 0.9rem;
+        }
+        .loading {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.2rem;
+            color: #888;
+        }
+        @media (max-width: 600px) {
+            header h1 { font-size: 1.8rem; }
+            .griglia { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌍 Confronta Notizie</h1>
+            <p>Le stesse notizie, da fonti diverse, tradotte in italiano</p>
+        </header>
 
+        <div class="filtri" id="filtri">
+            <button class="attivo" data-filtro="tutte">Tutte</button>
+        </div>
+
+        <div id="stats" class="stats"></div>
+        <div id="contenuto" class="griglia">
+            <div class="loading">⏳ Caricamento notizie...</div>
+        </div>
+    </div>
+
+    <script>
+        let tutteLeNotizie = [];
+
+        async function caricaNotizie() {
+            try {
+                const response = await fetch('data/notizie.json');
+                const data = await response.json();
+                tutteLeNotizie = data.notizie;
+                
+                document.getElementById('stats').textContent = 
+                    📊 ${data.totale_notizie} notizie da ${[...new Set(tutteLeNotizie.map(n => n.fonte))].length} fonti · Aggiornato: ${new Date(data.aggiornato).toLocaleString('it-IT')};
+                
+                // Crea pulsanti per ogni fonte
+                const fonti = [...new Set(tutteLeNotizie.map(n => n.fonte))];
+                const filtriDiv = document.getElementById('filtri');
+                fonti.forEach(fonte => {
+                    const btn = document.createElement('button');
+                    btn.textContent = fonte;
+                    btn.dataset.filtro = fonte;
+                    btn.onclick = () => filtra(fonte, btn);
+                    filtriDiv.appendChild(btn);
+                });
+                
+                // Pulsante "Tutte"
+                document.querySelector('[data-filtro="tutte"]').onclick = function() {
+                    filtra('tutte', this);
+                };
+                
+                mostraNotizie(tutteLeNotizie);
+            } catch (error) {
+                document.getElementById('contenuto').innerHTML = 
+                    '<div class="loading">❌ Errore nel caricamento delle notizie</div>';
+                console.error(error);
+            }
+        }
+
+        function filtra(fonte, button) {
+            document.querySelectorAll('#filtri button').forEach(b => b.classList.remove('attivo'));
+            button.classList.add('attivo');
+            
+            const filtrate = fonte === 'tutte' 
+                ? tutteLeNotizie 
+                : tutteLeNotizie.filter(n => n.fonte === fonte);
+            mostraNotizie(filtrate);
+        }
+
+        function mostraNotizie(notizie) {
+            const contenuto = document.getElementById('contenuto');
+            
+            if (notizie.length === 0) {
+                contenuto.innerHTML = '<div class="loading">Nessuna notizia trovata</div>';
+                return;
+            }
+            
+            contenuto.innerHTML = notizie.map(n => `
+                <div class="card">
+                    <div class="fonte">${n.fonte}</div>
+                    <span class="lingua">🌐 ${n.lingua_originale.toUpperCase()} → IT</span>
+                    <h2>${n.titolo}</h2>
+                    <p>${n.sommario}...</p>
+                    <a href="${n.link}" target="_blank" rel="noopener">Leggi l'articolo originale →</a>
+                </div>
+            `).join('');
+        }
+
+        caricaNotizie();
+    </script>
+</body>
+</html>
