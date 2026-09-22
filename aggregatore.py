@@ -118,5 +118,5 @@ def main():
     salva_json(notizie)
     print("🎉 Completato!")
 
-if _name_ == "_main_":
+if _name_ == "__main__":
     main()
