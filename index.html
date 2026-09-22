@@ -118,7 +118,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>🌍 Confronta Notizie</h1>
+            <h1> Confronta Notizie</h1>
             <p>Le stesse notizie, da fonti diverse, tradotte in italiano</p>
         </header>
 
@@ -128,7 +128,7 @@
 
         <div id="stats" class="stats"></div>
         <div id="contenuto" class="griglia">
-            <div class="loading">⏳ Caricamento notizie...</div>
+            <div class="loading"> Caricamento notizie...</div>
         </div>
     </div>
 
@@ -163,7 +163,7 @@
                 mostraNotizie(tutteLeNotizie);
             } catch (error) {
                 document.getElementById('contenuto').innerHTML = 
-                    '<div class="loading">❌ Errore nel caricamento delle notizie</div>';
+                    '<div class="loading"> Errore nel caricamento delle notizie</div>';
                 console.error(error);
             }
         }
@@ -189,10 +189,10 @@
             contenuto.innerHTML = notizie.map(n => `
                 <div class="card">
                     <div class="fonte">${n.fonte}</div>
-                    <span class="lingua">🌐 ${n.lingua_originale.toUpperCase()} → IT</span>
+                    <span class="lingua"> ${n.lingua_originale.toUpperCase()} → IT</span>
                     <h2>${n.titolo}</h2>
                     <p>${n.sommario}...</p>
-                    <a href="${n.link}" target="_blank" rel="noopener">Leggi l'articolo originale →</a>
+                    <a href="${n.link}" target="_blank" rel="noopener">Leggi l'articolo originale: </a>
                 </div>
             `).join('');
         }
