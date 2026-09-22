@@ -121,7 +121,21 @@
             <h1> Confronta Notizie</h1>
             <p>Le stesse notizie, da fonti diverse, tradotte in italiano</p>
         </header>
-
+    <div style="text-align: center; margin-bottom: 20px;">
+        <input 
+            type="text" 
+            id="searchInput" 
+            placeholder="Cerca parole chiave (es. Ucraina, economia, IA)..."
+            style="
+                width: 100%; 
+                max-width: 500px; 
+                padding: 12px 20px; 
+                border: 2px solid #1a1a2e; 
+                border-radius: 25px; 
+                font-size: 1rem;
+            "
+        />
+    </div>
         <div class="filtri" id="filtri">
             <button class="attivo" data-filtro="tutte">Tutte</button>
         </div>
@@ -161,6 +175,23 @@
                 };
                 
                 mostraNotizie(tutteLeNotizie);
+ // Attiva la ricerca in tempo reale
+document.getElementById('searchInput').addEventListener('input', function(e) {
+    const query = e.target.value.toLowerCase().trim();
+    
+    if (query === '') {
+        mostraNotizie(tutteLeNotizie);
+        return;
+    }
+    
+    const filtrate = tutteLeNotizie.filter(n => 
+        n.titolo.toLowerCase().includes(query) || 
+        n.sommario.toLowerCase().includes(query) ||
+        n.fonte.toLowerCase().includes(query)
+    );
+    
+    mostraNotizie(filtrate);
+});
             } catch (error) {
                 document.getElementById('contenuto').innerHTML = 
                     '<div class="loading"> Errore nel caricamento delle notizie</div>';
