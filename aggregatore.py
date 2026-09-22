@@ -38,25 +38,31 @@ FEEDS = [
 TRANSLATE_URL = "https://translate.googleapis.com/translate_a/single"
 
 def traduci_testo(testo, lingua_sorgente="auto", lingua_target="it"):
-    """Traduce un testo usando l'endpoint non ufficiale di Google Translate."""
+    """Traduce un testo usando MyMemory API (gratuito, no chiave)."""
     if not testo or lingua_sorgente == lingua_target:
         return testo
     
+    # Mappa le lingue al formato richiesto da MyMemory (es. "en|it")
+    langpair = f"{lingua_sorgente}|{lingua_target}"
+    
     try:
         params = {
-            "client": "gtx",
-            "sl": lingua_sorgente,
-            "tl": lingua_target,
-            "dt": "t",
-            "q": testo
+            "q": testo[:500],  # Limita a 500 caratteri per richiesta
+            "langpair": langpair
         }
-        response = requests.get(TRANSLATE_URL, params=params, timeout=10)
+        response = requests.get(
+            "https://api.mymemory.translated.net/get",
+            params=params,
+            timeout=10
+        )
         response.raise_for_status()
         data = response.json()
         
-        # Estrai il testo tradotto dalla risposta
-        if data and data[0]:
-            return "".join([segmento[0] for segmento in data[0] if segmento[0]])
+        if data.get("responseStatus") == 200:
+            return data["responseData"]["translatedText"]
+        return testo
+    except Exception as e:
+        print(f"Errore traduzione: {e}")
         return testo
     except Exception as e:
         print(f"Errore traduzione: {e}")
