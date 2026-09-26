@@ -1,24 +1,33 @@
 {
-  "aggiornato": "2026-09-26T03:51:13.928750",
+  "aggiornato": "2026-09-26T10:56:56.044792",
   "totale_notizie": 90,
   "notizie": [
     {
       "titolo": "L'Iran offre agli Stati Uniti un accordo per riaprire lo Stretto di Hormuz tra sette giorni",
       "titolo_originale": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "sommario": "Alla domanda sull'offerta iraniana, un funzionario statunitense ha dichiarato alla BBC che \"discussioni costruttive\" si stavano svolgendo attraverso mediatori.",
+      "sommario": "Alla domanda sulla proposta iraniana, un funzionario statunitense ha dichiarato alla BBC che \"discussioni costruttive\" si stavano svolgendo attraverso mediatori.",
       "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 23:38:48 GMT"
+      "data": "Sat, 26 Sep 2026 05:03:09 GMT"
     },
     {
       "titolo": "I robot OpenAI hanno interferito con più siti di agenzie governative statunitensi",
       "titolo_originale": "OpenAI bots meddled with multiple US government agency sites",
-      "sommario": "OpenAI ha affermato che i suoi robot hanno avuto accesso ai dati pubblici del censimento degli Stati Uniti e della Securities and Exchange Commission, che regola i mercati azionari statunitensi.",
+      "sommario": "OpenAI ha affermato che i suoi bot hanno avuto accesso a dati pubblici da una serie di istituzioni durante le esercitazioni di test.",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
       "data": "Sat, 26 Sep 2026 02:50:56 GMT"
+    },
+    {
+      "titolo": "Le strade di Bangkok sono state sommerse quando è stata dichiarata la catastro",
+      "titolo_originale": "Bangkok roads submerged as flood disaster declared",
+      "sommario": "Un'emergenza è stata dichiarata in tutta la capitale della Thailandia mentre giorni di forti piogge lasciano la città inondata.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sat, 26 Sep 2026 07:21:30 GMT"
     },
     {
       "titolo": "La Russia prende di mira la \"vita ordinaria\" con attacchi ai data center ucraini, afferma Zelensky",
@@ -39,15 +48,6 @@
       "data": "Fri, 25 Sep 2026 23:20:48 GMT"
     },
     {
-      "titolo": "All'interno dell'hack dell'FBI: agenti timorosi e arrabbiati dopo una \"pericolosa\" violazione dei dati",
-      "titolo_originale": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "sommario": "Agenti attuali ed ex agenti parlano alla BBC dell'impatto devastante dell'hackeraggio dell'FBI.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 23:05:40 GMT"
-    },
-    {
       "titolo": "La donna di colore trovata impiccata all'albero era morta prima che il corpo fosse \"inscenato\", dice la polizia",
       "titolo_originale": "Black woman found hanging from tree was dead before body was 'staged', police say",
       "sommario": "Il corpo di Tasia Fortune è stato trovato appeso a un albero sul terreno di una casa abbandonata a Jackson ad agosto.",
@@ -57,40 +57,103 @@
       "data": "Sat, 26 Sep 2026 01:24:31 GMT"
     },
     {
-      "titolo": "Il Papa mette in guardia dal \"perdere umanità\" a favore delle macchine AI",
-      "titolo_originale": "Pope warns against 'losing humanity' to AI machines",
-      "sommario": "Il pontefice ha consegnato l'avvertimento il primo giorno del suo viaggio in Francia venerdì.",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+      "titolo": "Almeno due morti dopo l'esplosione distrugge un edificio vicino all'Acropoli di Atene",
+      "titolo_originale": "At least two dead after explosion destroys building close to Acropolis in Athens",
+      "sommario": "I media locali riportano che la proprietà includeva una casa vacanze, con turisti statunitensi e un cittadino del Regno Unito tra i dispersi.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 15:06:41 GMT"
+      "data": "Sat, 26 Sep 2026 10:18:51 GMT"
     },
     {
-      "titolo": "Due arresti dopo persone viste emergere misteriosamente da varie fogne di New York",
-      "titolo_originale": "Two arrested after people seen mysteriously emerging from various New York City sewers",
-      "sommario": "La città ha visto una serie di incidenti in cui le persone sono uscite dai tombini a tarda notte.",
-      "link": "https://www.bbc.co.uk/news/articles/cwddvv44091vo?at_medium=RSS&at_campaign=rss",
+      "titolo": "La Casa Bianca impedisce alla CNN di viaggiare con Trump sull'Air Force One",
+      "titolo_originale": "White House bars CNN from travelling with Trump on Air Force One",
+      "sommario": "La CNN avrebbe dovuto volare con il presidente degli Stati Uniti Donald Trump per il suo viaggio in Tennessee sabato.",
+      "link": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 17:59:03 GMT"
+      "data": "Sat, 26 Sep 2026 05:09:09 GMT"
     },
     {
-      "titolo": "La Corte Suprema consente a Trump di utilizzare un database controverso per verificare la cittadinanza degli elettori",
-      "titolo_originale": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "sommario": "I critici hanno messo in dubbio l'affidabilità dei dati, avvertendo che potrebbe  comportare che i cittadini statunitensi vengano erroneamente rimossi dalle liste elettorali.",
-      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Il brasiliano Lula vieta il gioco d'azzardo online prima delle elezioni presidenziali",
+      "titolo_originale": "Brazil's Lula bans online gambling ahead of presidential election",
+      "sommario": "Lula, che è attualmente in una corsa presidenziale serrata contro Flávio Bolsonaro, ha detto che l'industria è un \"cancro\" che deve \"rimuovere\".",
+      "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 19:13:35 GMT"
+      "data": "Sat, 26 Sep 2026 03:22:17 GMT"
     },
     {
-      "titolo": "I piani di Trump per un arco massiccio vanno avanti",
-      "titolo_originale": "Trump's plans for massive arch move ahead",
-      "sommario": "L'opposizione alla costruzione dell'arco di 250 piedi e al suo utilizzo per scopi militari sta crescendo con un democratico che definisce i piani di Trump come \"temerari\".",
-      "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+      "titolo": "All'interno dell'hack dell'FBI: agenti timorosi e arrabbiati dopo una \"pericolosa\" violazione dei dati",
+      "titolo_originale": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "sommario": "Agenti attuali ed ex agenti parlano alla BBC dell'impatto devastante dell'hackeraggio dell'FBI.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 18:27:46 GMT"
+      "data": "Fri, 25 Sep 2026 23:05:40 GMT"
+    },
+    {
+      "titolo": "Il governo prepara un decreto legge per accelerare i rimpatri dei migranti in Marocco",
+      "titolo_originale": "El Gobierno prepara un decreto ley para acelerar las devoluciones de migrantes a Marruecos",
+      "sommario": "La norma, ancora in fase di elaborazione, riguarderà i migranti che hanno già avviato le procedure di asilo e che la Spagna potrà rimpatriare prima di risolvere la loro richiesta",
+      "link": "https://elpais.com/espana/2026-09-26/el-gobierno-prepara-un-decreto-ley-para-acelerar-las-devoluciones-de-migrantes-a-marruecos.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 03:30:01 GMT"
+    },
+    {
+      "titolo": "Perché abbiamo bisogno di accogliere gli emigranti",
+      "titolo_originale": "Por qué necesitamos acoger a los emigrantes",
+      "sommario": "La purezza uccide; l'incrocio dà vita.\nIl sogno di un'Europa bianca e cristiana non è un sogno: è un incubo",
+      "link": "https://elpais.com/eps/2026-09-26/por-que-necesitamos-acoger-a-los-emigrantes.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 03:40:00 GMT"
+    },
+    {
+      "titolo": "Manifestazione contro Sánchez, in diretta | Circa 20.000 persone marciano a Madrid per chiedere elezioni e \"in difesa di Ceuta\"",
+      "titolo_originale": "Manifestación contra Sánchez, en directo | Unas 20.000 personas marchan en Madrid para pedir elecciones y “en defensa de Ceuta”",
+      "sommario": "La manifestazione convocata dalla Società Civile Spagnola è iniziata in Plaza de Cibeles e avanza con canti islamafobici e di \"Marlaska, traditore\" | Una barriera della polizia impedisce il passaggio di un gruppo di manifestanti verso La Moncloa | Abascal arriva alla protesta ricevuto con grida di \"presidente\"",
+      "link": "https://elpais.com/espana/2026-09-26/manifestacion-en-apoyo-de-ceuta-y-melilla-en-directo.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 10:43:34 GMT"
+    },
+    {
+      "titolo": "Il sistema di intelligenza artificiale di OpenAI è entrato da solo e senza autorizzazione nei portali ufficiali del governo degli Stati Uniti",
+      "titolo_originale": "El sistema de IA de OpenAI accedió por su cuenta y sin autorización a portales oficiales del Gobierno de Estados Unidos",
+      "sommario": "Sam Altman, fondatore del laboratorio tecnologico, riconosce che ci sono più organizzazioni colpite",
+      "link": "https://elpais.com/us/2026-09-26/el-sistema-de-ia-de-openai-accedio-por-su-cuenta-y-sin-autorizacion-a-portales-oficiales-del-gobierno-de-estados-unidos.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 01:04:40 GMT"
+    },
+    {
+      "titolo": "La Cina è una superpotenza tecnologica? La grafica della sua forza su robot, brevetti e note di PISA",
+      "titolo_originale": "¿Es China una superpotencia tecnológica? Los gráficos de su fuerza en robots, patentes y notas de PISA",
+      "sommario": "La Cina si è posizionata all'avanguardia nel mondo per capacità industriale e scientifica. Lo ha fatto molto velocemente. La loro prossima sfida è superare gli Stati Uniti nell'IA di frontiera",
+      "link": "https://elpais.com/internacional/2026-09-26/es-china-una-superpotencia-tecnologica-los-graficos-de-su-fuerza-en-robots-patentes-y-notas-de-pisa.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 03:30:01 GMT"
+    },
+    {
+      "titolo": "La lenta agonia dell'affitto di case in Spagna: cosa è andato storto?",
+      "titolo_originale": "La lenta agonía del alquiler de vivienda en España: ¿Qué salió mal?",
+      "sommario": "La Spagna ha promosso per anni il leasing come alternativa all'acquisto, ma la mancanza di offerta e l'aumento dei prezzi hanno reso il piano B un problema",
+      "link": "https://elpais.com/economia/negocios/2026-09-26/la-lenta-agonia-del-alquiler-de-vivienda-en-espana-que-salio-mal.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 03:30:00 GMT"
+    },
+    {
+      "titolo": "Housing studia l'eliminazione dell'IPC come riferimento per l'aumento di tutti gli affitti",
+      "titolo_originale": "Vivienda estudia eliminar el IPC como referencia para la subida de todos los alquileres",
+      "sommario": "La negoziazione del decreto che sarà approvato la prossima settimana esplora un meccanismo per affrontare le revisioni dei contratti precedenti al 2023 se i prezzi si scatenano",
+      "link": "https://elpais.com/economia/2026-09-26/vivienda-estudia-eliminar-el-ipc-como-referencia-para-la-subida-de-todos-los-alquileres.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 26 Sep 2026 03:30:01 GMT"
     },
     {
       "titolo": "Madrid rifiuta la proposta di Urbagestión di assumere l'appartamento di Maricarmen come \"non fattibile\", ma si offre di mediare",
@@ -102,175 +165,112 @@
       "data": "Fri, 25 Sep 2026 19:15:10 GMT"
     },
     {
-      "titolo": "Maricarmen, da Gregorio Marañón: \"Non sono riuscito a difendere la mia casa, ma ho combattuto perché gli altri imparassero\"",
-      "titolo_originale": "Maricarmen, desde el Gregorio Marañón: “No he logrado defender mi casa, pero sí he luchado para que los demás aprendan”",
-      "sommario": "Il Sindacato degli Inquilini racconta che la donna, 87 anni e che è stata sfrattata mercoledì, è ancora “stanca, ma sta bene”, in pianta e accompagnata dal cugino Vicente",
-      "link": "https://elpais.com/espana/madrid/2026-09-25/maricarmen-desde-el-gregorio-maranon-gracias-a-todos-los-que-han-estado-conmigo-para-defender-mi-casa.html",
+      "titolo": "Maricarmen è anche marchio Spagna",
+      "titolo_originale": "Maricarmen también es marca España",
+      "sommario": "Dickens ha già una sceneggiatura sulla miseria morale del XXI secolo. Questa volta sarà girato a Ceuta e Madrid",
+      "link": "https://elpais.com/opinion/2026-09-26/maricarmen-tambien-es-marca-espana.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 09:10:59 GMT"
+      "data": "Sat, 26 Sep 2026 03:30:01 GMT"
     },
     {
-      "titolo": "Junts propone al governo di vietare gli sfratti e gli acquisti di case da parte dei fondi avvoltoio",
-      "titolo_originale": "Junts plantea al Gobierno prohibir los desahucios y las compras de viviendas por parte de fondos buitre",
-      "sommario": "Il partito indipendentista assicura che l'Esecutivo vede la sua proposta \"di buon occhio\" in piena negoziazione con Housing",
-      "link": "https://elpais.com/espana/catalunya/2026-09-25/junts-plantea-al-gobierno-prohibir-los-desahucios-y-las-compras-de-viviendas-por-parte-de-fondos-buitre.html",
+      "titolo": "Alberto Muñagorri: vita e vertigini del bambino della pompa",
+      "titolo_originale": "Alberto Muñagorri: vida y vértigo del niño de la bomba",
+      "sommario": "Nel 1982, un esplosivo dell'ETA in uno zaino distrusse il corpo di un bambino di 10 anni a Renteria. La sua immagine in bianco e nero ha segnato una generazione di baschi. Oggi, un libro di Ander Izagirre racconta la sua storia, che è quella della violenza nei Paesi Baschi",
+      "link": "https://elpais.com/babelia/2026-09-26/alberto-munagorri-vida-y-vertigo-del-nino-de-la-bomba.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 11:43:17 GMT"
+      "data": "Sat, 26 Sep 2026 03:30:01 GMT"
     },
     {
-      "titolo": "La coppia dell'architetto Josep Juanpere, in libertà provvisoria dopo aver pagato una cauzione di 80.000 euro",
-      "titolo_originale": "La pareja del arquitecto Josep Juanpere, en libertad provisional tras pagar una fianza de 80.000 euros",
-      "sommario": "La donna, indagata per il presunto omicidio dell'architetto nel 2025, nega i fatti",
-      "link": "https://elpais.com/espana/catalunya/2026-09-25/el-juez-decreta-prision-provisional-con-fianza-para-la-pareja-del-josep-juanpere-fallecido-en-2025.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 18:32:34 GMT"
-    },
-    {
-      "titolo": "Il Comune di Lleida vieta il burqa negli spazi pubblici",
-      "titolo_originale": "El Ayuntamiento de Lleida prohíbe el burka en los espacios públicos",
-      "sommario": "La nuova ordinanza comunale prevede sanzioni comprese tra 400 e 750 euro",
-      "link": "https://elpais.com/espana/catalunya/2026-09-25/el-ayuntamiento-de-lleida-prohibe-el-burka-en-los-espacios-publicos.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 17:24:19 GMT"
-    },
-    {
-      "titolo": "Caccia finlandesi e svedesi intercettano uno squadrone di aerei russi nel Baltico",
-      "titolo_originale": "Cazas de Finlandia y Suecia interceptan un escuadrón de aviones rusos en el Báltico",
-      "sommario": "La pattuglia russa era composta da un aereo da trasporto Tu-134 e da un numero imprecisato di caccia MiG-31 e Su-30",
-      "link": "https://elpais.com/internacional/2026-09-25/cazas-de-finlandia-y-suecia-interceptan-a-un-escuadron-de-aviones-rusos-en-el-baltico.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 15:07:41 GMT"
-    },
-    {
-      "titolo": "Trump e Xi suggellano la loro ‘entente cordiale’ dopo tre giorni di grande pompa e poca sostanza",
-      "titolo_originale": "Trump y Xi sellan su ‘entente cordiale’ tras tres días de gran pompa y escasa sustancia",
-      "sommario": "I presidenti di Cina e Stati Uniti si incontreranno di nuovo nei rispettivi paesi a novembre e dicembre, come confermato dall'inquilino della Casa Bianca",
-      "link": "https://elpais.com/internacional/2026-09-25/trump-y-xi-sellan-su-entente-cordiale-tras-tres-dias-de-gran-pompa-y-escasa-sustancia.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 18:31:02 GMT"
-    },
-    {
-      "titolo": "Le grandi catene intensificano la guerra dei prezzi: questi sono i supermercati più costosi e più economici della Spagna",
-      "titolo_originale": "Las grandes cadenas intensifican la guerra de precios: estos son los supermercados más caros y más baratos de España",
-      "sommario": "Le famiglie possono risparmiare in media fino a 1.310 euro all'anno a seconda dello stabilimento che scelgono, secondo l'associazione dei consumatori OCU",
-      "link": "https://elpais.com/economia/2026-09-25/las-grandes-cadenas-intensifican-la-guerra-de-precios-estos-son-los-supermercados-mas-caros-y-mas-baratos-de-espana.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 09:50:16 GMT"
-    },
-    {
-      "titolo": "‘La palla nera’: estetica e ipersensibilità",
-      "titolo_originale": "‘La bola negra’: estética e hipersensible",
-      "sommario": "Javier Ambrossi e Javier Calvo dimostrano ancora una volta di avere un brillante senso del cinema, anche se non tutto convince in questa storia di amore, paura, desiderio e sofferenza",
-      "link": "https://elpais.com/cultura/2026-09-25/la-bola-negra-estetica-e-hipersensible.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 03:30:01 GMT"
-    },
-    {
-      "titolo": "Fernando Trueba a San Sebastián: dallo scandalo quando lanciò un secchio d'acqua a un critico della sua passione per Niño Josele",
-      "titolo_originale": "Fernando Trueba en San Sebastián: del escándalo cuando tiró un cubo de agua a un crítico a su pasión por Niño Josele",
-      "sommario": "Il cineasta presenta al festival due documentari: il restauro di ‘Chicho o finché il corpo regge’, del 1982, e il suo ultimo lavoro, ‘Bajañí’, sul chitarrista flamenco",
-      "link": "https://elpais.com/cultura/cine/2026-09-25/fernando-trueba-en-san-sebastian-del-escandalo-cuando-tiro-un-cubo-de-agua-a-un-critico-a-su-pasion-por-nino-josele.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 25 Sep 2026 15:13:59 GMT"
-    },
-    {
-      "titolo": "Visita del Papa: allo Stade de France, Leone XIV celebra la “lotta” per “la fede”, che “non usa le armi della violenza, del disprezzo o dell'oppressione”",
-      "titolo_originale": "Visite du pape : au Stade de France, Léon XIV célèbre le « combat » pour « la foi », qui « n’utilise pas les armes de la violence, du mépris ou de l’oppression »",
-      "sommario": "Quasi 80.000 giovani hanno riempito il recinto di Dyonisienne, venerdì, accogliendo il capo della Chiesa cattolica come una rock star. Un'assemblea disparata, formata da sensibilità divergenti, con la volontà di comunicarsi, almeno per una sera.",
-      "link": "https://www.lemonde.fr/societe/article/2026/09/26/visite-du-pape-au-stade-de-france-leon-xiv-celebre-le-combat-pour-la-foi-qui-n-utilise-pas-les-armes-de-la-violence-du-mepris-ou-de-l-oppression_6782973_3224.html",
+      "titolo": "Visita del Papa a Parigi: alla \"Catho\", Leone XIV si rivolge ai nuovi e futuri battezzati, esprimendo la sua \"grande gratitudine per l’opera imprevedibile di Dio\"",
+      "titolo_originale": "Visite du pape à Paris : à « la Catho », Léon XIV s’adresse aux nouveaux et futurs baptisés, en disant sa « grande gratitude pour l’œuvre imprévisible de Dieu »",
+      "sommario": "Papa Leone XIV si è recato sabato mattina all'Istituto Cattolico di Parigi (ICP), nel 6° arrondissement della capitale, per una visita al crocevia di questioni contemporanee per la Chiesa e di figure storiche passate da questo luogo.",
+      "link": "https://www.lemonde.fr/societe/article/2026/09/26/visite-du-pape-a-paris-a-la-catho-leon-xiv-s-adresse-aux-nouveaux-et-futurs-baptises-en-disant-sa-grande-gratitude-pour-l-uvre-imprevisible-de-dieu_6783127_3224.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 05:30:14 +0200"
+      "data": "Sat, 26 Sep 2026 12:39:58 +0200"
     },
     {
-      "titolo": "L'Arabia Saudita subisce nuovi attacchi da parte degli Houthi",
-      "titolo_originale": "L’Arabie saoudite subit de nouvelles attaques des houthistes",
-      "sommario": "Sabato sono stati intercettati droni lanciati verso la capitale saudita, Riyadh, e missili balistici diretti contro una grande città del sud-ovest che ospita una base aerea.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/26/l-arabie-saoudite-subit-de-nouvelles-attaques-des-houthistes_6782972_3210.html",
+      "titolo": "“Non abbiamo nulla, né luogo sicuro né cibo”: in Yemen la situazione umanitaria peggiora",
+      "titolo_originale": "« Nous n’avons rien, ni endroit sûr ni nourriture » : au Yémen, la situation humanitaire s’aggrave",
+      "sommario": "Mentre i combattimenti tra Houthi e forze governative continuano nel paese, le ONG si mettono in ordine di battaglia per cercare di aiutare i civili, in particolare gli oltre 130.000 sfollati.",
+      "link": "https://www.lemonde.fr/international/article/2026/09/26/nous-n-avons-rien-ni-endroit-sur-ni-nourriture-au-yemen-la-situation-humanitaire-s-aggrave_6783126_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 05:30:03 +0200"
+      "data": "Sat, 26 Sep 2026 12:30:20 +0200"
     },
     {
-      "titolo": "Dopo il divieto di accesso alla Casa Bianca, la CNN è stata esclusa da un viaggio presidenziale a bordo dell'Air Force One",
-      "titolo_originale": "Après son interdiction d’accès à la Maison Blanche, CNN écartée d’un déplacement présidentiel à bord d’Air Force One",
-      "sommario": "Nell'aereo presidenziale americano, il posto abitualmente riservato al canale è stato assegnato a Real America’s Voice News, un media conservatore che non fa parte del “pool” video incaricato della copertura della presidenza.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html",
+      "titolo": "Papa a Parigi: donne chiedono di poter servire all'altare accanto agli uomini durante le messe",
+      "titolo_originale": "Pape à Paris : des femmes réclament de pouvoir servir à l’autel aux côtés des hommes lors des messes",
+      "sommario": "Mentre il diritto canonico non vieta più alle ragazze di essere chierichetti dal 1994, una pratica particolare in Francia tende ad escludere queste ultime dal servizio dell'altare e a limitarle a compiti subalterni.",
+      "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/26/pape-a-paris-des-femmes-reclament-de-pouvoir-servir-a-l-autel-aux-cotes-des-hommes-lors-des-messes_6783125_6038514.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 05:22:33 +0200"
+      "data": "Sat, 26 Sep 2026 12:30:16 +0200"
     },
     {
-      "titolo": "Stati Uniti: prima delle elezioni di medio termine, gli sforzi dell'amministrazione Trump per rimodellare le regole a proprio vantaggio",
-      "titolo_originale": "Etats-Unis : avant les élections de mi-mandat, les efforts de l’administration Trump pour remodeler les règles à son avantage",
-      "sommario": "La Corte Suprema ha impedito ai repubblicani, venerdì, di ritagliare le circoscrizioni del Missouri a loro vantaggio, ma il partito è stato in grado di ridisegnare i distretti in molti altri stati, mentre la Casa Bianca ha lavorato per eliminare le liste elettorali e limitare il voto per corrispondenza, senza successo.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/26/etats-unis-avant-les-elections-de-mi-mandat-les-efforts-de-l-administration-trump-pour-remodeler-les-regles-a-son-avantage_6782938_3210.html",
+      "titolo": "In Brasile, Lula vieta le scommesse online: \"Una misura difficile, drastica e necessaria\"",
+      "titolo_originale": "Au Brésil, Lula interdit les paris en ligne : « Une mesure difficile, drastique et nécessaire »",
+      "sommario": "A pochi giorni dalle elezioni presidenziali molto combattute, il presidente brasiliano Lula, che correrà per un quarto mandato, ha vietato venerdì i siti di scommesse sportive, i più grandi sponsor delle squadre di calcio del paese.",
+      "link": "https://www.lemonde.fr/economie/article/2026/09/26/au-bresil-lula-interdit-les-paris-en-ligne-une-mesure-difficile-drastique-et-necessaire_6783123_3234.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 05:00:08 +0200"
+      "data": "Sat, 26 Sep 2026 12:30:06 +0200"
     },
     {
-      "titolo": "TikTok accetta di limitare il tempo di visualizzazione degli adolescenti in un accordo di oltre 100 milioni di dollari con l’Alabama",
-      "titolo_originale": "TikTok accepte de limiter le temps d’écran des adolescents dans un accord à plus de 100 millions de dollars avec l’Alabama",
-      "sommario": "Come Meta, la casa madre di Facebook e Instagram, TikTok dovrà imporre per impostazione predefinita ai giovani dai 13 ai 17 anni un limite giornaliero di due ore, limitare il loro accesso tra mezzanotte e le 6 e sospendere le notifiche durante le ore di lezione.",
-      "link": "https://www.lemonde.fr/pixels/article/2026/09/26/tiktok-accepte-de-limiter-le-temps-d-ecran-des-adolescents-en-alabama-pour-s-eviter-un-proces_6782872_4408996.html",
+      "titolo": "Visita del Papa in Francia: “La Chiesa di Francia deve uscire dalla negazione della situazione dei sacerdoti”",
+      "titolo_originale": "Visite du pape en France : « L’Eglise de France doit sortir du déni quant à la situation des prêtres »",
+      "sommario": "L’istituzione ecclesiale gestisce la scarsità di sacerdoti senza interrogarsi sulla fattibilità di un modello che si basa interamente su questa figura centrale. Altre strade sono tuttavia possibili, ritiene, in una tribuna su \"Le Monde\", un collettivo di personalità impegnate nella Chiesa.",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/26/visite-du-pape-en-france-l-eglise-de-france-doit-sortir-du-de-ni-quant-a-la-situation-des-pretres_6783121_3232.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 03:48:23 +0200"
+      "data": "Sat, 26 Sep 2026 12:00:05 +0200"
     },
     {
-      "titolo": "IA: l'emarginazione di Anthropic da parte del Pentagono confermata dalla giustizia",
-      "titolo_originale": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
-      "sommario": "La corte d’appello di Washington ha giudicato conforme, venerdì, la messa all'indice della start-up di intelligenza artificiale che aveva rifiutato, a febbraio, di permettere all'esercito americano di utilizzare senza restrizioni il suo modello, Claude.",
-      "link": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
+      "titolo": "L'Arabia Saudita, il petrolio e la parola della Francia",
+      "titolo_originale": "L’Arabie saoudite, le pétrole et la parole de la France",
+      "sommario": "La critica dell'annuncio, da parte di Emmanuel Macron, dell'invio di militari francesi in Arabia Saudita richiederebbe più del solo riflesso di protesta basato su considerazioni ideologiche.",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/26/l-arabie-saoudite-le-petrole-et-la-parole-de-la-france_6783118_3232.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 01:26:34 +0200"
+      "data": "Sat, 26 Sep 2026 11:45:04 +0200"
     },
     {
-      "titolo": "In Brasile, Lula vieta le scommesse sportive online a pochi giorni dalle elezioni presidenziali, denunciando una \"malattia\" che sta conquistando le case",
-      "titolo_originale": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
-      "sommario": "Mentre la campagna entra nel suo ultimo rettilineo prima del primo turno del 4 ottobre, il tema delle scommesse online è diventato una sfida per il presidente uscente, che denuncia una massiccia fonte di debito per le famiglie.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html",
+      "titolo": "IN DIRETTA, visita del Papa a Parigi: Leone XIV si dice “stupito dal numero” di battesimi in Francia; gli Champs-Elysées si preparano per la messa gigante alla Concorde",
+      "titolo_originale": "EN DIRECT, visite du pape à Paris : Léon XIV se dit « émerveillé par le nombre » de baptêmes en France ; les Champs-Elysées se préparent pour la messe géante à la Concorde",
+      "sommario": "Dopo l’Eliseo, Notre-Dame de Paris e lo Stade de France venerdì, papa Leone XIV deve in particolare tenere una messa gigante sabato alla Concorde. Prima di questo, ha fatto un viaggio dedicato all'immigrazione e ha visitato l’istituto cattolico di Parigi, a volte soprannominato \"la Catho\".",
+      "link": "https://www.lemonde.fr/societe/live/2026/09/26/en-direct-visite-du-pape-a-paris-leon-xiv-se-dit-emerveille-par-le-nombre-de-nouveaux-baptemes-en-france-et-fait-un-parallele-avec-les-annees-qui-ont-suivi-la-seconde-guerre-mondiale_6782008_3224.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 26 Sep 2026 00:53:11 +0200"
+      "data": "Sat, 26 Sep 2026 11:17:39 +0200"
     },
     {
-      "titolo": "L’Iran ha presentato agli Stati Uniti un piano per riaprire lo Stretto di Hormuz in sette giorni",
-      "titolo_originale": "L’Iran a soumis aux Etats-Unis un plan de réouverture du détroit d’Ormuz en sept jours",
-      "sommario": "Lo sblocco di questo passaggio strategico è al centro del conflitto tra Teheran e Washington. \"Il periodo di sette giorni inizierà non appena gli Stati Uniti accetteranno questo piano\", ha detto venerdì il ministro degli Esteri iraniano Abbas Araghtchi, suggerendo che la palla è ora nel campo degli Stati Uniti.",
-      "link": "https://www.lemonde.fr/international/article/2026/09/25/l-iran-a-soumis-aux-etats-unis-un-plan-de-reouverture-du-detroit-d-ormuz-en-sept-jours_6782674_3210.html",
+      "titolo": "In DIRETTA, guerra in Ucraina: Mosca rivendica attacchi contro un data center a Kiev e infrastrutture nella regione di Odessa",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : Moscou revendique des frappes contre un centre de données à Kiev et des infrastructures dans la région d’Odessa",
+      "sommario": "Il ministero della Difesa russo ha affermato, sabato, di aver condotto nella notte attacchi con droni contro infrastrutture portuali, logistiche, di trasporto e di comunicazione utilizzate, secondo lui, dall'esercito ucraino.",
+      "link": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-moscou-revendique-des-frappes-contre-un-centre-de-donnees-a-kiev-et-des-infrastructures-dans-la-region-d-odessa_6777944_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 25 Sep 2026 23:55:07 +0200"
+      "data": "Sat, 26 Sep 2026 10:43:19 +0200"
     },
     {
-      "titolo": "Visita del Papa: rivivi, per immagini, la giornata di Leone XIV a Parigi",
-      "titolo_originale": "Visite du pape : revivez, en images, la journée de Léon XIV à Paris",
-      "sommario": "Il Papa compie un viaggio di quattro giorni in Francia. Il suo programma è stato caricato per la sua prima giornata, a Parigi, dal suo incontro con Emmanuel Macron all'Eliseo fino alla sua veglia di preghiera, allo Stade de France.",
-      "link": "https://www.lemonde.fr/international/video/2026/09/25/visite-du-pape-revivez-en-images-la-journee-de-leon-xiv-a-paris_6782638_3210.html",
+      "titolo": "\"Il doppio shock, IA e conflitti armati, ha effetti redistributivi tra i paesi ma è devastante per l’Europa\"",
+      "titolo_originale": "« Le double choc, IA et conflits armés, a des effets redistributifs entre les pays mais est dévastateur pour l’Europe »",
+      "sommario": "Energie fossili, elettricità, trasporti marittimi, metalli… Basta con il mondo dell'abbondanza! Ne consegue un aumento dei tassi di interesse e dei prezzi che colpisce soprattutto il Vecchio Continente, spiega l’economista Patrick Artus nella sua cronaca al “Mondo”.",
+      "link": "https://www.lemonde.fr/idees/article/2026/09/26/le-double-choc-ia-et-conflits-armes-a-des-effets-redistributifs-entre-les-pays-mais-est-devastateur-pour-l-europe_6783109_3232.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 25 Sep 2026 22:37:41 +0200"
+      "data": "Sat, 26 Sep 2026 10:00:26 +0200"
     },
     {
-      "titolo": "\"Non un rifugio in cui rifugiarsi per proteggersi dalla propria epoca\": a Notre-Dame de Paris, Leone XIV difende una Chiesa aperta al mondo",
-      "titolo_originale": "« Pas un refuge dans lequel on se replierait pour se protéger de son époque » : à Notre-Dame de Paris, Léon XIV défend une Eglise ouverte au monde",
-      "sommario": "Quasi 8.000 persone, 2.500 all'interno della chiesa e 5.000 all'esterno, hanno acclamato venerdì il capo della Chiesa cattolica, venuto a celebrare i vespri nella cattedrale.",
-      "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/25/pas-un-refuge-dans-lequel-on-se-replierait-pour-se-proteger-de-son-epoque-a-notre-dame-de-paris-leon-xiv-defend-une-eglise-ouverte-au-monde_6782637_6038514.html",
+      "titolo": "Elezioni legislative in Marocco: \"Il voto del mondo rurale è sempre determinante\"",
+      "titolo_originale": "Législatives au Maroc : « Le vote du monde rural est toujours déterminant »",
+      "sommario": "Alle elezioni legislative del 23 settembre, l'affluenza alle urne è stata la più bassa dal 2007. I partiti della coalizione uscente hanno capitalizzato sul voto dei rurali, più mobilitati di quelli urbani, sottolinea il sociologo Zakaria Kadiri in un'intervista a \"Le Monde\".",
+      "link": "https://www.lemonde.fr/afrique/article/2026/09/26/legislatives-au-maroc-le-vote-du-monde-rural-est-toujours-determinant_6783105_3212.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 25 Sep 2026 22:06:59 +0200"
+      "data": "Sat, 26 Sep 2026 10:00:16 +0200"
     },
     {
       "titolo": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
@@ -363,103 +363,139 @@
       "data": "Wed, 8 Jul 2026 08:54:00 +0200"
     },
     {
-      "titolo": "Un tiro alla fune nel nucleo terrestre cambia la durata dei giorni",
-      "titolo_originale": "Un tiro alla fune nel nucleo terrestre cambia la durata dei giorni",
-      "sommario": "La forza di gravità combatte contro torsioni meccaniche e campi magnetici",
-      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/25/un-tiro-alla-fune-nel-nucleo-terrestre-cambia-durata-dei-giorni_64ad4375-e8bc-4cda-befc-58672eab4ba7.html",
+      "titolo": "Leone XIV in Francia, per la stampa francese il papa è una star",
+      "titolo_originale": "Leone XIV in Francia, per la stampa francese il papa è una star",
+      "sommario": "'Leone il Parigino', 'Leone in Francia, giorno 1, Papa star a Parigi', 'Letizia e fervore'",
+      "link": "https://www.ansa.it/sito/photogallery/primopiano/2026/09/26/leone-xiv-in-francia-per-la-stampa-francese-il-papa-e-una-star_28579fc1-03f2-4109-86dd-53deee90f7a2.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 17:18:39 +0200"
+      "data": "Sat, 26 Sep 2026 12:33:34 +0200"
     },
     {
-      "titolo": "Da stop al fumo a meno sale, le 5 regole per la salute del cuore",
-      "titolo_originale": "Da stop al fumo a meno sale, le 5 regole per la salute del cuore",
-      "sommario": "Il 29 Giornata Mondiale. Cardiologi, circa 80% eventi può essere evitato con prevenzione",
-      "link": "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/09/25/da-stop-al-fumo-a-meno-sale-le-5-regole-per-la-salute-del-cuore_131b800c-9d37-4430-b0c8-aa2b5149703b.html",
+      "titolo": "Il prof youtuber Schettini agli studenti, tre consigli per ripartire",
+      "titolo_originale": "Il prof youtuber Schettini agli studenti, tre consigli per ripartire",
+      "sommario": "Organizzati e attenti in classe, scrivere i compiti sul diario di carta e non usare l'IA",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/teen/2026/09/25/3-consigli-del-prof-youtuber-schettini-agli-studenti-alle-prese-con_e07f199f-646c-4248-aa78-54d945331869.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 18:34:49 +0200"
+      "data": "Fri, 25 Sep 2026 19:37:30 +0200"
     },
     {
-      "titolo": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
-      "titolo_originale": "Meta lancia occhiali intelligenti senza fotocamera basati sull'IA VIDEO",
-      "sommario": "Zuckerberg, 'senza il video si aprono molte nuove possibilità'. Milleri, 'anni di ricerca e di sviluppo dietro ogni prodotto'",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/09/24/meta-lancia-occhiali-intelligenti-senza-fotocamera-basati-sullia_59db0751-7e25-4bff-856d-1ecbb607ed19.html",
+      "titolo": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale",
+      "titolo_originale": "Artico, il ghiaccio marino ha raggiunto l'estensione minima annuale",
+      "sommario": "Stabilizzata nell'ultimo decennio dalla maggiore copertura nuvolosa",
+      "link": "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/09/26/artico-il-ghiaccio-marino-ha-raggiunto-lestensione-minima-annuale-_89f690b9-a129-471d-9314-b3e3a63b35c3.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 10:02:03 +0200"
+      "data": "Sat, 26 Sep 2026 09:04:59 +0200"
     },
     {
-      "titolo": "La locomotiva a vapore torna a sbuffare nella linea turistica Sardegna",
-      "titolo_originale": "La locomotiva a vapore torna a sbuffare nella linea turistica Sardegna",
-      "sommario": "A Mandas centro intermodale e a dicembre apre la 'Locanda Lawrence'",
-      "link": "https://www.ansa.it/canale_viaggi/regione/sardegna/2026/09/24/la-locomotiva-a-vapore-torna-a-sbuffare-nella-linea-turistica-sardegna_3acebc60-19c0-4d03-a67e-ec2f270eb2e6.html",
+      "titolo": "Al Teatro degli Eroi a Roma la quarta edizione di Aut Art Festival",
+      "titolo_originale": "Al Teatro degli Eroi a Roma la quarta edizione di Aut Art Festival",
+      "sommario": "La rassegna, fino al 27 settembre, per dare voce alle persone autistiche",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/09/26/al-teatro-degli-eroi-a-roma-la-quarta-edizione-di-aut-art-festival_2ce729a4-3189-4cf8-9d64-5cf47fcc3e3a.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 24 Sep 2026 19:19:55 +0200"
+      "data": "Sat, 26 Sep 2026 11:03:42 +0200"
     },
     {
-      "titolo": "Cucce al posto delle culle, il fenomeno pet parenting",
-      "titolo_originale": "Cucce al posto delle culle, il fenomeno pet parenting",
-      "sommario": "Amare il proprio animale come un figlio, oltre 1 giovane su 2 li sostituisce alla prole, ecco perchè",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/pets/2026/09/25/cucce-al-posto-delle-culle-il-fenomeno-pet-parenting_60ef1f2f-33ad-4782-a326-2ca5469d5c51.html",
+      "titolo": "Calzoni (Invitalia), 'Grazie al Piano integrato per l'autoimpiego sprint alle imprese degli under35'",
+      "titolo_originale": "Calzoni (Invitalia), 'Grazie al Piano integrato per l'autoimpiego sprint alle imprese degli under35'",
+      "sommario": "",
+      "link": "https://www.ansa.it/native/ansacom/2026/09/26/calzoni-invitalia-grazie-al-piano-integrato-per-lautoimpiego-sprint-alle-imprese_a02f47e3-1246-47d5-acb5-066ce0e7820b.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 01:00:51 +0200"
+      "data": "Sat, 26 Sep 2026 09:22:53 +0200"
     },
     {
-      "titolo": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
-      "titolo_originale": "Sale il costo del gasolio, ma l'Eni mette un tetto ai prezzi",
-      "sommario": "Il governo ringrazia, ma Assotir evoca lo sciopero. Petrolieri convocati per raffinare di più",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+      "titolo": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439",
+      "titolo_originale": "Lo sconto delle accise si dimezza, il diesel sale a 2,357 euro, in autostrada a 2,439",
+      "sommario": "L'aumento è inferiore a quello delle tasse",
+      "link": "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 22:03:49 +0200"
+      "data": "Sat, 26 Sep 2026 11:20:47 +0200"
     },
     {
-      "titolo": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia",
-      "titolo_originale": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia",
-      "sommario": "Dai fischi all'inno del Belgio a quelli alla nazionale: dominati e sconfitti 2-0 all'Olimpico",
-      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+      "titolo": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
+      "titolo_originale": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
+      "sommario": "Oggi per il pontefice la messa nella capitale francese, poi vola a Lourdes",
+      "link": "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 23:14:42 +0200"
+      "data": "Sat, 26 Sep 2026 12:21:27 +0200"
     },
     {
-      "titolo": "Ucciso e fatto a pezzi a Torino, fermate tre persone",
-      "titolo_originale": "Ucciso e fatto a pezzi a Torino, fermate tre persone",
-      "sommario": "Un uomo è indagato per omicidio, due donne per favoreggiamento e soppressione di cadavere",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
+      "titolo": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
+      "titolo_originale": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
+      "sommario": "'Il nuovo incarico è stato deciso e condiviso da tempo'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 22:27:30 +0200"
+      "data": "Sat, 26 Sep 2026 12:29:45 +0200"
     },
     {
-      "titolo": "Fine vita, riarmo, laicità, Papa Leone richiama la Francia",
-      "titolo_originale": "Fine vita, riarmo, laicità, Papa Leone richiama la Francia",
-      "sommario": "'Fine vita, non si può offrire una morte programmata. Sostenere ogni tappa dell'esistenza, tutela della vita fondamento di ogni diritto'",
-      "link": "https://www.ansa.it/vaticano/notizie/2026/09/25/fine-vita-riarmo-laicita-papa-leone-richiama-la-francia_ff8b8f8e-c0fd-4908-ab1e-1b748b91c76c.html",
+      "titolo": "L'Iran afferma che resterà saldo e non si sottometterà",
+      "titolo_originale": "L'Iran afferma che resterà saldo e non si sottometterà",
+      "sommario": "Post su X del viceministro degli Esteri Kazem Gharibabadi",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/26/liran-afferma-che-restera-saldo-e-non-si-sottomettera_478a1567-d5ad-4711-8cf3-d7839ad6859c.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 22:07:58 +0200"
+      "data": "Sat, 26 Sep 2026 12:02:36 +0200"
     },
     {
-      "titolo": "Incidente per militari italiani in esercitazione in Lettonia, 4 feriti",
-      "titolo_originale": "Incidente per militari italiani in esercitazione in Lettonia, 4 feriti",
-      "sommario": "Uno in condizioni 'più serie'. Colpi accidentali di mitragliatrice da un corazzato a un altro",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
+      "titolo": "Cenere lavica dell'Etna, voli sospesi a Catania fino alle 12 di domani",
+      "titolo_originale": "Cenere lavica dell'Etna, voli sospesi a Catania fino alle 12 di domani",
+      "sommario": "Chiuso lo spazio aereo, zero atterraggi e decolli. Nube eruttiva alta 4 km",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/forte-temporale-e-cenere-lavica-delletna-disagi-allaeroporto-di-catania_fe7f6622-6cd5-44e2-b57c-01f7d28c8121.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 21:38:25 +0200"
+      "data": "Sat, 26 Sep 2026 12:43:57 +0200"
     },
     {
-      "titolo": "Ceruti: “A scuola negazionismo e fake news, con le nuove linee guida si rischia di tornare all’Ottocento”",
-      "titolo_originale": "Ceruti: “A scuola negazionismo e fake news, con le nuove linee guida si rischia di tornare all’Ottocento”",
-      "sommario": "Il filosofo guidò la Commissione che ha riscritto i programmi nel 2007: “Così si capovolge l’approccio culturale”",
-      "link": "https://www.repubblica.it/cronaca/2026/09/26/news/ceruti_intervista_scuola_negazionismo_fake_news-425608439/",
+      "titolo": "Fiorello, ritorno a sorpresa su Rai1. L’annuncio in un video social",
+      "titolo_originale": "Fiorello, ritorno a sorpresa su Rai1. L’annuncio in un video social",
+      "sommario": "In attesa di capire se riparte la Pennicanza il conduttore posta un video su Instagram",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/09/26/news/fiorello_rai1_annuncio_video_social-425608859/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sat, 26 Sep 2026 00:39:05 +0000"
+      "data": "Sat, 26 Sep 2026 09:48:45 +0000"
+    },
+    {
+      "titolo": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
+      "titolo_originale": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
+      "sommario": "Arrivato ieri in Francia per un viaggio di quattro giorni, in serata Leone si trasferisce al santuario di Lourdes. In mattinata la visita al centro per rifugiati e l’incontro con i neofiti dopo il boom di battesimi adulti",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 26 Sep 2026 09:23:42 +0000"
+    },
+    {
+      "titolo": "Cuba, gli Usa sanzionano anche i medici: ripercussioni nella sanità di 56 Paesi",
+      "titolo_originale": "Cuba, gli Usa sanzionano anche i medici: ripercussioni nella sanità di 56 Paesi",
+      "sommario": "In tutto il mondo, Calabria inclusa, le brigate dei medici cubani riempiono ospedali e ambulatori che in alternativa rimarrebbero vuoti. Ma adesso anche pagare i loro stipendi espone un governo a rischio sanzioni",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/cuba_medici_sanzioni_usa_sanita_brigate_rischio-425608710/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 26 Sep 2026 08:31:08 +0000"
+    },
+    {
+      "titolo": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
+      "titolo_originale": "OpenAi: “Decine di governi nel mondo colpiti dai nostri agenti di Intelligenza artificiale”",
+      "sommario": "L’azienda ha riconosciuto che numerosi siti istituzionali, soprattutto del governo Usa, potrebbero essere stati hackerati da attività improprie di Ia sfuggita al controllo. Pubblicate inoltre “per errore” 53 immagini caricate dagli utenti. E Thiel attacca il Papa: “Utile idiota della Cina”",
+      "link": "https://www.repubblica.it/esteri/2026/09/26/news/openai_colpiti_siti_governo_pubblicate_foto_utenti-425608601/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 26 Sep 2026 07:16:52 +0000"
+    },
+    {
+      "titolo": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
+      "titolo_originale": "Ponte sullo Stretto, il direttore tecnico lascia l'incarico. Nuova grana per il progetto di Salvini",
+      "sommario": "Valerio Mele dal primo ottobre torna in Anas. Un addio che arriva alla vigilia dell’attesa ripresentazione della delibera al Cipess",
+      "link": "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 26 Sep 2026 05:00:00 +0000"
     },
     {
       "titolo": "Ceto medio, ipotesi taglio Irpef per tre milioni di contribuenti.Moody’s conferma il rating",
@@ -489,26 +525,8 @@
       "data": "Fri, 25 Sep 2026 23:00:00 +0000"
     },
     {
-      "titolo": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
-      "titolo_originale": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
-      "sommario": "Gli italiani sono spaventati, la fiducia dei consumatori è calata,\nper questo la premier parla d’altro. L’opposizione si occupi di lavoro",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/inflazione_salari_potere_acquisto_meloni-425608372/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 23:00:00 +0000"
-    },
-    {
-      "titolo": "Roulette legge elettorale: tra strategie e trucchi è incubo franchi tiratori",
-      "titolo_originale": "Roulette legge elettorale: tra strategie e trucchi è incubo franchi tiratori",
-      "sommario": "La premier ha annunciato che in caso di un no alle preferenze salirà al Colle a dimettersi. FdI prova a sondare le correnti dem",
-      "link": "https://www.repubblica.it/politica/2026/09/26/news/legge_elettorale_voto_segreto_franchi_tiratori-425608304/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 23:00:00 +0000"
-    },
-    {
-      "titolo": "Moral suasion sull’ad Eni Descalzi: la mossa della premier per avere l’effetto-traino",
-      "titolo_originale": "Moral suasion sull’ad Eni Descalzi: la mossa della premier per avere l’effetto-traino",
+      "titolo": "Moral suasion sull’ad Eni Descalzi: la mossa di Meloni per avere l’effetto-traino",
+      "titolo_originale": "Moral suasion sull’ad Eni Descalzi: la mossa di Meloni per avere l’effetto-traino",
       "sommario": "Contatti con l’ad del colosso petrolifero L’obiettivo è risparmiare risorse per la legge di bilancio pre-elettorale",
       "link": "https://www.repubblica.it/politica/2026/09/26/news/eni_descalzi_meloni_prezzo_carburante-425608292/",
       "fonte": "Repubblica",
@@ -516,216 +534,225 @@
       "data": "Fri, 25 Sep 2026 23:00:00 +0000"
     },
     {
-      "titolo": "Accise, si dimezza lo sconto. Eni si muove sui carburanti, tetto ai prezzi per un mese",
-      "titolo_originale": "Accise, si dimezza lo sconto. Eni si muove sui carburanti, tetto ai prezzi per un mese",
-      "sommario": "Il governo ringrazia. Il diesel oggi potrebbe toccare quota 2,4 euro. Il Pd: “Il governo non ha politica energetica”. Assotir evoca lo sciopero",
-      "link": "https://www.repubblica.it/economia/2026/09/26/news/accise_sconto_eni_tetto_prezzo_carburanti-425608066/",
+      "titolo": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
+      "titolo_originale": "L’inflazione si è mangiata un pezzo dei salari: il potere d’acquisto giù del 10%",
+      "sommario": "Gli italiani sono spaventati, la fiducia dei consumatori è calata, per questo la premier parla d’altro. L’opposizione si occupi di lavoro",
+      "link": "https://www.repubblica.it/economia/2026/09/26/news/inflazione_salari_potere_acquisto_meloni-425608372/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
       "data": "Fri, 25 Sep 2026 23:00:00 +0000"
     },
     {
-      "titolo": "L’allarme Ue sul gasolio Usa: “Trump non chiuda i flussi”",
-      "titolo_originale": "L’allarme Ue sul gasolio Usa: “Trump non chiuda i flussi”",
-      "sommario": "La minaccia di bloccare \nle esportazioni inquieta Bruxelles. Il commissario Jorgensen: “Il prossimo inverno potrebbe essere il peggiore dal 2022”",
-      "link": "https://www.repubblica.it/politica/2026/09/25/news/gasolio_usa_stop_export_allarme_ue-425608143/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 23:00:00 +0000"
-    },
-    {
-      "titolo": "Scuola, il decreto atteso al Colle: slitta la firma. E nelle classi è già protesta",
-      "titolo_originale": "Scuola, il decreto atteso al Colle: slitta la firma. E nelle classi è già protesta",
-      "sommario": "Il governo al lavoro sul testo per definire le coperture. Valditara: “No a classi ghetto”. Striscioni e flash mob in tutta Italia",
-      "link": "https://www.repubblica.it/scuola/2026/09/26/news/decreto_scuola_slitta_firma_quirinale_proteste-425608190/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 25 Sep 2026 23:00:00 +0000"
-    },
-    {
-      "titolo": "Il leader yemenita esorta il pubblico ad arruolarsi, offre l'amnistia ai disertori Houthi",
-      "titolo_originale": "Yemeni leader urges public to enlist, offers amnesty to Houthi defectors",
-      "sommario": "Rashad al-Alimi promette l'amnistia per i disertori Houthi nel primo discorso da quando ha perso terreno sulla costa occidentale del Mar Rosso.",
-      "link": "https://www.aljazeera.com/news/2026/9/26/yemeni-leader-urges-public-to-enlist-offers-amnesty-to-houthi-defectors?traffic_source=rss",
+      "titolo": "Israele vieta l'elezione dei partiti arabi: chi sono, perché è importante",
+      "titolo_originale": "Israel bans Arab parties from election: Who they are, why it matters",
+      "sommario": "I politici israeliani soggetti a mandati di arresto della CPI o sanzioni internazionali rimangono idonei a candidarsi.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 03:10:43 +0000"
+      "data": "Sat, 26 Sep 2026 10:27:11 +0000"
     },
     {
-      "titolo": "UNGA81: Perché la spinta riformatrice del Consiglio di sicurezza dell'Africa è rimasta irrisolta?",
-      "titolo_originale": "UNGA81: Why has Africa’s Security Council reform push remained unresolved?",
-      "sommario": "L'Africa vuole seggi permanenti e potere di veto, ma l'accordo rimane sfuggente.",
-      "link": "https://www.aljazeera.com/news/2026/9/26/unga81-why-has-africas-security-council-reform-push-remained-unresolved?traffic_source=rss",
+      "titolo": "Virat Kohli dice che si ritirerà dal cricket indiano dopo la Coppa del Mondo del 2027",
+      "titolo_originale": "Virat Kohli says he will retire from India cricket after 2027 World Cup",
+      "sommario": "Il principale creatore del secolo nel cricket odi, Virat Kohli, annuncia che la Coppa del Mondo 2027 sarà il suo canto del cigno per l'India.",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/india-cricket-great-virat-kohli-says-2027-world-cup-will-be-his-last?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 03:07:55 +0000"
+      "data": "Sat, 26 Sep 2026 10:16:21 +0000"
     },
     {
-      "titolo": "Papa Leone XIV compie la prima visita papale ufficiale in Francia in quasi 20",
-      "titolo_originale": "Pope Leo XIV makes first official Papal visit in France in nearly 20",
-      "sommario": "Papa Leone XIV attirò enormi folle durante la prima visita papale in Francia in 18 anni.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pope-leo-xiv-makes-first-official-papal-visit-in-france-in-nearly-20?traffic_source=rss",
+      "titolo": "Inghilterra vs Spagna: UEFA Nations League – Pronostici, squadre, testa a testa",
+      "titolo_originale": "England vs Spain: UEFA Nations League – Predictions, teams, head-to-head",
+      "sommario": "I campioni del mondo di Spagna affrontano i pesi massimi dell'Inghilterra in una rivincita della finale di UEFA EURO 2024.",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/england-vs-spain-uefa-nations-league-prediction-team-news-head-to-head?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 02:18:09 +0000"
+      "data": "Sat, 26 Sep 2026 09:51:04 +0000"
     },
     {
-      "titolo": "TikTok pagherà 100 milioni di $ all'Alabama in un accordo per la dipendenza degli adolescenti",
-      "titolo_originale": "TikTok to pay $100 million to Alabama in teen addiction settlement",
-      "sommario": "TikTok si è accordato e ha accettato di pagare allo stato americano dell'Alabama almeno $100 milioni di dollari giorni prima del processo.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/tiktok-to-pay-100-million-to-alabama-in-teen-addiction-settlement?traffic_source=rss",
+      "titolo": "Trump \"respinge\" la proposta di cessate il fuoco di sette giorni dell'Iran. Qual è il prossimo passo?",
+      "titolo_originale": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+      "sommario": "Gli analisti dicono che Trump potrebbe scegliere di riprendere gli attacchi all'Iran dopo le elezioni di medio termine di novembre.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 02:09:10 +0000"
+      "data": "Sat, 26 Sep 2026 09:28:19 +0000"
     },
     {
-      "titolo": "Incidente aereo nella Repubblica Democratica del Congo uccide più di una dozzina di persone",
-      "titolo_originale": "Plane crash in DR Congo kills more than a dozen",
-      "sommario": "Civili e alti funzionari militari tra i 14 morti dopo che un aereo dell'esercito si è schiantato in una zona residenziale nella RDC.",
-      "link": "https://www.aljazeera.com/news/2026/9/26/plane-crash-in-dr-congo-kills-more-than-a-dozen?traffic_source=rss",
+      "titolo": "Senegal pareggio a Vieira debutto, Nigeria sopravvivere paura, ma Capo Verde crash",
+      "titolo_originale": "Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash",
+      "sommario": "Il Senegal pareggia con il Mozambico, la Nigeria supera il Madagascar, ma Capo Verde viene battuto dal Mali nelle qualificazioni AFCON.",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/senegal-draw-in-vieira-debut-nigeria-survive-scare-but-cape-verde-crash?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 01:32:36 +0000"
+      "data": "Sat, 26 Sep 2026 09:02:55 +0000"
     },
     {
-      "titolo": "Facebook è stato ritenuto responsabile quando TikTok si è accordato per $100 milioni sulla sicurezza degli utenti",
-      "titolo_originale": "Facebook found liable as TikTok settles for $100m over user safety",
-      "sommario": "Facebook è stata ritenuta responsabile in New Mexico per azioni ingannevoli; TikTok patteggia una causa da $100 milioni con l'Alabama per rivendicazioni di sicurezza.",
-      "link": "https://www.aljazeera.com/news/2026/9/26/facebook-found-liable-as-tiktok-settles-for-100m-over-user-safety?traffic_source=rss",
+      "titolo": "La Cina e gli Stati Uniti apriranno un \"canale di comunicazione\" AI dopo il vertice, afferma la Casa Bianca",
+      "titolo_originale": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "sommario": "La Casa Bianca afferma che i due paesi hanno concordato di aprire un \"canale di comunicazione bilaterale\" per gli incidenti di intelligenza artificiale.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 01:26:21 +0000"
+      "data": "Sat, 26 Sep 2026 09:02:10 +0000"
     },
     {
-      "titolo": "Manifestazione pro-Imran Khan ritardata tra le chiusure del governo",
-      "titolo_originale": "Pro-Imran Khan rally delayed amid government closures",
-      "sommario": "Le autorità di Islamabad hanno bloccato le strade con container prima di una protesta del Pakistan Tehreek-e-Insaf (PTI).",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
+      "titolo": "Gruppo di azione pro-palestina per radunarsi alla conferenza del lavoro guidata da Burnham",
+      "titolo_originale": "Pro-Palestine Action group to rally at Labour conference led by Burnham",
+      "sommario": "Difendi Le nostre giurie affermano che l'azione di domenica è un \"test di integrità\" per il nuovo premier del Regno Unito.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/palestine-action-protest-labour-conference?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 00:38:34 +0000"
+      "data": "Sat, 26 Sep 2026 08:24:05 +0000"
     },
     {
-      "titolo": "Guerra in Iran in diretta: Teheran offre agli Stati Uniti un piano per riaprire Hormuz entro sette giorni",
-      "titolo_originale": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "sommario": "Il ministro degli Esteri iraniano afferma che \"la scelta spetta agli Stati Uniti\" per approvare la proposta di sette giorni per riaprire Hormuz.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "titolo": "Pochettino si rammarica del ruolo limitato nella decisione sul cartellino rosso di Balogun ai Mondiali",
+      "titolo_originale": "Pochettino regrets limited role in Balogun red card decision at World Cup",
+      "sommario": "Mauricio Pochettino afferma che il controverso appello di Folarin Balogun \"ha cambiato l'energia\" della squadra statunitense alla Coppa del Mondo 2026.",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/pochettino-regrets-limited-role-in-balogun-red-card-decision-at-world-cup?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 26 Sep 2026 00:00:00 +0000"
+      "data": "Sat, 26 Sep 2026 08:16:23 +0000"
     },
     {
-      "titolo": "Il tribunale degli Stati Uniti si pronuncia contro Kalshi, afferma che gli stati possono regolare i mercati di previsione",
-      "titolo_originale": "US court rules against Kalshi, says states can regulate prediction markets",
-      "sommario": "Le corti d'appello statunitensi hanno variato sulla regolamentazione dei mercati di previsione, aprendo la porta al dibattito della Corte Suprema degli Stati Uniti.",
-      "link": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
+      "titolo": "La guerra in Iran schiaccia l'economia irachena mentre le entrate petrolifere diminuiscono e i prezzi aumentano",
+      "titolo_originale": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+      "sommario": "Le esportazioni di petrolio interrotte, le importazioni più costose e un dinaro più debole espongono la dipendenza economica dell'Iraq dal petrolio e dalle merci straniere.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 23:56:46 +0000"
+      "data": "Sat, 26 Sep 2026 08:13:06 +0000"
     },
     {
-      "titolo": "L'Iran dice di attendere la risposta degli Stati Uniti su una tabella di marcia di sette giorni per porre fine alla guerra",
-      "titolo_originale": "Iran says it awaits US response on seven-day roadmap to end war",
-      "sommario": "Teheran afferma che il piano riaprirà lo Stretto di Hormuz e riprenderà i colloqui nucleari entro una settimana se Washington sarà d'accordo.",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "titolo": "Zona disastrata dichiarata in tutta Bangkok come causa di forti piogge che provocano inondazioni",
+      "titolo_originale": "Disaster zone declared across Bangkok as heavy rain triggers flooding",
+      "sommario": "La pioggia incessante da giovedì ha sommerso le strade e i canali della capitale thailandese, inviando acqua nelle case e nei negozi.",
+      "link": "https://www.aljazeera.com/news/2026/9/26/disaster-zone-declared-across-bangkok-as-heavy-rain-triggers-flooding?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 25 Sep 2026 23:52:18 +0000"
+      "data": "Sat, 26 Sep 2026 07:47:29 +0000"
     },
     {
-      "titolo": "Blocco di Hormuz per minacciare almeno 45 milioni di persone con carenza di cibo — ONU",
-      "titolo_originale": "Hormuz blockade to threaten to least 45 million people with food shortages — UN",
-      "sommario": "Il sottosegretario generale e direttore dell'Ufficio delle Nazioni Unite per i servizi di progetto Jorge Moreira da Silva ha sottolineato che una crisi umanitaria può essere evitata se almeno cinque o sette navi che trasportano fertilizzanti attraversano questo stretto al giorno",
-      "link": "https://tass.com/society/2193195",
+      "titolo": "Le truppe ucraine circondate nella regione di Kharkiv perdono oltre 50 soldati",
+      "titolo_originale": "Ukrainian troops encircled in Kharkov Region lose over 50 soldiers",
+      "sommario": "\"L'esercito ucraino perde anche un veicolo corazzato da combattimento, due auto, un ATV e un lanciarazzi multiplo, ha riferito il Ministero della Difesa russo",
+      "link": "https://tass.com/defense/2193281",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 05:51:25 +0300"
+      "data": "Sat, 26 Sep 2026 13:53:29 +0300"
     },
     {
-      "titolo": "Il numero di vittime del tifone giapponese sale a 12",
-      "titolo_originale": "Number of victims of Japan’s typhoon rises to 12",
-      "sommario": "La maggior parte di loro è stata vittima di frane; alcuni sono annegati nei loro veicoli sommersi, che sono rimasti intrappolati in aree basse",
-      "link": "https://tass.com/emergencies/2193193",
+      "titolo": "I leader della Cina e degli Stati Uniti accettano di fornire sostegno reciproco per ospitare i vertici dell'APEC e del G20",
+      "titolo_originale": "Leaders of China, US agree to provide mutual support for hosting APEC, G20 summits",
+      "sommario": "I capi di stato hanno espresso l'intenzione di partecipare agli eventi organizzati dall'altra parte, ha riferito l'agenzia di stampa Xinhua",
+      "link": "https://tass.com/world/2193269",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 05:34:46 +0300"
+      "data": "Sat, 26 Sep 2026 13:16:38 +0300"
     },
     {
-      "titolo": "La reazione dell'UE alla corruzione in Ucraina mostra che gli europei vi sono coinvolti — inviato",
-      "titolo_originale": "EU’s reaction to corruption in Ukraine shows Europeans involved in it — envoy",
-      "sommario": "Rodion Miroshnik ha sottolineato che anche i capi di stato europei sono coinvolti in questi schemi di corruzione",
-      "link": "https://tass.com/politics/2193191",
+      "titolo": "Timur Turlov del Kazakistan eletto presidente della World Chess Federation",
+      "titolo_originale": "Timur Turlov of Kazakhstan elected World Chess Federation president",
+      "sommario": "Un totale di 110 delegati hanno votato per lui",
+      "link": "https://tass.com/sports/2193271",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 05:22:56 +0300"
+      "data": "Sat, 26 Sep 2026 13:15:18 +0300"
     },
     {
-      "titolo": "Europe to gain from resuming dialogue with Russia before special military operation ends",
-      "titolo_originale": "Europe to gain from resuming dialogue with Russia before special military operation ends",
-      "sommario": "A member of the State Duma Defense Committee Andrey Kolesnik also recalled the Latin saying \"woe to the vanquished\"",
-      "link": "https://tass.com/politics/2193189",
+      "titolo": "Trump sostiene i colloqui trilaterali sul controllo degli armamenti tra Stati Uniti, Russia e Cina",
+      "titolo_originale": "Trump advocates for trilateral arms control talks between US, Russia, China",
+      "sommario": "Anche il leader degli Stati Uniti e il presidente cinese Xi Jinping hanno discusso delle \"preoccupazioni globali in corso\", comprese quelle riguardanti Russia, Corea del Nord e Iran",
+      "link": "https://tass.com/world/2193241",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 05:00:01 +0300"
+      "data": "Sat, 26 Sep 2026 11:20:34 +0300"
     },
     {
-      "titolo": "Trump tells aides strikes against Iran may resume after November midterms — WSJ",
-      "titolo_originale": "Trump tells aides strikes against Iran may resume after November midterms — WSJ",
-      "sommario": "The US President is skeptical Iran would meet his demands and has told his staff that he sees a renewed bombing campaign as likely, the newspaper said",
-      "link": "https://tass.com/world/2193183",
+      "titolo": "Le domande degli editorialisti di Euractiv necessitano di finanziamenti aggiuntivi per l'Ucraina",
+      "titolo_originale": "Euractiv columnist questions need for extra funding for Ukraine",
+      "sommario": "All'inizio di quest' anno sono già state fatte affermazioni secondo cui l'Ucraina avrebbe esaurito i soldi ad aprile, ma ciò non è accaduto, ha detto Thomas Moller-Nielsen",
+      "link": "https://tass.com/economy/2193239",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 04:30:00 +0300"
+      "data": "Sat, 26 Sep 2026 11:18:55 +0300"
     },
     {
-      "titolo": "West raised terrorists in Kiev capable of making bombs from children's toys — DPR head",
-      "titolo_originale": "West raised terrorists in Kiev capable of making bombs from children's toys — DPR head",
-      "sommario": "According to Denis Pushilin, the West’s tacit approval of terrorism is accompanied by support for such technical means, against which there is no full·fledged \"antidote\"",
-      "link": "https://tass.com/politics/2193181",
+      "titolo": "L'esplosione si verifica durante i lavori di saldatura presso il deposito di Elga in Yakutia causando vittime",
+      "titolo_originale": "Explosion occurres during welding works at Elga deposit in Yakutia causing fatalities",
+      "sommario": "Secondo le informazioni preliminari, un'esplosione si è verificata il 26 settembre durante le operazioni di saldatura presso la stazione di pompaggio di riserva, ha riferito il servizio stampa della procura regionale",
+      "link": "https://tass.com/emergencies/2193237",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 04:07:00 +0300"
+      "data": "Sat, 26 Sep 2026 10:26:56 +0300"
     },
     {
-      "titolo": "Ukrainian drone attack on southern Russia kills people, wounds one person",
-      "titolo_originale": "Ukrainian drone attack on southern Russia kills people, wounds one person",
-      "sommario": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
-      "link": "https://tass.com/politics/2193179",
+      "titolo": "Le forze di difesa aerea hanno abbattuto nove UAV che volavano verso Mosca",
+      "titolo_originale": "Air defense forces shot down nine UAVs flying toward Moscow",
+      "sommario": "Il personale del servizio di emergenza sta lavorando nei luoghi dell'incidente, ha detto il sindaco Sergey Sobyanin",
+      "link": "https://tass.com/defense/2193235",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 03:50:01 +0300"
+      "data": "Sat, 26 Sep 2026 10:08:02 +0300"
     },
     {
-      "titolo": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
-      "titolo_originale": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
-      "sommario": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
-      "link": "https://tass.com/politics/2193177",
+      "titolo": "Le difese aeree abbattono 645 droni su regioni russe, Mar Nero, Mar d'Azov durante la notte",
+      "titolo_originale": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
+      "sommario": "I veicoli aerei senza pilota ad ala fissa ucraini sono stati distrutti sui territori delle regioni di Astrakhan, Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Oryol, Rostov, Ryazan, Tula, Mosca, Krasnodar, Stavropol, Repubblica di Crimea",
+      "link": "https://tass.com/defense/2193231",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 03:30:00 +0300"
+      "data": "Sat, 26 Sep 2026 09:13:00 +0300"
     },
     {
-      "titolo": "Pentagon says 861 US military personnel injured after start of conflict with Iran",
-      "titolo_originale": "Pentagon says 861 US military personnel injured after start of conflict with Iran",
-      "sommario": "In early August, the total number of wounded amounted to 687",
-      "link": "https://tass.com/world/2193173",
+      "titolo": "Le forze russe colpiscono il centro logistico Novaya Pochta nella regione di Odessa",
+      "titolo_originale": "Russian forces strike Novaya Pochta logistics center in Odessa Region",
+      "sommario": "Il carico militare è stato immagazzinato lì per l'esercito ucraino, ha riferito il Ministero della Difesa russo",
+      "link": "https://tass.com/defense/2193227",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 03:10:00 +0300"
+      "data": "Sat, 26 Sep 2026 08:57:23 +0300"
     },
     {
-      "titolo": "Russia inflicts serious damage to Ukraine in Slavyansk and Kramatorsk, expert says",
-      "titolo_originale": "Russia inflicts serious damage to Ukraine in Slavyansk and Kramatorsk, expert says",
-      "sommario": "According to Andrey Marochko, after the line of combat contact has been stabilized and Nikolayevka, located east of Slavyansk, has been cleared, Russian troops will be able to begin assaulting the eastern borders of the Slavyansk-Kramatorsk agglomeration",
-      "link": "https://tass.com/politics/2193169",
+      "titolo": "Le forze armate russe hanno colpito il data center Cosmonova a Kiev",
+      "titolo_originale": "Russian Armed Forces hit Cosmonova data center in Kiev",
+      "sommario": "Ha fornito il funzionamento di Internet mobile e ha supportato il sistema di comunicazione satellitare Starlink nell'interesse dell'esercito ucraino, ha riferito il ministero della Difesa russo",
+      "link": "https://tass.com/defense/2193225",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 26 Sep 2026 02:49:00 +0300"
+      "data": "Sat, 26 Sep 2026 08:42:21 +0300"
     },
     {
-      "titolo": "Trump prepares to bomb Iran after midterms – WSJ",
-      "titolo_originale": "Trump prepares to bomb Iran after midterms – WSJ",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab72f2b85f54033da445719.jpg\" style=\"margin-right: 10px;\" /> The US president has reportedly rejected Tehran’s seven-day ceasefire proposal and remains skeptical it will meet Washington’s demands <br /><a href=\"https://www.rt.com/news/646264-trump-renew-iran-bombing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "titolo": "Il turista britannico scatena il contraccolpo con lo sproloquio del caffè di Auschwitz (VIDEO)",
+      "titolo_originale": "British tourist sparks backlash with Auschwitz cafe rant (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab7a082203027786770d655.jpg\" style=\"margin-right: 10px;\" /> A British tourist has faced online backlash after complaining about expensive drinks, watery smoothies and no decaf at a café near Auschwitz <br /><a href=\"https://www.rt.com/news/646265-british-tourist-auschwitz-backlash/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://www.rt.com/news/646265-british-tourist-auschwitz-backlash/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 26 Sep 2026 10:50:11 +0000"
+    },
+    {
+      "titolo": "Why is the Swiss government opposing stricter neutrality rules?",
+      "titolo_originale": "Why is the Swiss government opposing stricter neutrality rules?",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab51d1f2030273801130a89.jpg\" style=\"margin-right: 10px;\" /> Swiss voters are to decide on Sunday whether the country should adopt stricter constitutional rules governing its neutrality <br /><a href=\"https://www.rt.com/news/646189-swiss-neutrality-reform-referendum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://www.rt.com/news/646189-swiss-neutrality-reform-referendum/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 26 Sep 2026 09:24:21 +0000"
+    },
+    {
+      "titolo": "‘Super El Nino’ could cause over 450,000 deaths – study",
+      "titolo_originale": "‘Super El Nino’ could cause over 450,000 deaths – study",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6d4ce85f54027c20cae8d.jpg\" style=\"margin-right: 10px;\" /> A powerful El Nino could cause over 450,000 additional heat-related deaths worldwide, with developing nations hardest hit, a new study says <br /><a href=\"https://www.rt.com/news/646255-climate-heat-thousands-deaths/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://www.rt.com/news/646255-climate-heat-thousands-deaths/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 26 Sep 2026 04:26:28 +0000"
+    },
+    {
+      "titolo": "Trump preparing to bomb Iran after midterms – WSJ",
+      "titolo_originale": "Trump preparing to bomb Iran after midterms – WSJ",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab72f2b85f54033da445719.jpg\" style=\"margin-right: 10px;\" /> US President Donald Trump has reportedly rejected Iran’s seven-day ceasefire proposal and is skeptical that it will meet his demands <br /><a href=\"https://www.rt.com/news/646264-trump-renew-iran-bombing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://www.rt.com/news/646264-trump-renew-iran-bombing/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
@@ -761,16 +788,16 @@
     {
       "titolo": "NATO troops injured in friendly fire training incident",
       "titolo_originale": "NATO troops injured in friendly fire training incident",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6fa4420302735355a6d14.jpg\" style=\"margin-right: 10px;\" /> Four Italian soldiers have been wounded after one of their own troops opened fire on a fellow armored vehicle during a NATO drill in Latvia <br /><a href=\"https://www.rt.com/news/646261-nato-drills-italians-injured/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6fa4420302735355a6d14.jpg\" style=\"margin-right: 10px;\" /> Four Italian soldiers were wounded after one of their own troops opened fire on an armored vehicle during a NATO drill in Latvia <br /><a href=\"https://www.rt.com/news/646261-nato-drills-italians-injured/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://www.rt.com/news/646261-nato-drills-italians-injured/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Fri, 25 Sep 2026 23:26:39 +0000"
     },
     {
-      "titolo": "Trump tells Zelensky to meet Putin in Moscow – Bloomberg",
-      "titolo_originale": "Trump tells Zelensky to meet Putin in Moscow – Bloomberg",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6e80d20302737bf6e5c2f.jpg\" style=\"margin-right: 10px;\" /> US President Donald Trump has reportedly urged Ukraine’s Vladimir Zelensky to meet President Vladimir Putin in Moscow for peace talks <br /><a href=\"https://www.rt.com/news/646260-trump-zelensky-travel-moscow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "titolo": "Trump told Zelensky to meet with Putin in Moscow – Bloomberg",
+      "titolo_originale": "Trump told Zelensky to meet with Putin in Moscow – Bloomberg",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6e80d20302737bf6e5c2f.jpg\" style=\"margin-right: 10px;\" /> US President Donald Trump reportedly urged Ukrainian leader Zelensky to meet with Russian President Putin in Moscow for peace talks <br /><a href=\"https://www.rt.com/news/646260-trump-zelensky-travel-moscow/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://www.rt.com/news/646260-trump-zelensky-travel-moscow/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
@@ -784,33 +811,6 @@
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Fri, 25 Sep 2026 21:34:43 +0000"
-    },
-    {
-      "titolo": "What if AI’s greatest threat is what it reveals about us?",
-      "titolo_originale": "What if AI’s greatest threat is what it reveals about us?",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6e84020302735355a6d0a.jpg\" style=\"margin-right: 10px;\" /> AI didn’t create the decline of trust, expertise or creativity. It’s made those long-running problems visible to societies around the world. <br /><a href=\"https://www.rt.com/news/646259-ais-greatest-threat-civilization/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/news/646259-ais-greatest-threat-civilization/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Fri, 25 Sep 2026 21:33:23 +0000"
-    },
-    {
-      "titolo": "Britain’s rhetorical war, Zelensky’s UN crashout, deep state media exposed: RT stories that shaped the week",
-      "titolo_originale": "Britain’s rhetorical war, Zelensky’s UN crashout, deep state media exposed: RT stories that shaped the week",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6a1932030273787701a7e.png\" style=\"margin-right: 10px;\" /> RT looks at the top stories this week, including a hardening of the UK’s war rhetoric and Kiev’s underhanded play for a ceasefire at the UN <br /><a href=\"https://www.rt.com/news/646242-rt-top-stories-uk-un-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/news/646242-rt-top-stories-uk-un-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Fri, 25 Sep 2026 21:00:38 +0000"
-    },
-    {
-      "titolo": "Church of England leader honored cleric linked to Pakistani gang – Telegraph",
-      "titolo_originale": "Church of England leader honored cleric linked to Pakistani gang – Telegraph",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.09/thumbnail/6ab6ca8085f5400f7c31d0d7.jpg\" style=\"margin-right: 10px;\" /> A Pakistani Muslim cleric honored by the Archbishop of Canterbury has reportedly been accused of protecting an extortion gang <br /><a href=\"https://www.rt.com/news/646257-church-of-england-pakistani-gang/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Fri, 25 Sep 2026 20:53:14 +0000"
     }
   ]
 }
