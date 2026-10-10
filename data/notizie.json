@@ -1,15 +1,24 @@
 {
-  "aggiornato": "2026-10-10T17:20:20.717070",
+  "aggiornato": "2026-10-10T21:16:59.838845",
   "totale_notizie": 90,
   "notizie": [
     {
-      "titolo": "L'assassina statunitense Christa Pike dimessa dall'ospedale 10 giorni dopo la mancata esecuzione",
-      "titolo_originale": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
-      "sommario": "Gli avvocati di Pike dicono che è \"grata\" all'équipe medica che si è presa cura di lei dopo che è sopravvissuta a due iniezioni letali il mese scorso.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "titolo": "\"È ora che l'Ucraina ottenga un nuovo presidente\", afferma Trump dopo che Zelenskyj condanna l'accordo sul diesel",
+      "titolo_originale": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "sommario": "Il leader ucraino aveva detto che l'accordo con la Russia per rilasciare il diesel negli Stati Uniti avrebbe aiutato Mosca a finanziare la guerra.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 16:30:21 GMT"
+      "data": "Sat, 10 Oct 2026 19:28:28 GMT"
+    },
+    {
+      "titolo": "L'attacco russo con bomba planante su Zaporizhzhia uccide almeno 20 persone",
+      "titolo_originale": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "sommario": "Volodymyr Zelensky afferma che l'attacco, che ha lasciato morti i bambini, è stato un \"ringraziamento\" della Russia per un accordo sul diesel negli Stati Uniti.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sat, 10 Oct 2026 20:51:12 GMT"
     },
     {
       "titolo": "Diversi feriti nell'attacco all'aeroporto della capitale saudita Riyadh",
@@ -18,34 +27,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 16:56:32 GMT"
+      "data": "Sat, 10 Oct 2026 18:37:10 GMT"
     },
     {
-      "titolo": "Trump annuncia un accordo per il diesel russo, Zelensky lo chiama un regalo a Putin",
-      "titolo_originale": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-      "sommario": "Il presidente ucraino ha criticato aspramente la mossa, definendola un \"investimento in guerra che deve essere terminato, non prolungato\".",
-      "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "titolo": "L'assassina statunitense Christa Pike dimessa dall'ospedale 10 giorni dopo la mancata esecuzione",
+      "titolo_originale": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "sommario": "Gli avvocati di Pike dicono che è \"grata\" all'équipe medica che si è presa cura di lei dopo che è sopravvissuta a due iniezioni letali il mese scorso.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:24:14 GMT"
+      "data": "Sat, 10 Oct 2026 17:44:26 GMT"
     },
     {
-      "titolo": "L'attacco russo con bomba planante su Zaporizhzhia uccide almeno 15 persone",
-      "titolo_originale": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "sommario": "Volodymyr Zelensky afferma che l'attacco, che ha lasciato morti i bambini, è stato un \"ringraziamento\" della Russia per un accordo sul diesel negli Stati Uniti.",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "titolo": "Quattro morti e migliaia senza energia dopo che l'uragano Isaias CI sferza",
+      "titolo_originale": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "sommario": "I tetti sono stati strappati dagli edifici dopo che Isaias è entrato negli Stati Uniti venerdì sera, prima che si indebolisse in un ciclone post-tropicale.",
+      "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:16:50 GMT"
+      "data": "Sat, 10 Oct 2026 19:08:17 GMT"
     },
     {
-      "titolo": "Leader del gruppo \"Scarafaggio\" tra centinaia di detenuti nella protesta di Delhi",
-      "titolo_originale": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "sommario": "Il gruppo - che non è registrato come partito politico in India - vuole riforme elettorali prima delle cruciali elezioni statali.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "titolo": "La spedizione spera di trovare l'aereo dell'aviatrice Amelia Earhart su un'isola remota",
+      "titolo_originale": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "sommario": "La squadra in viaggio verso il presunto luogo dell'incidente mira finalmente a risolvere il mistero della sua scomparsa nel 1937.",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 12:29:31 GMT"
+      "data": "Sat, 10 Oct 2026 18:22:29 GMT"
     },
     {
       "titolo": "Donna ferisce tre persone nel terzo attacco con coltello a scuola in Polonia in una settimana",
@@ -66,6 +75,15 @@
       "data": "Sat, 10 Oct 2026 15:23:47 GMT"
     },
     {
+      "titolo": "Leader del gruppo \"Scarafaggio\" tra centinaia di detenuti nella protesta di Delhi",
+      "titolo_originale": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "sommario": "Il gruppo - che non è registrato come partito politico in India - vuole riforme elettorali prima delle cruciali elezioni statali.",
+      "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sat, 10 Oct 2026 12:29:31 GMT"
+    },
+    {
       "titolo": "L'agente di intelligenza artificiale Rogue Anthropic ha dato alla polizia una falsa soffiata in un caso di omicidio irrisolto",
       "titolo_originale": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
       "sommario": "La polizia di Philadelphia ha dichiarato che la soffiata è stata \"contrassegnata come spam\", ma ha criticato la società tecnologica per aver impiegato più di due mesi per rilevare e segnalare la violazione.",
@@ -73,24 +91,6 @@
       "fonte": "BBC World",
       "lingua_originale": "en",
       "data": "Sat, 10 Oct 2026 10:06:23 GMT"
-    },
-    {
-      "titolo": "Il preside è stato arrestato dopo un'indagine della BBC su presunti abusi sessuali su studenti",
-      "titolo_originale": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "sommario": "Gli ex studenti hanno avviato la propria indagine, trascorrendo anni a raccogliere prove e testimonianze di altri che affermano di essere stati abusati dal preside.",
-      "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 12:28:51 GMT"
-    },
-    {
-      "titolo": "L'attacco di un drone da parte dei paramilitari sudanesi uccide 41 persone vicino al confine etiope, afferma un gruppo per i diritti umani",
-      "titolo_originale": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "sommario": "Si dice che otto bambini siano tra quelli uccisi dallo sciopero, che ha colpito un gruppo di sfollati.",
-      "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:49:32 GMT"
     },
     {
       "titolo": "Sanchez si concentra sulla casa e attacca il PP per aver dubitato del voto per posta: \"Questi sono quelli di meno votano, meglio è\"",
@@ -183,27 +183,45 @@
       "data": "Sat, 10 Oct 2026 03:30:00 GMT"
     },
     {
+      "titolo": "In DIRETTA, guerra in Ucraina: di fronte a Donald Trump, che chiede \"un nuovo presidente\" a Kiev, il Regno Unito assicura Volodymyr Zelensky della sua \"totale solidarietà\"",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : face à Donald Trump, qui réclame « un nouveau président » à Kiev, le Royaume-Uni assure Volodymyr Zelensky de sa « totale solidarité »",
+      "sommario": "Il ministro degli Esteri ucraino, Andrii Sybiha, ha ricordato che la scelta del loro leader spetta agli ucraini, mentre il primo ministro britannico, Andy Burnham, ha riconosciuto “le ultime ventiquattro ore difficili” per Kiev.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-face-a-donald-trump-qui-reclame-un-nouveau-president-a-kiev-le-royaume-uni-assure-volodymyr-zelensky-de-sa-totale-solidarite_6787996_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sat, 10 Oct 2026 22:37:34 +0200"
+    },
+    {
+      "titolo": "Cuba: un nuovo blackout priva di corrente l’est dell'isola",
+      "titolo_originale": "Cuba : une nouvelle panne électrique prive de courant l’est de l’île",
+      "sommario": "Dall'inizio dell'anno, Cuba ha registrato sette interruzioni totali della rete elettrica, e una dozzina dalla fine del 2024.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/10/cuba-une-nouvelle-panne-electrique-prive-de-courant-l-est-de-l-ile_6791025_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sat, 10 Oct 2026 20:32:26 +0200"
+    },
+    {
+      "titolo": "Premio Bayeux dei corrispondenti di guerra: premiato il fotografo palestinese Mahmoud Abu Hamda, palmares dominato dal conflitto a Gaza",
+      "titolo_originale": "Prix Bayeux des correspondants de guerre : le photographe palestinien Mahmoud Abu Hamda récompensé, un palmarès dominé par le conflit à Gaza",
+      "sommario": "Il \"Washington Post\", NPR e CNN completano l'elenco dei vincitori, mentre il fotografo di Associated Press Jehad Alshrafi, la cui immagine era stata rimossa da un festival di Deauville, riceve il Premio Young Reporter.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/10/prix-bayeux-des-correspondants-de-guerre-le-photographe-palestinien-mahmoud-abu-hamda-recompense-un-palmares-domine-par-le-conflit-a-gaza_6791024_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sat, 10 Oct 2026 20:20:54 +0200"
+    },
+    {
       "titolo": "Christa Pike, sopravvissuta alla sua esecuzione negli Stati Uniti, è stata dimessa dall'ospedale ed è tornata in prigione",
       "titolo_originale": "Christa Pike, qui a survécu à son exécution aux Etats-Unis, est sortie de l’hôpital et est de retour en prison",
       "sommario": "Se è riuscita a camminare, la condannata di 50 anni mantiene le braccia \"molto danneggiate\" e rimane \"un po 'confusa\", secondo il suo avvocato, che non esclude conseguenze permanenti.",
       "link": "https://www.lemonde.fr/international/article/2026/10/10/christa-pike-qui-a-survecu-a-son-execution-aux-etats-unis-est-sortie-de-l-hopital-et-est-de-retour-en-prison_6791020_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sat, 10 Oct 2026 19:04:58 +0200"
+      "data": "Sat, 10 Oct 2026 19:04:57 +0200"
     },
     {
-      "titolo": "In DIRETTA, guerra in Ucraina: le ultime notizie",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "sommario": "Gli attacchi russi sulla città di Zaporizhia, nel sud-est dell'Ucraina, hanno ucciso 20 persone sabato. Kiev ha denunciato ironicamente i \"ringraziamenti\" mortali della Russia dopo l’annuncio di un accordo tra Mosca e Washington su massicce forniture di gasolio.",
-      "link": "https://www.lemonde.fr/international/live/2026/10/10/en-direct-guerre-en-ukraine-les-dernieres-informations_6787996_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sat, 10 Oct 2026 18:33:37 +0200"
-    },
-    {
-      "titolo": "Gli Houthi in Yemen colpiscono ancora una volta l’aeroporto di Riyadh, causando numerosi feriti",
-      "titolo_originale": "Les houthistes au Yémen visent une nouvelle fois l’aéroport de Riyad, faisant de nombreux blessés",
-      "sommario": "Le ostilità tra i combattenti filo-iraniani e l’Arabia Saudita, che sostiene il governo yemenita, si sono intensificate a settembre in seguito alla presa da parte degli Houthi della costa che costeggia il Mar Rosso al termine di un'offensiva lampo.",
+      "titolo": "Arabia Saudita: almeno due morti in un attacco missilistico all'aeroporto di Riyadh, attribuito agli Houthi",
+      "titolo_originale": "Arabie saoudite : au moins deux morts dans une attaque au missile contre l’aéroport de Riyad, imputée aux houthistes",
+      "sommario": "Il traffico è stato sospeso e diverse ambasciate occidentali hanno chiesto al loro personale di evitare l’aeroporto per una settimana, dopo una serie di attacchi senza precedenti contro la capitale saudita.",
       "link": "https://www.lemonde.fr/international/article/2026/10/10/les-houthiste-du-yemen-vise-une-nouvelle-fois-l-aeroport-de-riyad-faisant-de-nombreux-blesses_6791016_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
@@ -253,24 +271,6 @@
       "fonte": "Le Monde",
       "lingua_originale": "fr",
       "data": "Sat, 10 Oct 2026 15:58:57 +0200"
-    },
-    {
-      "titolo": "Come la pesca eccessiva e l’industria alimentare svuotano gli oceani e rovinano le popolazioni dell'Africa occidentale",
-      "titolo_originale": "Comment la surpêche et l’industrie alimentaire vident les océans et ruinent les populations en Afrique de l’Ouest",
-      "sommario": "In Senegal, Mauritania o nel Sahara occidentale, decine di stabilimenti sfruttano le risorse ittiche dell'oceano per produrre farina di pesce. Questa industria devasta l’economia locale e spinge sempre più persone sulle pericolose rotte migratorie dell'Atlantico.",
-      "link": "https://www.lemonde.fr/afrique/video/2026/10/10/comment-la-surpeche-et-l-industrie-alimentaire-vident-les-oceans-et-ruinent-les-populations-en-afrique-de-l-ouest_6791001_3212.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sat, 10 Oct 2026 15:30:03 +0200"
-    },
-    {
-      "titolo": "\"Sull'IA, l’Europa non può aspettare che i rischi diventino più evidenti\"",
-      "titolo_originale": "« Sur l’IA, l’Europe ne peut pas attendre que les risques deviennent plus évidents »",
-      "sommario": "Le accademiche americane Marine Collins Ragnet e Katerina Siira invitano la Commissione europea, in una tribuna su \"Le Monde\", a non perdere tempo nell'attivare gli strumenti di cui dispone per regolare le imprese di intelligenza artificiale.",
-      "link": "https://www.lemonde.fr/idees/article/2026/10/10/sur-l-ia-l-europe-ne-peut-pas-attendre-que-les-risques-deviennent-plus-evidents_6790999_3232.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sat, 10 Oct 2026 15:00:26 +0200"
     },
     {
       "titolo": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
@@ -396,7 +396,7 @@
       "link": "https://www.ansa.it/sito/notizie/cultura/libri/libro_in_piazza/2026/10/10/a-genova-book-pride-fiera-delleditoria-indipendente_8ff6aaf3-c00f-40ed-81cd-2f366bdfffa5.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 11:24:06 +0200"
+      "data": "Sat, 10 Oct 2026 19:56:51 +0200"
     },
     {
       "titolo": "Quando la Nobel per la pace Pillay disse: \"C'è un genocidio a Gaza\"",
@@ -408,31 +408,31 @@
       "data": "Fri, 9 Oct 2026 20:32:13 +0200"
     },
     {
-      "titolo": "'Gli Usa minacciano lo stop alla condivisione di informazione di intelligence con Kiev'",
-      "titolo_originale": "'Gli Usa minacciano lo stop alla condivisione di informazione di intelligence con Kiev'",
-      "sommario": "Dopo le critiche di Zelensky per la decisione Usa di revocare le sanzioni sul diesel russo. Il Cremlino: 'Putin comprensivo verso alcune proposte Usa sulla de-escalation'. Il leader ucraino: 'Il raid su Zaporizhzhia sono il 'grazie' di Putin'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/gli-usa-minacciano-lo-stop-alla-condivisione-di-informazione-di-intelligence-con-kiev_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
+      "titolo": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
+      "titolo_originale": "Trump scarica Zelensky: 'Serve un nuovo presidente a Kiev per un accordo'",
+      "sommario": "Duro attacco dopo lo scontro sul diesel russo. Mosca esulta. L'Ue con Kiev: 'La revoca delle sanzioni aiuta Putin'. La delegazione ucraina lascia Miami in anticipo. Bombardamenti russi su Zaporizhzhia: 20 morti, tra cui tre bambini",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/trump-scarica-zelensky-serve-un-nuovo-presidente-a-kiev-per-un-accordo_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 17:47:09 +0200"
+      "data": "Sat, 10 Oct 2026 21:17:34 +0200"
     },
     {
-      "titolo": "Il Papa, 'la pena di morte è inammissibile'",
-      "titolo_originale": "Il Papa, 'la pena di morte è inammissibile'",
-      "sommario": "\"Il bene comune può essere tutelato senza ricorrere alla pena capitale\"",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
+      "titolo": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
+      "titolo_originale": "L'Ue agli Usa: 'Ritirare le sanzioni alla Cpi, pronti a difenderla'",
+      "sommario": "Trump minaccia Oslo sul Nobel: 'Non dimentichiamo'. E boccia i candidati per l'Onu",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/lue-agli-usa-ritirare-le-sanzioni-alla-cpi-pronti-a-difenderla_26dac987-1d6b-4687-be63-a67170be2055.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 16:56:32 +0200"
+      "data": "Sat, 10 Oct 2026 21:18:54 +0200"
     },
     {
-      "titolo": "Nubifragi, allagamenti e frane, il maltempo sferza il Sud",
-      "titolo_originale": "Nubifragi, allagamenti e frane, il maltempo sferza il Sud",
-      "sommario": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-sferza-il-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
+      "titolo": "Nubifragi, allagamenti e frane: il maltempo fa paura al Sud",
+      "titolo_originale": "Nubifragi, allagamenti e frane: il maltempo fa paura al Sud",
+      "sommario": "A Lipari esondati i torrenti, bomba d'acqua nel Reggino. Acqua nella basilica di S.Nicola a Bari",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 19:00:00 +0200"
+      "data": "Sat, 10 Oct 2026 20:39:40 +0200"
     },
     {
       "titolo": "F1: Verstappen pigliatutto a Singapore, le Ferrari subito dietro",
@@ -444,13 +444,49 @@
       "data": "Sat, 10 Oct 2026 18:02:54 +0200"
     },
     {
-      "titolo": "Abu Mazen posticipa le elezioni palestinesi all'11 settembre 2027",
-      "titolo_originale": "Abu Mazen posticipa le elezioni palestinesi all'11 settembre 2027",
-      "sommario": "Inizialmente erano previste per il 28 novembre di quest'anno",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/abu-mazen-posticipa-le-elezioni-palestinesi-all11-settembre-2027_9b4f3b86-6c70-4ce5-b577-a30d439b4afc.html",
+      "titolo": "Missile Houthi sull'aeroporto di Riad, 5 feriti e scalo chiuso",
+      "titolo_originale": "Missile Houthi sull'aeroporto di Riad, 5 feriti e scalo chiuso",
+      "sommario": "Evacuazioni e caos per il nuovo attacco, Paesi sconsigliano voli sulla capitale saudita",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/10/missile-houthi-sullaeroporto-di-riad-5-feriti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 15:17:53 +0200"
+      "data": "Sat, 10 Oct 2026 21:24:49 +0200"
+    },
+    {
+      "titolo": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+      "titolo_originale": "Raid Houthi sull’Arabia Saudita: è strage all’aeroporto di Riad",
+      "sommario": "Nuovo attacco dei ribelli yemeniti nello scalo King Khalid: secondo il “New York Times” ci sarebbero 12 morti e decine di feriti",
+      "link": "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 10 Oct 2026 20:37:00 +0000"
+    },
+    {
+      "titolo": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
+      "titolo_originale": "Crans, inchiesta per fuga di notizie. E gli indagati puntano allo sconto di pena: “Gogna mediatica”",
+      "sommario": "Fascicolo dei pm, nel mirino avvocati e giornalisti. La denuncia dei difensori dei Moretti: “Incosciente la pubblicazione di atti”. Ecco perché i legali potrebbero chiedere pene più lievi in caso di condanna",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/crans_inchiesta_fuga_notizie_avvocati_giornalisti-425639972/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 10 Oct 2026 19:32:01 +0000"
+    },
+    {
+      "titolo": "Comunali a Milano, la destra va in tilt. Forza Italia attacca la Lega: “Possono correre da soli”",
+      "titolo_originale": "Comunali a Milano, la destra va in tilt. Forza Italia attacca la Lega: “Possono correre da soli”",
+      "sommario": "Salvini per il dopo Sala insiste sull’eurodeputata Sardone e rilancia le primarie. Gli azzurri: “Allora facciamole ovunque”. La Russa media",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/10/news/comunali_milano_centrodestra_scontro_forza_italia_lega_primarie-425639942/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 10 Oct 2026 19:14:34 +0000"
+    },
+    {
+      "titolo": "La Ue: “Gli Usa ritirino subito le sanzioni contro la Cpi”. Pillay: “Sono misure inaudite”",
+      "titolo_originale": "La Ue: “Gli Usa ritirino subito le sanzioni contro la Cpi”. Pillay: “Sono misure inaudite”",
+      "sommario": "L’indomani della consegna del Premio Nobel per la pace alla giurista pro Gaza Kallas promette: “Pronti a ogni intervento necessario a difesa della Corte”",
+      "link": "https://www.repubblica.it/esteri/2026/10/10/news/ue_usa_sanzioni_cpi_navi_pillay_nobel_pace-425639647/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sat, 10 Oct 2026 17:28:05 +0000"
     },
     {
       "titolo": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
@@ -480,15 +516,6 @@
       "data": "Sat, 10 Oct 2026 15:41:02 +0000"
     },
     {
-      "titolo": "Verstappen è tornato: pole a Singapore, ma Leclerc e Hamilton sono vicinissimi",
-      "titolo_originale": "Verstappen è tornato: pole a Singapore, ma Leclerc e Hamilton sono vicinissimi",
-      "sommario": "Dopo aver vinto la Sprint, l’olandese è il più veloce nelle qualifiche. Quarto tempo per Antonelli, che limita i danni su una Mercedes difficile da guidare",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/10/10/news/verstappen_pole_singapore_leclerc_hamilton_vicini-425639481/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 15:40:14 +0000"
-    },
-    {
       "titolo": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
       "titolo_originale": "Presidio Stop Data Center a Milano, centinaia in piazza Scala: “No alla colonizzazione digitale”",
       "sommario": "Le critiche alla legge regionale lombarda approvata a giugno: “Parliamo di industrie pesanti, impattanti ed energivore che non possono essere collocate in mezzo ai centri abitati”",
@@ -498,22 +525,13 @@
       "data": "Sat, 10 Oct 2026 15:33:21 +0000"
     },
     {
-      "titolo": "Paul Seixas conquista il Lombardia a 20 anni: il francese è il più giovane vincitore di sempre",
-      "titolo_originale": "Paul Seixas conquista il Lombardia a 20 anni: il francese è il più giovane vincitore di sempre",
-      "sommario": "Battuto il record di precocità del “Diavolo Rosso” Giovanni Gerbi. Ciccone è terzo sul traguardo di Como",
-      "link": "https://www.repubblica.it/sport/ciclismo/2026/10/10/news/paul_seixas_vince_lombardia_20_anni_piu_giovane_vincitore_di_sempre_gerbi_diavolo_rosso-425639420/",
+      "titolo": "A Napoli Greta Thunberg per Gaza: “Governo fascista, Cpr campi di concentramento”",
+      "titolo_originale": "A Napoli Greta Thunberg per Gaza: “Governo fascista, Cpr campi di concentramento”",
+      "sommario": "L'attivista svedese ha partecipato alla manifestazione pro Palestina",
+      "link": "https://napoli.repubblica.it/cronaca/2026/10/10/news/greta_thunberg_napoli_corteo_gaza-425639220/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 15:10:29 +0000"
-    },
-    {
-      "titolo": "Fabregas punge l'Italia e Mancini: \"Kean ha giocato da infortunato, serve più comunicazione”",
-      "titolo_originale": "Fabregas punge l'Italia e Mancini: \"Kean ha giocato da infortunato, serve più comunicazione”",
-      "sommario": "L’attaccante salterà il big match con la Roma. Il tecnico del Como: “Magari si può fare un po’ meglio”",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/10/news/fabregas_como_roma_kean_nazionale-425639238/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 13:58:33 +0000"
+      "data": "Sat, 10 Oct 2026 13:52:57 +0000"
     },
     {
       "titolo": "Leone XIV dopo l’annuncio del Pentagono sull’esecuzione in streaming: “Pena di morte inammissibile”",
@@ -525,214 +543,223 @@
       "data": "Sat, 10 Oct 2026 13:41:39 +0000"
     },
     {
-      "titolo": "Maltempo, emergenza al Sud: esondazioni a Lipari, danni nel Reggino, scuole chiuse nel Salento",
-      "titolo_originale": "Maltempo, emergenza al Sud: esondazioni a Lipari, danni nel Reggino, scuole chiuse nel Salento",
-      "sommario": "Nuovi allagamenti tra Sicilia e Calabria, ancora temporali in Campania. Nel Trapanese si assistono le famiglie sfollate dopo il tornado di ieri",
-      "link": "https://www.repubblica.it/cronaca/2026/10/10/news/meteo_maltempo_italia_temporali_oggi-425639138/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 13:07:52 +0000"
-    },
-    {
-      "titolo": "La risposta di Kiev ai raid russi: sciame di droni ucraini impedisce l’atterraggio di Putin a Mosca",
-      "titolo_originale": "La risposta di Kiev ai raid russi: sciame di droni ucraini impedisce l’atterraggio di Putin a Mosca",
-      "sommario": "L’attacco la scorsa notte, mentre il presidente russo rientrava dal vertice degli ex Stati sovietici in Turkmenistan",
-      "link": "https://www.repubblica.it/esteri/2026/10/10/news/droni_ucraini_fermano_rientro_a_mosca_di_putin-425639105/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sat, 10 Oct 2026 12:53:46 +0000"
-    },
-    {
-      "titolo": "Festeggiamenti nella città etiope dopo la segnalata \"incursione\" eritrea",
-      "titolo_originale": "Celebrations in Ethiopian city after reported Eritrean ‘incursion’",
-      "sommario": "Le persone nel nord dell'Etiopia stanno festeggiando dopo il ritiro delle forze eritree accusate di un'incursione.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/celebrations-in-ethiopian-city-after-reported-eritrean?traffic_source=rss",
+      "titolo": "Danni visti all'interno dell'aeroporto saudita dopo il terzo attacco di questa settimana",
+      "titolo_originale": "Damage seen inside Saudi airport after third attack this week",
+      "sommario": "Il video mostra i danni all'interno dell'aeroporto internazionale King Khalid di Riyadh dopo il terzo attacco in una settimana.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 16:54:56 +0000"
+      "data": "Sat, 10 Oct 2026 20:43:19 +0000"
     },
     {
-      "titolo": "L'Eritrea esorta le Nazioni Unite a intervenire in stallo con l'Etiopia",
-      "titolo_originale": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "sommario": "I paesi vicini si incolpano a vicenda per aver iniziato la guerra tra crescenti tensioni e timori di un conflitto più ampio.",
-      "link": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
+      "titolo": "Il vulcano delle Filippine erutta, creando una nube di cenere alta 6 km",
+      "titolo_originale": "Philippines volcano erupts, creating 6km-high ash cloud",
+      "sommario": "Il vulcano Monte Kanlaon nelle Filippine centrali ha eruttato sabato inviando spessi pennacchi di fumo e cenere.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 16:41:25 +0000"
+      "data": "Sat, 10 Oct 2026 20:37:17 +0000"
     },
     {
-      "titolo": "L'uragano Isaias lascia due morti e 800.000 senza elettricità nel sud-est degli Stati Uniti",
-      "titolo_originale": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
-      "sommario": "I danni della tempesta si estendono in tutta la Florida e l'Alabama mentre i funzionari avvertono delle continue inondazioni e dei possibili tornado.",
-      "link": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
+      "titolo": "Rubio promette la cooperazione degli Stati Uniti nel caso di omicidio legato alla Marina",
+      "titolo_originale": "Rubio pledges US cooperation in Marine-linked murder case",
+      "sommario": "Un marine americano di stanza a Okinawa è stato arrestato con l'accusa di aver ucciso una donna di 39 anni.",
+      "link": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 15:45:36 +0000"
+      "data": "Sat, 10 Oct 2026 20:30:36 +0000"
     },
     {
-      "titolo": "Conti Trump: denaro gratuito, ma chi ha voce in capitolo?",
-      "titolo_originale": "Trump Accounts: Free money, but who gets a say?",
-      "sommario": "I conti Trump promettono ai bambini un vantaggio finanziario. Emma Withrow di Al Jazeera ha parlato con un genitore.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
+      "titolo": "L'attacco israeliano distrugge l'edificio a Gaza un anno dopo il \"cessate il fuoco\"",
+      "titolo_originale": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+      "sommario": "Un attacco israeliano ha distrutto un edificio residenziale nel quartiere di Al-Rimal a Gaza City.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 15:21:39 +0000"
+      "data": "Sat, 10 Oct 2026 20:14:01 +0000"
     },
     {
-      "titolo": "Con o senza Hamas",
-      "titolo_originale": "With or without Hamas",
-      "sommario": "Il destino di Hamas non modellerà profondamente il futuro di Gaza.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+      "titolo": "Perché l'amministrazione Trump sta cercando di smantellare la CPI?",
+      "titolo_originale": "Why is the Trump administration trying to dismantle the ICC?",
+      "sommario": "Gli Stati Uniti hanno imposto nuove sanzioni radicali alla Corte penale internazionale.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/10/why-is-the-trump-administration-trying-to-dismantle-the-icc?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 15:19:41 +0000"
+      "data": "Sat, 10 Oct 2026 19:59:18 +0000"
     },
     {
-      "titolo": "Tre feriti nel terzo attacco scolastico in Polonia in meno di una settimana",
-      "titolo_originale": "Three injured in third school attack in Poland in less than a week",
-      "sommario": "L'attacco arriva dopo che la polizia ha annunciato la detenzione di 76 persone in tutta la Polonia in relazione a precedenti incidenti.",
-      "link": "https://www.aljazeera.com/news/2026/10/10/three-injured-in-third-school-attack-in-poland-in-less-than-a-week?traffic_source=rss",
+      "titolo": "Lionel Messi torna dall'Argentina per l'addio mentre l'Inter Miami affronta il DC United",
+      "titolo_originale": "Lionel Messi returns from Argentina farewell as Inter Miami face DC United",
+      "sommario": "Fresco della partita finale con l'Argentina, Messi guida Miami contro il DC United nella Major League Soccer negli Stati Uniti.",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/messi-returns-from-argentina-farewell-as-inter-miami-face-dc-united?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 15:13:55 +0000"
+      "data": "Sat, 10 Oct 2026 19:59:08 +0000"
     },
     {
-      "titolo": "Liverpool vs Man City: Premier League – squadre, pronostico, Haaland, accuse",
-      "titolo_originale": "Liverpool vs Man City: Premier League – teams, prediction, Haaland, charges",
-      "sommario": "Il Man City si reca a Liverpool per la sua prima partita da quando è stato riconosciuto colpevole di gravi violazioni finanziarie dell'EPL.",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/liverpool-man-city-premier-league-isak-haaland-predictions-financial-breach?traffic_source=rss",
+      "titolo": "Gli alunni delle scuole dell'Azerbaigian protestano per le restrizioni sull'hijab segnalate",
+      "titolo_originale": "Azerbaijan school pupils protest over reported hijab restrictions",
+      "sommario": "Gli alunni hanno protestato dopo l'implementazione di un nuovo codice di abbigliamento che limita l'hijab nelle scuole dell'Azerbaigian.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 15:11:22 +0000"
+      "data": "Sat, 10 Oct 2026 19:49:33 +0000"
     },
     {
-      "titolo": "L'Arsenal ha battuto il Leeds 2-1 nella vittoria in rimonta per salire di livello con il Man City in cima",
-      "titolo_originale": "Arsenal beat Leeds 2-1 in comeback win to move level with Man City at top",
-      "sommario": "L'Arsenal arriva da dietro per battere il Leeds United portandolo al vertice della Premier League con il Manchester City.",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/arsenal-beat-leeds-2-1-in-comeback-win-to-move-level-with-man-city-at-top?traffic_source=rss",
+      "titolo": "Manchester United detenuto da dieci uomini Tottenham mentre i guai per entrambi continuano",
+      "titolo_originale": "Manchester United held by ten-man Tottenham as woes for both continue",
+      "sommario": "Dieci uomini del Tottenham si difendono da un gol alle spalle per pareggiare 1-1 contro il Manchester United in Premier League.",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:42:39 +0000"
+      "data": "Sat, 10 Oct 2026 19:47:10 +0000"
     },
     {
-      "titolo": "Jerusalem Daily: coloni israeliani attaccano gli olivicoltori",
-      "titolo_originale": "Jerusalem Daily: Israeli settlers attack olive farmers",
-      "sommario": "I coloni israeliani rubano le olive e attaccano i contadini palestinesi durante il raccolto di quest' anno.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/jerusalem-daily-israeli-settlers-attack-olive-farmers?traffic_source=rss",
+      "titolo": "Trump dice che l'Ucraina ha bisogno di un nuovo presidente che accetti di porre fine alla guerra",
+      "titolo_originale": "Trump says Ukraine needs a new president who will agree to end the war",
+      "sommario": "Il leader degli Stati Uniti suggerisce che Zelenskyy non ha fatto abbastanza per porre fine alla guerra tra le tensioni con Kiev per un accordo sul diesel con la Russia.",
+      "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:39:53 +0000"
+      "data": "Sat, 10 Oct 2026 19:32:37 +0000"
     },
     {
-      "titolo": "Il giudice messicano condanna tre uomini per l'omicidio di surfisti australiani e statunitensi",
-      "titolo_originale": "Mexican judge sentences three men for murders of Australian, US surfers",
-      "sommario": "Il processo in Bassa California aveva rivelato dettagli agghiaccianti del triplice omicidio dei surfisti.",
-      "link": "https://www.aljazeera.com/news/2026/10/10/mexican-judge-sentences-three-men-for-murders-of-australian-us-surfers?traffic_source=rss",
+      "titolo": "Il Barcellona batte il Getafe mentre Gordon segna il suo primo gol",
+      "titolo_originale": "Barcelona beat Getafe as Gordon scores his first goal",
+      "sommario": "Il Barcellona segna sei vittorie su sei con una vittoria per 3-0 contro il Getafe mentre Anthony Gordon segna il suo primo gol per il club.",
+      "link": "https://www.aljazeera.com/sports/2026/10/10/barcelona-beat-getafe-as-gordon-scores-his-first-goal?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sat, 10 Oct 2026 14:37:26 +0000"
+      "data": "Sat, 10 Oct 2026 19:26:22 +0000"
     },
     {
-      "titolo": "Le forze russe colpiscono il data center di Kiev utilizzato dall'esercito ucraino per archiviare l'intelligence",
-      "titolo_originale": "Russian forces strike Kiev data center used by Ukrainian army to store intelligence",
-      "sommario": "Le forze russe hanno colpito una nave da carico secco coinvolta nella consegna di rifornimenti militari a Odessa in mare",
-      "link": "https://tass.com/defense/2200309",
+      "titolo": "Il CEO di Rosatom afferma che la quota di progetti di paesi ostili nel portafoglio è in calo",
+      "titolo_originale": "Rosatom CEO says share of unfriendly countries’ projects in portfolio declining",
+      "sommario": "Il numero assoluto di progetti in paesi ostili rimane invariato, ha aggiunto Alexey Likhachev",
+      "link": "https://tass.com/economy/2200373",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 19:20:37 +0300"
+      "data": "Sun, 11 Oct 2026 00:05:18 +0300"
     },
     {
-      "titolo": "L'aeroporto di Riyadh sospende le operazioni — fonte di controllo del traffico aereo",
-      "titolo_originale": "Riyadh airport suspends operations — air traffic control source",
-      "sommario": "L'aeroporto di Riyadh ha sospeso le operazioni; non vengono serviti voli in entrata o in uscita",
-      "link": "https://tass.com/economy/2200307",
+      "titolo": "La superpetroliera petroliera colpisce la miniera nello Stretto di Hormuz — IRGC",
+      "titolo_originale": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
+      "sommario": "Secondo l'esercito iraniano, la petroliera ha colpito una mina ed è esplosa dopo aver spento i suoi sistemi di posizionamento e navigazione",
+      "link": "https://tass.com/world/2200371",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 19:02:46 +0300"
+      "data": "Sat, 10 Oct 2026 23:55:35 +0300"
     },
     {
-      "titolo": "I negoziatori statunitensi Witkoff e Kushner potrebbero visitare Mosca nelle prossime due settimane — fonte",
-      "titolo_originale": "US negotiators Witkoff, Kushner may visit Moscow in next two weeks — source",
-      "sommario": "C'è davvero una tale possibilità, una fonte ha detto",
-      "link": "https://tass.com/world/2200299",
+      "titolo": "Il Ruanda è orgoglioso di usare attrezzature militari russe, dice l'inviato",
+      "titolo_originale": "Rwanda proud to use Russian military hardware, envoy says",
+      "sommario": "Joseph Nzabamwita ha aggiunto che il Ruanda ha iniziato a vendere molti prodotti agricoli in Russia",
+      "link": "https://tass.com/world/2200367",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 18:03:41 +0300"
+      "data": "Sat, 10 Oct 2026 23:51:06 +0300"
     },
     {
-      "titolo": "Il presidente ruandese in visita a Mosca per il vertice Russia-Africa",
-      "titolo_originale": "Rwandan president to visit Moscow for Russia-Africa Summit",
-      "sommario": "Secondo l'ambasciatore della nazione dell'Africa orientale in Russia Joseph Nzabamwita, la partecipazione al forum economico nel Caucaso settentrionale è finalizzata a estendere la cooperazione dal livello federale a quello regionale",
-      "link": "https://tass.com/world/2200293",
+      "titolo": "L'aeroporto di Riad rimarrà chiuso fino alla fine di domenica — fonte del controllo del traffico aereo",
+      "titolo_originale": "Riyadh airport to remain closed until end of Sunday — air traffic control source",
+      "sommario": "In precedenza, l'aeroporto avrebbe dovuto riprendere le operazioni a mezzanotte ora locale",
+      "link": "https://tass.com/economy/2200365",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 17:36:27 +0300"
+      "data": "Sat, 10 Oct 2026 23:36:10 +0300"
     },
     {
-      "titolo": "L'UE non è soddisfatta della decisione degli Stati Uniti di consentire le importazioni di diesel russo — massimo diplomatico",
-      "titolo_originale": "EU unhappy with US decision to allow Russian diesel imports — top diplomat",
-      "sommario": "Questo non è il momento di allentare la pressione sulla Russia, e l'Europa non lo farà, ha detto Kaja Kallas",
-      "link": "https://tass.com/world/2200289",
+      "titolo": "Colloqui USA-Ucraina a Miami deragliati dall'accordo diesel Putin-Trump — media",
+      "titolo_originale": "US-Ukraine talks in Miami derailed by Putin-Trump diesel deal — media",
+      "sommario": "Un alto funzionario ucraino ha dichiarato al Financial Times che la delegazione ha interrotto il suo viaggio invece di tenere un secondo round di colloqui il 10 ottobre",
+      "link": "https://tass.com/world/2200363",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 17:16:25 +0300"
+      "data": "Sat, 10 Oct 2026 23:13:04 +0300"
     },
     {
-      "titolo": "Il Primo Ministro finlandese intende proporre all'Europa di interrompere il rilascio di visti turistici ai russi",
-      "titolo_originale": "Finnish PM plans to propose Europe stop issuing tourist visas to Russians",
-      "sommario": "Secondo Petteri Orpo, i cittadini russi non dovrebbero essere autorizzati a viaggiare liberamente in Europa come turisti",
-      "link": "https://tass.com/world/2200285",
+      "titolo": "Il bilancio delle vittime statunitensi dell'uragano Isaias raggiunge quattro — TV",
+      "titolo_originale": "US death toll from Hurricane Isaias reaches four — TV",
+      "sommario": "Le autorità locali hanno detto alla CNN che centinaia di migliaia di persone rimangono senza elettricità",
+      "link": "https://tass.com/emergencies/2200361",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 16:37:39 +0300"
+      "data": "Sat, 10 Oct 2026 22:59:36 +0300"
     },
     {
-      "titolo": "L'Ucraina ha creato una crisi umanitaria ad Alyoshki — Commissario russo per i diritti umani",
-      "titolo_originale": "Ukraine created humanitarian crisis in Alyoshki — Russian Human Rights Commissioner",
-      "sommario": "La Russia farebbe tutto il possibile per salvare i civili, ha detto Yana Lantratova",
-      "link": "https://tass.com/politics/2200283",
+      "titolo": "Il russo Kornev stabilisce un nuovo record mondiale nei 50 metri farfalla in un evento di breve durata",
+      "titolo_originale": "Russia’s Kornev sets new world record in 50-meter butterfly at short-course event",
+      "sommario": "L'evento si svolge nella capitale dell'Uzbekistan, Tashkent",
+      "link": "https://tass.com/sports/2200355",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 16:09:12 +0300"
+      "data": "Sat, 10 Oct 2026 22:44:09 +0300"
     },
     {
-      "titolo": "Piano \"Teoria della Vittoria\" della NATO non diretto contro la Russia — presidente del comitato militare",
-      "titolo_originale": "NATO ‘Theory of Victory’ plan not directed against Russia — chairman of military committee",
-      "sommario": "La parola \"vittoria\" in questo contesto significa, prima di tutto, solo una cosa: la guerra non inizierà mai perché chi ci minaccia è convinto di non iniziarla, ha detto Giuseppe Cavo Dragone",
-      "link": "https://tass.com/world/2200281",
+      "titolo": "Il governo russo revoca parzialmente il divieto di esportazione di diesel a seguito degli accordi Putin-Trump",
+      "titolo_originale": "Russian government partially lifts diesel export ban following Putin-Trump agreements",
+      "sommario": "Entra in vigore il 10 ottobre",
+      "link": "https://tass.com/economy/2200347",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 15:40:40 +0300"
+      "data": "Sat, 10 Oct 2026 22:01:52 +0300"
     },
     {
-      "titolo": "I treni della metropolitana di Kiev riprendono il servizio dopo l'interruzione di corrente",
-      "titolo_originale": "Kiev metro trains resume service following power outage",
-      "sommario": "Gli intervalli possono superare i 15 minuti a causa di interruzioni di alimentazione da centri esterni",
-      "link": "https://tass.com/society/2200279",
+      "titolo": "L'aeroporto di Riyad rimarrà chiuso fino a mezzanotte — servizio di controllo del traffico aereo",
+      "titolo_originale": "Riyadh airport to remain closed until midnight — air traffic control service",
+      "sommario": "Le informazioni erano state comunicate a tutti gli utenti dello spazio aereo interessati",
+      "link": "https://tass.com/world/2200339",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 15:18:22 +0300"
+      "data": "Sat, 10 Oct 2026 21:59:42 +0300"
     },
     {
-      "titolo": "Reinsediamento dalle aree DPR sotto il controllo ucraino per aiutare le persone a tornare a una vita pacifica",
-      "titolo_originale": "Resettlement from DPR areas under Ukrainian control to help people return to peaceful life",
-      "sommario": "Le autorità della Repubblica Popolare di Donetsk intendono valutare individualmente la situazione di ogni persona al fine di fornire l'assistenza necessaria e aiutarla a tornare a una vita pacifica",
-      "link": "https://tass.com/society/2200277",
+      "titolo": "Trump dice che gli Stati Uniti hanno chiesto a Zelensky di fermare gli attacchi alle raffinerie di petrolio russe",
+      "titolo_originale": "Trump says US demanded Zelensky halt strikes on Russian oil refineries",
+      "sommario": "Non può farlo perché abbiamo un problema mondiale e il problema è causato dalla mancanza di raffinerie per il gasolio, ha detto il presidente degli Stati Uniti",
+      "link": "https://tass.com/world/2200333",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 15:07:08 +0300"
+      "data": "Sat, 10 Oct 2026 21:12:20 +0300"
     },
     {
-      "titolo": "Il mondo continua a fare shopping per il talento tennistico russo. Ecco perché",
+      "titolo": "L'attacco degli Houthi all'aeroporto di Riyadh lascia più feriti (VIDEO)",
+      "titolo_originale": "Houthi strike on Riyadh airport leaves multiple wounded (VIDEOS)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca9f2020302714207ac052.png\" style=\"margin-right: 10px;\" /> Un attacco Houthi all'aeroporto di Riyad ha ferito diverse persone sabato, tra i rinnovati combattimenti nello Yemen <br /><a href=\"https://www.rt.com/news/647032-houthi-strike-on-riyadh-airport/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://www.rt.com/news/647032-houthi-strike-on-riyadh-airport/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 10 Oct 2026 21:01:02 +0000"
+    },
+    {
+      "titolo": "\"I bambini palestinesi hanno sogni\": l'iniziativa dei media giovanili insegna ai bambini nella Gaza dilaniata dalla guerra (VIDEO)",
+      "titolo_originale": "‘Palestinian children have dreams’: Youth media initiative teaches kids in war-torn Gaza (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca4dbf85f54061d86f6e98.png\" style=\"margin-right: 10px;\" /> Pionieri della Palestina ha ripreso la formazione dei media a Khan Younis, offrendo lezioni di produzione televisiva per bambini di Gaza, RT riporta <br /><a href=\"https://www.rt.com/news/647026-pioneers-palestine-gaza-children-media/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://www.rt.com/news/647026-pioneers-palestine-gaza-children-media/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 10 Oct 2026 20:12:00 +0000"
+    },
+    {
+      "titolo": "L'Ucraina dovrebbe eleggere il nuovo presidente – Trump (VIDEO)",
+      "titolo_originale": "Ukraine should elect new president – Trump (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca8356203027167535aa65.jpg\" style=\"margin-right: 10px;\" /> Ukraine should replace Vladimir Zelensky and “get a new president,” US President Donald Trump told reporters on Saturday <br /><a href=\"https://www.rt.com/news/647031-ukraine-should-elect-new-president/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://www.rt.com/news/647031-ukraine-should-elect-new-president/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sat, 10 Oct 2026 17:26:15 +0000"
+    },
+    {
+      "titolo": "The world keeps shopping for Russian tennis talent. Here’s why",
       "titolo_originale": "The world keeps shopping for Russian tennis talent. Here’s why",
-      "sommario": "Il tennis<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca5de220302703c26917c9.png\" style=\"margin-right: 10px;\" /> russo sta cambiando il suo approccio ai giovani giocatori, con un migliore allenamento, linee guida per i genitori e misure di salvaguardia contro il sovrallenamento <br /><a href=\"https://www.rt.com/pop-culture/647028-russian-tennis-talent/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca5de220302703c26917c9.png\" style=\"margin-right: 10px;\" /> Russian tennis is changing its approach to young players, with better coaching, parent guidelines, and safeguards against overtraining <br /><a href=\"https://www.rt.com/pop-culture/647028-russian-tennis-talent/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://www.rt.com/pop-culture/647028-russian-tennis-talent/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sat, 10 Oct 2026 16:50:24 +0000"
     },
     {
-      "titolo": "Trump ha revocato il divieto di carburante russo dopo che Zelensky ha respinto le sue richieste – Axios",
+      "titolo": "Trump lifted Russian fuel ban after Zelensky rejected his demands – Axios",
       "titolo_originale": "Trump lifted Russian fuel ban after Zelensky rejected his demands – Axios",
       "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6aca432685f54052e547e114.jpg\" style=\"margin-right: 10px;\" /> Trump reportedly reversed ban on Russian fuel exports after Ukraine’s Zelensky ignored his requests to stop strikes on refineries in Russia <br /><a href=\"https://www.rt.com/russia/647023-zelensky-rejected-trump-demands-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://www.rt.com/russia/647023-zelensky-rejected-trump-demands-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -784,33 +811,6 @@
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sat, 10 Oct 2026 09:49:25 +0000"
-    },
-    {
-      "titolo": "‘Cockroaches’ are back in the streets: Here is why India faces a new wave of protests",
-      "titolo_originale": "‘Cockroaches’ are back in the streets: Here is why India faces a new wave of protests",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ac9e19220302731ea2e99fe.png\" style=\"margin-right: 10px;\" /> The youth-led movement is demanding the removal of the election panel chief, after millions of names were cut from the electoral rolls <br /><a href=\"https://www.rt.com/india/647020-cockroaches-back-in-india/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/india/647020-cockroaches-back-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 06:27:02 +0000"
-    },
-    {
-      "titolo": "Markets too ready for conflict over Taiwan – US diplomat",
-      "titolo_originale": "Markets too ready for conflict over Taiwan – US diplomat",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ac9138f203027125d720e81.png\" style=\"margin-right: 10px;\" /> Investors are overestimating the threat of war over Taiwan, a senior US diplomat has said, arguing that Beijing does not want a conflict <br /><a href=\"https://www.rt.com/business/647000-china-us-taiwan-conflict/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/business/647000-china-us-taiwan-conflict/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 04:58:42 +0000"
-    },
-    {
-      "titolo": "Israeli attacks leave more dead in Gaza as ceasefire nears one year",
-      "titolo_originale": "Israeli attacks leave more dead in Gaza as ceasefire nears one year",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ac9506a85f540438a2df1b3.jpg\" style=\"margin-right: 10px;\" /> Israeli attacks have reportedly killed at least eight Palestinians and wounded several others in Gaza as the ceasefire nears its anniversary <br /><a href=\"https://www.rt.com/news/647011-israel-attacks-gaza-ceasefire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://www.rt.com/news/647011-israel-attacks-gaza-ceasefire/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sat, 10 Oct 2026 03:24:52 +0000"
     }
   ]
 }
