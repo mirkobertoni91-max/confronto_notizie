@@ -1,24 +1,69 @@
 {
-  "aggiornato": "2026-10-16T10:51:45.851997",
+  "aggiornato": "2026-10-16T16:13:23.455127",
   "totale_notizie": 90,
   "notizie": [
     {
-      "titolo": "Bambini di 5, 8 e 11 anni uccisi in una sparatoria a scuola negli Stati Uniti prima che un sospetto venisse colpito da un passante",
-      "titolo_originale": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-      "sommario": "Un insegnante è stato anche ucciso nell'attacco alla scuola elementare Silver Rail nella città di Bend, Oregon, dice la polizia.",
-      "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+      "titolo": "L'Ucraina respinge la Russia in prima linea, dove Starlink ha svolto un ruolo chiave",
+      "titolo_originale": "Ukraine pushes Russia back on front line where Starlink has played key role",
+      "sommario": "L'Operazione Vivaldi dell'Ucraina ha riconquistato un territorio cruciale nel Donbass, ma l'ottimismo è stato smorzato dall'inasprimento delle relazioni con il presidente Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:36:50 GMT"
+      "data": "Fri, 16 Oct 2026 16:00:30 GMT"
     },
     {
-      "titolo": "\"È davvero difficile da credere\" - Come si sono svolte le riprese della scuola elementare dell'Oregon",
-      "titolo_originale": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
-      "sommario": "Tre bambini di 5, 8 e 11 anni e un insegnante sono stati uccisi dopo che un sospetto di 16 anni ha aperto il fuoco nella città di Bend, dice la polizia locale.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+      "titolo": "Palestinesi e giornalisti statunitensi feriti da coloni israeliani in un attacco di raccolta in Cisgiordania",
+      "titolo_originale": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "sommario": "La BBC vede coloni mascherati attaccare i palestinesi che cercano di raccogliere le olive, in mezzo a un'ondata di incidenti simili.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 08:27:16 GMT"
+      "data": "Fri, 16 Oct 2026 14:31:04 GMT"
+    },
+    {
+      "titolo": "Zelensky afferma che l'Ucraina ha il diritto di difendersi dopo che Trump ha definito gli ultimi attacchi una \"vergogna\"",
+      "titolo_originale": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "sommario": "I leader dell'UE si stringono attorno al presidente ucraino dopo le nuove critiche di Donald Trump, che afferma che Zelenskyj è \"più difficile da lavorare di Putin\".",
+      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Fri, 16 Oct 2026 15:59:30 GMT"
+    },
+    {
+      "titolo": "Il Papa fotografato per la prima volta dopo l'intervento chirurgico e la diagnosi del cancro",
+      "titolo_originale": "Pope pictured for first time since surgery and cancer diagnosis",
+      "sommario": "Al pontefice è stato diagnosticato un cancro ai polmoni dopo aver subito un intervento chirurgico all'ospedale Gemelli di Roma martedì.",
+      "link": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Fri, 16 Oct 2026 14:36:39 GMT"
+    },
+    {
+      "titolo": "Il fondatore del partito indiano degli \"scarafaggi\" è stato arrestato prima della protesta",
+      "titolo_originale": "India's 'cockroach' party founder detained ahead of protest",
+      "sommario": "Il movimento guidato dai giovani aveva chiesto una protesta a Delhi dopo le detenzioni di massa della scorsa settimana e l'incarcerazione di due leader.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Fri, 16 Oct 2026 11:44:31 GMT"
+    },
+    {
+      "titolo": "I senatori statunitensi chiedono un'indagine sulle restrizioni Starlink dell'Ucraina",
+      "titolo_originale": "US senators call for investigation into Ukraine's Starlink restrictions",
+      "sommario": "L'Ucraina afferma che i limiti di velocità temporanei della rete Internet Starlink hanno interrotto le sue missioni sul campo di battaglia.",
+      "link": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Fri, 16 Oct 2026 14:19:50 GMT"
+    },
+    {
+      "titolo": "Papà multato dopo che il figlio, 2 anni, è morto nell'autunno dell'hotel di Cipro",
+      "titolo_originale": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "sommario": "Joshua Foster \"perse il controllo\" di suo figlio mentre gli mostrava la vista di un parco acquatico da una finestra.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Fri, 16 Oct 2026 14:21:32 GMT"
     },
     {
       "titolo": "I rapporti sugli attacchi alle navi vicino a Hormuz raggiungono un livello record poiché le esportazioni di petrolio rallentano",
@@ -30,112 +75,58 @@
       "data": "Fri, 16 Oct 2026 05:00:17 GMT"
     },
     {
-      "titolo": "Zelensky raduna il sostegno dell'UE mentre Trump afferma che il leader ucraino \"è più difficile da affrontare di Putin\"",
-      "titolo_originale": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
-      "sommario": "Il presidente degli Stati Uniti lancia una nuova ondata di feroci critiche a Volodymyr Zelensky prima di una riunione dei leader dell'UE a Bruxelles.",
-      "link": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+      "titolo": "Le proteste albanesi diventano violente: cosa sappiamo",
+      "titolo_originale": "Albanian protests turn violent: What we know",
+      "sommario": "La capitale albanese Tirana ha visto mesi di proteste da parte di un movimento antigovernativo \"Flamingo\", ma ciò che è iniziato martedì questa settimana è stato su una scala diversa.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:37:47 GMT"
+      "data": "Fri, 16 Oct 2026 14:33:32 GMT"
     },
     {
-      "titolo": "La Cina dice a Israele di fermare la \"creazione forzata\" di insediamenti in Cisgiordania",
-      "titolo_originale": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "sommario": "Il ministro degli Esteri cinese Wang Yi ha parlato con il presidente israeliano Isaac Herzog a margine di una conferenza.",
-      "link": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "titolo": "Pazienti in catene salvati da un presunto centro di riabilitazione illegale in Sudafrica",
+      "titolo_originale": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "sommario": "Alcuni dei 200 pazienti sono stati trovati con \"piaghe su tutto il corpo\" e in stanze sovraffollate.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 08:45:54 GMT"
+      "data": "Fri, 16 Oct 2026 14:57:51 GMT"
     },
     {
-      "titolo": "Papà multato dopo che il figlio, 2 anni, è morto nell'autunno dell'hotel di Cipro",
-      "titolo_originale": "Dad fined after son, 2, died in Cyprus hotel fall",
-      "sommario": "Joshua Foster \"perse il controllo\" di suo figlio mentre gli mostrava la vista di un parco acquatico da una finestra.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:28:56 GMT"
+      "titolo": "Ultima ora di attualità politica, in diretta | I negoziati procedono e la sinistra alternativa si riunirà il 29 novembre nella Comunità Valenciana",
+      "titolo_originale": "Última hora de la actualidad política, en directo | Las negociaciones avanzan y la izquierda alternativa concurrirá unida el 29-N en la Comunidad Valenciana",
+      "sommario": "Sumar fa un ultimo appello a Podemos per integrarsi nel Frente Amplio | Colau chiede un ultimo sforzo a Rufián (ERC): “Non siamo venuti per arrenderci” | Rufián: “Ho fatto tutto il possibile per semplificare l'offerta elettorale” | Il termine per presentare le coalizioni scade a mezzanotte",
+      "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Fri, 16 Oct 2026 15:40:10 GMT"
     },
     {
-      "titolo": "L'autobus colpisce il treno fermo sul lato francese del tunnel sotto la Manica, con 19 feriti",
-      "titolo_originale": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-      "sommario": "Due persone sono state trasportate in aereo in ospedale, ma nessuno sembrava essere in pericolo di vita, hanno detto i funzionari.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Thu, 15 Oct 2026 22:37:21 GMT"
+      "titolo": "Questi sono gli accordi territoriali già chiusi nella sinistra alternativa per le elezioni del 29-N",
+      "titolo_originale": "Estos son los acuerdos territoriales que ya están cerrados en la izquierda alternativa para las elecciones del 29-N",
+      "sommario": "Al momento, Podemos si è integrato nelle Isole Canarie e nella Comunità Valenciana in coalizioni con la Sinistra Unita e altre forze autonome",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/estos-son-los-acuerdos-territoriales-que-ya-estan-cerrados-en-la-izquierda-alternativa-para-las-elecciones-del-29-n.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Fri, 16 Oct 2026 11:58:35 GMT"
     },
     {
-      "titolo": "Almeno 33 alunni e insegnanti uccisi dopo il crollo del tetto della scuola in Pakistan",
-      "titolo_originale": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "sommario": "I bambini sono stati sepolti sotto i detriti dopo che il tetto si è schiantato contro tre aule, dice la polizia.",
-      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Thu, 15 Oct 2026 15:26:16 GMT"
-    },
-    {
-      "titolo": "Trump annulla la diretta streaming dell'esecuzione dell'aggressore di Fort Hood da parte del plotone d'esecuzione",
-      "titolo_originale": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "sommario": "Trump ha detto che alcuni \"preferirebbero non assistere\" all'uccisione di Nidal Hasan, la prima esecuzione militare in oltre 60 anni.",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Thu, 15 Oct 2026 17:47:22 GMT"
-    },
-    {
-      "titolo": "La polizia dice che la soffiata ha sventato il complotto del sospetto adolescente statunitense per attaccare il tempio indù",
-      "titolo_originale": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "sommario": "Il presunto complotto è fallito solo perché la pistola del sospetto diciannovenne si è inceppata fuori dal luogo di culto, dice la polizia.",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Thu, 15 Oct 2026 23:27:21 GMT"
-    },
-    {
-      "titolo": "Ayuso chiude la stazione della metropolitana Sol per eseguire le operazioni di pulizia: \"Ci sono condizioni di insalubrità all'interno\"",
-      "titolo_originale": "Ayuso cierra la estación de metro Sol para realizar tareas de limpieza: “Hay condiciones de insalubridad dentro”",
-      "sommario": "La presidente di Madrid annuncia che sarà chiusa nel corso della giornata e chiede al più presto lo sgombero della piazza: \"È la legge della giungla\"",
+      "titolo": "Ayuso chiude la stazione solare \"fino a nuovo avviso\" per costringere Sanchez a sgomberare il campeggio",
+      "titolo_originale": "Ayuso cierra la estación de Sol “hasta nuevo aviso” para obligar a Sánchez a desalojar la acampada",
+      "sommario": "La presidentessa di Madrid assicura che la sporcizia del campo mette a rischio la sicurezza dei lavoratori, ma Renfe e i sindacati della metropolitana lo negano",
       "link": "https://elpais.com/espana/madrid/2026-10-16/ayuso-cierra-la-estacion-de-metro-sol-para-realizar-tareas-de-limpieza-hay-condiciones-de-insalubridad-dentro.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Fri, 16 Oct 2026 08:57:12 GMT"
     },
     {
-      "titolo": "Gabriel Rufián: \"Ho fatto tutto il possibile per semplificare l'offerta elettorale\"",
-      "titolo_originale": "Gabriel Rufián: “He hecho todo lo posible para simplificar la oferta electoral”",
-      "sommario": "Il capolista dell'ERC per il 29-N accusa la direzione del suo partito e quella di Comuns di non aver concordato in Catalogna",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-10-16/gabriel-rufian-he-hecho-todo-lo-posible-para-simplificar-la-oferta-electoral.html",
+      "titolo": "Frederiksen vuole che Bruxelles “esamini” la regolarizzazione dei migranti dalla Spagna",
+      "titolo_originale": "Frederiksen quiere que Bruselas “examine” la regularización de migrantes de España",
+      "sommario": "Il primo ministro danese e l'italiana Meloni guidano un gruppo di paesi europei molto critici nei confronti della politica migratoria di Sanchez che considerano \"contraria\" al sentimento maggioritario nell'UE. Sánchez ribatterà con \"cifre schiaccianti\" i rimproveri e difenderà una gestione migratoria \"responsabile, solidale\" e \"in linea con il rispetto dei diritti umani\"",
+      "link": "https://elpais.com/espana/2026-10-16/meloni-y-frederiksen-frente-comun-contra-la-regularizacion-migratoria-de-sanchez-en-la-cumbre-europea.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Fri, 16 Oct 2026 09:31:58 GMT"
-    },
-    {
-      "titolo": "Ultima ora di attualità politica, in diretta | Sumar lancia un ultimo appello a Podemos per integrarsi nel Frente Amplio",
-      "titolo_originale": "Última hora de la actualidad política, en directo | Sumar hace un último llamamiento a Podemos para integrarse en el Frente Amplio",
-      "sommario": "Questo venerdì scade il termine per presentare le coalizioni alle elezioni del 29 novembre | Rufián: “Ho fatto tutto il possibile per semplificare l'offerta elettorale” | Ayuso annuncia la chiusura della stazione della metropolitana di Sol per “condizioni di insalubrità”",
-      "link": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 16 Oct 2026 10:42:20 GMT"
-    },
-    {
-      "titolo": "Spagna e Italia concordano di porre fine ai controlli Schengen da parte di Ceuta",
-      "titolo_originale": "España e Italia acuerdan poner fin a los controles Schengen por Ceuta",
-      "sommario": "Sanchez e Meloni concordano la riapertura dello spazio frontaliero anche se Roma prolunga di altri sette giorni i controlli ai viaggiatori provenienti dal territorio spagnolo",
-      "link": "https://elpais.com/espana/2026-10-16/espana-e-italia-coordinaran-el-fin-de-los-controles-schengen-por-ceuta.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 16 Oct 2026 08:00:38 GMT"
-    },
-    {
-      "titolo": "Terremoto editoriale: Isabel Allende vince il Premio Planeta 2026 con il sequel de ‘La casa degli spiriti’",
-      "titolo_originale": "Terremoto editorial: Isabel Allende gana el Premio Planeta 2026 con la secuela de ‘La casa de los espíritus’",
-      "sommario": "L'autrice cilena, legata a Plaza & Janés dal 1982, ottiene un milione di euro per pubblicare la seconda parte di quel romanzo. Il finalista è lo sceneggiatore Sergio Hernández",
-      "link": "https://elpais.com/cultura/2026-10-15/terremoto-editorial-isabel-allende-gana-el-premio-planeta-2026-con-la-secuela-de-la-casa-de-los-espiritus.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Thu, 15 Oct 2026 20:53:41 GMT"
+      "data": "Fri, 16 Oct 2026 03:30:01 GMT"
     },
     {
       "titolo": "L'allerta per le uova con salmonella è saltata in un bar di Vitoria ed ha origine in una macro azienda agricola dell'Aragona",
@@ -147,28 +138,28 @@
       "data": "Fri, 16 Oct 2026 03:30:01 GMT"
     },
     {
-      "titolo": "Sparatoria in una scuola elementare dell'Oregon, morti tre bambini e un insegnante",
-      "titolo_originale": "Un tiroteo en una escuela primaria de Oregón deja tres niños y un profesor muertos",
-      "sommario": "L'uomo armato è stato ucciso da una persona che era sul posto e lo ha affrontato, hanno riferito le autorità",
-      "link": "https://elpais.com/us/2026-10-16/un-tiroteo-en-una-escuela-primaria-de-oregon-deja-tres-ninos-y-un-profesor-muertos.html",
+      "titolo": "Valdano: \"Si parla poco del fatto che i calciatori fanno terapia\"",
+      "titolo_originale": "Valdano: “Se habla poco de que los futbolistas hacen terapia”",
+      "sommario": "Nel terzo episodio di questa stagione di ‘Terzo Atto’, il comunicatore ed ex calciatore parla della necessità di guardare avanti nella vita, della dignità umana, della sua passione per la lettura, dei mali del calcio moderno e della figura di Maradona",
+      "link": "https://elpais.com/eps/2026-10-16/valdano-se-habla-poco-de-que-los-futbolistas-hacen-terapia.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Fri, 16 Oct 2026 02:38:54 GMT"
+      "data": "Fri, 16 Oct 2026 14:00:00 GMT"
+    },
+    {
+      "titolo": "Terremoto editoriale: Isabel Allende vince il Premio Planeta 2026 con il sequel de ‘La casa degli spiriti’",
+      "titolo_originale": "Terremoto editorial: Isabel Allende gana el Premio Planeta 2026 con la secuela de ‘La casa de los espíritus’",
+      "sommario": "L'autrice cilena, legata a Plaza & Janés dal 1982, ottiene un milione di euro per pubblicare la seconda parte di quel romanzo. Il finalista è lo sceneggiatore Sergio Hernández",
+      "link": "https://elpais.com/cultura/2026-10-15/terremoto-editorial-isabel-allende-gana-el-premio-planeta-2026-con-la-secuela-de-la-casa-de-los-espiritus.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Thu, 15 Oct 2026 20:53:41 GMT"
     },
     {
       "titolo": "Ferran Adrià: \"La Spagna è il paese che comunica peggio al mondo. La nostra cucina non ha nemmeno avuto un nome”",
       "titolo_originale": "Ferran Adrià: “España es el país que peor comunica del mundo. Nuestra cocina ni siquiera ha tenido nombre”",
       "sommario": "Il cuoco catalano che è diventato uno degli spagnoli più famosi e venerati al mondo recupera elBulli, ma nella finzione. La serie ‘Gènesi’ racconta su Netflix la storia di qualcosa che era molto più di un ristorante",
       "link": "https://elpais.com/icon/2026-10-16/ferran-adria-en-el-times-salio-que-yo-envenenaba-a-la-gente-muy-fuerte-tiu-espana-es-el-pais-que-peor-comunica-del-mundo-nuestra-cocina-ni-siquiera-ha-tenido-nombre.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Fri, 16 Oct 2026 03:30:01 GMT"
-    },
-    {
-      "titolo": "‘L'invito’: ‘Sentimentale’ era divertente. Qui non la prendo",
-      "titolo_originale": "‘La invitación’: ‘Sentimental’ tenía gracia. Aquí no la pillo",
-      "sommario": "Questa versione americana della commedia di Cesc Gay è diretta da Olivia Wilde. Che la interpreta anche lei. Né l'uno né l'altro sarà memorabile per me",
-      "link": "https://elpais.com/cultura/cine/2026-10-16/la-invitacion-sentimental-tenia-gracia-aqui-no-la-pillo.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Fri, 16 Oct 2026 03:30:01 GMT"
@@ -183,94 +174,103 @@
       "data": "Fri, 16 Oct 2026 03:30:01 GMT"
     },
     {
-      "titolo": "In DIRETTA, guerra in Ucraina: \"Starlink è davvero indispensabile per Kiev\" e l’UE riconosce che \"non può sostituire questa capacità a breve termine\"",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : « Starlink est vraiment indispensable pour Kiev » et l’UE reconnaît qu’elle « ne peut pas remplacer cette capacité à court terme »",
-      "sommario": "Kaja Kallas, capo della diplomazia europea, ha rilasciato queste dichiarazioni mentre l’esercito ucraino si lamenta delle restrizioni della rete satellitare di proprietà di Elon Musk, cruciale per il suo esercito.",
-      "link": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-starlink-est-vraiment-indispensable-pour-kiev-et-l-ue-reconnait-qu-elle-ne-peut-pas-remplacer-cette-capacite-a-court-terme_6791198_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 12:27:33 +0200"
+      "titolo": "La gara è tra PP e Vox",
+      "titolo_originale": "La carrera es entre el PP y Vox",
+      "sommario": "Le destre si sono date una tregua unite dalla sfiducia verso Pedro Sánchez, ma Feijóo deve rendersi conto che gli ultras lo stanno minando",
+      "link": "https://elpais.com/opinion/2026-10-16/la-carrera-es-entre-el-pp-y-vox.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Fri, 16 Oct 2026 03:30:01 GMT"
     },
     {
-      "titolo": "Etiopia: in Tigré, un'amministrazione ad interim istituita dal governo federale",
-      "titolo_originale": "Ethiopie : au Tigré, une administration intérimaire mise en place par le gouvernement fédéral",
-      "sommario": "La regione, in preda ai combattimenti da diverse settimane, era guidata fino ad allora dai ribelli del Fronte di Liberazione del Popolo del Tigrè.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/10/16/ethiopie-au-tigre-une-administration-interimaire-mise-en-place-par-le-gouvernement-federal_6795509_3212.html",
+      "titolo": "Il grano, un'arma tra speculazioni, mezzi di pressione e rischi climatici",
+      "titolo_originale": "Le blé, une arme entre spéculations, moyens de pression et aléas climatiques",
+      "sommario": "Le fluttuazioni del prezzo dei cereali non derivano solo da shock esterni (guerre, cattivi raccolti), ma dalle pressioni del mercato, dalla sua organizzazione e dalle velleità dei grandi speculatori. La prova attraverso la storia.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/16/le-ble-une-arme-entre-speculations-moyens-de-pression-et-aleas-climatiques_6795579_3234.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 12:24:01 +0200"
+      "data": "Fri, 16 Oct 2026 18:00:19 +0200"
     },
     {
-      "titolo": "Tra Turchia e Russia, relazioni messe alla prova dagli attacchi alle navi commerciali nel Mar Nero",
-      "titolo_originale": "Entre la Turquie et la Russie, des relations mises à l’épreuve par les attaques contre des navires commerciaux en mer Noire",
-      "sommario": "Ankara rifiuta di accusare apertamente Mosca del moltiplicarsi degli attacchi di droni. La Turchia vuole evitare un'estensione della guerra contro l’Ucraina per preservare i suoi interessi commerciali e strategici.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/entre-la-turquie-et-la-russie-des-relations-mises-a-l-epreuve-par-les-attaques-contre-des-navires-commerciaux-en-mer-noire_6795473_3210.html",
+      "titolo": "Violenze e aggressioni sessuali: in Svezia i licei d’élite scossi da scandali",
+      "titolo_originale": "Violences et agressions sexuelles : en Suède, les lycées d’élite secoués par des scandales",
+      "sommario": "Sul modello dei prestigiosi collegi britannici, due istituti privati si trovano al centro di accese polemiche, dopo diversi casi giudiziari e nuove accuse contro cinque studenti.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/16/violences-et-agressions-sexuelles-en-suede-les-lycees-d-elite-secoues-par-des-scandales_6795574_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 12:00:06 +0200"
+      "data": "Fri, 16 Oct 2026 17:47:29 +0200"
     },
     {
-      "titolo": "La Spagna ha vissuto il mese di settembre più caldo mai registrato con una deviazione di 3,4°C sopra la norma",
-      "titolo_originale": "L’Espagne a connu le mois de septembre le plus chaud jamais enregistré avec un écart de 3,4 °C au-dessus de la normale",
-      "sommario": "\"Per la prima volta, un mese di settembre ha presentato una temperatura media superiore alla media estiva normale\", ha insistito l’agenzia meteorologica spagnola.",
-      "link": "https://www.lemonde.fr/planete/article/2026/10/16/l-espagne-a-connu-le-mois-de-septembre-le-plus-chaud-jamais-enregistre-avec-un-ecart-de-3-4-c-au-dessus-de-la-normale_6795471_3244.html",
+      "titolo": "A Verdun, con i primi chiamati del servizio nazionale, nuovi ambasciatori dello“spirito di difesa”",
+      "titolo_originale": "A Verdun, avec les premiers appelés du service national, nouveaux ambassadeurs de l’« esprit de défense »",
+      "sommario": "Questo nuovo dispositivo, da non confondere con il servizio nazionale universale, ormai sepolto, dovrebbe coinvolgere fino a 10.000 persone entro il 2030 e costa 2,3 miliardi di euro solo per questo primo anno di servizio. Una parte di questi volontari andrà a rafforzare la riserva operativa dell'esercito.",
+      "link": "https://www.lemonde.fr/societe/article/2026/10/16/a-verdun-avec-les-premiers-appeles-du-service-national-nouveaux-ambassadeurs-de-l-esprit-de-defense_6795571_3224.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 11:48:53 +0200"
+      "data": "Fri, 16 Oct 2026 17:31:16 +0200"
     },
     {
-      "titolo": "Dieci anni dopo lo smantellamento della \"giungla\" di Calais, \"non c'è più una, ma delle giungle\", deplorano le associazioni",
-      "titolo_originale": "Dix ans après le démantèlement de la « jungle » de Calais, « il n’y a plus une, mais des jungles », déplorent les associations",
-      "sommario": "Tra le 2.000 e le 3.000 persone \"sopravvivono\" ancora in luoghi di vita informali sparsi sul litorale del Nord e del Pas-de-Calais, nella speranza di raggiungere l’Inghilterra, secondo diverse associazioni e ONG.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/dix-ans-apres-le-demantelement-de-la-jungle-de-calais-il-n-y-a-plus-une-mais-des-jungles-deplorent-les-associations_6795468_3210.html",
+      "titolo": "Hyron Andrews, rugbista sudafricano dei Johannesburg Lions, trovato morto alla vigilia di una partita in Francia",
+      "titolo_originale": "Hyron Andrews, joueur de rugby sud-africain des Lions de Johannesburg, retrouvé mort à la veille d’un match en France",
+      "sommario": "Questo fine settimana verrà osservato un minuto di silenzio su tutti i campi da rugby europei. La partita di Champions Cup contro La Rochelle sabato è mantenuta \"in suo onore\".",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/10/16/hyron-andrews-joueur-de-rugby-sud-africain-des-lions-de-johannesburg-retrouve-mort-a-la-veille-d-un-match-en-france_6795568_3382.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 11:13:24 +0200"
+      "data": "Fri, 16 Oct 2026 17:26:09 +0200"
     },
     {
-      "titolo": "USA: sparatoria in una scuola elementare dell'Oregon",
-      "titolo_originale": "Etats-Unis : une fusillade dans une école primaire de l’Oregon",
-      "sommario": "L’autore degli spari, un adolescente di 16 anni, è stato ucciso da un passante armato giovedì prima che la polizia arrivasse sul posto.",
-      "link": "https://www.lemonde.fr/international/video/2026/10/16/etats-unis-une-fusillade-dans-une-ecole-primaire-de-l-oregon_6795359_3210.html",
+      "titolo": "DAL VIVO, guerra in Ucraina: è “più facile” comunicare con Donald Trump che con Vladimir Putin, afferma Volodymyr Zelensky",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : il est « plus facile » de communiquer avec Donald Trump qu’avec Vladimir Poutine, affirme Volodymyr Zelensky",
+      "sommario": "Il presidente ucraino ha risposto al suo omologo americano, che giovedì aveva detto che era \"più difficile lavorare con Zelensky che con Putin\". Al vertice dei Ventisette, venerdì a Bruxelles, Volodymyr Zelensky ha chiesto 70 miliardi di euro in più nel 2027 all'Unione europea.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/16/en-direct-guerre-en-ukraine-il-est-plus-facile-de-communiquer-avec-donald-trump-qu-avec-vladimir-poutine-affirme-volodymyr-zelensky_6791198_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 08:49:12 +0200"
+      "data": "Fri, 16 Oct 2026 17:21:07 +0200"
     },
     {
-      "titolo": "I progressi della deterrenza nucleare nordcoreana dai sottomarini preoccupano Seoul",
-      "titolo_originale": "Les progrès de la dissuasion nucléaire nord-coréenne depuis des sous-marins inquiètent Séoul",
-      "sommario": "L’agenzia ufficiale nordcoreana Kcna ha comunicato giovedì 15 ottobre il lancio di due missili che avrebbero potuto avvenire da un sottomarino. Se confermato, questo nuovo passo nella deterrenza nucleare spingerà la Corea del Sud ad accelerare il proprio progetto di sottomarini d’attacco a propulsione nucleare.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/les-progres-de-la-dissuasion-nucleaire-nord-coreenne-depuis-des-sous-marins-inquietent-seoul_6795287_3210.html",
+      "titolo": "Nel Regno Unito, la riforma del governo laburista per svuotare le prigioni è controversa",
+      "titolo_originale": "Au Royaume-Uni, la réforme du gouvernement travailliste pour vider les prisons fait polémique",
+      "sommario": "Per alleviare la pressione demografica nelle carceri, Londra ha messo in atto, dal 2024, un programma di liberazione anticipata. Entro giugno 2027, circa 5.000 nuovi detenuti saranno estratti dalle loro celle, dopo aver scontato il 30% della loro pena.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/16/au-royaume-uni-la-reforme-du-gouvernement-travailliste-pour-vider-les-prisons-fait-polemique_6795562_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 07:28:51 +0200"
+      "data": "Fri, 16 Oct 2026 16:56:34 +0200"
     },
     {
-      "titolo": "In Messico, sei laghi dello Yucatan chiusi dopo il rilevamento dell'ameba \"mangia cervello\"",
-      "titolo_originale": "Au Mexique, six lacs du Yucatan fermés après la détection de l’amibe « mangeuse de cerveau »",
-      "sommario": "Un maestro di sci nautico è morto a settembre dopo aver contratto l’ameba “Naegleria fowleri”. Le autorità hanno esortato i residenti a consultare al più presto un medico se sono stati possibilmente a contatto con acqua contaminata.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/au-mexique-six-lacs-du-yucatan-fermes-apres-la-detection-de-l-amibe-mangeuse-de-cerveau_6795252_3210.html",
+      "titolo": "Teschi senegalesi: perché la restituzione di resti umani è una questione?",
+      "titolo_originale": "Crânes sénégalais : pourquoi la restitution de restes humains pose-t-elle question ?",
+      "sommario": "In Senegal, un deputato chiede il ritorno di diversi teschi, raccolti durante la colonizzazione francese. Riapre così il dibattito sulla questione della restituzione dei resti umani.",
+      "link": "https://www.lemonde.fr/videos/video/2026/10/16/cranes-senegalais-pourquoi-la-restitution-de-restes-humains-pose-t-elle-question_6795556_1669088.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 06:58:18 +0200"
+      "data": "Fri, 16 Oct 2026 16:30:12 +0200"
     },
     {
-      "titolo": "Guerra in Ucraina: Volodymyr Zelensky prende atto della ripresa degli attacchi contro le raffinerie russe, \"una vergogna\" secondo Donald Trump",
-      "titolo_originale": "Guerre en Ukraine : Volodymyr Zelensky acte la reprise des frappes contre les raffineries russes, « une honte » selon Donald Trump",
-      "sommario": "La fine della tregua voluta dal presidente americano segna un'escalation delle tensioni tra i due capi di Stato, dopo l’accordo tra Washington e Mosca sulla fornitura di gasolio russo.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/guerre-en-ukraine-volodymyr-zelensky-acte-la-reprise-des-frappes-contre-les-raffineries-russes-une-honte-selon-donald-trump_6795219_3210.html",
+      "titolo": "Il sud dell'Inghilterra affronta la prima \"grave siccità\" della sua storia",
+      "titolo_originale": "Le sud de l’Angleterre confronté à la première « sécheresse sévère » de son histoire",
+      "sommario": "Le autorità sono preoccupate per il livello dei grandi serbatoi che forniscono acqua potabile alla popolazione. I gestori sono autorizzati a derogare alle norme ambientali di protezione dell'ambiente naturale.",
+      "link": "https://www.lemonde.fr/planete/article/2026/10/16/le-sud-de-l-angleterre-confronte-a-la-premiere-secheresse-severe-de-son-histoire_6795555_3244.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 06:47:03 +0200"
+      "data": "Fri, 16 Oct 2026 16:30:04 +0200"
     },
     {
-      "titolo": "La Groenlandia mira a vietare l’estrazione in acque profonde fino al 2029",
-      "titolo_originale": "Le Groenland vise l’interdiction de l’exploitation minière en eaux profondes jusqu’en 2029",
-      "sommario": "Questo territorio autonomo danese teme le conseguenze che lo sfruttamento minerario in alto mare potrebbe avere sull'ambiente. In virtù della proposta adottata giovedì dal Parlamento, il governo groenlandese può prorogare la moratoria a scaglioni di due anni.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/16/le-groenland-vise-l-interdiction-de-l-exploitation-miniere-en-eaux-profondes-jusqu-en-2029_6795185_3210.html",
+      "titolo": "In Cisgiordania, una giornalista del Washington Post picchiata dai coloni",
+      "titolo_originale": "En Cisjordanie, une journaliste du « Washington Post » rouée de coups par des colons",
+      "sommario": "Heidi Levine, che lavora in Medio Oriente da decenni, stava coprendo la raccolta delle olive vicino ai villaggi di Turmus Ayya e Khirbet Abu Falah quando è stata attaccata.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/16/en-cisjordanie-une-journaliste-du-washington-post-rouee-de-coups-par-des-colons_6795552_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Fri, 16 Oct 2026 06:15:09 +0200"
+      "data": "Fri, 16 Oct 2026 15:59:57 +0200"
+    },
+    {
+      "titolo": "India, nuovo arresto del leader del movimento degli “scarafaggi” a Nuova Delhi, sullo sfondo di polemiche elettorali",
+      "titolo_originale": "En Inde, nouvelle arrestation du leader du mouvement des « cafards » à New Delhi, sur fond de controverse électorale",
+      "sommario": "La mobilitazione della gioventù indiana sta crescendo mentre l’opposizione e il Partito del popolo scarafaggio denunciano una revisione delle liste elettorali, giudicata discriminatoria da molti manifestanti.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/16/en-inde-nouvelle-arrestation-du-leader-du-mouvement-des-cafards-a-new-delhi-sur-fond-de-controverse-electorale_6795550_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Fri, 16 Oct 2026 14:45:45 +0200"
     },
     {
       "titolo": "Lasciando gli Stati Uniti: l'erosione del mio sogno americano",
@@ -372,31 +372,31 @@
       "data": "Fri, 16 Oct 2026 09:46:01 +0200"
     },
     {
-      "titolo": "A Venezia ticket d'accesso 12 giorni in più, anche a Ferragosto",
-      "titolo_originale": "A Venezia ticket d'accesso 12 giorni in più, anche a Ferragosto",
-      "sommario": "Le giornate di applicazione saranno 72, prima erano 60. Importo massimo 10 euro",
-      "link": "https://www.ansa.it/canale_viaggi/regione/veneto/2026/10/15/a-venezia-ticket-daccesso-12-giorni-in-piu-anche-a-ferragosto_3e3639cb-9993-4523-bf8a-f172e5e5dfa6.html",
+      "titolo": "Trovata una molecola che protegge la memoria nell'invecchiamento",
+      "titolo_originale": "Trovata una molecola che protegge la memoria nell'invecchiamento",
+      "sommario": "Osservata nei topi, apre a terapie per prevenire o ritardare il declino cognitivo",
+      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/16/trovata-una-molecola-che-protegge-la-memoria-nellinvecchiamento-_aadfedf7-93ab-43ac-b764-47eaf0101d0e.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 15 Oct 2026 18:36:09 +0200"
+      "data": "Fri, 16 Oct 2026 08:00:08 +0200"
     },
     {
-      "titolo": "Il premier Burnham assicura: il gatto mascotte di Downing Street sta bene",
-      "titolo_originale": "Il premier Burnham assicura: il gatto mascotte di Downing Street sta bene",
-      "sommario": "'Larry è stato operato ma ora si sta riprendendo'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/15/il-premier-burnham-assicura-il-gatto-mascotte-di-downing-street-sta-bene_2cbaf55a-c1f6-4ed5-ad82-500261fa4e16.html",
+      "titolo": "ChatGPT la più usata, cresce Gemini ed è prima sul mobile",
+      "titolo_originale": "ChatGPT la più usata, cresce Gemini ed è prima sul mobile",
+      "sommario": "Esperto: \"Competizione molto aspra sul piano delle nuove funzioni e su quello mediatico\"",
+      "link": "https://www.ansa.it/canale_tecnologia/notizie/future_tech/2026/10/16/chatgpt-piu-usata-da-italiani-ma-cresce-gemini-ed-e-prima-su-mobile_2d912ed1-4aa3-4828-bf6c-84fca790c984.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 15 Oct 2026 20:16:29 +0200"
+      "data": "Fri, 16 Oct 2026 16:30:17 +0200"
     },
     {
-      "titolo": "Roberto Bolle: \"Con 'Caravaggio' porto un messaggio di pace necessario\"",
-      "titolo_originale": "Roberto Bolle: \"Con 'Caravaggio' porto un messaggio di pace necessario\"",
-      "sommario": "Dopo dieci anni, la star della danza torna domani sera al Teatro Lirico di Cagliari",
-      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/10/15/roberto-bolle-con-caravaggio-porto-un-messaggio-di-pace-necessario_3d33be9a-783f-4cee-89ec-ab2eb25fc9d8.html",
+      "titolo": "A Ttg l'intervista al robot umanoide: 'Non provo emozioni, ma imparo da voi'",
+      "titolo_originale": "A Ttg l'intervista al robot umanoide: 'Non provo emozioni, ma imparo da voi'",
+      "sommario": "Portato da Assoparchi, 'posso sembrare intelligente ma non sono indipendente'",
+      "link": "https://www.ansa.it/canale_viaggi/speciali/ttg/2026/10/16/ansa-a-ttg-lintervista-al-robot-umanoide-non-provo-emozioni-ma-imparo-da-voi_2230fc27-c2d8-412a-9ab0-68d134d7f46b.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 15 Oct 2026 21:44:27 +0200"
+      "data": "Fri, 16 Oct 2026 17:43:01 +0200"
     },
     {
       "titolo": "Dopo il Covid, il boom dei pets e lo stress del veterinario",
@@ -408,49 +408,121 @@
       "data": "Thu, 15 Oct 2026 06:44:55 +0200"
     },
     {
-      "titolo": "Gli studenti in piazza per il 'No Meloni Day', cortei in tutta Italia. A Roma bruciate le bandiere di Usa e Israele",
-      "titolo_originale": "Gli studenti in piazza per il 'No Meloni Day', cortei in tutta Italia. A Roma bruciate le bandiere di Usa e Israele",
-      "sommario": "I liceali: 'Nella capitale siamo in 20mila'. A Torino imbrattate le foto dei politici, lancio di uova contro la polizia",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-in-piazza-per-il-no-meloni-day-cortei-in-tutta-italia.-a-roma_1e152b63-e67e-4efd-9ec7-0ca3507f55e3.html",
+      "titolo": "La telefonata tra il Papa e Putin: 'Una tregua per la città di Oleshky'",
+      "titolo_originale": "La telefonata tra il Papa e Putin: 'Una tregua per la città di Oleshky'",
+      "sommario": "Confermato l'impegno della Santa Sede per la pace",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/la-telefonata-tra-il-papa-e-putin-una-tregua-per-la-citta-di-oleshky_3eac7241-14db-47b1-9a85-d63d22ba5cbd.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 12:42:30 +0200"
+      "data": "Fri, 16 Oct 2026 18:04:23 +0200"
     },
     {
-      "titolo": "Atti persecutori contro la ex, dj Basciano rinviato a giudizio",
-      "titolo_originale": "Atti persecutori contro la ex, dj Basciano rinviato a giudizio",
-      "sommario": "Accolta la richiesta della Procura. Processo al via il 20 gennaio",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/atti-persecutori-contro-la-ex-dj-basciano-rinviato-a-giudizio_7bf31cd5-538d-4883-bc7b-a789fa5f226a.html",
+      "titolo": "Gli studenti in piazza, cortei in tutta Italia. A Torino lancio di sassi contro gli agenti",
+      "titolo_originale": "Gli studenti in piazza, cortei in tutta Italia. A Torino lancio di sassi contro gli agenti",
+      "sommario": "Imbrattate anche le foto dei politici. A Roma petardi contro il ministero l'Istruzione, bruciate le bandiere di Usa e Israele",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-in-piazza-cortei-in-tutta-italia.-a-torino-lancio-di-sassi-contro_1e152b63-e67e-4efd-9ec7-0ca3507f55e3.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 12:26:49 +0200"
+      "data": "Fri, 16 Oct 2026 17:21:32 +0200"
+    },
+    {
+      "titolo": "Trump strappa con Kiev. Zelensky all'Ue: \"La guerra nel 2027 costerà 155 miliardi, ne chiedo 70 a voi\"",
+      "titolo_originale": "Trump strappa con Kiev. Zelensky all'Ue: \"La guerra nel 2027 costerà 155 miliardi, ne chiedo 70 a voi\"",
+      "sommario": "Il leader ucraino al Consiglio europeo: \"I veri leader sono in Ue\". Fonti di Madrid: 'Intesa ieri tra Meloni e Sanchez su revoca controlli'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-allue-la-guerra-nel-2027-costera_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
+      "fonte": "ANSA",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 16:52:04 +0200"
     },
     {
       "titolo": "Disagi al traffico aereo per un guasto alla rete di controllo voli: 'Non dovuto ad un attacco hacker'",
       "titolo_originale": "Disagi al traffico aereo per un guasto alla rete di controllo voli: 'Non dovuto ad un attacco hacker'",
-      "sommario": "Enav, anomalie alla rete che supporta i servizi di controllo",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/disagi-al-traffico-aereo-per-guasto-alla-rete-di-controllo-voli-non_d9146593-74cc-47ae-9c1f-a00c71879b3f.html",
+      "sommario": "Enav: 'Ripristinata al 100% l'operatività'",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/disagi-al-traffico-aereo-per-un-guasto-alla-rete-di-controllo-voli-non_d9146593-74cc-47ae-9c1f-a00c71879b3f.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 12:40:21 +0200"
+      "data": "Fri, 16 Oct 2026 16:07:10 +0200"
     },
     {
-      "titolo": "Tensioni all'ex Ghetto ebraico a Roma, insulti e urla contro l'Anpi",
-      "titolo_originale": "Tensioni all'ex Ghetto ebraico a Roma, insulti e urla contro l'Anpi",
-      "sommario": "Presidente dell'Anpi provinciale: 'Siamo stati attaccati, non ci vogliono in questa piazza'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/tensioni-allex-ghetto-ebraico-a-roma-insulti-e-urla-contro-lanpi_5653671b-f5b8-43df-9924-ba894947fe50.html",
+      "titolo": "Sole24ore: 'Ai magistrati in manovra quasi 100mila euro a testa'",
+      "titolo_originale": "Sole24ore: 'Ai magistrati in manovra quasi 100mila euro a testa'",
+      "sommario": "A seguito di sentenze del Consiglio di stato sulle retribuzioni",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/16/sole24ore-ai-magistrati-in-manovra-quasi-100mila-euro-a-testa_b6cd7128-3e6f-4c14-951d-d05be93b6389.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 12:32:35 +0200"
+      "data": "Fri, 16 Oct 2026 17:12:04 +0200"
     },
     {
-      "titolo": "La protesta dei tir parte dal Sud, presidi contro il caro carburante",
-      "titolo_originale": "La protesta dei tir parte dal Sud, presidi contro il caro carburante",
-      "sommario": "Camion posizionati a bordo strada, pesanti disagi alla circolazione stradale",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/la-protesta-dei-tir-parte-dal-sud.-presidi-in-calabria-disagi-in-basilicata_cfaea5f2-bd05-4910-85f9-d1c44b6f2f23.html",
-      "fonte": "ANSA",
+      "titolo": "Salis: “Manca un leader riconosciuto del centrosinistra”. Risponde Schlein: “Alleati si può vincere”",
+      "titolo_originale": "Salis: “Manca un leader riconosciuto del centrosinistra”. Risponde Schlein: “Alleati si può vincere”",
+      "sommario": "Per la sindaca di Genova la coalizione fatica perché “nei decenni ha elaborato anticorpi potentissimi contro la vittoria. Abbiamo frammentato il Pd, se fosse stato più inclusivo ora starebbe al 30%”. La segretaria dem: “Il partito non è mai stato così unito”",
+      "link": "https://www.repubblica.it/politica/2026/10/16/news/centrosinistra_salis_leader_schlein_pd-425653143/",
+      "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 12:29:49 +0200"
+      "data": "Fri, 16 Oct 2026 15:33:04 +0000"
+    },
+    {
+      "titolo": "Leone sente al telefono Putin dal Gemelli e chiede una tregua per la città ucraina di Oleshky",
+      "titolo_originale": "Leone sente al telefono Putin dal Gemelli e chiede una tregua per la città ucraina di Oleshky",
+      "sommario": "È il secondo colloquio telefonico dopo quello di inizio pontificato, il 4 giugno 2025. Il presidente russo non aveva risposto a Francesco. Il Vaticano: “Grave situazione umanitaria nella città, consentire l’arrivo di aiuti alimentari e sanitari e l’evacuazione volontaria e sicura della popolazione civile”",
+      "link": "https://www.repubblica.it/cronaca/2026/10/16/news/leone_sente_al_telefono_putin_dal_gemelli_e_chiede_una_tregua_per_la_citta_ucraina_di_oleshky-425653141/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 15:32:53 +0000"
+    },
+    {
+      "titolo": "Il Papa celebra messa e ringrazia medici e infermieri: ecco le prime foto dopo l’intervento",
+      "titolo_originale": "Il Papa celebra messa e ringrazia medici e infermieri: ecco le prime foto dopo l’intervento",
+      "sommario": "I medici riferiscono che “il recupero post operatorio permette di svolgere le normali attività quotidiane in completa autonomia”. Ha ricevuto i cardinali Tagle e Reina. Non è ancora noto quando Leone XIV verrà dimesso dall’ospedale, ma domenica a mezzogiorno presiederà pubblicamente l’Angelus",
+      "link": "https://www.repubblica.it/cronaca/2026/10/16/news/papa_celebra_messa_medici_infermieri-425652595/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 12:25:07 +0000"
+    },
+    {
+      "titolo": "Mirandola, coppia decapitata: in carcere il figlio Daniele Tavoni. “Aveva problemi psichici”",
+      "titolo_originale": "Mirandola, coppia decapitata: in carcere il figlio Daniele Tavoni. “Aveva problemi psichici”",
+      "sommario": "Disoccupato, viveva accanto alla madre e a suo marito nella campagna modenese. E’ stato trovato coperto di sangue, le mannaie nel suo appartamento. A suo carico “gravi indizi di colpevolezza”",
+      "link": "https://bologna.repubblica.it/cronaca/2026/10/16/news/omicidio_coppia_mirandola_daniele_tavoni_chi_e-425652592/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 12:24:55 +0000"
+    },
+    {
+      "titolo": "Manovra, ai magistrati fino a 100mila euro a testa tra arretrati e aumenti di stipendi",
+      "titolo_originale": "Manovra, ai magistrati fino a 100mila euro a testa tra arretrati e aumenti di stipendi",
+      "sommario": "Le risorse sono nel fondo sentenze da 1,9 miliardi, contemplato dal Documento programmatico di bilancio",
+      "link": "https://www.repubblica.it/economia/2026/10/16/news/manovra_magistrati_100mila_euro_arretrati_aumenti_stipendi-425652541/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 11:59:54 +0000"
+    },
+    {
+      "titolo": "Dentiere, casa e stipendi: la piccola manovra dei bonus. Il taglio Irpef resta senza soldi",
+      "titolo_originale": "Dentiere, casa e stipendi: la piccola manovra dei bonus. Il taglio Irpef resta senza soldi",
+      "sommario": "Il taglio delle tasse per il ceto medio si allontana dai radar del governo. Nel documento inviato all’Europa le prime indicazioni con molte misure di portata più piccola",
+      "link": "https://www.repubblica.it/economia/2026/10/16/news/bonus_manovra_taglio_irpef-425652509/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 11:49:19 +0000"
+    },
+    {
+      "titolo": "Manovra, Giorgetti risponde alle banche: “La stabilità è un beneficio anche per loro”",
+      "titolo_originale": "Manovra, Giorgetti risponde alle banche: “La stabilità è un beneficio anche per loro”",
+      "sommario": "Il ministro dell’Economia replica ai rilievi degli istituti di credito: “Tutti devono contribuire”. Sulla scelta degli interventi palla alla maggioranza: “Non decide il ministro dell’Economia”. Misure su giovani, anziani o Irpef “sono alternative”",
+      "link": "https://www.repubblica.it/economia/2026/10/16/news/manovra_giorgetti_stabilita_beneficio_per_le_banche-425652404/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 11:16:34 +0000"
+    },
+    {
+      "titolo": "Voli cancellati o in ritardo per il guasto alla rete Enav, quali sono i diritti dei passeggeri",
+      "titolo_originale": "Voli cancellati o in ritardo per il guasto alla rete Enav, quali sono i diritti dei passeggeri",
+      "sommario": "Rimborso per volo cancellato o riprotezione appena possibile sono dovuti. E una recente sentenza circoscrive il capo delle “circostanze eccezionali”",
+      "link": "https://www.repubblica.it/economia/2026/10/16/news/voli_cancellati_ritardo_guasto_enav_diritti_passeggeri-425652292/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Fri, 16 Oct 2026 10:40:54 +0000"
     },
     {
       "titolo": "Ferrari Hypersail, la barca che volerà sugli oceani: viaggio nel cantiere in cui sta prendendo forma",
@@ -462,355 +534,283 @@
       "data": "Fri, 16 Oct 2026 10:07:54 +0000"
     },
     {
-      "titolo": "L’allarme Fmi sull’Europa: cresce così poco da pagare ogni piccolo shock. Preoccupa il debito",
-      "titolo_originale": "L’allarme Fmi sull’Europa: cresce così poco da pagare ogni piccolo shock. Preoccupa il debito",
-      "sommario": "Resiliente agli shock energetico e commerciale, ma l’incapacità di espandere l’economia è ormai un limite troppo pesante.",
-      "link": "https://www.repubblica.it/economia/2026/10/16/news/l_allarme_fmi_sull_europa_cresce_cosi_poco_da_pagare_ogni_piccolo_shock_preoccupa_il_debito-425652136/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 10:01:00 +0000"
-    },
-    {
-      "titolo": "Ue, Mattarella: “Difesa comune necessaria, nessun Stato vada da solo”",
-      "titolo_originale": "Ue, Mattarella: “Difesa comune necessaria, nessun Stato vada da solo”",
-      "sommario": "Il capo dello Stato lo ha detto al vertice Arraiolos in Slovenia",
-      "link": "https://www.repubblica.it/politica/2026/10/16/news/mattarella_quadro_finanziario_ue_ambizioso-425652129/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 09:40:28 +0000"
-    },
-    {
-      "titolo": "Royal Family, i misteri del primo bagno di folla di Harry e Meghan dopo il ritorno in Inghilterra",
-      "titolo_originale": "Royal Family, i misteri del primo bagno di folla di Harry e Meghan dopo il ritorno in Inghilterra",
-      "sommario": "Perché i duchi del Sussex hanno scelto Nottingham? E perché si sono comportati come se facessero parte della Famiglia reale, dalla quale sono fuggiti? Tra speculazioni e ipotesi, ecco il piano della coppia",
-      "link": "https://www.repubblica.it/esteri/2026/10/16/news/harry_meghan_prima_uscita_regno_unito-425652003/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 09:11:30 +0000"
-    },
-    {
-      "titolo": "Btp Valore, rendimenti fino al 4,7%. Per il titolo con cedola unica si arriva al 22,25%",
-      "titolo_originale": "Btp Valore, rendimenti fino al 4,7%. Per il titolo con cedola unica si arriva al 22,25%",
-      "sommario": "Cedole trimestrali con tassi del 3,7% il primo biennio, 4,1% il secondo e 4,7% l’ultimo anno",
-      "link": "https://www.repubblica.it/economia/2026/10/16/news/btp_valore_insieme_rendimento_pagamenti_scadenze-425652005/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 09:11:29 +0000"
-    },
-    {
-      "titolo": "Caos trasporto aereo, Salvini “segue con attenzione”. Renzi: “Non è capace o porta sfortuna”",
-      "titolo_originale": "Caos trasporto aereo, Salvini “segue con attenzione”. Renzi: “Non è capace o porta sfortuna”",
-      "sommario": "In una nota, il ministero dei Trasporti spiega che il governo è in contatto con Enav “per approfondire le cause tecniche delle anomalie”. Il leader di Italia Viva lo attacca frontalmente. Il Pd: riferisca in Parlamento. I Cinquestelle: ennesimo disastro dopo quello ferroviario",
+      "titolo": "Caos trasporto aereo, Salvini: “Tim faccia il massimo o pagherà”. Il Pd: scaricabarile",
+      "titolo_originale": "Caos trasporto aereo, Salvini: “Tim faccia il massimo o pagherà”. Il Pd: scaricabarile",
+      "sommario": "Il ministro minaccia una richiesta di risarcimento. Le opposizioni: “Responsabilità è pubblica, riferisca in Parlamento”. ll leader di Italia Viva, Renzi: incapace o porta sfortuna. I Cinquestelle: ennesimo disastro dopo quello ferroviario",
       "link": "https://www.repubblica.it/economia/2026/10/16/news/aerei_enav_blocco_salvini_renzi-425651957/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
       "data": "Fri, 16 Oct 2026 08:59:03 +0000"
     },
     {
-      "titolo": "“Rimodulare il pontificato”: così il governo di papa Leone potrebbe cambiare dopo la malattia",
-      "titolo_originale": "“Rimodulare il pontificato”: così il governo di papa Leone potrebbe cambiare dopo la malattia",
-      "sommario": "Interrogativi e illazioni sul cambio di stile e di ritmo di lavoro dopo il tumore al polmone. Il cardinale indiano Felipe Neri Ferrao: “I dottori non hanno ancora deciso che tipo di trattamento seguirà. Facciamolo tornare, poi vedremo”. I precedenti di Ratzinger e Bergoglio",
-      "link": "https://www.repubblica.it/cronaca/2026/10/16/news/papa_leone_malattia_tumore_vaticano_governo_cosa_cambia-425651936/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 08:50:42 +0000"
-    },
-    {
-      "titolo": "Rastrellamento del Ghetto, esponenti della comunità ebraica contestano l’Anpi: “O loro o noi”",
-      "titolo_originale": "Rastrellamento del Ghetto, esponenti della comunità ebraica contestano l’Anpi: “O loro o noi”",
-      "sommario": "Tensione alla commemorazione del 16 ottobre: allontanata dal cerimoniale ufficiale l'associazione partigiana. Il deputato Mollicone di FdI: “Non doveva venire perchè è vicina ai centri sociali che manifestano con la bandiera di Hamas”",
-      "link": "https://roma.repubblica.it/cronaca/2026/10/16/news/rastrellamento_del_ghetto_esponenti_della_comunita_ebraica_contestano_l_anpi_o_loro_o_noi-425651821/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 08:18:12 +0000"
-    },
-    {
-      "titolo": "Della Seta: “A sinistra doppio standard: condannano Israele, non Putin. Sulle armi M5S opportunista”",
-      "titolo_originale": "Della Seta: “A sinistra doppio standard: condannano Israele, non Putin. Sulle armi M5S opportunista”",
-      "sommario": "Intervista all’ex senatore del Pd che aderisce all’iniziativa del convoglio di aiuti europei coordinato da sindacati e gruppi della sinistra radicale, anche dall’Italia, che partirà per l’Ucraina a metà novembre",
-      "link": "https://www.repubblica.it/politica/2026/10/16/news/roberto_della_seta_aiuti_umanitari_ucraina_israele_putin_intervista-425651784/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 08:00:56 +0000"
-    },
-    {
-      "titolo": "Le piazze calde degli studenti, oggi cortei in tutta Italia: a Roma bombe carta contro il ministero",
-      "titolo_originale": "Le piazze calde degli studenti, oggi cortei in tutta Italia: a Roma bombe carta contro il ministero",
-      "sommario": "Si infiammano le scuole e sale la protesta dei ragazzi riuniti per il “No Meloni Day”, in corso manifestazioni in tutto il Paese. Lancio di pietre e bastoni contro la polizia a Torino, fumogeni e cassonetti ribaltati nella Capitale",
-      "link": "https://www.repubblica.it/cronaca/2026/10/16/diretta/manifestazione_16_ottobre_2026_studenti_roma_milano_torino_oggi-425651774/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Fri, 16 Oct 2026 07:55:07 +0000"
-    },
-    {
-      "titolo": "Gli ulivi palestinesi bruciati mentre i pogrom dei coloni si intensificano durante il raccolto",
-      "titolo_originale": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-      "sommario": "È la raccolta delle olive della Palestina, ma i coloni hanno dato fuoco ai loro alberi e veicoli.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
+      "titolo": "Il Manchester Utd si è \"spostato\" dallo sfogo di Martinez, afferma Carrick",
+      "titolo_originale": "Manchester Utd have ‘moved on’ from Martinez outburst, says Carrick",
+      "sommario": "Il manager del Manchester United Michael Carrick dice che il club si è \"spostato\" dall'esplosione di Lisandro Martinez prima del viaggio di Leeds.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/manchester-utd-have-moved-on-from-martinez-outburst-says-carrick?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:27:20 +0000"
+      "data": "Fri, 16 Oct 2026 15:52:18 +0000"
     },
     {
-      "titolo": "Trump esclude l'uso di una bomba nucleare sull'Iran: perché è importante",
-      "titolo_originale": "Trump rules out using a nuclear bomb on Iran: Why that matters",
-      "sommario": "È la prima volta che il presidente si rivolge alle armi nucleari, ma non ha negato che gli Stati Uniti potrebbero usare \"la madre di tutte le bombe\".",
-      "link": "https://www.aljazeera.com/news/2026/10/16/trump-rules-out-using-a-nuclear-bomb-on-iran-why-that-matters?traffic_source=rss",
+      "titolo": "Malnutrizione e fame a livelli \"catastrofici\" a Gaza: Ministero della Salute",
+      "titolo_originale": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+      "sommario": "Si prevede che circa il 67% della popolazione di Gaza dovrà affrontare un'insicurezza alimentare a livello di crisi o peggio fino alla fine del 2026.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:21:12 +0000"
+      "data": "Fri, 16 Oct 2026 15:37:25 +0000"
     },
     {
-      "titolo": "Le Nazioni Unite avvertono che quasi 1 milione di persone a Gaza rischia inondazioni con l'avvicinarsi dell'inverno",
-      "titolo_originale": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-      "sommario": "Le Nazioni Unite avvertono che quasi un milione di sfollati palestinesi affrontano rischi di inondazioni con l'avvicinarsi dell'inverno.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+      "titolo": "Il Qatar annuncia un \"massiccio\" progetto di impianto solare in Libano",
+      "titolo_originale": "Qatar announces ‘massive’ solar plant project in Lebanon",
+      "sommario": "Lo sceicco Mohammed ha anche discusso delle \"violazioni\" israeliane in territorio libanese con il primo ministro Nawaf Salam.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/qatar-announces-massive-solar-plant-project-in-lebanon?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:12:34 +0000"
+      "data": "Fri, 16 Oct 2026 14:19:36 +0000"
     },
     {
-      "titolo": "La purga di massa degli elettori in India sta svuotando la democrazia",
-      "titolo_originale": "India’s mass voter purge is hollowing out democracy",
-      "sommario": "Il SIR sta privando del diritto di voto le comunità emarginate e portando avanti il progetto nazionalista indù.",
-      "link": "https://www.aljazeera.com/opinions/2026/10/16/indias-mass-voter-purge-is-hollowing-out-democracy?traffic_source=rss",
+      "titolo": "In che modo l'attacco malware \"zero-click\" dell'azienda israeliana pone un rischio per la sicurezza globale",
+      "titolo_originale": "How Israeli firm’s ‘zero-click’ malware attack poses global security risk",
+      "sommario": "Un nuovo hack \"zero-click\" utilizza gli annunci per indirizzare le vittime senza alcuna azione da parte loro.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/how-israeli-firms-zero-click-malware-attack-poses-global-security-risk?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 10:00:01 +0000"
+      "data": "Fri, 16 Oct 2026 14:12:13 +0000"
     },
     {
-      "titolo": "Il ponte di confine tra Cina e Corea del Nord potrebbe fare poco per stimolare il commercio, dicono gli esperti",
-      "titolo_originale": "China-North Korea border bridge may do little to spur trade, experts say",
-      "sommario": "Sanzioni e una leadership nordcoreana che dà la priorità alle prospettive di sicurezza per il commercio, dicono gli analisti.",
-      "link": "https://www.aljazeera.com/economy/2026/10/16/china-north-korea-border-bridge-may-do-little-to-spur-trade-experts-say?traffic_source=rss",
+      "titolo": "Qatar FM chiede il ritiro israeliano dal Libano",
+      "titolo_originale": "Qatar FM calls for Israeli withdrawal from Lebanon",
+      "sommario": "Il primo ministro e ministro degli affari esteri del Qatar ha ribadito il sostegno del suo paese al Libano.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/qatar-fm-calls-for-israeli-withdrawal-from-lebanon?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 09:21:40 +0000"
+      "data": "Fri, 16 Oct 2026 14:01:08 +0000"
     },
     {
-      "titolo": "Il Man Utd vira verso la crisi mentre la nuvola del Man City incombe sulla Premier League",
-      "titolo_originale": "Man Utd veering towards crisis as Man City cloud hangs over Premier League",
-      "sommario": "Lisandro Martinez si scusa per le sue critiche dopo che i riflettori sul campo si sono spostati dal City al Manchester United.",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/man-utd-veering-towards-crisis-as-man-city-cloud-hangs-over-premier-league?traffic_source=rss",
+      "titolo": "La Russia può aiutare ad allentare le tensioni tra Pakistan e Afghanistan?",
+      "titolo_originale": "Can Russia help ease tensions between Pakistan and Afghanistan?",
+      "sommario": "La Russia ha stretti legami con i talebani e sta corteggiando Islamabad, ma gli analisti dicono che la sua influenza rimane incerta.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/can-russia-help-ease-tensions-between-pakistan-and-afghanistan?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 09:17:50 +0000"
+      "data": "Fri, 16 Oct 2026 13:56:43 +0000"
     },
     {
-      "titolo": "La polizia indiana lancia un giro di vite a Nuova Delhi per la manifestazione del Cockroach Party",
-      "titolo_originale": "Indian police launch New Delhi clampdown for Cockroach Party rally",
-      "sommario": "Lo stallo del partito Cockroach Janta con il governo si è esteso mentre il movimento guidato dai giovani chiama la protesta per l'incarcerazione degli attivisti.",
-      "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss",
+      "titolo": "L'Etiopia annuncia l'insediamento di un governo ad interim nel Tigray",
+      "titolo_originale": "Ethiopia announces instalment of interim government in Tigray",
+      "sommario": "Dopo che i militari hanno respinto la rivolta del TPLF, il primo ministro Abiy Ahmed promette elezioni libere entro sei mesi.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/ethiopia-announces-instalment-of-interim-government-in-tigray?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 09:17:47 +0000"
+      "data": "Fri, 16 Oct 2026 13:54:06 +0000"
     },
     {
-      "titolo": "La Coppa d'Asia in Arabia Saudita è ancora in corso, dicono gli organizzatori, ma il tour del golf è stato rinviato",
-      "titolo_originale": "Asian Cup in Saudi Arabia still on, organisers say, but golf tour postponed",
-      "sommario": "I preparativi per la Coppa d'Asia continuano per gennaio, ma l'Asian Tour ritarda il Saudi Invitational del golf dopo gli attacchi degli Houthi.",
-      "link": "https://www.aljazeera.com/sports/2026/10/16/asian-cup-in-saudi-arabia-still-on-say-organisers-but-golf-tour-postponed?traffic_source=rss",
+      "titolo": "Jerusalem Daily: coloni israeliani bruciano uliveti palestinesi",
+      "titolo_originale": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+      "sommario": "I coloni israeliani effettuano violenti pogrom sugli uliveti palestinesi nelle città di Abu Falah e Turmus Ayya.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 08:36:54 +0000"
+      "data": "Fri, 16 Oct 2026 13:52:48 +0000"
     },
     {
-      "titolo": "Il fondo patrimoniale norvegese ha esortato ad allentare il divieto di armi nucleari dopo la fila di investimenti a Gaza",
-      "titolo_originale": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-      "sommario": "La revisione ha richiesto al fondo sovrano norvegese di eliminare le limitazioni del rischio etico sui suoi investimenti.",
-      "link": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
+      "titolo": "Palestinesi, giornalista statunitense aggredito in un pogrom in Cisgiordania: cosa sappiamo",
+      "titolo_originale": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+      "sommario": "I coloni israeliani hanno attaccato i palestinesi che raccoglievano olive e hanno picchiato duramente la fotoreporter del Washington Post Heidi Levine.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 08:36:13 +0000"
+      "data": "Fri, 16 Oct 2026 13:26:47 +0000"
     },
     {
-      "titolo": "Tesla svela un'auto che può guidare a testa in giù e saltare in aria",
-      "titolo_originale": "Tesla unveils car that can drive upside down and jump through the air",
-      "sommario": "Tesla ha presentato un'auto elettrica in grado di guidare a testa in giù e utilizzare propulsori a razzo per saltare e girare a mezz' aria.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/10-16-tesla-flying-car-clip?traffic_source=rss",
+      "titolo": "Spagna punita dalla FIFA per i canti islamofobici durante l'amichevole con l'Egitto",
+      "titolo_originale": "Spain punished by FIFA for Islamophobic chants during Egypt friendly",
+      "sommario": "La Spagna sanzionata dalla FIFA dopo gli incidenti allo stadio dell'Espanyol a Barcellona, che ha organizzato l'amichevole con l'Egitto.",
+      "link": "https://www.aljazeera.com/sports/2026/10/16/spain-punished-by-fifa-for-islamophobic-chants-in-egypt-friendly?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Fri, 16 Oct 2026 07:10:42 +0000"
+      "data": "Fri, 16 Oct 2026 13:13:12 +0000"
     },
     {
-      "titolo": "L'India vede un potenziale di cooperazione con il Tatarstan in IT, finanza, sicurezza informatica",
-      "titolo_originale": "India sees potential for cooperation with Tatarstan in IT, finance, cybersecurity",
-      "sommario": "Gli studenti interessati possono visitare ed esplorare l'India, trovare amici e creare i loro futuri contatti commerciali utilizzando il programma ITEC, ha affermato l'ambasciatore indiano in Russia Vinay Kumar",
-      "link": "https://tass.com/economy/2202971",
+      "titolo": "Il comandante in capo della NATO in Europa afferma che l'alleanza non ha intenzione di attaccare Kaliningrad",
+      "titolo_originale": "NATO’s top commander in Europe says alliance has no plans to attack Kaliningrad",
+      "sommario": "Alexus Grynkewich ha descritto le esercitazioni della NATO sul suo fianco orientale come \"di routine\", presumibilmente destinate a dimostrare che l'alleanza \"è pronta per il combattimento in qualsiasi momento\"",
+      "link": "https://tass.com/world/2203225",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:40:01 +0300"
+      "data": "Fri, 16 Oct 2026 19:07:53 +0300"
     },
     {
-      "titolo": "La nato cerca di estendere la portata oltre i suoi confini, in Eurasia — Ministro degli Esteri russo",
-      "titolo_originale": "NATO tries to extend reach beyond its bounds, into Eurasia — Russian foreign minister",
-      "sommario": "Sergey Lavrov ha sottolineato che l'alleanza non ha posto in Eurasia",
-      "link": "https://tass.com/politics/2202963",
+      "titolo": "Ay Yola band avanza al primo turno di votazione dei Grammy con l'album Ural Batyr",
+      "titolo_originale": "Ay Yola band advances to first round of Grammy voting with Ural Batyr album",
+      "sommario": "Ay Yola ha ottenuto il riconoscimento internazionale con il successo \"Homay\", che si è classificato sesto nella Top 200 globale di Shazam, in cima alle classifiche in Russia, Kazakistan e Uzbekistan",
+      "link": "https://tass.com/society/2203223",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:32:55 +0300"
+      "data": "Fri, 16 Oct 2026 19:07:02 +0300"
     },
     {
-      "titolo": "Lukashenko annuncia l'imminente ispezione delle forze di difesa territoriale bielorusse",
-      "titolo_originale": "Lukashenko announces impending inspection of Belarusian territorial defense forces",
-      "sommario": "Il leader bielorusso ha sottolineato che è \"una questione della massima importanza\"",
-      "link": "https://tass.com/world/2202957",
+      "titolo": "Il Tatarstan consulta le imprese russe sull'espansione dei legami con gli stati indiani",
+      "titolo_originale": "Tatarstan consults Russian businesses on expanding ties with Indian states",
+      "sommario": "Secondo Taliya Minullina, capo dell'agenzia di investimento della repubblica, la regione funge non solo da ospite del forum, ma anche da fonte nazionale di approfondimenti esperti e analitici",
+      "link": "https://tass.com/economy/2203169",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:23:25 +0300"
+      "data": "Fri, 16 Oct 2026 18:37:49 +0300"
     },
     {
-      "titolo": "Gli Stati Uniti fraintendono il popolo iraniano, dice l'inviato di Teheran",
-      "titolo_originale": "US misunderstands Iranian people, Tehran’s envoy says",
-      "sommario": "Secondo Kazem Jalali, oltre 33 milioni di iraniani si sono ufficialmente registrati per prendere parte alla difesa del paese",
-      "link": "https://tass.com/world/2202955",
+      "titolo": "Russia, Stati Uniti discutono progetti di data center congiunti — inviato",
+      "titolo_originale": "Russia, US discuss joint data center projects — envoy",
+      "sommario": "Secondo Kirill Dmitriev, le parti hanno compilato un chiaro elenco di progetti su cui le aziende russe stanno già lavorando",
+      "link": "https://tass.com/economy/2203163",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:20:01 +0300"
+      "data": "Fri, 16 Oct 2026 18:34:14 +0300"
     },
     {
-      "titolo": "Gestione esterna introdotta per le imprese provenienti da paesi che detengono attività russe — Cremlino",
-      "titolo_originale": "External management introduced for firms from countries holding Russian assets — Kremlin",
-      "sommario": "Dmitry Peskov ha sottolineato che la mossa non è finalizzata a un cambio di proprietà",
-      "link": "https://tass.com/politics/2202953",
+      "titolo": "Diverse importanti iniziative Russia-USA saranno annunciate a breve — inviato",
+      "titolo_originale": "Several important Russia-US initiatives to be announced shortly — envoy",
+      "sommario": "Kirill Dmitriev ha sottolineato l'importanza che i paesi lavorino insieme in questo momento",
+      "link": "https://tass.com/politics/2203161",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:18:57 +0300"
+      "data": "Fri, 16 Oct 2026 18:30:04 +0300"
     },
     {
-      "titolo": "Il Cremlino definisce la gestione esterna delle imprese provenienti da stati ostili una tendenza continua",
-      "titolo_originale": "Kremlin calls external management of firms from unfriendly states continued trend",
-      "sommario": "Secondo Dmitry Peskov, l'origine delle aziende è stato uno dei fattori presi in considerazione quando è stata presa la decisione",
-      "link": "https://tass.com/economy/2202949",
+      "titolo": "Solo la neutralità dell'Ucraina può garantire la sicurezza per la Russia, l'Europa — esperto",
+      "titolo_originale": "Only Ukraine’s neutrality can guarantee security for Russia, Europe — expert",
+      "sommario": "Jeffrey Sachs ha sottolineato che la pace è possibile solo quando l'idea dell'allargamento della NATO viene abbandonata",
+      "link": "https://tass.com/world/2203159",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:14:19 +0300"
+      "data": "Fri, 16 Oct 2026 18:27:48 +0300"
     },
     {
-      "titolo": "Rassegna stampa: risorsa russa riacquistata nell'agenda dell'UE e Starlink o no, Ucraina da combattere",
-      "titolo_originale": "Press review: Russian asset grab back on EU agenda and Starlink or no, Ukraine to fight on",
-      "sommario": "Le migliori storie della stampa russa di venerdì 16 ottobre",
-      "link": "https://tass.com/pressreview/2202833",
+      "titolo": "Le forze russe colpiscono l'hangar dell'esercito ucraino, i rifugi, i terminali Starlink con droni d'attacco",
+      "titolo_originale": "Russian forces strike Ukrainian army hangar, shelters, Starlink terminals by attack drones",
+      "sommario": "Le squadre di droni d'attacco della Brigata Varyag hanno anche colpito le postazioni delle armi nemiche e i siti di schieramento temporaneo delle formazioni nemiche",
+      "link": "https://tass.com/defense/2203157",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 13:00:00 +0300"
+      "data": "Fri, 16 Oct 2026 18:22:04 +0300"
     },
     {
-      "titolo": "Popolazione di rari gibboni di Hainan in graduale aumento — giornale",
-      "titolo_originale": "Population of rare Hainan gibbons gradually increasing — newspaper",
-      "sommario": "Secondo il rapporto, ci sono ora 44 gibboni sull'isola, che comprendono sette gruppi",
-      "link": "https://tass.com/science/2202925",
+      "titolo": "Fatturato commerciale tra Russia, Afghanistan in crescita e stabile — inviato",
+      "titolo_originale": "Trade turnover between Russia, Afghanistan growing and stable — envoy",
+      "sommario": "Zamir Kabulov ha affermato che è importante che questa tendenza sia stabile e progressiva",
+      "link": "https://tass.com/economy/2203149",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 12:49:52 +0300"
+      "data": "Fri, 16 Oct 2026 17:53:43 +0300"
     },
     {
-      "titolo": "Operatori di droni ucraini utilizzano Alyoshki come campo di addestramento — difensore civico",
-      "titolo_originale": "Ukrainian drone operators use Alyoshki as training ground — ombudsman",
-      "sommario": "Sergey Georgiev ha detto che il personale militare russo e le fonti di intelligence possiedono informazioni su questo",
-      "link": "https://tass.com/defense/2202917",
+      "titolo": "L'ombudswoman per i diritti umani aiuta a evacuare tre donne dal villaggio in prima linea",
+      "titolo_originale": "Human rights ombudswoman assists in evacuating three women from frontline village",
+      "sommario": "La Croce Rossa Russa ha anche contribuito a coordinare un incontro tra gli sfollati e i loro parenti a Cheboksary",
+      "link": "https://tass.com/society/2203145",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 12:46:35 +0300"
+      "data": "Fri, 16 Oct 2026 17:51:00 +0300"
     },
     {
-      "titolo": "Trump descrive la Crimea come \"il pezzo di terra più bello\" a cui l'Ucraina ha rinunciato",
-      "titolo_originale": "Trump describes Crimea as 'most beautiful piece of land' Ukraine gave up",
-      "sommario": "Il presidente degli Stati Uniti ha dichiarato di essere uno sviluppatore immobiliare e conosce bene la terra",
-      "link": "https://tass.com/world/2202919",
+      "titolo": "Zelensky non nega di essere diventato il \"capro espiatorio\" di Trump",
+      "titolo_originale": "Zelensky not denying becoming Trump’s ‘scapegoat’",
+      "sommario": "Il capo del regime di Kiev non ha risposto direttamente alla domanda del giornalista sulla questione",
+      "link": "https://tass.com/world/2203147",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 12:44:10 +0300"
+      "data": "Fri, 16 Oct 2026 17:49:17 +0300"
     },
     {
-      "titolo": "La CPI serve gli \"interessi colonialisti\" dell'Europa – analista (VIDEO)",
-      "titolo_originale": "ICC serves Europe’s ‘colonialist interests’ – analyst (VIDEO)",
-      "sommario": "La <img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1f5f22030275c28705db6.jpg\" style=\"margin-right: 10px;\" /> CPI prende di mira le nazioni del Sud del mondo ignorando i crimini in Ucraina per servire gli interessi occidentali, afferma l'analista legale Alexandre Guerreiro <br /><a href=\"https://rt-english.com/news/647281-icc-europe-colonialist-interests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
-      "link": "https://rt-english.com/news/647281-icc-europe-colonialist-interests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Sicurezza delle regioni di confine russe massima priorità – Putin",
+      "titolo_originale": "Security of Russian border regions top priority – Putin",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/static.en/thumbnail/breaking.jpg\" style=\"margin-right: 10px;\" />  <br /><a href=\"https://rt-english.com/russia/647312-security-of-russian-border-regions-top-priority/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/russia/647312-security-of-russian-border-regions-top-priority/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 10:14:27 +0000"
+      "data": "Fri, 16 Oct 2026 15:50:58 +0000"
     },
     {
-      "titolo": "I parlamentari tedeschi si scontrano sul genocidio coloniale",
-      "titolo_originale": "German MPs clash over colonial genocide",
-      "sommario": "I legislatori<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1eab62030275c28705d8b.jpg\" style=\"margin-right: 10px;\" /> tedeschi si sono scontrati sulle riparazioni per il genocidio coloniale della Germania in Namibia mentre i discendenti delle vittime chiedono un risarcimento <br /><a href=\"https://rt-english.com/africa/647282-german-mps-clash-colonial-era-genocide-namibia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
-      "link": "https://rt-english.com/africa/647282-german-mps-clash-colonial-era-genocide-namibia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "South African coalition government faces fresh rift",
+      "titolo_originale": "South African coalition government faces fresh rift",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad22fe12030271d57500787.jpg\" style=\"margin-right: 10px;\" /> South Africa’s ANC has called for a review of the Democratic Alliance’s place in government after a clash over election candidates <br /><a href=\"https://rt-english.com/africa/647303-south-african-coalition-government-faces-fresh-rift/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/647303-south-african-coalition-government-faces-fresh-rift/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 09:22:55 +0000"
+      "data": "Fri, 16 Oct 2026 14:30:08 +0000"
     },
     {
-      "titolo": "Il Tatarstan e l'India esplorano la cooperazione nel data center – ministro",
-      "titolo_originale": "Tatarstan and India exploring data center cooperation – minister",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1d89b85f540561e1ac111.jpg\" style=\"margin-right: 10px;\" /> India and Russia’s Tatarstan are exploring joint data center projects, with the technology hub of an Indian state expressing interest <br /><a href=\"https://rt-english.com/india/647283-india-tatarstan-data-centers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/india/647283-india-tatarstan-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "In space, no one hears Zelensky scream: No euros can buy Kiev options in orbit",
+      "titolo_originale": "In space, no one hears Zelensky scream: No euros can buy Kiev options in orbit",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad22a7585f5405c1c50eb49.jpg\" style=\"margin-right: 10px;\" /> European backers of Vladimir Zelensky’s government cannot replace American intelligence and Starlink access <br /><a href=\"https://rt-english.com/russia/647295-ukraine-alternatives-starlink-intelligence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/647295-ukraine-alternatives-starlink-intelligence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 07:57:59 +0000"
+      "data": "Fri, 16 Oct 2026 14:28:53 +0000"
     },
     {
-      "titolo": "Israel unlikely to attack Iran before elections – media",
-      "titolo_originale": "Israel unlikely to attack Iran before elections – media",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1a303203027672a40f602.jpg\" style=\"margin-right: 10px;\" /> Israeli officials reportedly see a strike on Iran as unlikely before the October 27 vote, despite claims Netanyahu wants to resume the war <br /><a href=\"https://rt-english.com/news/647268-israeli-unlikely-attack-iran-elections/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647268-israeli-unlikely-attack-iran-elections/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Russian wrestler strikes gold at world championships in US",
+      "titolo_originale": "Russian wrestler strikes gold at world championships in US",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad2251085f5404c907cfad7.jpg\" style=\"margin-right: 10px;\" /> Russia’s Alina Shevchenko has claimed gold at the U23 World Wrestling Championships in Las Vegas after defeating a Belarusian rival <br /><a href=\"https://rt-english.com/russia/647300-russian-wrestler-world-gold/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/647300-russian-wrestler-world-gold/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 04:08:36 +0000"
+      "data": "Fri, 16 Oct 2026 14:18:44 +0000"
     },
     {
-      "titolo": "Missiles supplied to Ukraine sold on ‘open market’ – Trump",
-      "titolo_originale": "Missiles supplied to Ukraine sold on ‘open market’ – Trump",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1ec1d85f5405ae3007cd2.jpg\" style=\"margin-right: 10px;\" /> US President Donald Trump has questioned the whereabouts of military aid provided to Ukraine under his predecessor, Joe Biden <br /><a href=\"https://rt-english.com/news/647267-trump-blasts-zelensky-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647267-trump-blasts-zelensky-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Zelensky imposes refinery deal demand – WSJ",
+      "titolo_originale": "Zelensky imposes refinery deal demand – WSJ",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad2225d85f5405c1c50eb39.jpg\" style=\"margin-right: 10px;\" /> Ukraine is open to stopping attacks on Russian oil refineries in exchange for extended Starlink coverage, the Wall Street Journal has said <br /><a href=\"https://rt-english.com/news/647299-ukraine-starlink-zelensky-refineries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647299-ukraine-starlink-zelensky-refineries/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Fri, 16 Oct 2026 02:09:24 +0000"
+      "data": "Fri, 16 Oct 2026 14:13:00 +0000"
     },
     {
-      "titolo": "Kiev runs out of Patriot interceptors – CNN",
-      "titolo_originale": "Kiev runs out of Patriot interceptors – CNN",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1636d20302731f87db0c7.jpg\" style=\"margin-right: 10px;\" /> Ukraine has reportedly exhausted its Patriot interceptor missiles amid a dispute between Trump and Zelensky over Russian diesel <br /><a href=\"https://rt-english.com/russia/647266-ukraine-runs-out-patriot-missiles/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/647266-ukraine-runs-out-patriot-missiles/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "UK threatens African state with blanket visa ban",
+      "titolo_originale": "UK threatens African state with blanket visa ban",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad22298203027777f32aef5.jpg\" style=\"margin-right: 10px;\" /> Britain has threatened a visa ban on Eritrea to pressure it to take back its nationals with “no right” to remain in the UK <br /><a href=\"https://rt-english.com/africa/647294-uk-threatens-eritrea-visa-ban/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/647294-uk-threatens-eritrea-visa-ban/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 15 Oct 2026 23:37:47 +0000"
+      "data": "Fri, 16 Oct 2026 13:48:43 +0000"
     },
     {
-      "titolo": "Teen gunman kills four at US elementary school",
-      "titolo_originale": "Teen gunman kills four at US elementary school",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad15558203027361a643fc9.jpg\" style=\"margin-right: 10px;\" /> A teenage gunman killed three children and a teacher at an elementary school in Bend, Oregon, before being shot dead by a bystander <br /><a href=\"https://rt-english.com/news/647264-us-active-shooter-alert-school/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647264-us-active-shooter-alert-school/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Delhi protest leaders detained ahead of rally",
+      "titolo_originale": "Delhi protest leaders detained ahead of rally",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad224eb203027755d28f83f.png\" style=\"margin-right: 10px;\" /> Protest leaders Abhijeet Dipke and Neha Bora were detained in Delhi ahead of a rally demanding the chief election commissioner’s resignation <br /><a href=\"https://rt-english.com/india/647301-delhi-cockroach-protest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/647301-delhi-cockroach-protest/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 15 Oct 2026 21:16:54 +0000"
+      "data": "Fri, 16 Oct 2026 13:33:53 +0000"
     },
     {
-      "titolo": "Zelensky has made his choice, now America must make its own",
-      "titolo_originale": "Zelensky has made his choice, now America must make its own",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad139ba20302738f373831d.jpg\" style=\"margin-right: 10px;\" /> The US-Ukraine rift goes beyond Trump: Washington’s interests increasingly clash with Kiev’s demands and Europe’s ambitions <br /><a href=\"https://rt-english.com/russia/647263-zelensky-has-made-his-choice/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/647263-zelensky-has-made-his-choice/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Somalia sets date for delayed presidential election",
+      "titolo_originale": "Somalia sets date for delayed presidential election",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad1fbda20302766bd39961a.jpg\" style=\"margin-right: 10px;\" /> Somalia has scheduled its presidential election for May 2027 after constitutional changes extended the incumbent leader’s term by one year <br /><a href=\"https://rt-english.com/africa/647284-somalia-presidential-election-may-2027/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/647284-somalia-presidential-election-may-2027/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 15 Oct 2026 21:16:52 +0000"
+      "data": "Fri, 16 Oct 2026 12:00:24 +0000"
     },
     {
-      "titolo": "Russia could make Olympic return under national flag – Trump envoy",
-      "titolo_originale": "Russia could make Olympic return under national flag – Trump envoy",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad12b1685f540449e50b96f.jpg\" style=\"margin-right: 10px;\" /> Russia could make a major Olympic return under its national flag in 2028, US President Donald Trump’s envoy Paolo Zampolli has told TASS <br /><a href=\"https://rt-english.com/news/647262-russia-olympics-national-flag/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647262-russia-olympics-national-flag/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Nuremberg at 80: How do you put a death machine on trial?",
+      "titolo_originale": "Nuremberg at 80: How do you put a death machine on trial?",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad203b22030277188123150.jpg\" style=\"margin-right: 10px;\" /> Inside the Nuremberg trials: the legal battles, defense strategies and evidence that brought down Hitler’s men <br /><a href=\"https://rt-english.com/news/647265-nuremberg-at-80-nazis-hanged/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647265-nuremberg-at-80-nazis-hanged/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 15 Oct 2026 20:54:24 +0000"
+      "data": "Fri, 16 Oct 2026 11:29:28 +0000"
     },
     {
-      "titolo": "Trump calls off firing squad livestream",
-      "titolo_originale": "Trump calls off firing squad livestream",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad11fce20302735017a7f00.jpg\" style=\"margin-right: 10px;\" /> The execution of Nidal Malik Hasan, who killed 13 US service members, will not be public, US President Donald Trump has said <br /><a href=\"https://rt-english.com/news/647261-trump-calls-off-firing-squad-livestream/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647261-trump-calls-off-firing-squad-livestream/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "EU summit: Zelensky brings begging bowl to Brussels under Trump cloud",
+      "titolo_originale": "EU summit: Zelensky brings begging bowl to Brussels under Trump cloud",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad212db85f540561e1ac11e.jpg\" style=\"margin-right: 10px;\" />  <br /><a href=\"https://rt-english.com/news/647286-zelensky-begging-bowl-eu-summit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647286-zelensky-begging-bowl-eu-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 15 Oct 2026 20:27:45 +0000"
+      "data": "Fri, 16 Oct 2026 11:08:51 +0000"
     }
   ]
 }
