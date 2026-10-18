@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-10-18T15:30:35.102367",
+  "aggiornato": "2026-10-18T20:12:56.801234",
   "totale_notizie": 90,
   "notizie": [
     {
@@ -12,13 +12,31 @@
       "data": "Sun, 18 Oct 2026 12:07:31 GMT"
     },
     {
+      "titolo": "Macron invita alla calma in Francia e avverte che i disordini non devono intensificarsi",
+      "titolo_originale": "Macron calls for calm in France and warns rioting must not escalate",
+      "sommario": "Il presidente francese Emmanuel Macron ha tenuto un discorso alla televisione nazionale dopo che i disordini hanno causato danni diffusi.",
+      "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sun, 18 Oct 2026 20:06:20 GMT"
+    },
+    {
+      "titolo": "Cosa sappiamo finora sul fuoco mortale nella base militare canadese",
+      "titolo_originale": "What we know so far about deadly fire at Canadian military base",
+      "sommario": "Almeno quattro persone sono morte dopo che un enorme incendio ha attraversato la base.",
+      "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sun, 18 Oct 2026 19:42:37 GMT"
+    },
+    {
       "titolo": "Impianti petroliferi colpiti in un attacco mortale durante la notte a San Pietroburgo",
       "titolo_originale": "Oil facilities hit in deadly overnight attack on St Petersburg",
       "sommario": "Almeno una persona è stata uccisa negli attacchi, che hanno colpito anche un data center utilizzato dall'equivalente russo di Facebook.",
       "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 11:57:49 GMT"
+      "data": "Sun, 18 Oct 2026 15:46:10 GMT"
     },
     {
       "titolo": "Un'ondata di droghe sintetiche fatte in casa ci travolge e aggrava la crisi",
@@ -75,49 +93,58 @@
       "data": "Sat, 17 Oct 2026 19:19:16 GMT"
     },
     {
-      "titolo": "L'insegnante ha combattuto contro un aggressore scolastico statunitense prima che un padre armato sparasse al sospetto \"più volte\"",
-      "titolo_originale": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-      "sommario": "Il sospetto di 16 anni aveva precedentemente frequentato la scuola elementare e aveva preso di mira una classe con bisogni educativi speciali, dice la polizia.",
-      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sat, 17 Oct 2026 09:58:17 GMT"
+      "titolo": "Macron accusa l '\"estrema sinistra\" di infiammare la strada",
+      "titolo_originale": "Macron acusa a la “extrema izquierda” de inflamar la calle",
+      "sommario": "Il presidente francese svincola gli studenti dalla violenza e dal vandalismo, ma assicura che \"coloro che hanno cercato di rovesciare la Repubblica dovranno rispondere delle loro azioni\"",
+      "link": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sun, 18 Oct 2026 18:53:03 GMT"
     },
     {
-      "titolo": "Il proprietario di un asilo nido in Cina è stato condannato all'ergastolo dopo che centinaia di bambini sono stati avvelenati",
-      "titolo_originale": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "sommario": "Si è scoperto che lei e cinque membri dello staff hanno usato la vernice non commestibile nei pasti per renderli più attraenti.",
-      "link": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sat, 17 Oct 2026 12:11:58 GMT"
+      "titolo": "I disordini tornano al centro di Parigi il giorno dopo la grande rivolta",
+      "titolo_originale": "Los disturbios vuelven al centro de París un día después de la gran revuelta",
+      "sommario": "La polizia e diversi gruppi di agitatori si scontrano intorno a piazza della Repubblica tra barricate, fuoco e gas lacrimogeni",
+      "link": "https://elpais.com/internacional/2026-10-18/los-disturbios-vuelven-al-centro-de-paris-un-dia-despues-de-la-gran-revuelta.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sun, 18 Oct 2026 16:46:26 GMT"
+    },
+    {
+      "titolo": "Francia di fronte al caos",
+      "titolo_originale": "Francia ante el caos",
+      "sommario": "La violenza nichilista colpisce i simboli repubblicani ed eclissa le legittime proteste studentesche",
+      "link": "https://elpais.com/opinion/2026-10-18/francia-ante-el-caos.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sun, 18 Oct 2026 16:42:48 GMT"
     },
     {
       "titolo": "La Francia fa il punto sulla più grande esplosione di violenza degli ultimi decenni: 2.000 arresti e un migliaio di negozi saccheggiati",
       "titolo_originale": "Francia hace balance tras el mayor estallido de violencia en décadas: 2.000 detenidos y un millar de comercios saqueados",
-      "sommario": "Molte strade di Parigi, Marsiglia o Lione sono state completamente rase al suolo. Solo nella capitale ci sono stati 855 arresti, una cifra record. Dopo il caos, Emmanuel Macron si rivolgerà questo pomeriggio alla nazione",
+      "sommario": "Molte strade di Parigi, Marsiglia o Lione sono state completamente rase al suolo. Solo nella capitale ci sono stati 855 arresti, una cifra record",
       "link": "https://elpais.com/internacional/2026-10-18/francia-hace-balance-tras-el-mayor-estallido-de-violencia-y-caos-en-decadas-1800-detenidos-y-un-millar-de-comercios-saqueados.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Sun, 18 Oct 2026 15:08:40 GMT"
     },
     {
-      "titolo": "La Francia dà fuoco al macronismo",
-      "titolo_originale": "Francia prende fuego al macronismo",
-      "sommario": "Il secondo mandato del presidente, scollegato dalla società, ha ancora davanti a sé sei lunghi mesi in cui il paese deve approvare un bilancio e cercare risposte all'inarrestabile ascesa dell'estrema destra",
-      "link": "https://elpais.com/internacional/2026-10-18/francia-prende-fuego-al-macronismo.html",
+      "titolo": "L'incendio del comune di Limoges il giorno dopo l'attacco: \"È inammissibile, i colpevoli devono essere puniti\"",
+      "titolo_originale": "El incendio del ayuntamiento de Limoges el día después del ataque: “Es inadmisible, hay que castigar a los culpables”",
+      "sommario": "Un giorno dopo che un incendio appiccato durante un attacco di manifestanti ha distrutto parte dello storico edificio pubblico, continuano i lavori di estinzione mentre l'indignazione per l'attacco si diffonde per le strade",
+      "link": "https://elpais.com/videos/2026-10-18/el-incendio-del-ayuntamiento-de-limoges-el-dia-despues-del-ataque-es-inadmisible-hay-que-castigar-a-los-culpables.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Sun, 18 Oct 2026 03:30:01 GMT"
+      "data": "Sun, 18 Oct 2026 16:15:11 GMT"
     },
     {
-      "titolo": "Il Comune di Limoges divorato dalle fiamme nella giornata di protesta in Francia",
-      "titolo_originale": "El Ayuntamiento de Limoges, devorado por las llamas en la jornada de protestas en Francia",
-      "sommario": "Un gruppo di manifestanti attacca l'edificio, dichiarato monumento storico e costruito nel XIX secolo",
-      "link": "https://elpais.com/internacional/2026-10-17/el-ayuntamiento-de-limoges-destruido-por-las-llamas-en-la-jornada-de-protestas-en-francia.html",
+      "titolo": "L'Italia viene contagiata dalle proteste studentesche in Francia",
+      "titolo_originale": "Italia se contagia de las protestas estudiantiles en Francia",
+      "sommario": "Le mobilitazioni per l'istruzione portano a violenti scontri con la polizia e saccheggi di negozi a Milano, Torino e Bologna e causano centinaia di arresti, la maggior parte minori",
+      "link": "https://elpais.com/internacional/2026-10-18/italia-se-contagia-de-las-protestas-estudiantiles-en-francia.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Sat, 17 Oct 2026 22:12:09 GMT"
+      "data": "Sun, 18 Oct 2026 19:34:29 GMT"
     },
     {
       "titolo": "Feijóo chiede ad Albiol di guidare una \"legge antioccupante\" e di aiutarlo a ottenere una \"grande maggioranza\" il 29-N",
@@ -147,40 +174,49 @@
       "data": "Sun, 18 Oct 2026 03:30:01 GMT"
     },
     {
-      "titolo": "Aitor Esteban: \"Nessuno ha dimostrato più con i fatti che non vogliamo Vox\"",
-      "titolo_originale": "Aitor Esteban: “Nadie ha demostrado más con hechos que no queremos a Vox”",
-      "sommario": "Il presidente del PNV crede che “molta gente che oggi non è preoccupata lo sarà se governano” gli ultras, ma rifiuta il ricorso al voto della paura, in un'intervista con EL PAÍS",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-10-18/aitor-esteban-nadie-ha-demostrado-mas-con-hechos-que-no-queremos-a-vox.html",
+      "titolo": "Real Madrid - Siviglia in diretta | Il Madrid vince la pausa al Bernabeu",
+      "titolo_originale": "Real Madrid - Sevilla en directo | El Madrid gana al descanso en el Bernabéu",
+      "sommario": "Arda Güler, che torna alla squadra titolare, ha superato la squadra bianca con un grande colpo dalla parte anteriore dell'area e Mbappé ha ampliato il vantaggio con un genio",
+      "link": "https://elpais.com/deportes/futbol/2026-10-18/real-madrid-sevilla-en-directo-el-partido-de-la-liga-en-vivo.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Sun, 18 Oct 2026 03:30:01 GMT"
+      "data": "Sun, 18 Oct 2026 20:09:10 GMT"
     },
     {
-      "titolo": "Un fronte di sinistra e uno di destra si contenderanno a muso di cane il controllo del Senato",
-      "titolo_originale": "Un frente de izquierdas y otro de derechas se disputarán a cara de perro el control del Senado",
-      "sommario": "Vox studia di non presentare candidati alla Camera alta in alcune province e di sostenere il PP per frenare la coalizione progressista",
-      "link": "https://elpais.com/espana/2026-10-18/un-frente-de-izquierdas-y-otro-de-derechas-se-disputaran-a-cara-de-perro-el-control-del-senado.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 18 Oct 2026 03:30:01 GMT"
+      "titolo": "In Venezuela, il premio Nobel per la pace Maria Corina Machado riconosciuto leader dell'opposizione in un \"grande accordo nazionale\"",
+      "titolo_originale": "Au Venezuela, la Prix Nobel de la paix Maria Corina Machado reconnue leader de l’opposition lors d’un « grand accord national »",
+      "sommario": "Diversi rappresentanti politici hanno accettato di \"riconoscere e sostenere la leadership di Maria Corina Machado\", in esilio a Panama, secondo un documento pubblicato a Caracas, quasi dieci mesi dopo la cattura di Nicolas Maduro da parte dell'esercito americano.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/18/au-venezuela-la-prix-nobel-de-la-paix-maria-corina-machado-reconnue-leader-de-l-opposition-lors-d-un-grand-accord-national_6797230_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sun, 18 Oct 2026 20:41:48 +0200"
     },
     {
-      "titolo": "I due grandi credono che la campagna si collochi dove volevano",
-      "titolo_originale": "Los dos grandes creen que la campaña se va colocando donde querían",
-      "sommario": "Sanchez, euforico, ritiene che gli errori del PP con pensioni e \"sacrifici\" gli diano opzioni. Feijóo vede nelle dimissioni di Mínguez una vittoria che annulla il discorso sulla casa del PSOE. Gli esperti non apprezzano quasi movimenti su una mappa favorevole all'opzione PP-Vox",
-      "link": "https://elpais.com/espana/2026-10-18/los-dos-grandes-creen-que-la-campana-se-va-colocando-donde-querian.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 18 Oct 2026 03:30:01 GMT"
+      "titolo": "Trasmissione dell'esecuzione di Nidal Hasan: \"Donald Trump ha finalmente rinunciato a un progetto la cui messa in scena rischiava di ritorcersi contro di lui\"",
+      "titolo_originale": "Retransmission de l’exécution de Nidal Hasan : « Donald Trump a finalement renoncé à un projet dont la mise en scène risquait de se retourner contre lui »",
+      "sommario": "Anche se alla fine è stato abbandonato, l'unico annuncio della trasmissione in diretta dell'uccisione dell'ex militare ha causato polemiche sulla messa in scena della violenza di Stato, analizza lo specialista degli Stati Uniti Florian Leniaud, in una tribuna su \"Le Monde\".",
+      "link": "https://www.lemonde.fr/idees/article/2026/10/18/retransmission-de-l-execution-de-nidal-hasan-donald-trump-a-finalement-renonce-a-un-projet-dont-la-mise-en-scene-risquait-de-se-retourner-contre-lui_6797195_3232.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sun, 18 Oct 2026 20:00:05 +0200"
     },
     {
-      "titolo": "Davidovich si ribella a Jódar e conquista il territorio maledetto di Shanghai",
-      "titolo_originale": "Davidovich se rebela ante Jódar y conquista el territorio maldito de Shanghái",
-      "sommario": "Il malagueño approfitta del calo fisico del madrileno e risale una finale ad alta intensità: 1-6, 7-6(5) e 6-4, in 2h 28m. È il suo terzo titolo dell'anno, il più rilevante",
-      "link": "https://elpais.com/deportes/tenis/2026-10-18/davidovich-funde-a-jodar-y-conquista-shanghai.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 18 Oct 2026 11:25:58 GMT"
+      "titolo": "Elezioni legislative in Israele: i candidati inondano la campagna di \"deepfakes\" generati dall'IA",
+      "titolo_originale": "Elections législatives en Israël : les candidats inondent la campagne de « deepfakes » générés par l’IA",
+      "sommario": "A dieci giorni dalle elezioni previste per il 27 ottobre, tutti i partiti in lizza si affrontano a colpi di video truccati in cui i loro avversari sono messi in ridicolo. L’intelligenza artificiale non è mai stata utilizzata su tale scala nel campo politico israeliano.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/18/elections-legislatives-en-israel-les-candidats-inondent-la-campagne-de-deepfakes-generes-par-l-ia_6797124_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sun, 18 Oct 2026 18:30:02 +0200"
+    },
+    {
+      "titolo": "Come l’amministrazione di Donald Trump utilizza i paesi africani per espellere i migranti nonostante il diritto internazionale",
+      "titolo_originale": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international",
+      "sommario": "Dei 28.000 immigrati espulsi dagli Stati Uniti tra l'inizio del 2025 e l'agosto 2026, oltre 500 sono stati inviati nel continente africano, secondo i dati del Deportation Data Project. Il più delle volte non hanno un legame diretto con i paesi africani.",
+      "link": "https://www.lemonde.fr/afrique/video/2026/10/18/comment-l-administration-de-donald-trump-utilise-des-pays-africains-pour-expulser-des-migrants-en-depit-du-droit-international_6797087_3212.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sun, 18 Oct 2026 18:00:02 +0200"
     },
     {
       "titolo": "Per il saggista statunitense Thomas Chatterton Williams, «la sinistra americana ha commesso un grave errore difendendo una politica centrata sull'identitarismo»",
@@ -192,9 +228,9 @@
       "data": "Sun, 18 Oct 2026 17:00:10 +0200"
     },
     {
-      "titolo": "Papa Leone XIV ringrazia i fedeli riuniti in piazza San Pietro dopo la sua operazione e annuncia la graduale ripresa delle sue attività",
-      "titolo_originale": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
-      "sommario": "Leone XIV, 71 anni, è stato operato martedì all'ospedale Gemelli di Roma dove gli è stato asportato un nodulo canceroso al polmone destro ed è stato autorizzato a dimettersi dall'ospedale sabato. I suoi medici hanno affermato che si è ripreso rapidamente e dovrebbe essere in grado di riprendere i suoi viaggi.",
+      "titolo": "Papa Leone XIV ringrazia i fedeli riuniti in piazza San Pietro dopo la sua operazione e annuncia la graduale ripresa delle sue attività",
+      "titolo_originale": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
+      "sommario": "Leone XIV, 71 anni, è stato operato martedì all'ospedale Gemelli di Roma dove gli è stato asportato un nodulo canceroso al polmone destro, ed è stato dimesso dall'ospedale sabato. I suoi medici hanno affermato che si è ripreso rapidamente e dovrebbe essere in grado di riprendere i suoi viaggi.",
       "link": "https://www.lemonde.fr/religions/article/2026/10/18/le-pape-leon-xiv-remercie-les-fideles-reunis-place-saint-pierre-apres-son-operation-et-annonce-la-reprise-progressive-de-ses-activites_6797082_1653130.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
@@ -225,52 +261,16 @@
       "link": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 18 Oct 2026 16:00:11 +0200"
+      "data": "Sun, 18 Oct 2026 16:00:07 +0200"
     },
     {
       "titolo": "\"Uno tsunami di terrorismo ebraico\": nella Cisgiordania occupata, dietro la violenza dei coloni durante la raccolta delle olive, un'operazione di pulizia etnica su larga scala",
       "titolo_originale": "« Un tsunami de terrorisme juif » : en Cisjordanie occupée, derrière la violence des colons pendant la récolte des olives, une opération de nettoyage ethnique à grande échelle",
-      "sommario": "Con l’avvicinarsi delle elezioni parlamentari israeliane del 27 ottobre, diverse ONG descrivono i metodi per cacciare i palestinesi dalle loro terre e gli ostacoli alla raccolta delle olive da parte dei coloni.",
+      "sommario": "Con l’avvicinarsi delle elezioni parlamentari israeliane del 27 ottobre, diverse ONG descrivono i metodi degli estremisti religiosi per cacciare i palestinesi dalle loro terre e gli ostacoli alla raccolta delle olive da parte dei coloni.",
       "link": "https://www.lemonde.fr/international/article/2026/10/18/un-tsunami-de-terrorisme-juif-en-cisjordanie-occupee-derriere-la-violence-des-colons-pendant-la-recolte-des-olives-une-operation-de-nettoyage-ethnique-a-grande-echelle_6797074_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
       "data": "Sun, 18 Oct 2026 15:00:05 +0200"
-    },
-    {
-      "titolo": "“Come uomini non sappiamo chiedere aiuto”: negli Stati Uniti associazioni non miste per far uscire i caregiver dall'isolamento",
-      "titolo_originale": "« En tant qu’hommes, nous ne savons pas demander de l’aide » : aux Etats-Unis, des associations non mixtes pour sortir les aidants de l’isolement",
-      "sommario": "\"Carte verdi\". Una volta al mese, uno dei nostri giornalisti racconta come invecchiamo fuori dai nostri confini. Oltreoceano, i gruppi di parola insegnano agli uomini che aiutano ad accettare che anche loro hanno bisogno di sostegno.",
-      "link": "https://www.lemonde.fr/intimites/article/2026/10/18/en-tant-qu-hommes-nous-ne-savons-pas-demander-de-l-aide-aux-etats-unis-des-associations-non-mixtes-pour-sortir-les-aidants-de-l-isolement_6797065_6190330.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 18 Oct 2026 12:00:18 +0200"
-    },
-    {
-      "titolo": "Canada: un incendio in una base militare in Alberta fa morti e feriti, le strutture sanitarie “completamente sommerse”",
-      "titolo_originale": "Canada : un incendie sur une base militaire en Alberta fait des morts et des blessés, les établissements de santé « complètement submergés »",
-      "sommario": "Gli ospedali di Wainwright sono sovraffollati dopo l’incendio, mentre il voto anticipato per il referendum locale ha dovuto essere sospeso nella zona.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/18/canada-un-incendie-sur-une-base-militaire-en-alberta-fait-des-morts-et-des-blesses-les-etablissements-de-sante-completement-submerges_6797056_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 18 Oct 2026 11:06:06 +0200"
-    },
-    {
-      "titolo": "Alain Rouquié, diplomatico: \"Per il futuro dell'America Latina, sono sempre ottimista\"",
-      "titolo_originale": "Alain Rouquié, diplomate : « Pour l’avenir de l’Amérique latine, je suis toujours optimiste »",
-      "sommario": "L’ex presidente della Casa dell'America Latina, oggi messa in pericolo dalla vendita dei locali che affitta alla Banque de France, torna sulle ragioni dell'avanzata dell'estrema destra nella regione, terreno di scontro tra Cina e Stati Uniti.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/18/alain-rouquie-diplomate-pour-l-avenir-de-l-amerique-latine-je-suis-toujours-optimiste_6797054_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 18 Oct 2026 11:00:14 +0200"
-    },
-    {
-      "titolo": "Come l’industria tedesca ha cambiato posizione nei confronti della Cina",
-      "titolo_originale": "Comment l’industrie allemande a changé de position face à la Chine",
-      "sommario": "Consapevole che il sacrosanto libero scambio stava raggiungendo i suoi limiti, l’industria d’oltre Reno, di fronte a una massiccia perdita di posti di lavoro, ha svolto un ruolo decisivo negli ultimi accordi siglati tra Parigi e Berlino per proteggere l’Europa dalla concorrenza sleale di Pechino.",
-      "link": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 18 Oct 2026 10:00:06 +0200"
     },
     {
       "titolo": "Lasciando gli Stati Uniti: l'erosione del mio sogno americano",
@@ -408,76 +408,112 @@
       "data": "Sun, 18 Oct 2026 09:40:20 +0200"
     },
     {
-      "titolo": "Milano: centinaia di giovani a gruppetti in piazza Duomo, 50 portati in questura",
-      "titolo_originale": "Milano: centinaia di giovani a gruppetti in piazza Duomo, 50 portati in questura",
-      "sommario": "Alcuni lanciano tavolini e sedie contro le vetrine",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/centinaia-di-giovani-a-gruppetti-in-piazza-duomo-50-portati-in-questura_57da2060-1834-4ed4-a7a9-19a0843c94bd.html",
+      "titolo": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
+      "titolo_originale": "A Milano ancora scontri, Meloni convoca il vertice sulla sicurezza",
+      "sommario": "Neanche il tempo di contare i danni che nel centro della città è tornata la guerriglia urbana. Scontro Sala-Piantedosi sugli agenti. Sono oltre 200 i fermati, l'80% minorenni",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/a-milano-ancora-scontri-meloni-convoca-il-vertice-sulla-sicurezza_7945d5b5-a8b2-4eed-96ae-375261367822.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 17:21:55 +0200"
+      "data": "Sun, 18 Oct 2026 22:09:12 +0200"
     },
     {
-      "titolo": "Scontri ai cortei, 'Pochi agenti in strada', scoppia la polemica tra Piantedosi e Sala. Danni per 1 milione di euro",
-      "titolo_originale": "Scontri ai cortei, 'Pochi agenti in strada', scoppia la polemica tra Piantedosi e Sala. Danni per 1 milione di euro",
-      "sommario": "Il ministro dell'Interno: 'Azioni da professionisti del disordine. Anche i minorenni non resteranno impuniti'. Schlein: 'Condanniamo i delinquenti, ma non li usino per coprire le proteste pacifiche'",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/pochi-agenti-in-strada-scoppia-la-polemica-tra-piantedosi-e-sala.-danni-per_397d8359-98ac-4ba2-840f-a55dcb988745.html",
+      "titolo": "Serie A, in campo Juventus-Lazio LIVE",
+      "titolo_originale": "Serie A, in campo Juventus-Lazio LIVE",
+      "sommario": "Si gioca la settima giornata di campionato",
+      "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/18/serie-a-juventus-lazio-in-campo-alle-20.45-diretta_02c6a963-1886-4a93-92ec-be0857426a7b.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 17:24:01 +0200"
+      "data": "Sun, 18 Oct 2026 21:14:22 +0200"
     },
     {
-      "titolo": "Schlein all'assemblea Pd: 'Sono pronta a candidarmi, con o senza le primarie'",
-      "titolo_originale": "Schlein all'assemblea Pd: 'Sono pronta a candidarmi, con o senza le primarie'",
-      "sommario": "'Avevano scommesso che non sarei durata sei mesi'. Appello di Avs alle altre opposizioni: 'Ora una grande manifestazione unitaria'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/18/schlein-sono-pronta-a-candidarmi-con-o-senza-le-primarie_68325ea6-8145-45ec-add6-1db6a16ef38a.html",
+      "titolo": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
+      "titolo_originale": "Macron: 'Rabbia e vergogna, chi ha distrutto deve pagare'",
+      "sommario": "'Potremmo vietare alcuni raduni'. Nuovi scontri a Parigi e Lione, è bufera politica",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/macron-denuncia-il-caos-in-francia-rabbia-e-vergogna_2aeef560-dded-49f0-b82b-97ffd9004684.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 16:41:55 +0200"
+      "data": "Sun, 18 Oct 2026 21:36:37 +0200"
     },
     {
-      "titolo": "Il Papa si affaccia per l'Angelus: \"Riprenderò le attività gradualmente\"",
-      "titolo_originale": "Il Papa si affaccia per l'Angelus: \"Riprenderò le attività gradualmente\"",
-      "sommario": "Dopo le dimissioni di ieri dal Gemelli: 'L'esperienza dell'operazione mi ha avvicinato ai malati'. Il Pontefice ringrazia i medici e i fedeli per il 'sostegno e le preghiere'. Almeno 15mila persone in piazza San Pietro&nbsp;",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-papa-si-affaccia-per-langelus-riprendero-le-attivita-gradualmente-_74dcf119-92a0-46e7-986f-16343122a321.html",
+      "titolo": "Papa Leone all'Angelus dopo il ricovero: 'Riprenderò gradualmente'",
+      "titolo_originale": "Papa Leone all'Angelus dopo il ricovero: 'Riprenderò gradualmente'",
+      "sommario": "Apparso in buona forma ringrazia i fedeli: 'Questa esperienza mi ha avvicinato ai malati'",
+      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/papa-leone-allangelus-dopo-il-ricovero-riprendero-gradualmente_74dcf119-92a0-46e7-986f-16343122a321.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 15:30:13 +0200"
+      "data": "Sun, 18 Oct 2026 19:40:40 +0200"
     },
     {
-      "titolo": "La polizia francese: 'Numero record di 855 fermi a Parigi durante le proteste'",
-      "titolo_originale": "La polizia francese: 'Numero record di 855 fermi a Parigi durante le proteste'",
-      "sommario": "Macron stasera parlerà alla nazione. L'intervento questa sera alle 20",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/18/la-polizia-francese-numero-record-di-855-fermi-a-parigi-durante-le-proteste_2aeef560-dded-49f0-b82b-97ffd9004684.html",
+      "titolo": "Il racconto della settimana in immagini: 10-17 ottobre",
+      "titolo_originale": "Il racconto della settimana in immagini: 10-17 ottobre",
+      "sommario": "Dal ricovero del Papa allo sciopero dei trasportatori e le proteste studentesche",
+      "link": "https://www.ansa.it/sito/videogallery/short_video/2026/10/17/il-racconto-della-settimana-in-immagini-10-17-ottobre_e285c494-4328-4e34-9a5c-f99cea98aaf1.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 15:05:58 +0200"
+      "data": "Sat, 17 Oct 2026 09:44:42 +0200"
     },
     {
-      "titolo": "Scontri a Milano, piazza Duomo di nuovo presidiata: lancio di petardi contro la polizia",
-      "titolo_originale": "Scontri a Milano, piazza Duomo di nuovo presidiata: lancio di petardi contro la polizia",
-      "sommario": "Nuova chiamata sui social: gli agenti schierati con l’idrante identificano chi arriva",
-      "link": "https://milano.repubblica.it/cronaca/2026/10/18/news/scontri_milano_petardi_piazza_duomo-425656584/",
+      "titolo": "Schlein ufficializza la sua corsa “Io premier con o senza primarie”",
+      "titolo_originale": "Schlein ufficializza la sua corsa “Io premier con o senza primarie”",
+      "sommario": "La segretaria incassa la proroga del mandato all’assemblea nazionale ma chiude la competizione ai gazebo per gli altri dem. E la minoranza si astiene: “Una forzatura”",
+      "link": "https://www.repubblica.it/politica/2026/10/18/news/elly_schlein_assemblea_pd_premier_primarie-425657073/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 14:23:19 +0000"
+      "data": "Sun, 18 Oct 2026 19:53:20 +0000"
+    },
+    {
+      "titolo": "Guerriglia a Milano, due giorni di razzie e violenze: 270 fermati, oltre cento i feriti",
+      "titolo_originale": "Guerriglia a Milano, due giorni di razzie e violenze: 270 fermati, oltre cento i feriti",
+      "sommario": "La telefonata del ministro Piantedosi con il questore Megale. Altissima la quota di minori anche non imputabili",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/18/news/guerriglia_milano_bilancio_fermati_feriti-425657062/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sun, 18 Oct 2026 19:50:05 +0000"
+    },
+    {
+      "titolo": "Lo schiaffo di Zelensky a Trump: raid sul diesel di San Pietroburgo",
+      "titolo_originale": "Lo schiaffo di Zelensky a Trump: raid sul diesel di San Pietroburgo",
+      "sommario": "La città di Putin colpita duramente dai droni ucraini. In fiamme il terminal che deve rifornire di carburante gli Usa",
+      "link": "https://www.repubblica.it/esteri/2026/10/19/news/schiaffo_zelensky_trump_raid_diesel_san_pietroburgo-425656953/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sun, 18 Oct 2026 19:10:45 +0000"
+    },
+    {
+      "titolo": "Milan, 3-2 all'Atalanta col brivido. Sarri accusa: “Qualche giocatore può dire vaffa all’arbitro\"",
+      "titolo_originale": "Milan, 3-2 all'Atalanta col brivido. Sarri accusa: “Qualche giocatore può dire vaffa all’arbitro\"",
+      "sommario": "3-0 rossonero, poi escono gli ospiti e sfiorano il pareggio. Il tecnico toscano furioso con Rabiot, solo ammonito da Chiffi",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/milan_atalanta_gol-425656911/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sun, 18 Oct 2026 18:31:46 +0000"
+    },
+    {
+      "titolo": "Il Como riparte con un tris: Liberali, Nico Paz e Douvikas stendono la Fiorentina",
+      "titolo_originale": "Il Como riparte con un tris: Liberali, Nico Paz e Douvikas stendono la Fiorentina",
+      "sommario": "La squadra di Fabregas vince 3-1 al Franchi e si rilancia. Polemiche viola per un fallo di Milla in occasione del primo gol dei lariani",
+      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/fiorentina_como_gol_liberali-425656646/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sun, 18 Oct 2026 15:24:17 +0000"
+    },
+    {
+      "titolo": "Guerriglia a Milano, devastazioni e negozi saccheggiati. Oltre 200 fermati, molti minorenni",
+      "titolo_originale": "Guerriglia a Milano, devastazioni e negozi saccheggiati. Oltre 200 fermati, molti minorenni",
+      "sommario": "Nuova giornata di scontri in centro a Milano, dopo le devastazioni di ieri. Meloni convoca riunione sull’ordine pubblico",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/18/diretta/milano_guerriglia_giovani_centro-425656615/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Sun, 18 Oct 2026 15:08:13 +0000"
     },
     {
       "titolo": "Meloni sugli stipendi dei magistrati: “Non firmerò il decreto sugli aumenti”",
       "titolo_originale": "Meloni sugli stipendi dei magistrati: “Non firmerò il decreto sugli aumenti”",
-      "sommario": "La premier all’Adnkronos: “Il Consiglio di Stato nomini pure un commissario, in tutta coscienza non posso destinare 1 miliardo” alle retribuzioni. La cifra è quella stabilita dalle sentenze dei giudici amministrativi al termine di un lungo contenzioso",
+      "sommario": "La premier all’Adnkronos: “Il Consiglio di Stato nomini pure un commissario, in tutta coscienza non posso destinare 1 miliardo” alle retribuzioni. La cifra è quella stabilita dalle sentenze dei giudici amministrativi al termine di un lungo contenzioso. Anm: “Faremo valere i nostri diritti”",
       "link": "https://www.repubblica.it/economia/2026/10/18/news/meloni_non_firmo_decreto_stipendi_magistrati-425656555/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
       "data": "Sun, 18 Oct 2026 13:50:51 +0000"
-    },
-    {
-      "titolo": "Undicimila manifestanti, 28 arresti (12 minorenni) e 141 agenti feriti: il bollettino delle piazze",
-      "titolo_originale": "Undicimila manifestanti, 28 arresti (12 minorenni) e 141 agenti feriti: il bollettino delle piazze",
-      "sommario": "Il bilancio, ancora provvisorio, è quello raccolto dagli investigatori al termine delle manifestazioni di sabato 17 ottobre del Nord Italia",
-      "link": "https://www.repubblica.it/politica/2026/10/18/news/manifestazioni_milano_torino_bologna_brescia_arrestati_feriti-425656547/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 13:30:54 +0000"
     },
     {
       "titolo": "Spara alla moglie malata e poi si toglie la vita: omicidio-suicidio ai Colli Portuensi",
@@ -498,241 +534,223 @@
       "data": "Sun, 18 Oct 2026 12:43:45 +0000"
     },
     {
-      "titolo": "Morte per la ricina, Gianni Di Vita ammise il tradimento. Ma il marito di lei non lo sapeva",
-      "titolo_originale": "Morte per la ricina, Gianni Di Vita ammise il tradimento. Ma il marito di lei non lo sapeva",
-      "sommario": "Risale al 2018 la prima crisi matrimoniale, il tradimento è più recente. Gli inquirenti per ora hanno come unico movente quello passionale",
-      "link": "https://www.repubblica.it/cronaca/2026/10/18/news/morte_ricina_gianni_di_vita_tradimento-425656445/",
+      "titolo": "A Washington alla cena degli italoamericani tra rapporti in crisi, Trump e le elezioni di Midterm",
+      "titolo_originale": "A Washington alla cena degli italoamericani tra rapporti in crisi, Trump e le elezioni di Midterm",
+      "sommario": "Al 51esimo anniversario della National Italian American Foundation l’amicizia in difficoltà tra i due Paesi e i dilemmi della comunità verso il voto di novembre",
+      "link": "https://www.repubblica.it/esteri/2026/10/18/news/cena_niaf_italoamericani_usa_trump_meloni-425656448/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 12:14:56 +0000"
+      "data": "Sun, 18 Oct 2026 12:16:21 +0000"
     },
     {
-      "titolo": "I leader Avs: “La gente ci ferma per chiederci unità, andiamo in piazza insieme contro il carovita”. Il sì di Schlein",
-      "titolo_originale": "I leader Avs: “La gente ci ferma per chiederci unità, andiamo in piazza insieme contro il carovita”. Il sì di Schlein",
-      "sommario": "L’appello di Fratoianni e Bonelli agli alleati: “Non possiamo fare l’errore del 2022 e dividerci”",
-      "link": "https://www.repubblica.it/politica/2026/10/18/news/avs_centrosinistra_fratoianni_bonelli_patrimoniale-425656437/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 11:56:17 +0000"
-    },
-    {
-      "titolo": "Francia, governo sotto accusa dopo le violenze nei cortei: “Non ha saputo fermare i black bloc”",
-      "titolo_originale": "Francia, governo sotto accusa dopo le violenze nei cortei: “Non ha saputo fermare i black bloc”",
-      "sommario": "Nel mirino il ministro degli Interni. Quasi 1.800 persone sono state arrestate, feriti oltre 500 tra poliziotti, gendarmi e pompieri. Le prime stime sui danni sono di centinaia di milioni di euro. Trump: “La Francia è in fiamme! Chiudete le frontiere”",
-      "link": "https://www.repubblica.it/esteri/2026/10/18/news/francia_protesta_studenti_governo_sotto_accusa_dopo_le_violenze_dei_black_bloc-425656417/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 11:47:15 +0000"
-    },
-    {
-      "titolo": "I sindaci di centrosinistra delle grandi città: “Diciamo no alle violenze, governo ci convochi”",
-      "titolo_originale": "I sindaci di centrosinistra delle grandi città: “Diciamo no alle violenze, governo ci convochi”",
-      "sommario": "I nove primi cittadini di Roma, Milano, Genova, Torino, Bari, Cagliari, Bologna, Firenze e Napoli si appellano all’esecutivo dopo gli scontri in piazza: “Carovita fa soffrire i cittadini”",
-      "link": "https://www.repubblica.it/politica/2026/10/18/news/sindaci_centrosinistra_violenze_milano-425656394/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 11:24:38 +0000"
-    },
-    {
-      "titolo": "Napoli, Allegri non ha più jolly: contro Bodo e Roma si gioca tutto",
-      "titolo_originale": "Napoli, Allegri non ha più jolly: contro Bodo e Roma si gioca tutto",
-      "sommario": "Cinque sconfitte in nove gare hanno fatto precipitare gli azzurri nella crisi. De Laurentiis conferma la fiducia al tecnico, ma servono risposte immediate: il futuro di Max passa dalla reazione della squadra",
-      "link": "https://www.repubblica.it/sport/calcio/serie-a/2026/10/18/news/allegri_crisi_napoli_cosa_sta_succedendo-425656388/",
-      "fonte": "Repubblica",
-      "lingua_originale": "it",
-      "data": "Sun, 18 Oct 2026 11:22:23 +0000"
-    },
-    {
-      "titolo": "Una cronologia degli attacchi della Cisgiordania contro palestinesi e funzionari stranieri",
-      "titolo_originale": "A timeline of West Bank attacks on Palestinians and foreign officials",
-      "sommario": "I pogrom dei coloni si sono intensificati, in coincidenza con la stagione annuale della raccolta delle olive nella Cisgiordania occupata.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
+      "titolo": "Il giro di vite dell'India su scarafaggi, critici e telecamere",
+      "titolo_originale": "India’s crackdown on cockroaches, critics and cameras",
+      "sommario": "Un governo in guerra con i suoi critici - dai giovani manifestanti ai media.",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 14:42:01 +0000"
+      "data": "Sun, 18 Oct 2026 19:31:45 +0000"
     },
     {
-      "titolo": "La Francia protesta in diretta: Macron si rivolge alla nazione dopo le proteste",
-      "titolo_originale": "France protests live: Macron to address nation after protests",
-      "sommario": "Le proteste stanno spazzando la Francia mentre la rabbia per le condizioni nelle scuole incontra la frustrazione con alti costi della vita",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/france-protests-live-macron-to-address-nation-after-deadly-protests?traffic_source=rss",
+      "titolo": "In che modo l'Europa affronterà le proteste guidate dai giovani?",
+      "titolo_originale": "How will Europe deal with youth-led protests?",
+      "sommario": "Le manifestazioni si stanno diffondendo in tutto il continente.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 14:26:11 +0000"
+      "data": "Sun, 18 Oct 2026 19:15:21 +0000"
     },
     {
-      "titolo": "Perché Trump ora incoraggia il voto per corrispondenza?",
-      "titolo_originale": "Why is Trump now encouraging mail-in voting?",
-      "sommario": "Donald Trump ha passato anni a sostenere che il voto per corrispondenza è corrotto. Noor Wazwaz di Al Jazeera spiega.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-is-trump-now-encouraging-mail-in-voting?traffic_source=rss",
+      "titolo": "Clarence Seedorf denuncia il genocidio nella prima conferenza stampa dei Corinzi",
+      "titolo_originale": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+      "sommario": "Clarence Seedorf afferma che il calcio deve essere tenuto in prospettiva mentre i genocidi e i conflitti continuano in tutto il mondo.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 14:09:16 +0000"
+      "data": "Sun, 18 Oct 2026 19:12:30 +0000"
     },
     {
-      "titolo": "Perché le proteste scolastiche in Francia sono diventate una crisi politica più ampia?",
-      "titolo_originale": "Why have France’s school protests become a wider political crisis?",
-      "sommario": "Le manifestazioni hanno unito studenti e sostenitori dei \"gilet gialli\", esponendo una rabbia più profonda per gli standard di vita.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+      "titolo": "La guerra della Russia contro l'Ucraina \"deve finire\", dice Zelenskyy",
+      "titolo_originale": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "sommario": "Il presidente ucraino afferma che la comunicazione tra Washington e Kiev \"praticamente senza sosta\", nonostante una disputa con Trump.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 13:48:04 +0000"
+      "data": "Sun, 18 Oct 2026 19:11:27 +0000"
     },
     {
-      "titolo": "Esercito sudanese accusato di attacco di droni sul mercato del bestiame",
-      "titolo_originale": "Sudan army accused of drone strike on livestock market",
-      "sommario": "L'esercito del Sudan afferma di aver colpito i centri di comando RSF nel Darfur meridionale, ma l'RSF afferma che è stato colpito un affollato mercato del bestiame.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+      "titolo": "Il GCC condanna gli attacchi degli Houthi all'Arabia Saudita mentre i combattimenti nello Yemen si intensificano",
+      "titolo_originale": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+      "sommario": "I ministri del Golfo sollecitano un'azione contro gli Houthi mentre i combattimenti sfollano più di 233.000 persone in tutto lo Yemen.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 13:37:03 +0000"
+      "data": "Sun, 18 Oct 2026 18:44:30 +0000"
     },
     {
-      "titolo": "L'antica India era la superpotenza dimenticata del mondo?",
-      "titolo_originale": "Was ancient India the world’s forgotten superpower?",
-      "sommario": "Nell'ultimo episodio di Deja Vu, William Dalrymple esplora l'influenza globale dell'antica India e come è stata trascurata.",
-      "link": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+      "titolo": "I bodybuilder di Gaza trovano conforto nella competizione dell'uomo forte tra le rovine",
+      "titolo_originale": "Gaza bodybuilders find solace in strongman competition among the ruins",
+      "sommario": "I bodybuilder di Gaza stanno trovando conforto nel testare la loro forza durante una competizione circondata da macerie.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 13:17:31 +0000"
+      "data": "Sun, 18 Oct 2026 18:36:02 +0000"
     },
     {
-      "titolo": "Le famiglie di Gaza temono la carenza di cibo mentre Israele interrompe le spedizioni commerciali",
-      "titolo_originale": "Gaza families fear food shortages as Israel halts commercial shipments",
-      "sommario": "I residenti segnalano un aumento dei prezzi a causa delle ultime restrizioni, lasciando le famiglie incapaci di permettersi forniture extra.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+      "titolo": "Perché gli Stati Uniti stanno tenendo colloqui segreti con il sovrano militare del Myanmar",
+      "titolo_originale": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "sommario": "Perché l'amministrazione Trump sta tenendo colloqui segreti con il sovrano militare del Myanmar, accusato di genocidio?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 13:16:13 +0000"
+      "data": "Sun, 18 Oct 2026 18:22:11 +0000"
     },
     {
-      "titolo": "Parigi vacilla quando le proteste guidate dagli studenti diventano caotiche",
-      "titolo_originale": "Paris left reeling as student-led protests turn chaotic",
-      "sommario": "Circa 1.800 persone arrestate e centinaia ferite durante le manifestazioni a livello nazionale a cui hanno partecipato centinaia di migliaia di persone.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+      "titolo": "La superstar indiana di Bollywood Tiger Shroff sarebbe stata colpita da uomini armati",
+      "titolo_originale": "Indian Bollywood superstar Tiger Shroff allegedly shot at by gunmen",
+      "sommario": "L'attore di Bollywood Tiger Shroff è scappato illeso dopo che uomini armati hanno aperto il fuoco contro il suo veicolo a Mumbai, in India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/tiger-shroff-mumbai-shooting-salman-khan?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 13:08:06 +0000"
+      "data": "Sun, 18 Oct 2026 17:58:49 +0000"
     },
     {
-      "titolo": "La FIFA sta demolendo il suo premio per la pace dopo averlo assegnato al presidente degli Stati Uniti Trump?",
-      "titolo_originale": "Is FIFA scrapping its peace prize after awarding it to US President Trump?",
-      "sommario": "Comitato FIFA per valutare i meriti del premio dopo che diversi membri ne hanno richiesto l'interruzione.",
-      "link": "https://www.aljazeera.com/sports/2026/10/18/fifa-peace-prize-football-us-president-donald-trump?traffic_source=rss",
+      "titolo": "GERUSALEMME QUOTIDIANA: I coloni attaccano i diplomatici dell'UE",
+      "titolo_originale": "JERUSALEM DAILY: Settlers attack EU diplomats",
+      "sommario": "I coloni israeliani hanno attaccato una delegazione dell'UE nella Cisgiordania occupata mentre stava visitando i raccoglitori di olive vicino a Taybeh.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 12:49:57 +0000"
+      "data": "Sun, 18 Oct 2026 17:52:37 +0000"
     },
     {
-      "titolo": "I residenti di Parigi dicono ad Al Jazeera di essere costernati dai danni della protesta",
-      "titolo_originale": "Paris residents tell Al Jazeera they’re dismayed by protest damage",
-      "sommario": "I residenti di Parigi dicono ad Al Jazeera di essere costernati dal livello di danni causati quando le proteste di sabato sono diventate violente.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/paris-residents-tell-al-jazeera-theyre-dismayed-by-protest-damage?traffic_source=rss",
+      "titolo": "Madueke segna solo gol come sotto-par Arsenal battere Nottingham Forest",
+      "titolo_originale": "Madueke scores only goal as below-par Arsenal beat Nottingham Forest",
+      "sommario": "L'Arsenal non ha registrato un tiro in porta fino a quando Noni Madueke non ha imbustato il suo vincitore a 10 minuti dal tempo pieno.",
+      "link": "https://www.aljazeera.com/sports/2026/10/18/madueke-scores-only-goal-as-below-par-arsenal-beat-nottingham-forest?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 18 Oct 2026 12:44:26 +0000"
+      "data": "Sun, 18 Oct 2026 17:48:17 +0000"
     },
     {
-      "titolo": "Lavrov ricevuto dal re del Bahrain a Manama — diplomatico",
-      "titolo_originale": "Lavrov received by King of Bahrain in Manama — diplomat",
-      "sommario": "Il presidente russo Vladimir Putin ha tenuto una telefonata con il re del Bahrain",
-      "link": "https://tass.com/politics/2203769",
+      "titolo": "Quasi 2.400 persone detenute durante i disordini in Francia — agenzia",
+      "titolo_originale": "Nearly 2,400 people detained during unrest in France — agency",
+      "sommario": "Secondo il Ministero dell'Interno, citato dall'AFP, 997 agenti delle forze dell'ordine sono rimasti feriti, sette dei quali hanno riportato lesioni gravi",
+      "link": "https://tass.com/emergencies/2203855",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 17:40:07 +0300"
+      "data": "Sun, 18 Oct 2026 22:50:31 +0300"
     },
     {
-      "titolo": "Oltre 2.000 manifestanti arrestati durante i disordini in Francia — ministro degli interni",
-      "titolo_originale": "Over 2,000 protesters detained during riots in France — interior minister",
-      "sommario": "Circa 600 agenti di polizia sono stati feriti, ha detto il ministro dell'Interno francese Laurent Nunez",
-      "link": "https://tass.com/emergencies/2203767",
+      "titolo": "Macron descrive la situazione dei disordini in Francia come estremamente grave",
+      "titolo_originale": "Macron describes situation with riots in France as extremely serious",
+      "sommario": "Il presidente francese ha invitato il governo a trarre una lezione da ciò che accade e a fare tutto il possibile per prevenire il ripetersi di questo",
+      "link": "https://tass.com/world/2203853",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 17:38:42 +0300"
+      "data": "Sun, 18 Oct 2026 22:31:23 +0300"
     },
     {
-      "titolo": "Il rating di approvazione di Trump raggiunge un nuovo minimo in mezzo al crescente sostegno per i democratici — sondaggio",
-      "titolo_originale": "Trump’s approval rating hits new low amid growing support for Democrats — poll",
-      "sommario": "Secondo i risultati del sondaggio, l'approvazione di Trump si attesta al 33%, o 4 p.p. in calo a luglio e 8 p.p. in calo a ottobre 2025",
-      "link": "https://tass.com/world/2203759",
+      "titolo": "Siria, la Banca Mondiale accetta di istituire un fondo per il recupero della Siria",
+      "titolo_originale": "Syria, World Bank agree to establish Syria recovery fund",
+      "sommario": "Secondo il ministro delle finanze siriano Mohammed Yasser Barnieh, l'accordo apre una nuova fase in collaborazione con i partner internazionali",
+      "link": "https://tass.com/economy/2203851",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 16:54:38 +0300"
+      "data": "Sun, 18 Oct 2026 22:15:05 +0300"
     },
     {
-      "titolo": "Russia, Arabia Saudita sottolineano l'importanza della sicurezza della navigazione internazionale — Ministero degli Esteri",
-      "titolo_originale": "Russia, Saudi Arabia note importance of international navigation safety — Foreign Ministry",
-      "sommario": "I ministri hanno espresso preoccupazione per la tensione nel sud della penisola arabica e nello stretto di Bab-el-Mandeb",
-      "link": "https://tass.com/politics/2203757",
+      "titolo": "Nessuna decisione sulla potenziale visita di Putin al vertice del G20 a Miami — portavoce del Cremlino",
+      "titolo_originale": "No decision on Putin’s potential visit to G20 summit in Miami — Kremlin spokesman",
+      "sommario": "Il presidente degli Stati Uniti Donald Trump ha detto che gli piacerebbe \"certamente\" vedere il suo omologo russo Vladimir Putin al vertice del Gruppo dei Venti a Miami, in Florida",
+      "link": "https://tass.com/politics/2203849",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 16:34:25 +0300"
+      "data": "Sun, 18 Oct 2026 21:51:37 +0300"
     },
     {
-      "titolo": "L'immigrazione ha rovinato la Francia, deve chiudere le frontiere con urgenza — Trump",
-      "titolo_originale": "Immigration ruined France, it must close its borders urgently — Trump",
-      "sommario": "Il 17 ottobre si sono tenute dimostrazioni di massa a Parigi e in tutta la Francia contro l'aumento dei prezzi del carburante e il calo del potere d'acquisto",
-      "link": "https://tass.com/world/2203755",
+      "titolo": "L'accordo sul diesel riguarda solo la Russia, gli Stati Uniti, qualsiasi cosa Zelensky possa dire — Lavrov",
+      "titolo_originale": "Diesel deal concerns only Russia, US, whatever Zelensky could say — Lavrov",
+      "sommario": "Il presidente russo Vladimir Putin e il presidente degli Stati Uniti Donald Trump hanno tenuto una telefonata il 9 ottobre, durante la quale hanno discusso, tra le altre cose, delle forniture di prodotti petroliferi",
+      "link": "https://tass.com/economy/2203845",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 16:32:24 +0300"
+      "data": "Sun, 18 Oct 2026 21:32:20 +0300"
     },
     {
-      "titolo": "L'espansione della NATO ha insegnato alla Russia a non essere ingenua nei rapporti con l'Occidente — diplomatico",
-      "titolo_originale": "NATO’s expansion has taught Russia not to be naive in relations with West — diplomat",
-      "sommario": "I propagandisti della NATO affermano che i leader dell'Alleanza non hanno mai promesso di abbandonare l'espansione verso est, ha detto Mikhail Ulyanov",
-      "link": "https://tass.com/politics/2203753",
+      "titolo": "Magyar accusa Orban di aver complottato un colpo di stato in Ungheria",
+      "titolo_originale": "Magyar accuses Orban of plotting state coup in Hungary",
+      "sommario": "Il primo ministro ungherese ha avvertito il suo predecessore dell'azione penale per questo",
+      "link": "https://tass.com/world/2203843",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 16:20:00 +0300"
+      "data": "Sun, 18 Oct 2026 21:24:38 +0300"
     },
     {
-      "titolo": "Mosca consiglia al primo ministro lettone di accendere la TV dopo le parole sui visti per i russi",
-      "titolo_originale": "Moscow advises Latvian PM to turn on TV after words about visas for Russians",
-      "sommario": "Il primo ministro lettone Andris Kulbergs ha invitato l'UE a smettere di rilasciare visti turistici ai russi",
-      "link": "https://tass.com/politics/2203751",
+      "titolo": "Il leader del Raggruppamento Nazionale francese chiede le dimissioni di Macron in mezzo alle rivolte",
+      "titolo_originale": "France’s National Rally leader calls for Macron’s resignation amid riots",
+      "sommario": "Jordan Bardella ha definito ciò che sta accadendo nel paese \"un'umiliazione per la Francia\"",
+      "link": "https://tass.com/world/2203841",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 16:10:00 +0300"
+      "data": "Sun, 18 Oct 2026 21:07:18 +0300"
     },
     {
-      "titolo": "Vance dice che potrebbe candidarsi alla presidenza nel 2028",
-      "titolo_originale": "Vance says may run for president in 2028",
-      "sommario": "Il presidente degli Stati Uniti Donald Trump ha rifiutato di parlare del suo possibile successore, che dovrebbe continuare la politica \"America First\" se vincerà le elezioni del 2028",
-      "link": "https://tass.com/world/2203749",
+      "titolo": "I disordini in Francia mostrano una perdita di fiducia popolare nei confronti delle autorità — politico",
+      "titolo_originale": "Unrest in France shows loss of popular trust to authorities — politician",
+      "sommario": "Marine Le Pen ha definito questa situazione un segnale allarmante per i francesi",
+      "link": "https://tass.com/world/2203839",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 15:36:45 +0300"
+      "data": "Sun, 18 Oct 2026 20:48:32 +0300"
     },
     {
-      "titolo": "Il Consiglio di sicurezza delle Nazioni Unite può essere coinvolto nella creazione delle condizioni per il dialogo nel Golfo — Lavrov",
-      "titolo_originale": "UN Security Council can be involved in creating conditions for dialogue in Gulf — Lavrov",
-      "sommario": "Il nostro concetto mira a creare le condizioni per un dialogo diretto tra i paesi, i paesi della costa del Golfo e i loro vicini, ha affermato il ministro degli Esteri",
-      "link": "https://tass.com/politics/2203747",
+      "titolo": "Oltre 40 droni ucraini abbattuti sulle regioni russe durante il giorno",
+      "titolo_originale": "Over 40 Ukrainian drones taken down over Russian regions during day",
+      "sommario": "I sistemi di difesa aerea russi hanno intercettato e distrutto 41 veicoli aerei senza pilota ad ala fissa ucraini sulle regioni di Belgorod, Bryansk, Kursk, Oryol e Pskov",
+      "link": "https://tass.com/defense/2203837",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 15:35:07 +0300"
+      "data": "Sun, 18 Oct 2026 20:39:25 +0300"
     },
     {
-      "titolo": "La Gran Bretagna e l'Europa perdono nel conflitto in Ucraina — esperto",
-      "titolo_originale": "Britain and Europe lose in conflict in Ukraine — expert",
-      "sommario": "Il costo economico e politico del sostegno incondizionato a Zelensky diventerà più pesante nel tempo, ha affermato Ian Proud",
-      "link": "https://tass.com/world/2203745",
+      "titolo": "Lavrov in visita a Teheran, per essere ricevuto dal presidente Pezeshkian il 19 ottobre",
+      "titolo_originale": "Lavrov to visit Tehran, to be received by President Pezeshkian on October 19",
+      "sommario": "Il ministro degli Esteri russo Sergey Lavrov terrà anche colloqui con il suo omologo iraniano Araghchi",
+      "link": "https://tass.com/politics/2203831",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 15:18:25 +0300"
+      "data": "Sun, 18 Oct 2026 20:36:11 +0300"
     },
     {
-      "titolo": "GUARDA le vetrine distrutte, gli edifici bruciati mentre l'Europa affronta le conseguenze delle ultime proteste violente",
+      "titolo": "Trump sostiene Netanyahu mentre gli Stati Uniti condannano la violenza dei coloni (VIDEO)",
+      "titolo_originale": "Trump backs Netanyahu as US slams settler violence (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4fe422030275ae374f6db.jpg\" style=\"margin-right: 10px;\" /> Washington ha esortato Israele a reprimere la violenza dei coloni, nonostante l'appoggio di Trump a Netanyahu prima delle elezioni <br /><a href=\"https://rt-english.com/news/647367-trump-netanyahu-us-israel-settler-violence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/news/647367-trump-netanyahu-us-israel-settler-violence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sun, 18 Oct 2026 19:41:35 +0000"
+    },
+    {
+      "titolo": "Perché i cosacchi ucraini amanti della libertà hanno scelto lo zar russo",
+      "titolo_originale": "Why Ukraine’s freedom-loving Cossacks chose the Russian tsar",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4cd592030275d114a2dcf.png\" style=\"margin-right: 10px;\" /> Perché i cosacchi ucraini si sono rivolti alla Russia? Scopri come la fede condivisa, il dominio polacco e la necessità militare hanno plasmato l'accordo di Pereiaslav. <br /><a href=\"https://rt-english.com/russia/647338-ukraines-freedom-loving-cossacks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/russia/647338-ukraines-freedom-loving-cossacks/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sun, 18 Oct 2026 16:00:57 +0000"
+    },
+    {
+      "titolo": "WATCH smashed storefronts, burned buildings as Europe faces aftermath of latest violent protests",
       "titolo_originale": "WATCH smashed storefronts, burned buildings as Europe faces aftermath of latest violent protests",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4dd1c85f54005f5145397.jpg\" style=\"margin-right: 10px;\" /> Le proteste in tutta Europa per il costo della vita, l'istruzione e le politiche governative hanno lasciato dozzine di città segnate da scontri, saccheggi e incendi dolosi <br /><a href=\"https://rt-english.com/news/647364-aftermath-protests-europe-cost-living/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4dd1c85f54005f5145397.jpg\" style=\"margin-right: 10px;\" /> Protests across Europe over living costs, education and government policies have left dozens of cities scarred by clashes, looting and arson <br /><a href=\"https://rt-english.com/news/647364-aftermath-protests-europe-cost-living/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/647364-aftermath-protests-europe-cost-living/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 18 Oct 2026 15:21:57 +0000"
     },
     {
-      "titolo": "L'Ungheria rompe i ranghi con l'UE sull'accordo diesel USA-Russia",
+      "titolo": "Hungary breaks ranks with EU over US-Russia diesel deal",
       "titolo_originale": "Hungary breaks ranks with EU over US-Russia diesel deal",
       "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4c63885f54005f5145388.jpg\" style=\"margin-right: 10px;\" /> Hungary’s Peter Magyar has said that the Russia-US diesel deal was “significant” for Budapest, contradicting EU criticism of it <br /><a href=\"https://rt-english.com/news/647365-hungary-us-diesel-magyar/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/647365-hungary-us-diesel-magyar/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -793,24 +811,6 @@
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 18 Oct 2026 05:32:24 +0000"
-    },
-    {
-      "titolo": "Rubio rebukes Zelensky over Starlink claims",
-      "titolo_originale": "Rubio rebukes Zelensky over Starlink claims",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad4420220302718de6d7a5e.jpg\" style=\"margin-right: 10px;\" /> Marco Rubio has denied that the US ordered Starlink restrictions on Ukrainian drones, questioning Zelensky’s account of the disruption <br /><a href=\"https://rt-english.com/news/647345-rubio-rebukes-zelensky-over-starlink/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647345-rubio-rebukes-zelensky-over-starlink/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 03:55:26 +0000"
-    },
-    {
-      "titolo": "WATCH Israeli settlers attack European diplomats in West Bank",
-      "titolo_originale": "WATCH Israeli settlers attack European diplomats in West Bank",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ad435da85f54078cb11f932.jpg\" style=\"margin-right: 10px;\" /> Israeli settlers have attacked a convoy carrying European diplomats in the West Bank, prompting condemnation from France, Belgium and Poland <br /><a href=\"https://rt-english.com/news/647344-israeli-settlers-attack-european-diplomats/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647344-israeli-settlers-attack-european-diplomats/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 18 Oct 2026 02:59:27 +0000"
     }
   ]
 }
