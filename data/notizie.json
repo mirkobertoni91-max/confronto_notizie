@@ -1,15 +1,42 @@
 {
-  "aggiornato": "2026-10-28T04:20:25.724621",
+  "aggiornato": "2026-10-28T12:16:44.749789",
   "totale_notizie": 90,
   "notizie": [
     {
-      "titolo": "I leader di Norvegia e Finlandia hanno una chiamata rara con Putin",
-      "titolo_originale": "Norway and Finland leaders hold rare call with Putin",
-      "sommario": "La fine del conflitto in Ucraina \"non sarà raggiunta attraverso il silenzio\", ha affermato il presidente finlandese Alexander Stubb.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Crociere di lusso bloccate in Cambogia a causa dell'impennata dei costi del carburante",
+      "titolo_originale": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "sommario": "La Villa Vie Odyssey ha sospeso il suo viaggio e sta lavorando con i passeggeri su \"soluzioni abitative temporanee\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 18:28:23 GMT"
+      "data": "Wed, 28 Oct 2026 10:31:22 GMT"
+    },
+    {
+      "titolo": "Serbo ucciso a colpi di arma da fuoco dopo aver attaccato un ufficiale fuori dall'ambasciata israeliana, dice il ministro",
+      "titolo_originale": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+      "sommario": "Le autorità dicono che l'aggressore a Belgrado era un maschio minorenne monitorato dai servizi di sicurezza.",
+      "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Wed, 28 Oct 2026 10:17:54 GMT"
+    },
+    {
+      "titolo": "La Tanzania celebra la prima scoperta di gas naturale in oltre 10 anni",
+      "titolo_originale": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "sommario": "Il ministro dell'energia lo ha descritto come una \"pietra miliare importante\" per la nazione dell'Africa orientale.",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Wed, 28 Oct 2026 10:18:40 GMT"
+    },
+    {
+      "titolo": "Protesta della famiglia keniota per l'estradizione di un ex soldato britannico accusato di aver ucciso un parente",
+      "titolo_originale": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+      "sommario": "Non è stata fornita alcuna ragione ufficiale per rinviare l'udienza del mese prossimo al maggio 2027, afferma la famiglia.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Wed, 28 Oct 2026 08:28:39 GMT"
     },
     {
       "titolo": "I funzionari dicono che il cessate il fuoco si è esteso in tutta la regione ucraina di Kherson",
@@ -21,22 +48,13 @@
       "data": "Tue, 27 Oct 2026 22:11:08 GMT"
     },
     {
-      "titolo": "Mbappé scusa per l'osservazione \"mal giudicata\" di Mao dopo il contraccolpo in Cina",
-      "titolo_originale": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "sommario": "La star francese si era riferita all'ex leader cinese come a un \"dittatore\" durante un'intervista sui meme.",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "titolo": "King riconosce la \"sofferenza del passato\" mentre inizia il tour dei Caraibi",
+      "titolo_originale": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "sommario": "Il Re è in un tour di nove giorni che lo porterà in tre paesi, tra cui Bahamas, Guyana e Antigua e Barbuda.",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 13:25:54 GMT"
-    },
-    {
-      "titolo": "Il ritorno di Lula in Brasile intacca le ambizioni di Trump per l'America Latina",
-      "titolo_originale": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "sommario": "La relazione Trump-Lula potrebbe essersi scongelata, ma diverse questioni potrebbero riaccendere le tensioni tra i due leader.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 01:46:38 GMT"
+      "data": "Wed, 28 Oct 2026 04:32:36 GMT"
     },
     {
       "titolo": "Il guardiano dello zoo olandese muore dopo essere stato sbranato dal leopardo",
@@ -48,6 +66,24 @@
       "data": "Tue, 27 Oct 2026 19:30:37 GMT"
     },
     {
+      "titolo": "I leader di Norvegia e Finlandia hanno una chiamata rara con Putin",
+      "titolo_originale": "Norway and Finland leaders hold rare call with Putin",
+      "sommario": "La fine del conflitto in Ucraina \"non sarà raggiunta attraverso il silenzio\", ha affermato il presidente finlandese Alexander Stubb.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Tue, 27 Oct 2026 18:28:23 GMT"
+    },
+    {
+      "titolo": "Il ritorno di Lula in Brasile intacca le ambizioni di Trump per l'America Latina",
+      "titolo_originale": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+      "sommario": "La relazione Trump-Lula potrebbe essersi scongelata, ma diverse questioni potrebbero riaccendere le tensioni tra i due leader.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Tue, 27 Oct 2026 01:46:38 GMT"
+    },
+    {
       "titolo": "L'ex moglie del vicepresidente dello Zimbabwe è stata liberata dopo il fallimento del caso di tentato omicidio",
       "titolo_originale": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
       "sommario": "Mubaiwa era stata trattenuta in custodia cautelare per sette anni dopo essere stata accusata nel 2019 del tentato omicidio dell'allora marito.",
@@ -57,220 +93,184 @@
       "data": "Tue, 27 Oct 2026 21:09:12 GMT"
     },
     {
-      "titolo": "I fratelli Alexander sono stati condannati a 30 anni di carcere ciascuno in un caso di traffico sessuale",
-      "titolo_originale": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
-      "sommario": "Il trio - due dei quali erano magnati immobiliari statunitensi di alto profilo - sono stati giudicati colpevoli usando il loro status sociale per attirare le donne alle feste e poi violentarle.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 02:20:25 GMT"
+      "titolo": "“Sono scattata dove ho messo le valigie. Tutto è distrutto”: parlano i sopravvissuti dell'incidente di Toledo",
+      "titolo_originale": "“He salido disparada donde las maletas. Todo está destrozado”: hablan los supervivientes del accidente de Toledo",
+      "sommario": "Diversi passeggeri dell'AVE con destinazione Siviglia raccontano al PAESE com'è stata la collisione con il treno Iryo",
+      "link": "https://elpais.com/espana/2026-10-28/he-salido-disparada-donde-las-maletas-todo-esta-destrozado-hablan-los-supervivientes-del-accidente-de-toledo.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Wed, 28 Oct 2026 11:38:42 GMT"
     },
     {
-      "titolo": "Il tribunale egiziano multa la giornalista Lina Attalah e ordina la chiusura del sito di notizie",
-      "titolo_originale": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-      "sommario": "Amnesty International ha affermato che il verdetto contro Attalah e lo sbocco indipendente Mada Masr ha rappresentato \"un duro colpo per la libertà di stampa\".",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 20:44:40 GMT"
+      "titolo": "Dov'è stato lo shock? Mappe e primi dati dell'incidente ferroviario a Toledo",
+      "titolo_originale": "¿Dónde ha sido el choque? Mapas y primeros datos del accidente de tren en Toledo",
+      "sommario": "Il treno di Renfe ha investito un Iryo che si trovava fermo sui binari a circa 130 chilometri da Madrid",
+      "link": "https://elpais.com/espana/2026-10-28/donde-ha-sido-el-choque-mapas-y-primeras-informaciones-del-accidente-de-tren-en-toledo.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Wed, 28 Oct 2026 10:30:20 GMT"
     },
     {
-      "titolo": "I fratelli gemelli ghanesi e la donna statunitense si dichiarano colpevoli di una truffa romantica da $9 milioni",
-      "titolo_originale": "Ghanaian twin brothers and US woman plead guilty to $9m romance scam",
-      "sommario": "Il gruppo ha preso di mira persone anziane negli Stati Uniti e in Europa, attirandole in una relazione romantica prima di convincerle a trasferire ingenti somme di denaro.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vg2j442lo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 18:43:41 GMT"
+      "titolo": "L'incidente di due treni ad alta velocità a Toledo, in immagini",
+      "titolo_originale": "El accidente de dos trenes de alta velocidad en Toledo, en imágenes",
+      "sommario": "Un treno AVE si è scontrato con un convoglio di Iryo che era fermo sui binari, secondo fonti del servizio di emergenza 112, che hanno indicato che diversi carri sono caduti da un terrapieno",
+      "link": "https://elpais.com/espana/2026-10-28/el-accidente-de-dos-trenes-de-alta-velocidad-en-toledo-en-imagenes.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Wed, 28 Oct 2026 12:03:27 GMT"
     },
     {
-      "titolo": "La cerimonia del Palloned'Oro solleva il caso del giornalista sportivo francese incarcerato in Algeria",
-      "titolo_originale": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
-      "sommario": "È in carcere accusato di sostenere il terrorismo dopo aver viaggiato nella regione politicamente sensibile della Kabylie.",
-      "link": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 14:29:39 GMT"
+      "titolo": "Feriti lungo i binari e guardie civili che tentavano di aprire i vagoni: le immagini registrate da un passeggero dopo lo schianto dei treni a Toledo",
+      "titolo_originale": "Heridos junto a la vía y guardias civiles intentando abrir los vagones: las imágenes grabadas por un pasajero tras el choque de trenes de Toledo",
+      "sommario": "Diversi video mostrano le scene successive all'incidente avvenuto mercoledì sulla linea ad alta velocità che collega Madrid all'Andalusia",
+      "link": "https://elpais.com/espana/2026-10-28/heridos-junto-a-la-via-y-guardias-civiles-intentando-abrir-los-vagones-las-imagenes-grabadas-por-un-pasajero-tras-el-choque-de-trenes-de-toledo.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Wed, 28 Oct 2026 10:43:19 GMT"
     },
     {
-      "titolo": "Netanyahu vince le elezioni in Israele, ma la sua coalizione è lontana dalla maggioranza",
-      "titolo_originale": "Netanyahu gana las elecciones en Israel, pero su coalición queda lejos de la mayoría",
-      "sommario": "Secondo i sondaggi ai piedi delle urne, il blocco dell'opposizione ebraica e quello favorevole al primo ministro sarebbero molto alla pari. I partiti arabi ottengono un risultato storico e saranno fondamentali nei negoziati",
+      "titolo": "Netanyahu vince le elezioni in Israele, ma la sua coalizione non ottiene la maggioranza",
+      "titolo_originale": "Netanyahu gana las elecciones en Israel, pero su coalición no logra la mayoría",
+      "sommario": "Il blocco favorevole al primo ministro otterrebbe 54 seggi su 120, e l'opposizione ebraica 49, una volta conteggiato oltre il 70% dei voti. I partiti arabi saranno fondamentali nelle trattative",
       "link": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Wed, 28 Oct 2026 00:54:06 GMT"
+      "data": "Wed, 28 Oct 2026 10:44:44 GMT"
     },
     {
-      "titolo": "Netanyahu chiama a formare un governo “di destra forte” e mette in guardia contro i patti con i partiti arabi",
-      "titolo_originale": "Netanyahu llama a formar un Gobierno “de derechas fuerte” y advierte contra los pactos con partidos árabes",
-      "sommario": "Il primo ministro sottolinea l '\"opportunità storica\" di \"eliminare per sempre\" il regime iraniano insieme agli Stati Uniti. Il suo partito, il Likud, vince le elezioni con 27 seggi, secondo i sondaggi aggiornati",
-      "link": "https://elpais.com/internacional/2026-10-28/netanyahu-llama-a-formar-un-gobierno-de-derechas-fuerte-y-advierte-contra-los-pactos-con-partidos-arabes.html",
+      "titolo": "Risultati delle elezioni in Israele 2026, in diretta | I partiti arabi raggiungono un risultato storico e sono la chiave per governare",
+      "titolo_originale": "Resultados de las elecciones en Israel 2026, en directo | Los partidos árabes alcanzan un resultado histórico y son claves para gobernar",
+      "sommario": "Il blocco del primo ministro israeliano Benjamin Netanyahu ottiene 54 seggi con oltre il 70% dei voti scrutinati",
+      "link": "https://elpais.com/internacional/2026-10-28/resultados-y-reacciones-de-las-elecciones-en-israel-en-directo.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Wed, 28 Oct 2026 03:38:42 GMT"
+      "data": "Wed, 28 Oct 2026 11:34:36 GMT"
     },
     {
-      "titolo": "Elezioni in Israele 2026, in diretta | Netanyahu fa appello a rieditare un governo “di destra e forte” ed Eisenkot si impegna a costruire una maggioranza “sionista e stabile”",
-      "titolo_originale": "Elecciones en Israel 2026, en directo | Netanyahu apela a reeditar un Gobierno “de derechas y fuerte” y Eisenkot se compromete a construir una mayoría “sionista y estable”",
-      "sommario": "Il Likud, sebbene sia il più votato, scende da 32 a 27 seggi e il crollo dei suoi partner lascia il suo blocco lontano dai 61 necessari | I partiti arabi, che il primo ministro rifiuta, sarebbero la chiave della prossima coalizione",
-      "link": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html",
+      "titolo": "La fuga di Bolsonaro: dal Brasile all'Argentina per viaggiare negli Stati Uniti dopo aver fatto scalo in Ecuador",
+      "titolo_originale": "La escapada de Bolsonaro: de Brasil a Argentina para viajar a EE UU tras hacer escala en Ecuador",
+      "sommario": "Le autorità argentine confermano l'itinerario dell'ex candidato ultra brasiliano, che ha lasciato il suo paese per evitare un'indagine per riciclaggio di denaro. Trump dice che gli andrebbe bene accoglierlo negli Stati Uniti",
+      "link": "https://elpais.com/internacional/2026-10-28/argentina-confirma-que-flavio-bolsonaro-huyo-de-brasil-a-traves-de-su-territorio.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Wed, 28 Oct 2026 01:39:26 GMT"
+      "data": "Wed, 28 Oct 2026 12:02:04 GMT"
     },
     {
-      "titolo": "Flavio Bolsonaro fugge negli Stati Uniti dopo la sconfitta elettorale contro Lula",
-      "titolo_originale": "Flávio Bolsonaro huye a Estados Unidos tras su derrota electoral ante Lula",
-      "sommario": "Lula dice che il Brasile è \"la seconda nazione di Bolsonaro e gli Stati Uniti la prima\"",
-      "link": "https://elpais.com/america/2026-10-27/flavio-bolsonaro-huye-a-estados-unidos-tras-su-derrota-electoral-ante-lula.html",
+      "titolo": "Begoña Gómez presenta una denuncia contro il PP per il video generato con IA per attaccare il PSOE",
+      "titolo_originale": "Begoña Gómez presenta una denuncia contra el PP por el vídeo generado con IA para atacar al PSOE",
+      "sommario": "La moglie del presidente accusa i popolari di “soppiantare” la sua identità per “umiliarla”",
+      "link": "https://elpais.com/espana/2026-10-28/begona-gomez-presenta-una-denuncia-contra-el-pp-por-el-video-generado-con-ia-para-atacar-al-psoe.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 21:39:24 GMT"
+      "data": "Wed, 28 Oct 2026 08:34:31 GMT"
     },
     {
-      "titolo": "Gli Stati Uniti annunciano che rilasceranno visti per Flávio Bolsonaro e la sua famiglia",
-      "titolo_originale": "EE UU anuncia que emitirá visados para Flávio Bolsonaro y su familia",
-      "sommario": "Un portavoce del Dipartimento di Stato informa che Washington accoglierà sul suo territorio il candidato presidenziale brasiliano sconfitto",
-      "link": "https://elpais.com/america/2026-10-27/ee-uu-confirma-que-emitira-visados-para-flavio-bolsonaro-y-su-familia.html",
+      "titolo": "Abascal, unico leader che mantiene i suoi comizi elettorali, incolpa il governo della tragedia di Urda",
+      "titolo_originale": "Abascal, único líder que mantiene sus mítines electorales, culpa al Gobierno de la tragedia de Urda",
+      "sommario": "Il leader di Vox sostiene di voler trasformare i politici \"in lamentosi\" e usare il lutto per \"mettere a tacere le proteste\"",
+      "link": "https://elpais.com/espana/2026-10-28/abascal-unico-lider-que-mantiene-sus-mitines-electorales-pese-a-la-tragedia.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 22:18:23 GMT"
+      "data": "Wed, 28 Oct 2026 11:09:48 GMT"
     },
     {
-      "titolo": "Montero e Rufián, i nuovi Javis, fanno impazzire il Broncano",
-      "titolo_originale": "Montero y Rufián, los nuevos Javis, vuelven loco a Broncano",
-      "sommario": "Hanno negoziato a viso aperto nuovi punteggi per il sesso orale nella domanda classica. Perché? Perché nessuno dicesse un numero. Come l'unione a sinistra: discutono fino in fondo le regole e si dimenticano di tirare fuori il tabellone",
-      "link": "https://elpais.com/espana/2026-10-27/montero-y-rufian-los-nuevos-javis-vuelven-loco-a-broncano.html",
+      "titolo": "\"Ho esaminato il suo culo e poi ho guardato i suoi piedi, la sua mascella...\": Perché Trump sembra ossessionato dal lodare il fisico degli uomini",
+      "titolo_originale": "“Examiné su culo y luego miré sus pies, su mandíbula…”: Por qué Trump parece obsesionado con alabar el físico de los hombres",
+      "sommario": "Il presidente degli Stati Uniti lusinga nei raduni il viso e il corpo dei suoi alleati nel tentativo di collegare i tratti maschili con la capacità di leadership",
+      "link": "https://elpais.com/us/2026-10-28/examine-su-culo-y-luego-mire-sus-pies-su-mandibula-por-que-trump-parece-obsesionado-con-alabar-el-fisico-de-los-hombres.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 23:16:52 GMT"
+      "data": "Wed, 28 Oct 2026 04:30:00 GMT"
     },
     {
-      "titolo": "All'interno dell'asta dei Franco: \"Sì che ha resistito l'uccello!\"",
-      "titolo_originale": "Dentro de la subasta de los Franco: “¡Sí que se ha resistido el pajarraco!”",
-      "sommario": "Gli eredi del dittatore guadagnano decine di migliaia di euro in un pomeriggio con gli oggetti prelevati dal Pazo de Meirás. Una foto della famiglia che partiva da 80 euro è venduta a 2.250",
-      "link": "https://elpais.com/espana/2026-10-27/dentro-de-la-subasta-de-los-franco-si-que-se-ha-resistido-el-pajarraco.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 22:36:02 GMT"
-    },
-    {
-      "titolo": "La chiusura della libreria Pergamo non è quello che sembra: né speculazione, né fondi avvoltoio, né un altro ‘caso Maricarmen’",
-      "titolo_originale": "El cierre de la librería Pérgamo no es lo que parece: ni especulación, ni fondos buitres, ni otro ‘caso Maricarmen’",
-      "sommario": "Gli inquilini cercano una nuova sede e prendono il marchio dopo aver registrato il nome, all'insaputa delle proprietarie, di un'azienda che appartiene alla stessa famiglia da 80 anni",
-      "link": "https://elpais.com/espana/madrid/2026-10-27/el-cierre-de-la-libreria-pergamo-no-es-lo-que-parece-ni-especulacion-ni-fondos-buitres-ni-otro-caso-maricarmen.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 04:30:01 GMT"
-    },
-    {
-      "titolo": "Era un esperimento negli anni '50 e ora è il peggior quartiere di Madrid: 408 appartamenti di 40 metri quadrati quasi in rovina",
-      "titolo_originale": "Fue un experimento en los años 50 y ahora es el peor barrio de Madrid: 408 pisos de 40 metros cuadrados casi en ruina",
-      "sommario": "La Comunità di Madrid approva, dopo decenni di controversie, la prima fase dell'abbattimento di 36 delle sotto-abitazioni della Colonia Experimental",
-      "link": "https://elpais.com/espana/madrid/2026-10-27/fue-un-experimento-en-los-anos-50-y-ahora-es-el-peor-barrio-de-madrid-408-pisos-de-40-metros-cuadrados-casi-en-ruina.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 04:30:01 GMT"
-    },
-    {
-      "titolo": "Candela Peña rivela ciò che non ha potuto dire a Pedro Sánchez in ‘La Revuelta’ e un desiderio: \"Darei la mia vita perché venisse la Santità\"",
-      "titolo_originale": "Candela Peña desvela lo que no pudo decir a Pedro Sánchez en ‘La Revuelta’ y un deseo: “Daría mi vida por que viniera la Santi”",
-      "sommario": "Gabriel Rufián e Irene Montero parteciperanno al programma martedì 27 ottobre",
-      "link": "https://elpais.com/television/2026-10-27/candela-pena-desvela-lo-que-no-pudo-decir-a-pedro-sanchez-en-la-revuelta-y-un-deseo-daria-mi-vida-por-que-viniera-la-santi.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Tue, 27 Oct 2026 08:35:30 GMT"
-    },
-    {
-      "titolo": "In Africa, l’omofobia eretta a politica di Stato",
-      "titolo_originale": "En Afrique, l’homophobie érigée en politique d’Etat",
-      "sommario": "\"In Africa, l'onda reazionaria\" (2/4). Spesso presentate come una risposta a un \"attacco culturale\" proveniente dall'Occidente, le legislazioni omofobe si moltiplicano nel continente, con la conseguenza di discriminazioni e violenze in aumento, mentre la lotta contro l’epidemia di AIDS è indebolita.",
-      "link": "https://www.lemonde.fr/afrique/article/2026/10/28/en-afrique-l-homophobie-erigee-en-politique-d-etat_6801525_3212.html",
+      "titolo": "Spagna: le prime immagini della collisione tra due treni",
+      "titolo_originale": "Espagne : les premières images de la collision entre deux trains",
+      "sommario": "I primi video aerei mostrano l’incidente tra i due treni avvenuto mercoledì mattina su una linea ferroviaria spagnola che collega Madrid all'Andalusia.",
+      "link": "https://www.lemonde.fr/international/video/2026/10/28/espagne-les-premieres-images-de-la-collision-entre-deux-trains_6801568_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 05:00:40 +0100"
+      "data": "Wed, 28 Oct 2026 12:28:30 +0100"
     },
     {
-      "titolo": "Preoccupazione dei servizi di intelligence europei sulla persistenza della minaccia iraniana in Europa",
-      "titolo_originale": "Inquiétude des services de renseignement européens sur la persistance de la menace iranienne en Europe",
-      "sommario": "Progetti di assassinii, incendi dolosi, atti di sabotaggio, attacchi informatici… Una minaccia iraniana duratura e globale peserebbe oggi sui paesi europei, mentre si moltiplicano gli arresti di persone sospettate di aver prestato il loro aiuto ai servizi di Teheran.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/inquietude-des-services-de-renseignement-europeens-sur-la-persistance-de-la-menace-iranienne-en-europe_6801523_3210.html",
+      "titolo": "All'indomani dei midterm, quale mondo dopo Trump?",
+      "titolo_originale": "Au lendemain des midterms, quel monde après Trump ?",
+      "sommario": "Il 3 novembre Donald Trump affronterà le urne in occasione delle elezioni di medio termine americane, i midterm. Quale bilancio si può trarre a due anni dalla sua partenza dalla Casa Bianca? Come immaginare il dopo-Trump? È quanto propone la serata speciale organizzata da “Le Monde” al Grand Rex il 10 novembre.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/28/au-lendemain-des-midterms-quel-monde-apres-trump_6801563_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 05:00:38 +0100"
+      "data": "Wed, 28 Oct 2026 12:00:05 +0100"
     },
     {
-      "titolo": "Alla vigilia del vertice tra Unione europea e Canada, gli europei si perdono in una lotta semantica",
-      "titolo_originale": "A la veille du sommet entre l’Union européenne et le Canada, les Européens se perdent dans une bagarre sémantique",
-      "sommario": "Ursula von der Leyen, presidente della Commissione, ha proposto a Ottawa uno status di \"membro associato\" che irrita molto Parigi e Berlino. Il primo ministro canadese, Mark Carney, deve invece fare i conti con un'opposizione che ha delle riserve.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/a-la-veille-du-sommet-entre-l-union-europeenne-et-le-canada-les-europeens-se-perdent-dans-une-bagarre-semantique_6801521_3210.html",
+      "titolo": "In Serbia la vittoria esemplare del movimento anticorruzione",
+      "titolo_originale": "En Serbie, la victoire exemplaire du mouvement anticorruption",
+      "sommario": "La dinamica a favore di uno Stato di diritto che ha travolto Aleksandar Vucic è la stessa che ha precipitato la sconfitta di Viktor Orban in Ungheria. Ma l’alternanza democratica dovrà anche tradursi in obiettivi. E le aspirazioni pro-europee di una parte degli elettori non mancheranno di scontrarsi con il nazionalismo filo-russo.",
+      "link": "https://www.lemonde.fr/idees/article/2026/10/28/en-serbie-la-victoire-exemplaire-du-mouvement-anticorruption_6801561_3232.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 05:00:23 +0100"
+      "data": "Wed, 28 Oct 2026 11:30:07 +0100"
     },
     {
-      "titolo": "Come l’amministrazione Trump alimenta il sospetto sull'integrità dei midterm, a una settimana dal voto",
-      "titolo_originale": "Comment l’administration Trump nourrit la suspicion sur l’intégrité des midterms, à une semaine du vote",
-      "sommario": "Mentre i sondaggi prevedono una sconfessione per il campo repubblicano durante le elezioni di medio termine, martedì 3 novembre, la Casa Bianca cerca di invadere il ruolo degli Stati nell'organizzazione delle elezioni e prepara il terreno per una contestazione dei risultati.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/comment-l-administration-trump-nourrit-la-suspicion-sur-l-integrite-des-midterms-a-une-semaine-du-vote_6801486_3210.html",
+      "titolo": "In DIRETTA, guerra in Ucraina: a Olechky, città ucraina sotto occupazione russa, la tregua umanitaria dura per il secondo giorno di seguito",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : à Olechky, ville ukrainienne sous occupation russe, la trêve humanitaire tient pour la deuxième journée de suite",
+      "sommario": "I difensori civici dei diritti umani in Russia e Ucraina hanno confermato in dichiarazioni separate, mercoledì, che la tregua entrata in vigore all'inizio del giorno precedente è ancora rispettata. Gli abitanti di questa città, situata nella regione di Kherson, affrontano da mesi carenze di cibo, acqua e medicine.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-a-olechky-ville-ukrainienne-sous-occupation-russe-la-treve-humanitaire-tient-pour-la-deuxieme-journee-de-suite_6799896_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 05:00:08 +0100"
+      "data": "Wed, 28 Oct 2026 11:29:22 +0100"
     },
     {
-      "titolo": "Brasile: dopo la sconfitta alle presidenziali, Flavio Bolsonaro sospettato di essere fuggito negli Stati Uniti",
-      "titolo_originale": "Brésil : après sa défaite à la présidentielle, Flavio Bolsonaro soupçonné d’avoir pris la fuite vers les Etats-Unis",
-      "sommario": "Coinvolto in diversi casi di corruzione, il candidato di estrema destra avrebbe violato il suo divieto di lasciare il paese e gli sarebbero stati concessi visti per lui e la sua famiglia dall'amministrazione Trump.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/bresil-apres-sa-defaite-a-la-presidentielle-flavio-bolsonaro-soupconne-d-avoir-pris-la-fuite-vers-les-etats-unis_6801485_3210.html",
+      "titolo": "LIVE, legislative in Israele: dopo lo spoglio di quasi l'80% delle schede, la coalizione di destra e di estrema destra di Benyamin Netanyahu ancora in testa",
+      "titolo_originale": "EN DIRECT, législatives en Israël : après le dépouillement de près de 80 % des bulletins, la coalition de droite et d’extrême droite de Benyamin Nétanyahou toujours en tête",
+      "sommario": "Il blocco dei partiti guidato dal primo ministro uscente otterrebbe 54 seggi sui 120 della Knesset. Il blocco dell'opposizione, guidato da Gadi Eisenkot, otterrebbe 49 seggi. I partiti a maggioranza araba dovrebbero – a questo punto – inviare 17 eletti in Parlamento.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-apres-le-depouillement-de-70-des-bulletins-le-camp-de-benyamin-netanyahou-en-tete-les-partis-arabes-credites-de-19-sieges-un-niveau-sans-precedent_6801217_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 05:00:06 +0100"
+      "data": "Wed, 28 Oct 2026 11:21:09 +0100"
     },
     {
-      "titolo": "In Israele, da Gerusalemme a Tel Aviv, dagli insediamenti alle città arabe, una giornata di voto in apnea",
-      "titolo_originale": "En Israël, de Jérusalem à Tel-Aviv, des colonies aux villes arabes, une journée de vote en apnée",
-      "sommario": "Tutte le comunità, distribuite in arcipelago sul territorio ebraico e nella Cisgiordania occupata, si erano fortemente mobilitate, martedì, per le elezioni legislative, alle quali concorrevano trentasette liste. Molti elettori si sono determinati all'ultimo momento e mercoledì mattina non è emersa una chiara maggioranza.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/en-israel-de-jerusalem-a-tel-aviv-des-colonies-aux-villes-arabes-une-journee-de-vote-en-apnee_6801484_3210.html",
+      "titolo": "In DIRETTA, collisione tra due treni in Spagna: almeno 30 morti, secondo le autorità regionali; il ministro della sanità spagnolo dice di aspettarsi \"una tragedia\"",
+      "titolo_originale": "EN DIRECT, collision entre deux trains en Espagne : au moins 30 morts, selon les autorités régionales ; la ministre de la santé espagnole dit s’attendre à « une tragédie »",
+      "sommario": "La collisione è avvenuta mercoledì mattina sulla linea ferroviaria spagnola che collega la capitale, Madrid, all'Andalusia. Secondo il portavoce del governo regionale di Castiglia-La Mancia, il treno della Renfe, la compagnia di bandiera, trasportava 397 passeggeri e quello della compagnia privata Iryo, 147 passeggeri.",
+      "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-une-collision-entre-deux-trains-en-espagne-fait-de-nombreux-morts_6801550_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 04:55:03 +0100"
+      "data": "Wed, 28 Oct 2026 10:53:05 +0100"
     },
     {
-      "titolo": "In DIRETTA, legislative in Israele: il campo di Benyamin Netanyahu in testa, ma senza maggioranza, dopo più di un quarto delle schede scrutinate",
-      "titolo_originale": "EN DIRECT, législatives en Israël : le camp de Benyamin Nétanyahou en tête, mais sans majorité, après plus d’un quart de bulletins dépouillés",
-      "sommario": "Secondo il media israeliano \"Haaretz\", il blocco del primo ministro uscente di Benyamin Netanyahu raccoglie attualmente 59 seggi, al di sotto della maggioranza fissata a 61. Il blocco dell'opposizione guidato da Gadi Eisenkot conterebbe 46 seggi, mentre i partiti arabi otterrebbero 15 seggi.",
-      "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-legislatives-en-israel-les-deux-blocs-au-coude-a-coude-benyamin-netanyahou-et-gadi-eisenkot-revendiquent-chacun-leur-volonte-de-former-un-gouvernement_6801217_3210.html",
+      "titolo": "In Spagna, il bilancio provvisorio è ora di 30 morti nella collisione di due treni a sud di Madrid",
+      "titolo_originale": "En Espagne, le bilan provisoire est désormais de 30 morts dans la collision de deux trains au sud de Madrid",
+      "sommario": "L’incidente è avvenuto mercoledì mattina sulla linea ferroviaria spagnola che collega Madrid all'Andalusia. Diverse squadre di soccorso sono state inviate sul posto con urgenza.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/28/en-espagne-deux-trains-sont-entres-en-collision-au-sud-de-madrid_6801548_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 03:57:28 +0100"
+      "data": "Wed, 28 Oct 2026 10:33:48 +0100"
     },
     {
-      "titolo": "In Giamaica, le associazioni LGBTQ+ intrappolate tra una \"cultura omofoba\" e la mancanza di mezzi",
-      "titolo_originale": "En Jamaïque, les associations LGBTQ+ prises en étau entre une « culture homophobe » et le manque de moyens",
-      "sommario": "Su quest' isola caraibica dove le relazioni omosessuali sono punite dalla legge, le organizzazioni per i diritti delle minoranze queer e i rifugi faticano a continuare le loro attività dopo la diminuzione degli aiuti internazionali.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/en-jamaique-les-associations-lgbtq-prises-en-etau-entre-une-culture-homophobe-et-le-manque-de-moyens_6801451_3210.html",
+      "titolo": "In Serbia, un attentatore ucciso vicino all'ambasciata israeliana a Belgrado; Israele conferma un tentativo di\"attacco terroristico\"",
+      "titolo_originale": "En Serbie, un assaillant abattu près de l’ambassade israélienne à Belgrade ; Israël confirme une tentative d’« attentat terroriste »",
+      "sommario": "La diplomazia israeliana ha confermato mercoledì un tentativo di\"attacco terroristico\" avvenuto nella notte vicino all'ambasciata israeliana a Belgrado, poco dopo l’annuncio dei primi risultati delle elezioni parlamentari in Israele.",
+      "link": "https://www.lemonde.fr/international/article/2026/10/28/en-serbie-un-assaillant-abattu-pres-de-l-ambassade-israelienne-a-belgrade-israel-confirme-une-tentative-d-attentat-terroriste_6801547_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 03:30:01 +0100"
+      "data": "Wed, 28 Oct 2026 10:31:42 +0100"
     },
     {
-      "titolo": "Perù: la giustizia archivia un caso su migliaia di sterilizzazioni forzate di donne durante gli anni '90",
-      "titolo_originale": "Pérou : la justice classe une affaire sur des milliers de stérilisations forcées de femmes pendant les années 1990",
-      "sommario": "Nonostante la mobilitazione delle associazioni e una recente condanna internazionale, la giustizia peruviana chiude il caso delle sterilizzazioni forzate, suscitando l'ira delle vittime e dei loro sostenitori.",
-      "link": "https://www.lemonde.fr/international/article/2026/10/28/perou-la-justice-classe-une-affaire-sur-des-milliers-de-sterilisations-forcees-de-femmes-pendant-les-annees-1990_6801450_3210.html",
+      "titolo": "Elezioni in Israele: i primi risultati danno Netanyahu in testa",
+      "titolo_originale": "Législatives en Israël : les premiers résultats donnent le camp Nétanyahou en tête du scrutin",
+      "sommario": "Se la coalizione al potere dal 2022 sembra in testa all'indomani del voto, i risultati parziali possono variare notevolmente. I risultati definitivi ufficiali sono attesi nei prossimi giorni.",
+      "link": "https://www.lemonde.fr/international/video/2026/10/28/legislatives-en-israel-les-premiers-resultats-donnent-le-camp-netanyahou-en-tete-du-scrutin_6801541_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 03:25:24 +0100"
+      "data": "Wed, 28 Oct 2026 08:47:13 +0100"
     },
     {
-      "titolo": "In DIRETTA, guerra in Ucraina: \"Più di 100 missili balistici sono stati lanciati contro Kiev e la sua regione\", nelle ultime due settimane, secondo Volodymyr Zelensky",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : « Plus de 100 missiles balistiques ont été lancés contre Kiev et sa région », depuis deux semaines, selon Volodymyr Zelensky",
-      "sommario": "La capitale ucraina è in stato di allerta quasi permanente. Diverse ondate di missili balistici russi lanciati da lunedì sera hanno ucciso una persona e ferito una quindicina di persone, secondo le autorità locali.",
-      "link": "https://www.lemonde.fr/international/live/2026/10/28/en-direct-guerre-en-ukraine-plus-de-100-missiles-balistiques-ont-ete-lances-contre-kiev-et-sa-region-depuis-deux-semaines-selon-volodymyr-zelensky_6799896_3210.html",
+      "titolo": "\"Benzina e cibo diventano follia\": negli Stati Uniti vite minate dall'inflazione",
+      "titolo_originale": "« L’essence et la nourriture, ça devient de la folie » : aux Etats-Unis, des vies minées par l’inflation",
+      "sommario": "\"America a caro prezzo\" (1/3). Le lavoratrici del settore sanitario, un settore che contribuisce al dinamismo del mercato del lavoro, sono diventate il simbolo dell'aumento delle disuguaglianze di reddito nel paese, mentre si profilano le elezioni di medio termine, martedì 3 novembre. Reportage in North Carolina.",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/28/aux-etats-unis-des-vies-minees-par-l-inflation-l-essence-et-la-nourriture-ca-devient-de-la-folie-on-va-finir-par-crever-de-faim_6801535_3234.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 28 Oct 2026 01:41:03 +0100"
+      "data": "Wed, 28 Oct 2026 06:00:46 +0100"
     },
     {
       "titolo": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
@@ -363,24 +363,6 @@
       "data": "Mon, 31 Aug 2026 18:08:00 +0200"
     },
     {
-      "titolo": "++ Netanyahu, 'attesa, ma è chiaro che Likud partito più grande' ++",
-      "titolo_originale": "++ Netanyahu, 'attesa, ma è chiaro che Likud partito più grande' ++",
-      "sommario": "Premier, 'la coalizione ha una maggioranza, ampio governo di destra nazionale'",
-      "link": "https://www.ansa.it/sito/notizie/flash/2026/10/28/-netanyahu-attesa-ma-e-chiaro-che-likud-partito-piu-grande-_36e9820b-1da6-406b-bf9a-a7f5dfa3b80d.html",
-      "fonte": "ANSA",
-      "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 02:29:34 +0100"
-    },
-    {
-      "titolo": "Il sorriso è modellato da rare varianti di un gene",
-      "titolo_originale": "Il sorriso è modellato da rare varianti di un gene",
-      "sommario": "Regolano numero, forma e tempi di sviluppo dei denti",
-      "link": "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/27/il-sorriso-e-modellato-da-rare-varianti-di-un-gene-_e6882537-1dc2-4866-9fe4-e9f00e581296.html",
-      "fonte": "ANSA",
-      "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 07:43:21 +0100"
-    },
-    {
       "titolo": "iPhone Duo con schermi rotti, Apple sostituirà i modelli difettosi",
       "titolo_originale": "iPhone Duo con schermi rotti, Apple sostituirà i modelli difettosi",
       "sommario": "Azienda riconosce il problema, 'ne siamo a conoscenza, interessa piccolo numero di unità'",
@@ -390,427 +372,445 @@
       "data": "Tue, 27 Oct 2026 13:13:42 +0100"
     },
     {
-      "titolo": "Alimentazione vegetale e longevity, i legumi la fonte proteica meno utilizzata dagli italiani",
-      "titolo_originale": "Alimentazione vegetale e longevity, i legumi la fonte proteica meno utilizzata dagli italiani",
-      "sommario": "Astraricerche,  uno su quattro sceglierà più vegetale tra 5-10 anni",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/food/2026/10/26/alimentazione-vegetale-e-longevity-i-legumi-la-fonte-proteica-meno-utilizzata-dagli-italiani_545459d4-aa99-4770-913d-009d447bbdab.html",
+      "titolo": "Al capo della Polizia la stella al merito sportivo paralimpico",
+      "titolo_originale": "Al capo della Polizia la stella al merito sportivo paralimpico",
+      "sommario": "Ha contribuito con impegno e dedizione costante a crescita e sviluppo del movimento",
+      "link": "https://www.ansa.it/responsabilmente/notizie/oltre_il_traguardo/2026/10/27/al-capo-della-polizia-la-stella-al-merito-sportivo-paralimpico_2476823e-43ee-4fb4-9aed-e795f380e235.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 19:45:01 +0100"
+      "data": "Wed, 28 Oct 2026 12:29:05 +0100"
     },
     {
-      "titolo": "Halloween, a Dublino lo spettacolo “Fiain” tra musica e parata di marionette giganti",
-      "titolo_originale": "Halloween, a Dublino lo spettacolo “Fiain” tra musica e parata di marionette giganti",
-      "sommario": "In migliaia ad assistere alla rappresentazione della compagnia teatrale Macnas di Galway",
-      "link": "https://www.ansa.it/sito/videogallery/mondo/2026/10/27/halloweeen-a-dublino-lo-spettacolo-fiain-tra-musica-e-parata-di-marionette-giganti_b32dc93f-9eb9-480e-9427-9cda0631b6b8.html",
+      "titolo": "William e Kate scansatevi, arrivano Harry Kane e Katie Goodland",
+      "titolo_originale": "William e Kate scansatevi, arrivano Harry Kane e Katie Goodland",
+      "sommario": "La nuova coppia d'oro il vincitore del Pallone d'oro e sua moglie,  ispira i look beauty",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/10/27/william-e-kate-scansatevi-arrivano-harry-kane-e-katie-goodland_2bbb8c31-d461-4c8e-82d1-ff5850b4ad5a.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 14:15:35 +0100"
+      "data": "Tue, 27 Oct 2026 19:30:38 +0100"
     },
     {
-      "titolo": "Innovazione, al via le candidature per Innovators Under 35 Europe. Premi nel 2027",
-      "titolo_originale": "Innovazione, al via le candidature per Innovators Under 35 Europe. Premi nel 2027",
-      "sommario": "Presentato premio avviato da Mit Technology Review Italia, con il sostegno di Eni e Road",
-      "link": "https://www.ansa.it/ansacom/notizie/economia/eni/2026/10/26/innovazione-nasce-innovators-under-35-europe.-nel-2027-premi-ai-nuovi-talenti_535e290a-e9d7-4816-b9c8-235535121eb3.html",
+      "titolo": "Un’icona architettonica degli anni '40 rinasce con l'apertura&nbsp;dell'hotel Thompson Rome",
+      "titolo_originale": "Un’icona architettonica degli anni '40 rinasce con l'apertura&nbsp;dell'hotel Thompson Rome",
+      "sommario": "Riportate alla luce anche una parete scultorea e una pavimentazione intarsiata di Gio Pomodoro",
+      "link": "https://www.ansa.it/canale_viaggi/regione/lazio/2026/10/27/unicona-architettonica-degli-anni-40-rinasce-con-laperturanbspdellhotel-thompson-rome_67397c84-3f7f-46b4-bd97-3c12fccd957f.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 18:03:55 +0100"
+      "data": "Tue, 27 Oct 2026 20:06:38 +0100"
     },
     {
-      "titolo": "Israele spaccato: Netanyahu regge, ma il blocco di Eisenkot è avanti",
-      "titolo_originale": "Israele spaccato: Netanyahu regge, ma il blocco di Eisenkot è avanti",
-      "sommario": "Il Likud primo ma non c'è maggioranza, volano i partiti arabi. Affluenza record",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/27/israele-spaccato-netanyahu-regge-ma-il-blocco-di-eisenkot-e-avanti_b2e19377-c270-4498-ba32-400374367485.html",
+      "titolo": "Frecciarosa nel Lazio, vaccini e screening per le donne a Roma",
+      "titolo_originale": "Frecciarosa nel Lazio, vaccini e screening per le donne a Roma",
+      "sommario": "A Fs Logistix allo Scalo San Lorenzo, in collaborazione con ASL Roma 1 e Sapienza",
+      "link": "https://www.ansa.it/ansacom/notizie/economia/ferrovie-stato/2026/10/22/frecciarosa-nel-lazio-vaccini-e-screening-per-le-donne-a-roma_29ca2612-8c6d-4abd-b24f-805cfa7dc033.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 22:34:27 +0100"
+      "data": "Thu, 22 Oct 2026 17:54:19 +0200"
     },
     {
-      "titolo": "Brasile: Bolsonaro fugge in Florida, Trump pronto a dargli l'asilo",
-      "titolo_originale": "Brasile: Bolsonaro fugge in Florida, Trump pronto a dargli l'asilo",
-      "sommario": "Senza passaporto a piedi in Argentina, poi in jet con la famiglia in Usa",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/27/brasile-media-bolsonaro-ha-lasciato-il-brasile-ed-e-in-volo-per-gli-stati-uniti_bec521a5-35b6-4db4-91cf-30e166594cb9.html",
+      "titolo": "Spagna: Toledo, confermati almeno 30 morti nello scontro tra due treni alta velocità sulla linea Madrid-Siviglia",
+      "titolo_originale": "Spagna: Toledo, confermati almeno 30 morti nello scontro tra due treni alta velocità sulla linea Madrid-Siviglia",
+      "sommario": "Due vagoni caduti in una scarpata dopo lo scontro. L'impatto su un tratto in Castiglia la Mancia ha coinvolto un convoglio compagnia Iryo",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/spagna-toledo-almeno-39-morti-nello-scontro-tra-due-treni-alta_3124daf4-1c75-4126-a99f-4356a4740361.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 22:07:46 +0100"
+      "data": "Wed, 28 Oct 2026 12:04:51 +0100"
     },
     {
-      "titolo": "La manovra che verrà: flat tax per i giovani. Sull'Irpef si tratta ancora",
-      "titolo_originale": "La manovra che verrà: flat tax per i giovani. Sull'Irpef si tratta ancora",
-      "sommario": "Previsto un fondo di un miliardo per le pensioni anticipate. Meloni: 'Manteniamo gli impegni quadrando i conti'",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/10/27/la-manovra-che-verra-flat-tax-per-i-giovani.-sullirpef-si-tratta-ancora_6fc9fca1-c596-4520-94b8-30e064861904.html",
+      "titolo": "Scrutinato oltre il 77% dei voti in Israele, si rafforza il blocco di Eisenkot con 49 seggi",
+      "titolo_originale": "Scrutinato oltre il 77% dei voti in Israele, si rafforza il blocco di Eisenkot con 49 seggi",
+      "sommario": "Il premier Netanyahu: 'La coalizione ha una maggioranza, ampio governo di destra nazionale'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/scrutinato-oltre-il-72-dei-voti-in-israele-lo-schieramento-di-netanyahu-ottiene-54-seggi_74766689-3c93-4a0a-8778-21bf55ce3a7c.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 22:03:40 +0100"
+      "data": "Wed, 28 Oct 2026 12:19:21 +0100"
     },
     {
-      "titolo": "Le frasi shock degli agenti mentre Fakir era a terra: 'È schiattato', 'che me ne frega'",
-      "titolo_originale": "Le frasi shock degli agenti mentre Fakir era a terra: 'È schiattato', 'che me ne frega'",
-      "sommario": "Per i consulenti del pm la morte di Fakir è dovuta a tre concause: agitazione, cocaina e posizione prona",
-      "link": "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/le-frasi-shock-degli-agenti-mentre-fakir-era-a-terra-e-schiattato-che_67fdb0f4-6e72-41d4-b8af-2d52b259663a.html",
+      "titolo": "Nuovo taglio delle accise fino al 7 novembre, circa 4,9 centesimi sul gasolio",
+      "titolo_originale": "Nuovo taglio delle accise fino al 7 novembre, circa 4,9 centesimi sul gasolio",
+      "sommario": "Pubblicato in Gazzetta il decreto",
+      "link": "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/10/28/nuovo-taglio-delle-accise-fino-al-7-novembre-circa-49-centesimi-sul-gasolio_c75099a5-85cb-46a3-ac0b-03e6560f276b.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 27 Oct 2026 20:28:36 +0100"
+      "data": "Wed, 28 Oct 2026 11:06:14 +0100"
     },
     {
-      "titolo": "Piano B, Sara: “Ero una guardia giurata, ho lasciato tutto per vivere in un borgo di montagna\"",
-      "titolo_originale": "Piano B, Sara: “Ero una guardia giurata, ho lasciato tutto per vivere in un borgo di montagna\"",
-      "sommario": "La nuova puntata della e sulle storie delle persone che cambiano vita",
-      "link": "https://www.repubblica.it/dossier/cronaca/piano-b-cambiare-vita/2026/10/28/news/cambiare_vita_piano_b_la_storia_di_sara_quintiliani-425680373/",
+      "titolo": "Mattarella: 'Guerre dissennate e progetti militari sottraggono risorse alla medicina'",
+      "titolo_originale": "Mattarella: 'Guerre dissennate e progetti militari sottraggono risorse alla medicina'",
+      "sommario": "'Il tema delle risorse e delle strutture non vanifichi il diritto alla salute'",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/10/28/mattarella-guerre-dissennate-e-progetti-militari-sottraggono-risorse-alla-medicina_99ab9e81-544d-4f94-8bc1-666ad0386c9b.html",
+      "fonte": "ANSA",
+      "lingua_originale": "it",
+      "data": "Wed, 28 Oct 2026 12:39:43 +0100"
+    },
+    {
+      "titolo": "Trump annuncia un incontro tra Putin e Zelensky  'molto presto'",
+      "titolo_originale": "Trump annuncia un incontro tra Putin e Zelensky  'molto presto'",
+      "sommario": "Il presidente Usa: 'Potranno essere fatti molti progressi'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/10/28/trump-annuncia-un-incontro-tra-putin-e-zelensky-molto-presto-_27be0948-eae6-4740-9dbe-9e6bded4fcd0.html",
+      "fonte": "ANSA",
+      "lingua_originale": "it",
+      "data": "Wed, 28 Oct 2026 07:29:45 +0100"
+    },
+    {
+      "titolo": "Youssef Siher è libero: arresto non convalidato per il ricercatore, può uscire dal carcere",
+      "titolo_originale": "Youssef Siher è libero: arresto non convalidato per il ricercatore, può uscire dal carcere",
+      "sommario": "La decisione del gip dopo il fermo di sabato",
+      "link": "https://milano.repubblica.it/cronaca/2026/10/28/news/youssef_siher_liberato_arresto_non_convalidato_movimento_17_ottobre-425681423/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:51:03 +0000"
+      "data": "Wed, 28 Oct 2026 11:59:42 +0000"
     },
     {
-      "titolo": "L’eterno Netanyahu, cala ma non affonda e punta a restare in sella",
-      "titolo_originale": "L’eterno Netanyahu, cala ma non affonda e punta a restare in sella",
-      "sommario": "l Likud perde seggi e non ha la maggioranza, ma resta primo partito. Bibi incassa il successo di una campagna tutta giocata sulla paura",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_elezioni_netanyahu_premier_eterno_punta_restare_in_sella-425680218/",
+      "titolo": "Spagna, il racconto del giornalista a bordo del treno: “Urla e persone sbalzate dai finestrini”",
+      "titolo_originale": "Spagna, il racconto del giornalista a bordo del treno: “Urla e persone sbalzate dai finestrini”",
+      "sommario": "Il reporter del País Antonio Jiménez Barca si trovava su uno dei due mezzi coinvolti nell’incidente ferroviario avvenuto nei pressi di Toledo nel quale sono morte almeno trenta persone",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_treni_incidente_toledo_testimonianze-425681368/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 11:48:46 +0000"
     },
     {
-      "titolo": "La sfida di Eisenkot per scalzare l’ultradestra: “È stato un no a Netanyahu”",
-      "titolo_originale": "La sfida di Eisenkot per scalzare l’ultradestra: “È stato un no a Netanyahu”",
-      "sommario": "L’opposizione guidata dal generale non ha i numeri per governare. Il nodo dell’appoggio esterno da parte dei partiti palestinesi",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/elezioni_israele_sfida_eisenkot_scalzare_netanyahu_aiuto_arabi-425680240/",
+      "titolo": "Manovra, le assicurazioni contrarie a nuove tasse e bonus: “Non siamo un giacimento fiscale”",
+      "titolo_originale": "Manovra, le assicurazioni contrarie a nuove tasse e bonus: “Non siamo un giacimento fiscale”",
+      "sommario": "Il presidente Liverani attacca i prelievi straordinari sulle assicurazioni e gli interventi spot: “Pannicelli caldi”. Al governo chiede un salvadanaio previdenziale per tutti i neonati",
+      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/28/news/manovra_l_ania_contro_nuove_tasse_e_bonus_non_siamo_un_giacimento_fiscale-425681260/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 11:05:30 +0000"
     },
     {
-      "titolo": "“Una fetta importante di Israele ha scelto di non cambiare leader, ma i religiosi hanno detto basta”",
-      "titolo_originale": "“Una fetta importante di Israele ha scelto di non cambiare leader, ma i religiosi hanno detto basta”",
-      "sommario": "La sondaggista Scheindlin indica una nuova tendenza: la delusione di chi ha sempre creduto in lui",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/dahlia_schleindin_intervista_elezioni_israele_delusione_netanyahu_voto_sfiducia_tendenza-425680016/",
+      "titolo": "Mattarella contro i no vax: “Contrastare chi avvelena opinione su vaccini, posizioni sconcertanti”",
+      "titolo_originale": "Mattarella contro i no vax: “Contrastare chi avvelena opinione su vaccini, posizioni sconcertanti”",
+      "sommario": "Duro intervento del presidente all’evento sui Giorni della ricerca. Un affondo che arriva a poche ore dalla norma votata alla Camera per reintegrare i medici radiati negli anni del Covid",
+      "link": "https://www.repubblica.it/politica/2026/10/28/news/mattarella_no_vax_vaccini_posizioni_sconcertanti-425681259/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 11:05:25 +0000"
     },
     {
-      "titolo": "La fuga di Bolsonaro dal Brasile, il super giudice e la tangente sul kolossal dedicato al padre",
-      "titolo_originale": "La fuga di Bolsonaro dal Brasile, il super giudice e la tangente sul kolossal dedicato al padre",
-      "sommario": "Lo scacco della giustizia su Dark Horse, il film che avrebbe dovuto rilanciare il capostipite Jair",
-      "link": "https://www.repubblica.it/esteri/2026/10/28/news/fuga_bolsonaro_brasile_inchiesta_corte_suprema_tangente_film_dedicato_padre_dark_horse-425680058/",
+      "titolo": "Il passaporto italiano di Flavio Bolsonaro: il trisnonno veneto e quei dubbi dentro Montecitorio",
+      "titolo_originale": "Il passaporto italiano di Flavio Bolsonaro: il trisnonno veneto e quei dubbi dentro Montecitorio",
+      "sommario": "Interrogazioni parlamentari dem e Avs sulla procedura che portò alla cittadinanza dei figli dell'ex presidente brasiliano",
+      "link": "https://www.repubblica.it/politica/2026/10/28/news/passaporto_italiano_flavio_bolsonaro_perche_polemiche-425680979/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 09:42:29 +0000"
     },
     {
-      "titolo": "Deportazioni e caro vita: gli elettori ispanici abbandonano Trump",
-      "titolo_originale": "Deportazioni e caro vita: gli elettori ispanici abbandonano Trump",
-      "sommario": "Solo il 24% dei latini approva il presidente e 7 su 10 sentono di essere stati danneggiati. I democratici hanno un vantaggio del 27%",
-      "link": "https://www.repubblica.it/cronaca/2026/10/28/news/los_angeles_latinos_trump_elezioni_usa-425679863/",
+      "titolo": "Kane e la dedica alla moglie Kate: storia di una coppia (nata a scuola) che non ama i riflettori",
+      "titolo_originale": "Kane e la dedica alla moglie Kate: storia di una coppia (nata a scuola) che non ama i riflettori",
+      "sommario": "L'attaccante inglese del Bayern ha dedicato il Pallone d'oro alla compagna di una vita, incontrata quando aveva quattro anni: anti-wag, molto riservata, non ha mai rilasciato interviste ai media",
+      "link": "https://www.repubblica.it/sport/calcio/2026/10/28/news/kate_goodland_chi_e_moglie_kane_pallone_d_oro_2026-425680933/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 09:22:26 +0000"
     },
     {
-      "titolo": "“Rispettati gli impegni”. Meloni chiude la manovra, resta lo scontro sull’Irpef",
-      "titolo_originale": "“Rispettati gli impegni”. Meloni chiude la manovra, resta lo scontro sull’Irpef",
-      "sommario": "Oggi la Finanziaria in cdm, tensione con Forza Italia sulle tasse. Contributo anche dall’energia e si aspetta Bruxelles sulla flessibilità",
-      "link": "https://www.repubblica.it/economia/2026/10/28/news/manovra_irpef_giorgetti_vertice_meloni-425680260/",
+      "titolo": "Spagna, scontro tra due treni dell’alta velocità nei pressi di Toledo: “Almeno trenta morti”",
+      "titolo_originale": "Spagna, scontro tra due treni dell’alta velocità nei pressi di Toledo: “Almeno trenta morti”",
+      "sommario": "Traffico sospeso tra Madrid e l’Andalusia. Nell’impatto alcuni vagoni sono precipitati. Centinaia i feriti, secondo fonti del governo si teme un bilancio peggiore di quello del deragliamento dello scorso gennaio ad Adamuz, quando morirono 46 persone. Ipotesi tamponamento per errore umano",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/spagna_scontro_treni_alta_velocita_toledo-425680863/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 08:47:41 +0000"
     },
     {
-      "titolo": "Manovra, è corsa alla flat tax. Mini prelievi per giovani, partite Iva e tredicesime",
-      "titolo_originale": "Manovra, è corsa alla flat tax. Mini prelievi per giovani, partite Iva e tredicesime",
-      "sommario": "Il pacchetto più definito è per gli under 30 al primo impiego. Il regime forfettario degli autonomi si estende a 100mila euro",
-      "link": "https://www.repubblica.it/economia/2026/10/28/news/manovra_flat_tax_irpef_giovani_misure-425680245/",
+      "titolo": "Israele, cosa succede adesso: ecco gli scenari",
+      "titolo_originale": "Israele, cosa succede adesso: ecco gli scenari",
+      "sommario": "Dopo il voto di ieri le prospettive sono un governo Netanyahu con l’appoggio di un partito dell’opposizione o un esecutivo di minoranza guidato da Eisenkot con il sostegno dei partiti arabi. Ma esiste anche l’ipotesi nuove elezioni",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_elezioni_scenari_cosa_succede-425680832/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 08:38:08 +0000"
     },
     {
-      "titolo": "Tornano le pensioni anticipate. Un miliardo per Quota 100",
-      "titolo_originale": "Tornano le pensioni anticipate. Un miliardo per Quota 100",
-      "sommario": "Coperture dal taglio alla rivalutazione degli assegni medio-alti. In arrivo una dote per i neonati da 50 euro l’anno fino a 18 anni, gestita da Inps, per la previdenza complementare",
-      "link": "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/10/28/news/manovra_nuova_quota_100_dote_neonati_pensioni_minime-425680172/",
+      "titolo": "“Tutti ci parlano, non solo Eisenkot”. Dietro al successo delle liste arabe: chi sono, cosa vogliono",
+      "titolo_originale": "“Tutti ci parlano, non solo Eisenkot”. Dietro al successo delle liste arabe: chi sono, cosa vogliono",
+      "sommario": "Nel confronto serrato tra il blocco di Eisenkot e la maggioranza di Netanyahu, i due leader arabi acquisiscono un peso mai avuto: Ra’am e la Lista Comune possono arrivare fino a 18-19 seggi, contro i dieci del 2022",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/israele_liste_arabe_elezioni_mansour_abbas_chi_sono-425680796/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 08:25:14 +0000"
     },
     {
-      "titolo": "Antonio Decaro: “Regioni concordi, così la Sanità si blocca. I tagli vanno fatti altrove”",
-      "titolo_originale": "Antonio Decaro: “Regioni concordi, così la Sanità si blocca. I tagli vanno fatti altrove”",
-      "sommario": "Intervista al governatore della Puglia, che spiega: “Non voglio litigare con il governo, ma trovare soluzioni. La salute è una priorità assoluta, come ha sottolineato il presidente Mattarella”",
-      "link": "https://www.repubblica.it/economia/2026/10/28/news/antonio_decaro_sanita_regioni_tagli_manovra-425680078/",
+      "titolo": "Belgrado, attacco all’ambasciata israeliana: ucciso l’aggressore. “Attentato terroristico”",
+      "titolo_originale": "Belgrado, attacco all’ambasciata israeliana: ucciso l’aggressore. “Attentato terroristico”",
+      "sommario": "Mentre venivano diffusi i primi dati delle elezioni in Israele, un giovane estremista islamico armato di coltelli ha colpito un agente in servizio all’esterno della sede diplomatica. Per la polizia serba non una coincidenza ma una provocazione pianificata",
+      "link": "https://www.repubblica.it/esteri/2026/10/28/news/belgrado_ambasciata_israele_attentato_terroristico-425680752/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Wed, 28 Oct 2026 00:00:00 +0000"
+      "data": "Wed, 28 Oct 2026 08:11:04 +0000"
     },
     {
-      "titolo": "L'alleato di Bolsonaro nega di essere a conoscenza del piano del senatore di fuggire dal Brasile",
-      "titolo_originale": "Bolsonaro ally denies knowledge of senator’s plan to flee Brazil",
-      "sommario": "L'ex responsabile della campagna di Flavio Bolsonaro dice che il senatore non lo ha informato che aveva intenzione di fuggire dal Brasile.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/bolsonaro-ally-denies-knowledge-of-senators-plan-to-flee-brazil?traffic_source=rss",
+      "titolo": "Gli hacker prendono di mira il sistema di finanziamento delle campagne statunitensi giorni prima delle elezioni di medio termine",
+      "titolo_originale": "Hackers target US campaign finance system days before midterm elections",
+      "sommario": "Un'e-mail della FEC ha detto che un \"cattivo attore\" ha cercato di violare i suoi sistemi mentre gli Stati Uniti si preparano per le elezioni più costose di sempre.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/hackers-target-us-campaign-finance-system-days-before-midterm-elections?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 03:49:40 +0000"
+      "data": "Wed, 28 Oct 2026 11:47:10 +0000"
     },
     {
-      "titolo": "I mercati azionari globali aumentano mentre gli investitori continuano a scommettere sull'IA",
-      "titolo_originale": "Global stock markets rise as investors continue to bet on AI",
-      "sommario": "I mercati azionari asiatici aumentano, dopo i guadagni di Wall Street.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss",
+      "titolo": "L'artista nigeriano riformula i bambini con albinismo come eroi",
+      "titolo_originale": "Nigerian artist reframes children with albinism as heroes",
+      "sommario": "L'artista nigeriano riformula i bambini con albinismo come eroi",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/nigerian-artist-reframes-children-with-albinism-as-heroes?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 03:14:31 +0000"
+      "data": "Wed, 28 Oct 2026 11:46:49 +0000"
     },
     {
-      "titolo": "Il confine tra Siria e Giordania riapre tra indagini su attacchi aerei mortali",
-      "titolo_originale": "Syria-Jordan border reopens amid probe into deadly air strikes",
-      "sommario": "I ministri degli Esteri formano il comitato di sicurezza per condividere informazioni e dare seguito all'impatto degli attacchi della Giordania sulla Siria.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/syria-jordan-border-reopens-amid-probe-into-deadly-airstrikes?traffic_source=rss",
+      "titolo": "Il ciclone lascia tracce di distruzione in India mentre migliaia di persone vengono evacuate",
+      "titolo_originale": "Cyclone leaves trail of destruction in India as thousands evacuated",
+      "sommario": "Il ciclone Arnab ha lasciato una scia di distruzione lungo la costa orientale dell'India.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/cyclone-leaves-trail-of-destruction-in-india-as-thousands-evacuated?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 03:10:17 +0000"
+      "data": "Wed, 28 Oct 2026 11:41:04 +0000"
     },
     {
-      "titolo": "Cinque punti chiave delle elezioni parlamentari israeliane",
-      "titolo_originale": "Five key takeaways from Israel’s parliamentary elections",
-      "sommario": "Il Likud di Netanyahu emerge come il più grande partito israeliano, il blocco supera l'opposizione.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss",
+      "titolo": "Le famiglie si preparano per un quarto inverno di vento, pioggia e inondazioni nei campi di Gaza",
+      "titolo_originale": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+      "sommario": "È probabile che l'imminente inverno di Gaza porti a ulteriori devastazioni per i palestinesi.",
+      "link": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 02:53:35 +0000"
+      "data": "Wed, 28 Oct 2026 11:36:04 +0000"
     },
     {
-      "titolo": "Netanyahu: coalizione con partiti arabi sarebbe ‘vergognoso’",
-      "titolo_originale": "Netanyahu: Coalition with Arab parties would be ‘shameful’",
-      "sommario": "Netanyahu ha definito la prospettiva di lavorare con i partiti arabi per formare un governo \"una vergogna e una vergogna\".",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/netanyahu-coalition-with-arab-parties-would-be?traffic_source=rss",
+      "titolo": "Vertice Russia-Africa: quali sono i punti all&#39;ordine del giorno e perché sono importanti?",
+      "titolo_originale": "Russia-Africa Summit: What is on the agenda, and why does it matter?",
+      "sommario": "Mosca mira a rafforzare i legami economici e di sicurezza con i leader africani durante i due giorni di incontro.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/russia-africa-summit-what-is-on-the-agenda-and-why-does-it-matter?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 02:26:27 +0000"
+      "data": "Wed, 28 Oct 2026 11:33:26 +0000"
     },
     {
-      "titolo": "I partiti arabi potrebbero vincere il record di 18 seggi alle elezioni israeliane, mostrano gli exit poll",
-      "titolo_originale": "Arab parties could win record 18 seats in Israel election, exit polls show",
-      "sommario": "L'affluenza alle urne record tra i cittadini palestinesi di Israele raggiunge circa l'80%, mostrano le prime indicazioni.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+      "titolo": "L&#39;elevata affluenza alle urne tra i cittadini palestinesi di Israele rappresenta una minaccia per Netanyahu.",
+      "titolo_originale": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+      "sommario": "Un'affluenza storica tra i cittadini palestinesi di Israele posiziona i partiti arabi come sovrani contro l'estrema destra.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 00:43:56 +0000"
+      "data": "Wed, 28 Oct 2026 11:33:13 +0000"
     },
     {
-      "titolo": "Netanyahu, i campi di Eisenkot si scontrano sulle proiezioni elettorali di Israele",
-      "titolo_originale": "Netanyahu, Eisenkot camps clash over Israel election projections",
-      "sommario": "Nonostante le cifre più ristrette degli exit poll, i leader dell'opposizione hanno insistito sul fatto che il risultato è stato una sconfitta per il governo.",
-      "link": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+      "titolo": "Un dirigente della federazione calcistica giapponese si dimette dopo l&#39;allineamento dell&#39;AFC con Infantino.",
+      "titolo_originale": "Japan football association official resigns after AFC aligns with Infantino",
+      "sommario": "Il vicepresidente Takeshi Okada ha affermato che le risposte a diverse controversie relative alla Coppa del Mondo non sono in linea con i suoi valori personali.",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/japan-football-association-official-resigns-after-afc-aligns-with-infantino?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 00:43:02 +0000"
+      "data": "Wed, 28 Oct 2026 11:11:32 +0000"
     },
     {
-      "titolo": "L'israeliano Eisenkot afferma che il paese ha votato per il cambiamento",
-      "titolo_originale": "Israel’s Eisenkot says country voted for change",
-      "sommario": "Il leader dell'opposizione israeliana Gadi Eisenkot afferma che milioni di israeliani hanno votato per il cambiamento, stanchi delle \"bugie\" di Netanyahu.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+      "titolo": "Incidente mortale di treni ad alta velocità in Spagna",
+      "titolo_originale": "Deadly high-speed train collision in Spain",
+      "sommario": "Almeno 39 persone sono rimaste uccise dopo che due treni ad alta velocità si sono scontrati vicino a Urda, in Spagna.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/deadly-high-speed-train-collision-in-spain?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 00:30:22 +0000"
+      "data": "Wed, 28 Oct 2026 11:02:31 +0000"
     },
     {
-      "titolo": "\"Questa è l'America\": l'inviato degli Stati Uniti rimprovera il diplomatico cubano alle Nazioni Unite",
-      "titolo_originale": "‘This is America’: US envoy scolds Cuban diplomat at UN",
-      "sommario": "L'inviato degli Stati Uniti Mike Waltz ha ripetutamente detto al team delle Nazioni Unite di Cuba, \"Questa è l'America\", durante un acceso scontro presso la sede delle Nazioni Unite",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/this-is-america-us-envoy-scolds-cuban-diplomat-at-un?traffic_source=rss",
+      "titolo": "L'attivista palestinese Mahmoud Khalil torna in Colombia dopo la detenzione negli Stati Uniti",
+      "titolo_originale": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
+      "sommario": "L'attivista pro-palestinese Mahmoud Khalil è tornato alla Columbia University per la prima volta dalla sua detenzione negli Stati Uniti.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Wed, 28 Oct 2026 00:25:08 +0000"
+      "data": "Wed, 28 Oct 2026 11:00:37 +0000"
     },
     {
-      "titolo": "Le registe di Gaza trasformano il dolore in cinema con il lancio di una nuova accademia",
-      "titolo_originale": "Gaza’s women filmmakers turn pain into cinema as new academy launches",
-      "sommario": "Il festival del cinema di Gaza mette in evidenza la resilienza delle donne attraverso storie di guerra, perdita e sopravvivenza.",
-      "link": "https://www.aljazeera.com/news/2026/10/27/gazas-women-filmmakers-turn-pain-into-cinema-as-new-academy-launches?traffic_source=rss",
+      "titolo": "Il governo di Burnham svela il suo primo bilancio del Regno Unito: cosa aspettarsi",
+      "titolo_originale": "Burnham’s government unveils its first UK budget: What to expect",
+      "sommario": "Il cancelliere del Regno Unito presenterà un bilancio autunnale tra l'aumento del costo della vita e le bollette energetiche.",
+      "link": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Tue, 27 Oct 2026 23:35:51 +0000"
+      "data": "Wed, 28 Oct 2026 10:42:52 +0000"
     },
     {
-      "titolo": "Il debito nazionale degli Stati Uniti raggiunge il livello record di oltre 40,5 trilioni di dollari",
-      "titolo_originale": "US national debt hits record high of over $40.5 trillion",
-      "sommario": "Il debito è aumentato di $20 trilioni in meno di un decennio",
-      "link": "https://tass.com/economy/2209187",
+      "titolo": "Rosoboronexport consegna il primo lotto di caccia Su-35 all'Aeronautica militare etiope",
+      "titolo_originale": "Rosoboronexport delivers first batch of Su-35 fighter jets to Ethiopian Air Force",
+      "sommario": "Oltre il 30% degli ordini attualmente in portafoglio da Rosoboronexport proviene da paesi africani, ha dichiarato l&#39;amministratore delegato dell&#39;azienda, Alexander Mikheyev.",
+      "link": "https://tass.com/defense/2209487",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 06:00:01 +0300"
+      "data": "Wed, 28 Oct 2026 15:03:33 +0300"
     },
     {
-      "titolo": "Nessun leader europeo tranne Stubb, Store ha richiesto chiamate con Putin —Peskov",
-      "titolo_originale": "No European leaders except Stubb, Store requested calls with Putin —Peskov",
-      "sommario": "Il 27 ottobre, Vladimir Putin ha tenuto una conversazione telefonica con Stubb e Store su richiesta delle parti finlandese e norvegese",
-      "link": "https://tass.com/politics/2209185",
+      "titolo": "La Russia esporta 13 milioni di tonnellate di prodotti agricoli in Africa in nove mesi — Putin",
+      "titolo_originale": "Russia exports 13 mln tons of agricultural products to Africa in nine months — Putin",
+      "sommario": "Nel frattempo, l'Africa possiede il proprio potenziale agricolo e può provvedere da sola al cibo, ha affermato il leader russo",
+      "link": "https://tass.com/economy/2209485",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 05:55:01 +0300"
+      "data": "Wed, 28 Oct 2026 15:02:30 +0300"
     },
     {
-      "titolo": "L'UE cerca di evitare gli errori dell'Ucraina nel fare affidamento su Starlink — Bloomberg",
-      "titolo_originale": "EU seeks to avoid Ukraine’s mistakes in relying on Starlink — Bloomberg",
-      "sommario": "Secondo l'agenzia di stampa, i funzionari europei hanno discusso la necessità di rafforzare le proprie capacità, ridurre la dipendenza dagli Stati Uniti e diversificare i fornitori di \"tecnologie critiche\"",
-      "link": "https://tass.com/economy/2209183",
+      "titolo": "La Russia contribuisce attivamente alla ripresa finanziaria dell&#39;Africa — Putin",
+      "titolo_originale": "Russia actively helps Africa’s financial recovery — Putin",
+      "sommario": "Il presidente russo ha osservato che gli effetti dell'era coloniale si fanno ancora sentire in Africa",
+      "link": "https://tass.com/politics/2209459",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 04:48:23 +0300"
+      "data": "Wed, 28 Oct 2026 14:47:48 +0300"
     },
     {
-      "titolo": "Putin evidenzia la natura amichevole delle relazioni Russia-Guinea Equatoriale",
-      "titolo_originale": "Putin highlights friendly nature of Russia-Equatorial Guinea relations",
-      "sommario": "Il leader russo ha sottolineato che la Russia apprezza il suo efficace coordinamento con la Guinea Equatoriale sulla scena internazionale",
-      "link": "https://tass.com/politics/2209181",
+      "titolo": "Rosatom avvia la spedizione di combustibile nucleare per l'unità 2 della centrale nucleare di Rooppur in Bangladesh",
+      "titolo_originale": "Rosatom starts nuclear fuel shipment for Rooppur NPP Unit 2 in Bangladesh",
+      "sommario": "In precedenza, il combustibile nucleare fresco è stato spedito dalla Siberia al Bangladesh per consentire il primo rifornimento in assoluto presso l'Unità 1",
+      "link": "https://tass.com/economy/2209451",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 04:30:01 +0300"
+      "data": "Wed, 28 Oct 2026 14:40:04 +0300"
     },
     {
-      "titolo": "La spesa militare degli Stati Uniti per il conflitto in Iran raggiunge i 47 miliardi di dollari — The Hill",
-      "titolo_originale": "US military spending on Iran conflict reaches $47 bln — The Hill",
-      "sommario": "Secondo il giornale, i dati sono stati registrati al 16 ottobre",
-      "link": "https://tass.com/economy/2209179",
+      "titolo": "Le nazioni BRICS sostengono l'uguaglianza mentre utilizzano diversi modelli di sviluppo — Putin",
+      "titolo_originale": "BRICS nations advocate for equality while using diverse development models — Putin",
+      "sommario": "Il presidente russo ha osservato che attualmente stanno emergendo nuovi centri di governance globale",
+      "link": "https://tass.com/politics/2209447",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 03:48:01 +0300"
+      "data": "Wed, 28 Oct 2026 14:38:56 +0300"
     },
     {
-      "titolo": "Le forze ucraine hanno lanciato 13 attacchi contro gli insediamenti DPR lo scorso giorno",
-      "titolo_originale": "Ukrainian forces launch 13 attacks on DPR settlements in past day",
-      "sommario": "Due civili sono stati uccisi e quattro feriti",
-      "link": "https://tass.com/politics/2209177",
+      "titolo": "L'unione per il disarmo della Cina invita l'AIEA a rafforzare la supervisione delle scorte di plutonio del Giappone",
+      "titolo_originale": "China’s disarmament union calls on IAEA to boost supervision of Japan's plutonium stocks",
+      "sommario": "Il presidente Dai Huaicheng ha aggiunto che il Giappone ha giustificato a lungo la crescita delle riserve di plutonio sviluppando un ciclo nucleare",
+      "link": "https://tass.com/world/2209439",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 03:30:01 +0300"
+      "data": "Wed, 28 Oct 2026 14:29:52 +0300"
     },
     {
-      "titolo": "Commercio tra Russia, Libia continua a crescere — Putin",
-      "titolo_originale": "Trade between Russia, Libya continues to grow — Putin",
-      "sommario": "Vladimir Putin ha sottolineato che la Libia è un partner di lunga data della Russia in Nord Africa",
-      "link": "https://tass.com/economy/2209175",
+      "titolo": "Rosatom fiduciosa nella risoluzione dei problemi di costruzione di centrali nucleari in Africa — CEO",
+      "titolo_originale": "Rosatom confident in solving nuclear plant construction issues in Africa — CEO",
+      "sommario": "Le nazioni africane mostrano un grande interesse per la costruzione di centrali nucleari, ha sottolineato Alexey Likhachev",
+      "link": "https://tass.com/economy/2209433",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 03:08:01 +0300"
+      "data": "Wed, 28 Oct 2026 14:26:10 +0300"
     },
     {
-      "titolo": "Flavio Bolsonaro arriva negli Stati Uniti con la famiglia — CNN Brasil",
-      "titolo_originale": "Flavio Bolsonaro arrives in US with family — CNN Brasil",
-      "sommario": "Il politico ha lasciato il paese a dispetto di un esplicito ordine del tribunale",
-      "link": "https://tass.com/world/2209173",
+      "titolo": "Preparativi per i colloqui in Ucraina, proteste in Europa: dichiarazioni di un alto diplomatico russo",
+      "titolo_originale": "Preparations for Ukraine talks, protests in Europe: senior Russian diplomat’s statements",
+      "sommario": "Mosca è scettica sul fatto che i risultati delle elezioni di medio termine degli Stati Uniti cambieranno l'approccio della Casa Bianca nei confronti della Russia, ha affermato il viceministro degli Esteri Sergey Ryabkov",
+      "link": "https://tass.com/politics/2209417",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 02:46:01 +0300"
+      "data": "Wed, 28 Oct 2026 14:23:09 +0300"
     },
     {
-      "titolo": "Peskov chiarisce la zona di cessate il fuoco che si estende oltre Alyoshki",
-      "titolo_originale": "Peskov clarifies ceasefire zone extending beyond Alyoshki",
-      "sommario": "Il portavoce presidenziale russo Dmitry Peskov ha osservato che l'accordo di cessate il fuoco intorno alla città è stato concordato fin dall'inizio",
-      "link": "https://tass.com/politics/2209169",
+      "titolo": "Il mondo multipolare sta diventando reale, questa tendenza è irreversibile — Putin",
+      "titolo_originale": "Multipolar world is becoming real, this trend is irreversible — Putin",
+      "sommario": "Come ha osservato il presidente, il Forum Russia-Africa si inserisce bene nei processi di trasformazione globale",
+      "link": "https://tass.com/politics/2209407",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 01:55:00 +0300"
+      "data": "Wed, 28 Oct 2026 14:18:33 +0300"
     },
     {
-      "titolo": "Russia, Guinea Equatoriale hanno un potenziale significativo per aumentare le forniture reciproche — Putin",
-      "titolo_originale": "Russia, Equatorial Guinea have significant potential to boost mutual supplies — Putin",
-      "sommario": "Il presidente russo ha anche sottolineato che sono stati raggiunti risultati positivi nella cooperazione culturale e umanitaria bilaterale",
-      "link": "https://tass.com/economy/2209167",
+      "titolo": "Mosca non negozia il ritorno delle società statunitensi ai progetti russi di petrolio e gas — Novak",
+      "titolo_originale": "Moscow not negotiating US companies’ return to Russian oil, gas projects — Novak",
+      "sommario": "Il vice primo ministro russo ha affermato in precedenza che la Russia e gli Stati Uniti potrebbero iniziare a cooperare su progetti di gas naturale liquefatto nell'Artico, nonché sullo sviluppo di giacimenti minerari",
+      "link": "https://tass.com/economy/2209405",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 01:17:00 +0300"
+      "data": "Wed, 28 Oct 2026 14:15:55 +0300"
     },
     {
-      "titolo": "Gli Stati Uniti dicono agli alleati del Golfo di prepararsi a una guerra \"intensa\" con l'Iran – WSJ",
+      "titolo": "Dall'antenato di Pushkin agli inviati di Mandela: la storia mai raccontata dei legami Russia–Africa",
+      "titolo_originale": "From Pushkin’s ancestor to Mandela’s envoys: The untold story of Russia–Africa ties",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0a1bb203027644503a2d0.jpg\" style=\"margin-right: 10px;\" /> Esplora le relazioni Russia-Africa, dall'Etiopia imperiale alle università sovietiche e ai legami personali che sono sopravvissuti alla Guerra Fredda <br /><a href=\"https://rt-english.com/africa/647797-russia-africa-relations-unusual-history/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/africa/647797-russia-africa-relations-unusual-history/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 12:07:05 +0000"
+    },
+    {
+      "titolo": "L'India invita il Pakistan al forum SCO un anno dopo lo stallo",
+      "titolo_originale": "India invites Pakistan to SCO forum a year after stand-off",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1cce42030274c211bde27.jpg\" style=\"margin-right: 10px;\" />  Indian invites Pakistani minister Aurangzeb Khan Khichi to an SCO forum meet, a first since the two countries clashed last year <br /><a href=\"https://rt-english.com/india/647894-india-invites-pakistan-sco/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/647894-india-invites-pakistan-sco/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 11:11:00 +0000"
+    },
+    {
+      "titolo": "Russia ready to play part in ‘second awakening’ of Africa – Lavrov",
+      "titolo_originale": "Russia ready to play part in ‘second awakening’ of Africa – Lavrov",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1c8ad2030277c5223d066.jpg\" style=\"margin-right: 10px;\" /> Russia is ready to expand cooperation with Africa through new partnerships,  Foreign Minister Sergey Lavrov has said <br /><a href=\"https://rt-english.com/africa/647892-russia-lavrov-expand-cooperation-african-nations/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/647892-russia-lavrov-expand-cooperation-african-nations/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 10:15:09 +0000"
+    },
+    {
+      "titolo": "Dozens killed in Spanish high-speed train collision (VIDEOS)",
+      "titolo_originale": "Dozens killed in Spanish high-speed train collision (VIDEOS)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1ceb72030274ee6217ea5.png\" style=\"margin-right: 10px;\" /> At least 46 people were killed and more than 179 injured in a high-speed train collision near Toledo, Spain, according to local media <br /><a href=\"https://rt-english.com/news/647891-spain-train-sollision/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647891-spain-train-sollision/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 09:50:29 +0000"
+    },
+    {
+      "titolo": "Russia showcases submarine-launched ballistic missile (VIDEO)",
+      "titolo_originale": "Russia showcases submarine-launched ballistic missile (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1934585f54014331362de.png\" style=\"margin-right: 10px;\" /> A Russian nuclear submarine has launched a Bulava ballistic missile from the Sea of Okhotsk, hitting a target 6,000 km away <br /><a href=\"https://rt-english.com/russia/647876-russia-missile-launch-submarine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/647876-russia-missile-launch-submarine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 09:26:42 +0000"
+    },
+    {
+      "titolo": "Two European leaders called Putin. Why did it cause such a stir?",
+      "titolo_originale": "Two European leaders called Putin. Why did it cause such a stir?",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1bc5985f5404a3042e109.png\" style=\"margin-right: 10px;\" /> Finland and Norway’s call to Putin has exposed European divisions. Why could the diplomatic opening be a warning for Zelensky? <br /><a href=\"https://rt-english.com/news/647860-two-european-leaders-called-putin/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647860-two-european-leaders-called-putin/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 09:17:02 +0000"
+    },
+    {
+      "titolo": "US hints at expanding Russian diesel deal",
+      "titolo_originale": "US hints at expanding Russian diesel deal",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1baa085f540186f39ee2f.jpg\" style=\"margin-right: 10px;\" /> US Energy Secretary Chris Wright has floated more Russian diesel shipments despite Ukraine’s opposition <br /><a href=\"https://rt-english.com/news/647884-us-hints-expanding-russian-diesel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/647884-us-hints-expanding-russian-diesel/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 09:10:37 +0000"
+    },
+    {
+      "titolo": "Deadly cyclone smashes into India’s east coast  (VIDEOS)",
+      "titolo_originale": "Deadly cyclone smashes into India’s east coast  (VIDEOS)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1b49f203027466f729a0b.png\" style=\"margin-right: 10px;\" /> Cyclone Arnab struck India’s east coast with winds of up to 150 kph, killing five, disrupting transportation, and knocking out power <br /><a href=\"https://rt-english.com/india/647882-india-cyclone-arnab-landfall/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/647882-india-cyclone-arnab-landfall/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 08:47:58 +0000"
+    },
+    {
+      "titolo": "Putin addresses gathering of African leaders in Moscow: Russia-Africa Summit",
+      "titolo_originale": "Putin addresses gathering of African leaders in Moscow: Russia-Africa Summit",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1de8285f5405e75739504.jpg\" style=\"margin-right: 10px;\" /> The third Russia-Africa Summit is underway in Moscow, with talks, business negotiations, and cooperation agreements on the agenda <br /><a href=\"https://rt-english.com/africa/647875-moscow-takes-center-stage-third-russia-africa-summit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/647875-moscow-takes-center-stage-third-russia-africa-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Wed, 28 Oct 2026 06:51:31 +0000"
+    },
+    {
+      "titolo": "US tells Gulf allies to brace for ‘intense’ war with Iran – WSJ",
       "titolo_originale": "US tells Gulf allies to brace for ‘intense’ war with Iran – WSJ",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae169932030275a89252ec5.jpg\" style=\"margin-right: 10px;\" /> Gli Stati Uniti avrebbero avvertito gli alleati del Golfo di prepararsi per una breve ma intensa campagna militare contro l'Iran dopo le elezioni <br />di medio termine<a href=\"https://rt-english.com/news/647862-us-warns-renewed-iran-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\"> Leggi l'articolo completo su RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae169932030275a89252ec5.jpg\" style=\"margin-right: 10px;\" /> The US has reportedly warned Gulf allies to prepare for a short but intense military campaign against Iran after the midterm elections <br /><a href=\"https://rt-english.com/news/647862-us-warns-renewed-iran-war/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/647862-us-warns-renewed-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Wed, 28 Oct 2026 03:21:02 +0000"
-    },
-    {
-      "titolo": "Wired for War: la società israeliana di tecnologia spia ha preso di mira gli utenti Starlink – ricercatori",
-      "titolo_originale": "Wired for War: Israeli spy-tech firm targeted Starlink users – researchers",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae150eb85f540164903a642.jpg\" style=\"margin-right: 10px;\" /> Israeli advertising firm Discover-Tech reportedly helped several spy-tech companies target Starlink users with surveillance software <br /><a href=\"https://rt-english.com/news/647861-israel-spy-tech-starlink/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647861-israel-spy-tech-starlink/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 01:36:52 +0000"
-    },
-    {
-      "titolo": "KKK Halloween costumes spark outrage in US (VIDEO)",
-      "titolo_originale": "KKK Halloween costumes spark outrage in US (VIDEO)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0b9e485f54060f952b894.jpg\" style=\"margin-right: 10px;\" /> Police in El Paso, Texas, have launched an investigation after videos showed people in KKK-style Halloween costumes shouting racial slurs <br /><a href=\"https://rt-english.com/news/647815-kkk-halloween-costumes-outrage-texas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647815-kkk-halloween-costumes-outrage-texas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 00:52:00 +0000"
-    },
-    {
-      "titolo": "Scandal-hit German special forces prepare for war with Russia – commander",
-      "titolo_originale": "Scandal-hit German special forces prepare for war with Russia – commander",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1271f85f54060f952b8d9.jpg\" style=\"margin-right: 10px;\" /> Germany’s KSK special forces are preparing for a possible conflict with Russia despite a history of far-right extremism scandals <br /><a href=\"https://rt-english.com/news/647859-german-elite-unit-fight-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647859-german-elite-unit-fight-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Wed, 28 Oct 2026 00:07:48 +0000"
-    },
-    {
-      "titolo": "Microsoft moves to shed quarter of workforce",
-      "titolo_originale": "Microsoft moves to shed quarter of workforce",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0a4662030270e77149e01.jpg\" style=\"margin-right: 10px;\" /> Microsoft is seeking to shed up to 60,000 workers as the tech giant slashes payroll costs while pouring billions into AI <br /><a href=\"https://rt-english.com/news/647794-microsoft-workers-buyouts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647794-microsoft-workers-buyouts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 23:00:42 +0000"
-    },
-    {
-      "titolo": "Trump ally flees to US after Brazil election defeat – media",
-      "titolo_originale": "Trump ally flees to US after Brazil election defeat – media",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1116085f5404a3042e0e6.jpg\" style=\"margin-right: 10px;\" /> Brazilian Senator Flavio Bolsonaro has reportedly fled to the US after losing to Lula amid investigations into alleged financial crimes <br /><a href=\"https://rt-english.com/news/647857-bolsonaro-flees-to-us-brazil-election/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647857-bolsonaro-flees-to-us-brazil-election/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 22:47:14 +0000"
-    },
-    {
-      "titolo": "Why Moscow shouldn’t fear a Democratic victory in the US midterms",
-      "titolo_originale": "Why Moscow shouldn’t fear a Democratic victory in the US midterms",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1246d85f540186805793f.png\" style=\"margin-right: 10px;\" /> US midterms could complicate ties with Russia. Moscow should judge any Ukraine deal by its merits, not Washington’s political calendar <br /><a href=\"https://rt-english.com/news/647858-us-midterms-russia-ukraine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647858-us-midterms-russia-ukraine/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 22:24:04 +0000"
-    },
-    {
-      "titolo": "European leaders are ‘political masochists’ – Lavrov",
-      "titolo_originale": "European leaders are ‘political masochists’ – Lavrov",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae0ea0385f5404fdf25c3e6.jpg\" style=\"margin-right: 10px;\" /> Sergey Lavrov has branded European leaders “political masochists” for sacrificing their citizens’ welfare to secure Ukraine’s victory <br /><a href=\"https://rt-english.com/news/647839-lavrov-european-leaders-political-masochists/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/647839-lavrov-european-leaders-political-masochists/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 21:02:08 +0000"
-    },
-    {
-      "titolo": "Russia and US exploring Arctic cooperation – Putin",
-      "titolo_originale": "Russia and US exploring Arctic cooperation – Putin",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1097220302722e60de491.jpg\" style=\"margin-right: 10px;\" /> Russian President Vladimir Putin has said Moscow and Washington are exploring opportunities for joint energy projects in the Arctic <br /><a href=\"https://rt-english.com/russia/647852-russia-us-arctic-cooperation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/647852-russia-us-arctic-cooperation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 20:37:44 +0000"
-    },
-    {
-      "titolo": "EU burying its own economy – Putin (VIDEO)",
-      "titolo_originale": "EU burying its own economy – Putin (VIDEO)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.10/thumbnail/6ae1019685f54018f146132a.jpg\" style=\"margin-right: 10px;\" /> The EU is hurting its own economy by imposing sanctions on Russian energy supplies, President Vladimir Putin has said <br /><a href=\"https://rt-english.com/russia/647842-eu-burying-its-own-economy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/647842-eu-burying-its-own-economy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Tue, 27 Oct 2026 20:06:01 +0000"
     }
   ]
 }
