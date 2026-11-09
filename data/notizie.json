@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-08T21:46:50.976307",
+  "aggiornato": "2026-11-09T04:56:45.457669",
   "totale_notizie": 90,
   "notizie": [
     {
@@ -9,7 +9,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 18:22:53 GMT"
+      "data": "Sun, 08 Nov 2026 23:34:18 GMT"
     },
     {
       "titolo": "Sette morti e più di 100 feriti dopo la collisione dei treni in Egitto",
@@ -30,22 +30,22 @@
       "data": "Sun, 08 Nov 2026 14:42:09 GMT"
     },
     {
-      "titolo": "L'Iran esegue tre condanne a morte per \"disordini armati\" dopo le proteste di gennaio",
-      "titolo_originale": "Iran executes three men for 'armed unrest' after January protests",
-      "sommario": "Si sostiene che Hassan Dioband, Hamid Kazemi e Reza Zanganeh abbiano preso parte alle proteste antigovernative all'inizio di quest' anno.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Pianista di una nave da crociera salvata dal mare dopo nove ore nell'Oceano Pacifico",
+      "titolo_originale": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "sommario": "Due pescatori statunitensi affermano di aver avvistato l'uomo che camminava sull'acqua a circa 32 km al largo della costa californiana.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 13:37:50 GMT"
+      "data": "Mon, 09 Nov 2026 02:50:13 GMT"
     },
     {
-      "titolo": "Gli Houthi dicono che almeno 33 persone sono state uccise in un attacco aereo saudita",
-      "titolo_originale": "Houthis say at least 33 killed in Saudi air strike",
-      "sommario": "L'Arabia Saudita, che guida una coalizione che combatte gli Houthi nello Yemen, non ha commentato.",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "titolo": "La Torre Aramco colpita nel cuore della capitale saudita mentre gli Houthi lanciano nuovi attacchi",
+      "titolo_originale": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "sommario": "I filmati autenticati da BBC Verify mostrano danni all'edificio nel distretto finanziario centrale della capitale.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 04:03:12 GMT"
+      "data": "Sun, 08 Nov 2026 21:37:36 GMT"
     },
     {
       "titolo": "'Piatto', 'stanco', 'cinico': Kiwi insolitamente cupi consegnano le elezioni più serrate della Nuova Zelanda da anni",
@@ -55,6 +55,15 @@
       "fonte": "BBC World",
       "lingua_originale": "en",
       "data": "Sat, 07 Nov 2026 21:36:16 GMT"
+    },
+    {
+      "titolo": "L'Iran esegue tre condanne a morte per \"disordini armati\" dopo le proteste di gennaio",
+      "titolo_originale": "Iran executes three men for 'armed unrest' after January protests",
+      "sommario": "Si sostiene che Hassan Dioband, Hamid Kazemi e Reza Zanganeh abbiano preso parte alle proteste antigovernative all'inizio di quest' anno.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "titolo": "L'ex presidente del Paraguay accusato dopo il crollo della banca",
@@ -84,15 +93,6 @@
       "data": "Sat, 07 Nov 2026 16:50:06 GMT"
     },
     {
-      "titolo": "Gli attacchi russi feriscono nove persone e danneggiano la rete elettrica ucraina prima dei colloqui",
-      "titolo_originale": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-      "sommario": "Gli attacchi arrivano prima che le delegazioni ucraina e russa prendano parte ai colloqui trilaterali ad Abu Dhabi la prossima settimana.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sat, 07 Nov 2026 12:49:36 GMT"
-    },
-    {
       "titolo": "Alberto Núñez Feijóo: \"Fare una coalizione di governo con Vox non dipende da me\"",
       "titolo_originale": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
       "sommario": "Il candidato del PP, in un'intervista a EL PAÍS: \"Sánchez sta riuscendo a disattivare tutta la sinistra e ad assorbirla\" |\"Abascal non mi ha mai parlato di vicepresidenze o ministeri\" | Conferma che abrogherà i decreti abitativi e avverte che, se il prossimo procuratore generale farà una proposta penale contro Sánchez, non glielo impedirà",
@@ -113,20 +113,20 @@
     {
       "titolo": "Le forti piogge inondano migliaia di tende precarie a Gaza e aggravano la crisi umanitaria",
       "titolo_originale": "Las fuertes lluvias inundan miles de precarias tiendas de campaña en Gaza y agravan la crisis humanitaria",
-      "sommario": "Le famiglie si affannano per rimuovere il fango e i fiumi di acqua piovana si mescolano con quelli residui. Israele da oltre un anno cessate il fuoco bloccando la ricostruzione della Striscia",
+      "sommario": "Cinque palestinesi, tre dei quali minorenni, muoiono per un crollo di terra. Israele da oltre un anno cessate il fuoco bloccando la ricostruzione della Striscia",
       "link": "https://elpais.com/internacional/2026-11-08/las-fuertes-lluvias-inundan-miles-de-precarias-tiendas-de-campana-en-gaza-y-agravan-la-crisis-humanitaria.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Sun, 08 Nov 2026 13:43:31 GMT"
+      "data": "Sun, 08 Nov 2026 22:18:55 GMT"
     },
     {
       "titolo": "Nvidia apre un'indagine al suo amministratore delegato sul suo rapporto con una presunta spia cinese",
       "titolo_originale": "Nvidia abre una investigación a su consejero delegado sobre su relación con una presunta espía china",
-      "sommario": "La stampa americana ha scoperto una relazione tra il magnate Jensen Huang con una spia cinese",
+      "sommario": "Jensen Huang ha ammesso di essere stato infedele a sua moglie in un comunicato ai dipendenti dell'azienda tecnologica",
       "link": "https://elpais.com/us/2026-11-08/nvidia-abre-una-investigacion-a-su-ceo-sobre-posible-espionaje.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Sun, 08 Nov 2026 21:05:19 GMT"
+      "data": "Mon, 09 Nov 2026 02:37:21 GMT"
     },
     {
       "titolo": "L'attentato di Cracovia lascia la Polonia in stato di shock: \"È la cosa più spaventosa che abbia mai vissuto. Questo ci resterà\"",
@@ -138,67 +138,130 @@
       "data": "Sun, 08 Nov 2026 19:46:42 GMT"
     },
     {
-      "titolo": "“Sembra un Kennedy”: Jon Ossoff, la stella nascente del Partito Democratico per il 2028",
-      "titolo_originale": "“Parece un Kennedy”: Jon Ossoff, la estrella en ascenso del Partido Demócrata para 2028",
-      "sommario": "Il senatore, sostenuto da Obama e che è stato paragonato all'ex presidente, è il favorito nei bookmaker come candidato alla presidenza nelle prossime elezioni",
-      "link": "https://elpais.com/us/2026-11-08/parece-un-kennedy-jon-ossoff-la-estrella-en-ascenso-del-partido-democrata-para-2028.html",
+      "titolo": "Il leader del Metropolitano è stato Fermín per la rimonta del Barça contro l'Atlético",
+      "titolo_originale": "El líder del Metropolitano fue Fermín para la remontada del Barça ante el Atlético",
+      "sommario": "Il Barcellona ha reagito con i due gol del azulgrana dopo un esordio folgorante di squadra di Simeone",
+      "link": "https://elpais.com/deportes/futbol/2026-11-08/el-lider-del-metropolitano-fue-fermin-para-la-remontada-del-barca-ante-el-atletico.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sun, 08 Nov 2026 22:27:28 GMT"
+    },
+    {
+      "titolo": "Alcaraz, un campione senza confini: Shelton claudica e Parigi già brilla nel suo dossier",
+      "titolo_originale": "Alcaraz, un campeón sin fronteras: Shelton claudica y París ya luce en su expediente",
+      "sommario": "Il Murciano contiene a sangue freddo l'americano (7-6(5) e 7-5, in 1h 59m) e conquista un altro Masters 1000, in mancanza di solo due per raggiungere il pieno nella categoria",
+      "link": "https://elpais.com/deportes/tenis/2026-11-08/alcaraz-un-campeon-sin-fronteras-shelton-a-la-lona-y-paris-ya-en-su-expediente.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sun, 08 Nov 2026 17:06:09 GMT"
+    },
+    {
+      "titolo": "In viaggio con Kiko Veneno: \"Sono pessimista con il mondo, ma il mio atteggiamento vitale è continuare a mettere la rumba\"",
+      "titolo_originale": "De viaje con Kiko Veneno: “Soy pesimista con el mundo, pero mi actitud vital es seguir poniendo rumba”",
+      "sommario": "Accompagniamo l'autore di \"Volando voy\", \"Lobo López\" e \"Joselito\" durante un viaggio di settimane di incontri, conferenze, riflessioni e momenti vissuti. Dopo mezzo secolo di carriera, è ancora curioso e ribelle come negli anni settanta e pubblica un nuovo disco fedele allo “spirito dei musicisti ambulanti”, pronto a dare fuoco per comprendere la realtà",
+      "link": "https://elpais.com/eps/2026-11-08/de-viaje-con-kiko-veneno-soy-pesimista-con-el-mundo-pero-mi-actitud-vital-es-seguir-poniendo-rumba.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Sun, 08 Nov 2026 04:30:00 GMT"
     },
     {
-      "titolo": "Trump cade sconfitto alle urne, ma è ancora potente (e imprevedibile) in politica estera",
-      "titolo_originale": "Trump cae derrotado en las urnas, pero aún es poderoso (e impredecible) en política exterior",
-      "sommario": "Il presidente degli Stati Uniti ha iniziato a dare indizi sui suoi prossimi passi con la nomina del radicale Stephen Miller a nuovo capo di gabinetto",
-      "link": "https://elpais.com/us/2026-11-08/trump-cae-derrotado-en-las-urnas-pero-aun-es-poderoso-e-impredecible-en-politica-exterior.html",
+      "titolo": "‘La revuelta’ annulla la presenza del suo pubblico previsto per l'intervista con Santiago Abascal, secondo persone invitate al programma",
+      "titolo_originale": "‘La revuelta’ cancela la presencia de su público previsto para la entrevista con Santiago Abascal, según personas invitadas al programa",
+      "sommario": "Diversi utenti sui social network hanno dichiarato di aver ricevuto un'e-mail in cui annullavano la loro partecipazione \"per circostanze speciali\" che non sono state chiarite",
+      "link": "https://elpais.com/television/2026-11-07/la-revuelta-cancela-la-presencia-de-su-publico-previsto-para-la-entrevista-con-santiago-abascal-se-va-a-grabar-en-condiciones-distintas.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Sat, 07 Nov 2026 16:06:36 GMT"
+    },
+    {
+      "titolo": "La sfida della maternità nelle persone con disabilità intellettiva: \"Mi era chiaro che volevo essere madre, anche se ne avessi uno\"",
+      "titolo_originale": "El reto de la maternidad en personas con discapacidad intelectual: “Yo tenía claro que quería ser madre, aunque fuera de uno”",
+      "sommario": "La sterilizzazione forzata di queste donne è stata vietata in Spagna nel 2020. Judit Seculi Horta e Salvador Ribas Payà allevano il loro figlio Aleix, di 5 anni, con l'accompagnamento di professionisti",
+      "link": "https://elpais.com/sociedad/2026-11-08/el-reto-de-la-maternidad-en-personas-con-discapacidad-intelectual-yo-tenia-claro-que-queria-ser-madre-aunque-fuera-de-uno.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Sun, 08 Nov 2026 04:30:01 GMT"
     },
     {
-      "titolo": "Tra la morte MAGA e la radicalizzazione del trumpismo: i repubblicani cercano il loro posto dopo la debacle elettorale",
-      "titolo_originale": "Entre la muerte MAGA y la radicalización del trumpismo: los republicanos buscan su sitio tras la debacle electoral",
-      "sommario": "L'elezione del radicale Stephen Miller a capo di gabinetto indica che Trump non tollera una riflessione interna sul futuro del partito dopo la sconfitta nei midterm",
-      "link": "https://elpais.com/us/2026-11-08/entre-la-muerte-maga-y-la-radicalizacion-del-trumpismo-los-republicanos-buscan-su-sitio-tras-la-debacle-electoral.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 08 Nov 2026 04:30:01 GMT"
+      "titolo": "In Argentina, la lezione di Papa Leone XIV a Javier Milei: “l’economia deve essere al servizio della persona e non la persona al servizio dell'economia”",
+      "titolo_originale": "En Argentine, la leçon du pape Léon XIV à Javier Milei : « l’économie doit être au service de la personne et non la personne au service de l’économie »",
+      "sommario": "Accolto dal presidente argentino a Buenos Aires, domenica, il pontefice ha pronunciato un discorso esprimendo senza mezzi termini ciò che pensa della politica ultraliberista attuata dal leader di estrema destra.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/09/en-argentine-la-lecon-du-pape-leon-xiv-a-javier-milei-l-economie-doit-etre-au-service-de-la-personne-et-non-la-personne-au-service-de-l-economie_6808600_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 05:30:12 +0100"
     },
     {
-      "titolo": "I democratici che fuggono dal woke",
-      "titolo_originale": "Los demócratas que huyen de lo ‘woke’",
-      "sommario": "Una nuova (e di successo) generazione di candidati appartenenti a minoranze ha deciso di lasciarsi alle spalle i dibattiti identitari per concentrarsi sui problemi degli elettori. E ha funzionato",
-      "link": "https://elpais.com/ideas/2026-11-08/los-democratas-que-huyen-de-lo-woke.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 08 Nov 2026 04:30:00 GMT"
+      "titolo": "Donald Trump afferma che la sua proposta di nominare Dana White, capo dell'UFC, portavoce della Casa Bianca, era uno scherzo",
+      "titolo_originale": "Donald Trump affirme que sa proposition de nommer Dana White, patron de l’UFC, porte-parole de la Maison Blanche, était une blague",
+      "sommario": "Il posto strategico di portavoce della Casa Bianca è vacante dopo la cacciata il 16 ottobre di Katie Zacharia, licenziata dopo cinque giorni.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/09/donald-trump-affirme-que-sa-proposition-de-nommer-dana-white-patron-de-l-ufc-porte-parole-de-la-maison-blanche-etait-une-blague_6808598_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 05:04:50 +0100"
     },
     {
-      "titolo": "Questa vittoria non basta: cosa devono fare ora i democratici?",
-      "titolo_originale": "Esta victoria no basta: ¿qué deben hacer ahora los demócratas?",
-      "sommario": "Il Partito Democratico sta attraversando un momento di euforia che non si viveva dall'elezione di Barack Obama nel 2008. Ma la sfida che ci attende, sconfiggere Donald Trump alle presidenziali del 2028, richiede, secondo lo storico Michael Kazin, di abbandonare l'elitarismo e trasmettere empatia verso uomini e donne comuni, oltre a mantenere la coalizione tra l'ala sinistra e l'ala moderata del partito",
-      "link": "https://elpais.com/ideas/2026-11-08/la-victoria-no-basta-que-deben-hacer-ahora-los-democratas.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Sun, 08 Nov 2026 04:30:00 GMT"
+      "titolo": "Dopo l’incendio del \"nido dell'aquila\" di Hitler, si apre un dibattito sulla sua ricostruzione",
+      "titolo_originale": "Après l’incendie du « nid d’aigle » d’Hitler, un débat s’ouvre sur sa reconstruction",
+      "sommario": "L'incendio doloso che ha danneggiato la casa costruita negli anni '30 nelle Alpi di Berchtesgaden, al confine austriaco, dà luogo a una riflessione sul trattamento riservato alle numerose vestigia naziste in Germania.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/09/apres-l-incendie-du-nid-d-aigle-d-hitler-un-debat-s-ouvre-sur-sa-reconstruction_6808597_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 05:00:19 +0100"
     },
     {
-      "titolo": "Italia: il ministro degli Esteri preso di mira da un attacco informatico, Giorgia Meloni, denuncia “hacker filo-russi”",
-      "titolo_originale": "Italie : le ministre des affaires étrangères visé par une cyberattaque, Giorgia Meloni dénonce des « hackers prorusses »",
+      "titolo": "La chiusura di \"Novaya Gazeta\", la fine di un punto di riferimento per l’\"altra Russia\"",
+      "titolo_originale": "La fermeture de « Novaïa Gazeta », la fin d’un repère pour l’« autre Russie »",
+      "sommario": "Il giornale del Premio Nobel per la pace Dmitrij Muratov cessa la sua esistenza lunedì 9 novembre. I suoi giornalisti, sotto la pressione del Cremlino, erano riusciti a tenere a bada il titolo dall'inizio della guerra in Ucraina nel 2022.",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/09/la-fermeture-de-novaia-gazeta-la-fin-d-un-repere-pour-l-autre-russie_6808564_3232.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 05:00:07 +0100"
+    },
+    {
+      "titolo": "Il capo di Nvidia, Jensen Huang, ammette di aver avuto una relazione extraconiugale con una persona considerata una spia di Pechino",
+      "titolo_originale": "Le patron de Nvidia, Jensen Huang, reconnaît avoir eu une liaison extraconjugale avec une personne considérée comme une espionne de Pékin",
+      "sommario": "Questo caso da vaudeville riguarda un'azienda del valore di 4.500 miliardi di dollari che produce microprocessori essenziali per la rivoluzione dell'IA, al centro della rivalità tra Stati Uniti e Cina. L'azienda ha avviato un'indagine interna.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/09/le-patron-de-nvidia-jensen-huang-reconnait-avoir-eu-une-liaison-extraconjugale-avec-une-personne-consideree-comme-une-espionne-de-pekin_6808531_3234.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 03:21:10 +0100"
+    },
+    {
+      "titolo": "In DIRETTA, guerra in Ucraina: Marco Rubio riferisce di progressi per l’\"architettura di sicurezza\" dopo la guerra",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : Marco Rubio fait état de progrès pour l’« architecture de sécurité » après la guerre",
+      "sommario": "Il segretario di Stato americano ha parlato prima di volare a un vertice dei ministri degli Esteri del G7 a Parigi, mentre i negoziati tra Russia e Ucraina sotto la mediazione degli Stati Uniti sono previsti martedì e mercoledì ad Abu Dhabi.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-marco-rubio-fait-etat-de-progres-pour-l-architecture-de-securite-apres-la-guerre_6803934_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Mon, 09 Nov 2026 00:34:04 +0100"
+    },
+    {
+      "titolo": "Donald Trump ora ritiene che la politica statunitense di espulsione degli immigrati sia stata \"troppo dura\"",
+      "titolo_originale": "Donald Trump estime maintenant que la politique américaine d’expulsions d’immigrés a été « trop dure »",
+      "sommario": "Sotto pressione dopo la sconfitta repubblicana, il presidente americano lascia intravedere un possibile cambiamento di tono sull'immigrazione, senza tuttavia annunciare misure concrete.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/08/donald-trump-estime-maintenant-que-la-politique-americaine-d-expulsions-d-immigres-a-ete-trop-dure_6808473_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Sun, 08 Nov 2026 23:49:07 +0100"
+    },
+    {
+      "titolo": "Italia: il ministro degli Esteri dice di essere preso di mira da una fuga di dati, Giorgia Meloni denuncia \"hacker filo-russi\"",
+      "titolo_originale": "Italie : le ministre des affaires étrangères dit être visé par une fuite de données, Giorgia Meloni dénonce des « hackers prorusses »",
       "sommario": "Antonio Tajani ha annunciato, sabato, che alcuni suoi dati personali erano stati diffusi sul dark web. Secondo lui, future operazioni di destabilizzazione potrebbero cercare di influenzare l’opinione pubblica italiana in vista delle prossime scadenze elettorali, con elezioni legislative previste per il 2027.",
       "link": "https://www.lemonde.fr/international/article/2026/11/08/italie-le-ministre-des-affaires-etrangeres-vise-par-une-cyberattaque-giorgia-meloni-denonce-des-hackers-prorusses_6808467_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 20:19:16 +0100"
+      "data": "Sun, 08 Nov 2026 20:19:14 +0100"
     },
     {
-      "titolo": "Senegal: almeno 34 morti nel naufragio di una piroga di migranti",
-      "titolo_originale": "Sénégal : au moins 34 morts dans le naufrage d’une pirogue de migrants",
+      "titolo": "Senegal: almeno 35 morti nel naufragio di una piroga di migranti",
+      "titolo_originale": "Sénégal : au moins 35 morts dans le naufrage d’une pirogue de migrants",
       "sommario": "Migliaia di persone cercano da anni di raggiungere clandestinamente l’Europa percorrendo la rotta atlantica, a bordo di imbarcazioni sovraccariche, spesso vetuste.",
       "link": "https://www.lemonde.fr/afrique/article/2026/11/08/senegal-au-moins-34-morts-dans-le-naufrage-d-une-pirogue-de-migrants_6808424_3213.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 19:54:52 +0100"
+      "data": "Sun, 08 Nov 2026 19:54:49 +0100"
     },
     {
       "titolo": "Elezioni comunali in Sudafrica: l’ANC, partito dominante dalla fine dell'apartheid, registra il peggior risultato della sua storia",
@@ -208,69 +271,6 @@
       "fonte": "Le Monde",
       "lingua_originale": "fr",
       "data": "Sun, 08 Nov 2026 19:18:00 +0100"
-    },
-    {
-      "titolo": "In DIRETTA, guerra in Ucraina: le ultime notizie",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : les dernières informations",
-      "sommario": "Un attacco russo, questa notte, contro le infrastrutture energetiche ucraine priva di elettricità più di 600.000 abitanti dell'oblast 'di Dnipropetrovsk, nell'est dell'Ucraina.",
-      "link": "https://www.lemonde.fr/international/live/2026/11/08/en-direct-guerre-en-ukraine-les-dernieres-informations_6803934_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 18:16:39 +0100"
-    },
-    {
-      "titolo": "Olanda: ad Amsterdam decine di migliaia di persone manifestano a sostegno dei palestinesi",
-      "titolo_originale": "Pays-Bas : à Amsterdam, des dizaines de milliers de personnes manifestent en soutien aux Palestiniens",
-      "sommario": "Secondo gli organizzatori della manifestazione, circa 200.000 persone hanno sfilato per chiedere azioni del governo olandese contro Israele.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/pays-bas-a-amsterdam-des-dizaines-de-milliers-de-personnes-manifestent-en-soutien-aux-palestiniens_6808452_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 17:39:24 +0100"
-    },
-    {
-      "titolo": "Israele: il giornalista arabo israeliano Abed Abu Shehadeh è stato rilasciato dopo cinque giorni di detenzione",
-      "titolo_originale": "Israël : le journaliste arabe israélien Abed Abu Shehadeh a été libéré après cinq jours de détention",
-      "sommario": "Abed Abu Shehadeh era detenuto con l'accusa di \"contatto con un agente straniero\" dopo un'intervista in Qatar. Per l’organizzazione per i diritti umani Adalah, il rilascio del giornalista \"non rende il suo arresto meno contrario alla legge\".",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/israel-le-journaliste-arabe-israelien-abed-abu-shehadeh-a-ete-libere-apres-cinq-jours-de-detention_6808451_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 17:34:24 +0100"
-    },
-    {
-      "titolo": "Il ministro della Giustizia americano, Todd Blanche, pronto a difendere i membri dell'amministrazione Trump presi di mira dalle indagini della maggioranza democratica al Congresso",
-      "titolo_originale": "Le ministre de la justice américain, Todd Blanche, prêt à défendre les membres de l’administration Trump visés par des enquêtes de la majorité démocrate au Congrès",
-      "sommario": "Il principale membro democratico della Commissione Investigativa della Camera dei Rappresentanti, Robert Garcia, ha rimproverato a Todd Blanche di continuare a comportarsi da “avvocato personale di Donald Trump”.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/le-ministre-de-la-justice-americain-todd-blanche-pret-a-defendre-les-membres-de-l-administration-trump-vises-par-des-enquetes-de-la-majorite-democrate-au-congres_6808449_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 17:13:45 +0100"
-    },
-    {
-      "titolo": "Israele: Gadi Eisenkot, ufficialmente incaricato di formare un nuovo governo, invita il Likud di Benyamin Netanyahu a partecipare a una coalizione",
-      "titolo_originale": "Israël : Gadi Eisenkot, officiellement chargé de former un nouveau gouvernement, invite le Likoud de Benyamin Nétanyahou à participer à une coalition",
-      "sommario": "\"Se i membri del Likud e del Partito sionista religioso [del ministro delle finanze uscente, Bezalel Smotrich] ritengono sinceramente che sia giunto il momento dell'unità (...), non vedo alcun motivo per cui non sosterrebbero un governo guidato da me e basato sui principi che ho presentato\", ha dichiarato Eisenkot.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/israel-gadi-eisenkot-officiellement-charge-de-former-un-nouveau-gouvernement-invite-le-likoud-de-benyamin-netanyahou-a-participer-a-une-coalition_6808446_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 16:54:49 +0100"
-    },
-    {
-      "titolo": "In Spagna Pedro Sanchez cerca di rilanciare la sua campagna dopo il disastro ferroviario di Urda",
-      "titolo_originale": "En Espagne, Pedro Sanchez tente de relancer sa campagne après la catastrophe ferroviaire d’Urda",
-      "sommario": "Dopo aver scommesso su una campagna ottimistica all'insegna della \"forza dell'amore\", il primo ministro socialista, indebolito dalla tragedia che ha causato 69 morti a fine ottobre, cerca di mobilitare il suo elettorato presentando la Spagna come un baluardo contro l’ascesa dell'estrema destra nel mondo.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/en-espagne-pedro-sanchez-tente-de-relancer-sa-campagne-apres-la-catastrophe-ferroviaire-d-urda_6808444_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 16:30:07 +0100"
-    },
-    {
-      "titolo": "Papa Leone XIV invita gli uomini a trattare le loro mogli \"con rispetto\", durante il suo primo tour in America Latina",
-      "titolo_originale": "Le pape Léon XIV appelle les hommes à traiter leurs épouses « avec respect », lors de sa première tournée en Amérique latine",
-      "sommario": "Nel 2024, più di 3.800 donne sono state vittime di morte violenta per motivi di genere in America Latina e nei Caraibi – 11 donne uccise ogni giorno.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/08/le-pape-leon-xiv-appelle-les-hommes-a-traiter-leurs-epouses-avec-respect-lors-de-sa-premiere-tournee-en-amerique-latine_6808440_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Sun, 08 Nov 2026 15:50:22 +0100"
     },
     {
       "titolo": "Minority Rights in the Midterms: A Democratic Recoil from Transgender Rights",
@@ -444,295 +444,331 @@
       "data": "Sun, 8 Nov 2026 20:05:15 +0100"
     },
     {
-      "titolo": "Il Papa in Argentina, Milei lo accoglie con una lunga stretta di mano",
-      "titolo_originale": "Il Papa in Argentina, Milei lo accoglie con una lunga stretta di mano",
-      "sommario": "A Buenos Aires manifesti anti-presidente. Prima l'ultima tappa di Leone in Uruguay: 'La politica pensi al bene comune'",
+      "titolo": "La lezione del Papa a Milei, 'l'economia sia al servizio dell'uomo'",
+      "titolo_originale": "La lezione del Papa a Milei, 'l'economia sia al servizio dell'uomo'",
+      "sommario": "\"Custodite la democrazia\". Bagno di folla a Baires. Tributo del presidente a Bergoglio",
       "link": "https://www.ansa.it/vaticano/notizie/2026/11/08/il-papa-in-argentina-milei-lo-accoglie-con-una-lunga-stretta-di-mano_b1a9c1ef-f58d-4638-863e-926dd7986a78.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 8 Nov 2026 21:46:03 +0100"
+      "data": "Sun, 8 Nov 2026 23:40:22 +0100"
     },
     {
-      "titolo": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette",
-      "titolo_originale": "Nvidia, Huang ammette la relazione con la spia cinese: “Sono stato infedele”. Ma non si dimette",
-      "sommario": "\"Non ci sono scuse per ciò che ho fatto\" ha scritto ai dipendenti il ceo del colosso dei chip. Il gruppo apre un’inchiesta interna",
-      "link": "https://www.repubblica.it/economia/2026/11/08/news/nvidia_huang_ammette_la_relazione_con_la_spia_cinese_sono_stato_infedele_ma_non_si_dimette-425709267/",
+      "titolo": "Auto elettriche, risparmio da oltre 850 euro all'anno. Con la benzina 100 km costano quasi il doppio",
+      "titolo_originale": "Auto elettriche, risparmio da oltre 850 euro all'anno. Con la benzina 100 km costano quasi il doppio",
+      "sommario": "Secondo le rilevazioni di Motus-E i vantaggi arrivano dal costo dell’energia, dall’utilizzo della ricarica domestica e dall’aumento delle colonnine che rende l’alternativa sempre più conveniente",
+      "link": "https://www.repubblica.it/economia/2026/11/09/news/auto_elettriche_risparmio_benzina-425709025/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 21:13:07 +0000"
+      "data": "Mon, 09 Nov 2026 04:00:00 +0000"
     },
     {
-      "titolo": "Norris danza sotto la pioggia, poi rompe lo champagne sul podio. Per la Ferrari è buio pesto",
-      "titolo_originale": "Norris danza sotto la pioggia, poi rompe lo champagne sul podio. Per la Ferrari è buio pesto",
-      "sommario": "Lando vince a Interlagos, l’imprevisto durante i festeggiamenti. Alla Mercedes il Mondiale costruttori. Leclerc 7°, Hamilton 9°",
-      "link": "https://www.repubblica.it/sport/formulauno/2026/11/08/news/norris_brasile_mercedes_costruttori-425709250/",
+      "titolo": "L'ultima sfida all'infinito: “Ibernato dopo la morte, la scienza mi risveglierà”",
+      "titolo_originale": "L'ultima sfida all'infinito: “Ibernato dopo la morte, la scienza mi risveglierà”",
+      "sommario": "Una prima azienda ha aperto in Europa per rendere possibile la conservazione di corpi a -196 gradi. Chi aderisce paga una polizza e una quota mensile",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/ibernazione_crioconservazione_morte_intervista_tomorrow_bio-425709389/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 21:01:31 +0000"
+      "data": "Mon, 09 Nov 2026 00:21:19 +0000"
     },
     {
-      "titolo": "Mps, via libera da Consob all’offerta di Intesa. Partirà il 24 novembre",
-      "titolo_originale": "Mps, via libera da Consob all’offerta di Intesa. Partirà il 24 novembre",
-      "sommario": "L’operazione si chiuderà il 22 gennaio salvo proroghe. In caso di riapertura dei termini, il periodo sarà dall’1 al 5 febbraio 2027",
-      "link": "https://www.repubblica.it/economia/2026/11/08/news/mps_via_libera_da_consob_all_offerta_di_intesa_partira_il_24_novembre-425709215/",
+      "titolo": "Lezione di storia del generale ucraino: “Gli hacker prima dei missili, un monito per l’Occidente”",
+      "titolo_originale": "Lezione di storia del generale ucraino: “Gli hacker prima dei missili, un monito per l’Occidente”",
+      "sommario": "Serhii Sobko è il vice comandante delle forze di Kiev. Ora, in un libro, ricostruisce l’escalation di Mosca contro il suo Paese",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/serhii_sobko_libro_generale_ucraino_hacker_guerra_russia_scars_and_seeds-425708912/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 20:17:18 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-      "titolo_originale": "Egitto, scontro tra treni a Giza: almeno 7 morti e 112 feriti. “Nessun turista straniero coinvolto”",
-      "sommario": "L'incidente è avvenuto a circa 59 chilometri a sud del Cairo. Al Sisi: “Troveremo i responsabili di ogni negligenza”",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/egitto_scontro_tra_treni_giza_morti-425708981/",
+      "titolo": "Attacchi hacker, vertice al G7. E ora si temono ingerenze sul voto",
+      "titolo_originale": "Attacchi hacker, vertice al G7. E ora si temono ingerenze sul voto",
+      "sommario": "",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_g7_tajani_piantedosi_allarme_voto-425709210/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 18:36:36 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Fa da scudo alla mamma col corpo, poi chiama la polizia. A 9 anni fa arrestare il padre violento",
-      "titolo_originale": "Fa da scudo alla mamma col corpo, poi chiama la polizia. A 9 anni fa arrestare il padre violento",
-      "sommario": "A Bassano del Grappa, la piccola e la donna sono riuscite a fuggire in strada. Lui le maltrattava da tempo.",
-      "link": "https://www.repubblica.it/cronaca/2026/11/08/news/violenza_sulle_donne_bambina_9_anni_fa_arrestare_padre_violento-425708883/",
+      "titolo": "“Questa è la nuova strategia della tensione, il mondo si svegli”",
+      "titolo_originale": "“Questa è la nuova strategia della tensione, il mondo si svegli”",
+      "sommario": "Il direttore della Sicurezza cibernetica della Polizia: “Per arginare la minaccia serve una cooperazione internazionale. Lo Stato da solo non può garantire la sicurezza di un intero Paese. Ogni cittadino faccia la sua parte. E c’è anche il rischio di attacchi di lupi solitari”",
+      "link": "https://www.repubblica.it/cronaca/2026/11/09/news/attacchi_hacker_cybersicurezza_ivano_gabrielli_polizia_postale-425709173/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 17:47:45 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo",
-      "titolo_originale": "Cracovia, chi è l’attentatore Michal Oksinski. Ora si indaga per terrorismo",
-      "sommario": "Per gli inquirenti, il 24enne che ha ucciso sei persone ieri nella piazza del mercato della città polacca, aveva idee ultranazionaliste. Si recava ogni domenica a un poligono di tiro",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/michal_oksinski_cracovia_chi_e_attentatore_indagini_terrorismo-425708795/",
+      "titolo": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
+      "titolo_originale": "Al trilaterale sull’Ucraina presenti anche gli europei. Da Mosca doppia minaccia",
+      "sommario": "Il Vecchio continente rappresentato con il formato E3, teme la resa di Trump, ma anche che Putin alzi le minacce ibride in un anno ricco di elezioni cruciali",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/vertice_usa_russia_ucraina_europei_abu_dhabi-425709059/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 17:00:37 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Salvata la speleologa: era bloccata nella grotta Rotolo a Monopoli, la più profonda della Puglia",
-      "titolo_originale": "Salvata la speleologa: era bloccata nella grotta Rotolo a Monopoli, la più profonda della Puglia",
-      "sommario": "Concluso l’intervento dei soccorritori: la donna si è infortunata a un piede e per tre ore era rimasta intrappolata nell’abisso Boscia",
-      "link": "https://bari.repubblica.it/cronaca/2026/11/08/news/speleologa_bloccata_nella_grotta_rotolo_a_monopoli_la_piu_profonda_della_puglia-425708786/",
+      "titolo": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
+      "titolo_originale": "Nuovo Consiglio Nato-Russia: l’idea di Kushner per la pace",
+      "sommario": "Il genero di Trump punta a resuscitare la struttura di consultazione nata nel 2002 a Pratica di Mare e morta con l’aggressione a Kiev",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/nuovo_consiglio_nato_russia_kushner_pratica_di_mare_berlusconi-425709201/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 16:58:43 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”",
-      "titolo_originale": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”",
-      "sommario": "Il presidente israeliano ha conferito ufficialmente il mandato al leader del partito Yashar nel corso di una cerimonia presso la Residenza presidenziale a Gerusalemme. E apre anche al Partito Sionista",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/",
+      "titolo": "Netanyahu resta il leader. E il tempo gioca dalla sua parte",
+      "titolo_originale": "Netanyahu resta il leader. E il tempo gioca dalla sua parte",
+      "sommario": "Il primo ministro userà le crisi per invocare l’unità. Contro di lui gioca l’incognita Trump: “Bibi rispetti il piano per Gaza”",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/netanyahu_leader_israele_eisenkot_governo-425709150/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 15:11:06 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "White, dal ring alla Casa Bianca: chi è l’amico di Trump che potrebbe diventare il suo nuovo portavoce",
-      "titolo_originale": "White, dal ring alla Casa Bianca: chi è l’amico di Trump che potrebbe diventare il suo nuovo portavoce",
-      "sommario": "Per l’imprenditore che ha trasformato l’Ufc in un impero globale “siamo tutti lottatori”. L’amicizia con Donald iniziata quasi trent’anni fa, fu lui il primo a offrirgli ospitalità per gli incontri di MMA (arti marziali miste) nel suo hotel ad Atlantic City",
-      "link": "https://www.repubblica.it/esteri/2026/11/08/news/white_dal_ring_alla_casa_bianca_chi_e_l_amico_di_trump_che_potrebbe_diventare_il_suo_nuovo_portavoce-425708550/",
+      "titolo": "Novik: “Dire ai palestinesi che non otterranno diritti è come spingerli alla violenza”",
+      "titolo_originale": "Novik: “Dire ai palestinesi che non otterranno diritti è come spingerli alla violenza”",
+      "sommario": "L’ex consigliere di Peres prevede tre passaggi: formare una nuova Knesset, dare vita a un governo di minoranza e poi creare alleanze",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/nimrod_novik_intervista_netanyahu_palestinesi_diritti_eisenkot-425709092/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 14:02:31 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Omicidio a Palosco, la 71enne Emilia Bianchi uccisa in casa: fermato il figlio",
-      "titolo_originale": "Omicidio a Palosco, la 71enne Emilia Bianchi uccisa in casa: fermato il figlio",
-      "sommario": "La donna uccisa a coltellate, carabinieri nella villetta di via Paolo VI della cittadina bergamasca. L’omicidio dovrebbe risalire a qualche giorno fa",
-      "link": "https://milano.repubblica.it/cronaca/2026/11/08/news/donna_uccisa_in_casa_a_palosco_aggredita_da_suo_figlio-425708543/",
+      "titolo": "Bernard-Henri Lévy: “Eisenkot si allei anche con gli arabi, non c’è ragione di escluderli”",
+      "titolo_originale": "Bernard-Henri Lévy: “Eisenkot si allei anche con gli arabi, non c’è ragione di escluderli”",
+      "sommario": "L’intellettuale francese assicura che avrebbe votato per il leader\ndi Yashar, incaricato di formare il governo in Israele. Ma teme che il nuovo Esecutivo non basterà a frenare l’antisemitismo",
+      "link": "https://www.repubblica.it/esteri/2026/11/09/news/bernard-henri_levy_israele_eisenkot_governo_arabi_netanyahu-425709275/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 08 Nov 2026 13:59:14 +0000"
+      "data": "Mon, 09 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "La scogliera di sabbia mortale crolla sulle famiglie sfollate a Gaza",
-      "titolo_originale": "Deadly sand cliff collapses on displaced families in Gaza",
-      "sommario": "La scogliera di sabbia mortale crolla sulle famiglie sfollate a Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
+      "titolo": "Nuova Delhi coperta di smog tossico dopo i fuochi d'artificio del Diwali",
+      "titolo_originale": "New Delhi blanketed in toxic smog after Diwali fireworks",
+      "sommario": "Nuova Delhi si è svegliata con uno spesso smog dopo che le celebrazioni del Diwali hanno visto i fuochi d'artificio illuminare la città durante la notte.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/new-delhi-blanketed-in-toxic-smog-after-diwali-fireworks?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 21:05:07 +0000"
+      "data": "Mon, 09 Nov 2026 04:35:34 +0000"
     },
     {
-      "titolo": "Perché \"JD, habibi\" di Abdul El-Sayed sta diventando virale online",
-      "titolo_originale": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
-      "sommario": "\"JD, habibi\" sta diventando virale dopo che il senatore eletto del Michigan Abdul El-Sayed ha usato la frase per deridere JD Vance in un discorso.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+      "titolo": "I mercati azionari asiatici salgono dopo la precedente disfatta tecnologica",
+      "titolo_originale": "Asian stock markets climb after earlier tech rout",
+      "sommario": "I mercati rimbalzano dopo la disfatta tecnologica innescata dalla schiacciante vittoria dei democratici nelle elezioni di medio termine degli Stati Uniti.",
+      "link": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 21:01:33 +0000"
+      "data": "Mon, 09 Nov 2026 04:03:02 +0000"
     },
     {
-      "titolo": "L'Iran in attesa di riprendere i colloqui dopo lo \"shock\" di medio termine degli Stati Uniti Ministri degli Esteri iraniani",
-      "titolo_originale": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
-      "sommario": "Il ministro degli Esteri iraniano Abbas Araghchi afferma che non ci sono stati progressi nei colloqui con gli Stati Uniti.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "titolo": "Rubio dice che la guerra all'Iran è impopolare ma \"necessaria\" per fermare la minaccia nucleare",
+      "titolo_originale": "Rubio says war on Iran unpopular but ‘necessary’ to stop nuclear threat",
+      "sommario": "Il segretario di Stato americano afferma che le richieste di negoziazione dell'Iran sono \"oltraggiose e ridicole e davvero non realistiche\".",
+      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 20:51:22 +0000"
+      "data": "Mon, 09 Nov 2026 04:02:18 +0000"
     },
     {
-      "titolo": "Papa Leone XIV tiene un'omelia a migliaia di persone in Uruguay",
-      "titolo_originale": "Pope Leo XIV delivers homily to thousands in Uruguay",
-      "sommario": "Papa Leone XIV tiene un'omelia a migliaia di persone in Uruguay",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+      "titolo": "Il Messico arresta il presunto leader del cartello di Jalisco",
+      "titolo_originale": "Mexico arrests alleged major leader of Jalisco cartel",
+      "sommario": "Rafael Alvarez, alias \"R2\", è stato catturato con l'intelligence condivisa dalla Drug Enforcement Administration degli Stati Uniti.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/mexico-arrests-major-leader-of-jalisco-cartel?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 20:29:47 +0000"
+      "data": "Mon, 09 Nov 2026 03:42:57 +0000"
     },
     {
-      "titolo": "I produttori di rangoli si adattano all'aumento dei costi per preservare la colorata tradizione del Diwali",
-      "titolo_originale": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
-      "sommario": "I produttori di rangoli in India si stanno adattando all'aumento dei costi dei materiali rivolgendosi ad alternative organiche.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+      "titolo": "Trump difende il CEO di Nvidia tra le accuse di spionaggio cinese",
+      "titolo_originale": "Trump defends Nvidia CEO amid Chinese spying allegations",
+      "sommario": "Donald Trump ha difeso il CEO di Nvidia Jensen Huang, che ha ammesso una relazione con una donna sospettata di spionaggio per la Cina.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidia-ceo-amid-chinese-spying-allegations?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 20:26:01 +0000"
+      "data": "Mon, 09 Nov 2026 03:26:21 +0000"
     },
     {
-      "titolo": "L'Iran minaccia di \"piovere all'inferno\" se gli Stati Uniti intensificheranno la guerra",
-      "titolo_originale": "Iran threatens to ‘rain down hell’ if US escalates war",
-      "sommario": "Il presidente Trump avverte che le forze statunitensi sono \"bloccate e caricate\" e pronte a colpire, se necessario.",
-      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "titolo": "L'ANC sudafricano subisce il peggior risultato delle elezioni locali di sempre",
+      "titolo_originale": "South Africa’s ANC suffers worst-ever local elections result",
+      "sommario": "L'ANC sudafricano ha subito il peggior risultato delle elezioni locali di sempre, assicurandosi solo il 30% dei voti.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/south-africas-anc-suffers-worst-ever-local-elections-result?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 20:13:39 +0000"
+      "data": "Mon, 09 Nov 2026 03:09:51 +0000"
     },
     {
-      "titolo": "Al Jazeera prova il Baseball5 alle Olimpiadi giovanili",
-      "titolo_originale": "Al Jazeera tries Baseball5 at Youth Olympics",
-      "sommario": "Al Jazeera prova il Baseball5 alle Olimpiadi giovanili",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+      "titolo": "La Moldavia lancia una nuova linea elettrica verso la Romania per ridurre la dipendenza dalla Russia",
+      "titolo_originale": "Moldova launches new power line to Romania to cut reliance on Russia",
+      "sommario": "Il presidente moldavo Maia Sandu afferma che \"altre due linee elettriche verso la Romania sono in arrivo\".",
+      "link": "https://www.aljazeera.com/news/2026/11/9/moldova-launches-new-power-line-to-romania-to-cut-reliance-on-russia?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 19:26:38 +0000"
+      "data": "Mon, 09 Nov 2026 02:35:15 +0000"
     },
     {
-      "titolo": "Il Man United pareggia 4-4 contro l'Aston Villa ma rimane in zona retrocessione",
-      "titolo_originale": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
-      "sommario": "La squadra di Michael Carrick continua la stagione indimenticabile con il sorteggio finale all'Old Trafford di fronte a tifosi arrabbiati.",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+      "titolo": "L'attacco dei droni al giacimento di gas del Kurdistan iracheno innesca un blackout di massa",
+      "titolo_originale": "Drone attack on Iraqi Kurdistan gas field triggers mass blackout",
+      "sommario": "Un attacco di droni ha interrotto la produzione nel giacimento di gas di Khor Mor, nel nord dell'Iraq, causando diffuse interruzioni di corrente.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/drone-attack-on-iraqi-kurdistan-gas-field-triggers-mass-blackout?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 19:15:36 +0000"
+      "data": "Mon, 09 Nov 2026 02:23:11 +0000"
     },
     {
-      "titolo": "Dopo le elezioni di metà mandato, a che punto è il Partito Repubblicano?",
-      "titolo_originale": "After the midterms, where does the Republican Party stand?",
-      "sommario": "Il GOP ha subito una perdita, ma non è certo storica. Una parte al potere è sempre stata tenuta a rendere conto alle elezioni di medio termine.",
-      "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+      "titolo": "L'attacco dei droni sospende la produzione nel giacimento di gas di Khor Mor in Iraq",
+      "titolo_originale": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "sommario": "L'attacco lascia oltre il 70% della regione curda dell'Iraq settentrionale senza potere.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 19:09:18 +0000"
+      "data": "Mon, 09 Nov 2026 01:19:09 +0000"
     },
     {
-      "titolo": "Carlos Alcaraz batte Ben Shelton e vince il titolo di tennista del Paris Masters",
-      "titolo_originale": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-      "sommario": "Alcaraz ha insaccato 7-6 (7/5), 7-5 set consecutivi per un'inafferrabile corona parigina prima delle ATP Finals di fine anno.",
-      "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+      "titolo": "La notte indiana si illumina per il Diwali",
+      "titolo_originale": "India’s night lights up for Diwali",
+      "sommario": "L'India celebra il Diwali con preghiere, luci e fuochi d'artificio che segnano uno dei più grandi festival indù del paese.",
+      "link": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 08 Nov 2026 18:22:58 +0000"
+      "data": "Mon, 09 Nov 2026 00:24:04 +0000"
     },
     {
-      "titolo": "Impianti di stoccaggio petrolifero dell'Iran ripristinati all'80% — CEO NIOEC",
-      "titolo_originale": "Iran’s oil storage facilities 80% restored — NIOEC CEO",
-      "sommario": "Mohammad Meshkinfam ha anche aggiunto che le strutture per il pompaggio di prodotti petroliferi sono complete per circa il 60% e che le forniture di carburante a Teheran sono state ripristinate con successo in circa due settimane dopo gli attacchi al deposito petrolifero di Rey",
-      "link": "https://tass.com/world/2214535",
+      "titolo": "Gli Stati Uniti e l'Iran avrebbero firmato un accordo tranne che per le elezioni di medio termine — Trump",
+      "titolo_originale": "US, Iran would have signed a deal except for midterms — Trump",
+      "sommario": "Allo stesso tempo, il Presidente degli Stati Uniti è fiducioso di poter raggiungere un accordo con l'Iran",
+      "link": "https://tass.com/world/2214577",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 23:36:15 +0300"
+      "data": "Mon, 09 Nov 2026 06:55:00 +0300"
     },
     {
-      "titolo": "Parti arabe pronte a cooperare con Eisenkot ma non entreranno nel gabinetto",
-      "titolo_originale": "Arab parties ready to cooperate with Eisenkot but will not join cabinet",
-      "sommario": "Secondo il leader della Joint List Yousef Jabareen, l'opposizione israeliana avrà bisogno del sostegno dei legislatori arabi per non lasciare che Benjamin Netanyahu assuma nuovamente la carica di primo ministro",
-      "link": "https://tass.com/world/2214533",
+      "titolo": "L'Ucraina paga quasi 500 milioni di dollari ai creditori il mese scorso",
+      "titolo_originale": "Ukraine pays out almost $500 mln to creditors last month",
+      "sommario": "In particolare, Kiev ha versato 252,8 milioni di dollari al Fondo Monetario Internazionale",
+      "link": "https://tass.com/economy/2214575",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 23:14:08 +0300"
+      "data": "Mon, 09 Nov 2026 06:32:00 +0300"
     },
     {
-      "titolo": "Quattro esplosioni udite sull'isola iraniana di Qeshm — agenzia",
-      "titolo_originale": "Four explosions heard on Iran’s Qeshm island — agency",
-      "sommario": "Secondo l'Irna, le esplosioni sono state sentite in diverse località dell'isola",
-      "link": "https://tass.com/world/2214531",
+      "titolo": "Merz dice che non avrebbe perso l'occasione di incontrare Putin al vertice del G20",
+      "titolo_originale": "Merz says he would not flee opportunity to meet with Putin at G20 summit",
+      "sommario": "Il cancelliere tedesco non ha escluso la possibilità di tenere colloqui con il presidente russo Vladimir Putin a dicembre",
+      "link": "https://tass.com/world/2214573",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 22:53:30 +0300"
+      "data": "Mon, 09 Nov 2026 06:10:01 +0300"
     },
     {
-      "titolo": "La delegazione irachena consegna un messaggio dagli Stati Uniti alla leadership iraniana — TV",
-      "titolo_originale": "Iraqi delegation hands over message from US to Iranian leadership — TV",
-      "sommario": "Secondo le fonti, la delegazione ha incontrato funzionari iraniani a Teheran",
-      "link": "https://tass.com/world/2214529",
+      "titolo": "Detriti del drone che colpiscono l'appartamento fuori St. Pietroburgo non causi feriti — governatore",
+      "titolo_originale": "Drone debris hitting apartment outside St. Petersburg cause no injuries — governor",
+      "sommario": "Durante la notte, 113 UAV sono stati abbattuti sulla regione russa nord-occidentale, ha detto il governatore Alexander Drozdenko",
+      "link": "https://tass.com/politics/2214571",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 22:52:18 +0300"
+      "data": "Mon, 09 Nov 2026 05:47:01 +0300"
     },
     {
-      "titolo": "Il presidente israeliano conferisce il mandato per formare il governo al leader del partito di opposizione",
-      "titolo_originale": "Israeli president awards mandate to form government to opposition party leader",
-      "sommario": "Gadi Eisenkot, da parte sua, ha dichiarato che \"spera di completare il processo di formazione di un governo il prima possibile",
-      "link": "https://tass.com/world/2214527",
+      "titolo": "Trump fiducioso delle sue prospettive di raggiungere il paradiso",
+      "titolo_originale": "Trump hopeful of his prospects for reaching heaven",
+      "sommario": "Il leader americano ha detto che non vuole \"andare all'inferno\"",
+      "link": "https://tass.com/world/2214569",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 22:36:28 +0300"
+      "data": "Mon, 09 Nov 2026 05:30:01 +0300"
     },
     {
-      "titolo": "L'Iran conserva il 10% dei missili, il 15% degli impianti di produzione di droni — Trump",
-      "titolo_originale": "Iran preserves 10% of missile, 15% of drone production facilities — Trump",
-      "sommario": "Il presidente degli Stati Uniti ha ripetuto che \"molto probabilmente non sarà necessario\" riprendere l'azione militare contro l'Iran",
-      "link": "https://tass.com/world/2214525",
+      "titolo": "Il numero di droni abbattuti nella regione di Leningrado sale a 81 — governatore",
+      "titolo_originale": "Number of drones downed over Leningrad Region rises to 81 — governor",
+      "sommario": "Gli attacchi dei droni hanno colpito la zona industriale di Kirishi, nella regione di Leningrado",
+      "link": "https://tass.com/politics/2214565",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 22:21:09 +0300"
+      "data": "Mon, 09 Nov 2026 04:57:00 +0300"
     },
     {
-      "titolo": "Trump afferma che gli Stati Uniti hanno identificato obiettivi in caso di ripresa degli attacchi contro l'Iran",
-      "titolo_originale": "Trump says US has identified targets in case strikes against Iran are resumed",
-      "sommario": "Secondo il leader statunitense, tra gli obiettivi ci sono 38 ponti",
-      "link": "https://tass.com/world/2214523",
+      "titolo": "Trump indica la mancanza di rispetto dimostrata nei confronti della Russia dall'Ucraina",
+      "titolo_originale": "Trump points to disrespect shown to Russia by Ukraine",
+      "sommario": "Donald Trump ha ribadito la sua opinione che il conflitto in Ucraina \"finirà presto\"",
+      "link": "https://tass.com/world/2214563",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 22:11:38 +0300"
+      "data": "Mon, 09 Nov 2026 04:40:01 +0300"
     },
     {
-      "titolo": "Nuovi attacchi all'Iran \"altamente improbabili\", afferma Trump",
-      "titolo_originale": "New attacks on Iran ‘highly unlikely,’ Trump says",
-      "sommario": "La decisione dipenderà \"dal fatto che firmino o meno un accordo molto forte, ha affermato il presidente degli Stati Uniti",
-      "link": "https://tass.com/world/2214519",
+      "titolo": "Quasi 40 UAV ucraini abbattuti sulla regione russa di Leningrado — governatore",
+      "titolo_originale": "Almost 40 Ukrainian UAVs downed over Russia’s Leningrad Region — governor",
+      "sommario": "L'operazione di difesa aerea è in corso",
+      "link": "https://tass.com/politics/2214561",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 21:44:51 +0300"
+      "data": "Mon, 09 Nov 2026 04:25:01 +0300"
     },
     {
-      "titolo": "Le proposte dell'Iran sull'apertura dello Stretto di Hormuz sono ancora sul tavolo — massimo diplomatico",
-      "titolo_originale": "Iran’s proposals on opening Strait of Hormuz still on table — top diplomat",
-      "sommario": "Se Washington soddisferà le richieste di Teheran, vedrà il risultato, ha detto il ministro degli Esteri iraniano Abbas Araghchi",
-      "link": "https://tass.com/world/2214517",
+      "titolo": "Trump dice che il suo potenziale incontro con Putin, Xi in Cina sarebbe interessante",
+      "titolo_originale": "Trump says his potential meeting with Putin, Xi in China would be interesting",
+      "sommario": "Il presidente degli Stati Uniti ha affermato che la denuclearizzazione sarebbe stata discussa tra le altre cose",
+      "link": "https://tass.com/world/2214557",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 21:20:45 +0300"
+      "data": "Mon, 09 Nov 2026 04:00:01 +0300"
     },
     {
-      "titolo": "Cinquanta droni ucraini abbattuti sulle regioni russe durante il giorno",
-      "titolo_originale": "Fifty Ukrainian drones taken down over Russian regions during day",
-      "sommario": "Sono stati abbattuti sopra la Crimea, le regioni di Belgorod, Bryansk, Kursk e Rostov",
-      "link": "https://tass.com/defense/2214511",
+      "titolo": "Trump insiste sul fatto che potrebbe far saltare tutto in aria in Iran, ma è riluttante a farlo",
+      "titolo_originale": "Trump insists he could blow everything up in Iran but is reluctant to do so",
+      "sommario": "Il leader statunitense ha anche ribadito che gli Stati Uniti \"hanno vinto in Iran\"",
+      "link": "https://tass.com/world/2214555",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 20:24:18 +0300"
+      "data": "Mon, 09 Nov 2026 03:50:01 +0300"
     },
     {
-      "titolo": "I repubblicani sono stati briscolati. E ora?",
+      "titolo": "Torre Saudi Aramco danneggiata nello sciopero degli Houthi (VIDEO)",
+      "titolo_originale": "Saudi Aramco tower damaged in Houthi strike (VIDEOS)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af124f7203027420b4db8ab.png\" style=\"margin-right: 10px;\" /> Un grattacielo che ospita gli uffici del gigante petrolifero statale dell'Arabia Saudita Aramco è stato danneggiato in un attacco missilistico e di droni da parte degli Houthi dello Yemen <br /><a href=\"https://rt-english.com/news/648584-saudi-aramco-tower-damaged/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/news/648584-saudi-aramco-tower-damaged/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Mon, 09 Nov 2026 02:01:28 +0000"
+    },
+    {
+      "titolo": "Nvidia esamina le affermazioni sul \"vaso di miele cinese\" dopo che il CEO ammette la relazione",
+      "titolo_originale": "Nvidia probes ‘Chinese honeypot’ claims after CEO admits affair",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af10b6385f540297b0389af.jpg\" style=\"margin-right: 10px;\" /> Nvidia ha avviato un'indagine sul presunto spionaggio cinese contro il CEO Jensen Huang dopo che il miliardario ha ammesso pubblicamente una relazione. <br /><a href=\"https://rt-english.com/news/648583-nvidia-huang-chinese-spy-affair/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/news/648583-nvidia-huang-chinese-spy-affair/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Mon, 09 Nov 2026 00:06:17 +0000"
+    },
+    {
+      "titolo": "Gruppo navale anti-russo per espandersi nell'Atlantico e nell'Artico – FT",
+      "titolo_originale": "Anti-Russian naval group to expand in Atlantic and Arctic – FT",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0c07220302745f257f585.jpg\" style=\"margin-right: 10px;\" /> The UK-led Joint Expeditionary Force will expand its naval posture in the Atlantic and Arctic, Defence Staff Chief Richard Knighton has said <br /><a href=\"https://rt-english.com/news/648581-uk-naval-atlantic-arctic-presence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/648581-uk-naval-atlantic-arctic-presence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sun, 08 Nov 2026 23:04:21 +0000"
+    },
+    {
+      "titolo": "MAGA influencer who whitewashed Ukrainian neo-Nazis exposed taking cash for posts – WaPo",
+      "titolo_originale": "MAGA influencer who whitewashed Ukrainian neo-Nazis exposed taking cash for posts – WaPo",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0f1af2030272c244d2ad4.jpg\" style=\"margin-right: 10px;\" /> Laura Loomer allegedly charged thousands of dollars per tweet, with clients hoping to exploit her close ties to President Donald Trump <br /><a href=\"https://rt-english.com/news/648582-laura-loomer-paid-political-posts/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/648582-laura-loomer-paid-political-posts/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sun, 08 Nov 2026 22:04:25 +0000"
+    },
+    {
+      "titolo": "Republicans got Trumped. So now what?",
       "titolo_originale": "Republicans got Trumped. So now what?",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0992d203027464b707e75.jpg\" style=\"margin-right: 10px;\" /> Le elezioni di medio termine hanno messo in luce una profonda frustrazione per la guerra, i costi del carburante e l'eccessivo impegno dei dirigenti, lasciando incerto il percorso post-elettorale del partito <br /><a href=\"https://rt-english.com/news/648576-republicans-got-trumped-midterms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0992d203027464b707e75.jpg\" style=\"margin-right: 10px;\" /> The midterms exposed deep frustration with war, fuel costs and executive overreach – leaving the party’s post-election path uncertain <br /><a href=\"https://rt-english.com/news/648576-republicans-got-trumped-midterms/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/648576-republicans-got-trumped-midterms/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 08 Nov 2026 21:14:06 +0000"
     },
     {
-      "titolo": "La città santa dell'India si illumina con tre milioni di lampade per il Diwali (VIDEO)",
+      "titolo": "India’s holy city lights up with three million lamps for Diwali (VIDEO)",
       "titolo_originale": "India’s holy city lights up with three million lamps for Diwali (VIDEO)",
       "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0b5d120302745f257f580.png\" style=\"margin-right: 10px;\" /> The season for Diwali, the Festival of Lights, drives a surge in India’s retail spending and gold demand <br /><a href=\"https://rt-english.com/india/648578-indias-holy-city-ayodhya-diwali/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/india/648578-indias-holy-city-ayodhya-diwali/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -750,8 +786,8 @@
       "data": "Sun, 08 Nov 2026 18:02:50 +0000"
     },
     {
-      "titolo": "Ukrainian migrants in Germany in no rush to return home – media",
-      "titolo_originale": "Ukrainian migrants in Germany in no rush to return home – media",
+      "titolo": "Ukrainians in Germany in no rush to return home – media",
+      "titolo_originale": "Ukrainians in Germany in no rush to return home – media",
       "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0932385f54026c2584ba6.jpg\" style=\"margin-right: 10px;\" /> Most Ukrainian migrants in Germany are not considering returning home in the foreseeable future, Rheinische Post has reported <br /><a href=\"https://rt-english.com/news/648573-ukrainian-migrants-germany-no-rush-to-return-home-media/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/648573-ukrainian-migrants-germany-no-rush-to-return-home-media/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
@@ -775,42 +811,6 @@
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 08 Nov 2026 15:57:10 +0000"
-    },
-    {
-      "titolo": "Democrats mull Biden-style pivot on Ukraine – FT",
-      "titolo_originale": "Democrats mull Biden-style pivot on Ukraine – FT",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af097eb85f5400e197e97d7.jpg\" style=\"margin-right: 10px;\" /> Democrats consider $15 bn in Ukraine aid and tougher Russia sanctions after midterm victory, the Financial Times reports <br /><a href=\"https://rt-english.com/news/648575-democrats-mull-aid-kiev/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648575-democrats-mull-aid-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 15:49:41 +0000"
-    },
-    {
-      "titolo": "EU-wide data center protests take aim at Brussels (VIDEOS)",
-      "titolo_originale": "EU-wide data center protests take aim at Brussels (VIDEOS)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af075632030274361453992.png\" style=\"margin-right: 10px;\" /> Thousands protest AI data centers across Europe, demanding a halt to new projects as Brussels pushes to triple the EU’s capacity <br /><a href=\"https://rt-english.com/news/648572-eu-wide-ai-data-center-protests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648572-eu-wide-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 15:04:16 +0000"
-    },
-    {
-      "titolo": "Chinese space station to welcome first foreign astronaut",
-      "titolo_originale": "Chinese space station to welcome first foreign astronaut",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0756685f5400702733a3e.jpg\" style=\"margin-right: 10px;\" /> A Pakistani national will become the first foreign astronaut to visit China’s Tiangong space station, Beijing has said <br /><a href=\"https://rt-english.com/news/648571-china-pakistan-space-station/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648571-china-pakistan-space-station/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 13:21:15 +0000"
-    },
-    {
-      "titolo": "Russia launches military spacecraft into orbit (VIDEOS)",
-      "titolo_originale": "Russia launches military spacecraft into orbit (VIDEOS)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af0459a20302773e471a404.png\" style=\"margin-right: 10px;\" /> Russia has launched a military spacecraft from the Plesetsk Cosmodrome, with local residents witnessing a “space jellyfish” phenomenon <br /><a href=\"https://rt-english.com/russia/648570-russia-launches-military-spacecraft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/648570-russia-launches-military-spacecraft/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 08 Nov 2026 10:31:05 +0000"
     }
   ]
 }
