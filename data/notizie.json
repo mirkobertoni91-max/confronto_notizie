@@ -1,5 +1,5 @@
 {
-  "aggiornato": "2026-11-15T22:34:52.239608",
+  "aggiornato": "2026-11-16T05:03:44.148258",
   "totale_notizie": 90,
   "notizie": [
     {
@@ -12,6 +12,60 @@
       "data": "Sun, 15 Nov 2026 19:32:39 GMT"
     },
     {
+      "titolo": "La ritirata delle forze yemenite lascia gli Houthi al controllo della principale via navigabile del Mar Rosso",
+      "titolo_originale": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "sommario": "Le forze sostenute dall'Arabia Saudita affermano di stare spostando le truppe dallo stretto di Bab al-Mandab per difendere la capitale provvisoria Aden.",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Mon, 16 Nov 2026 03:08:31 GMT"
+    },
+    {
+      "titolo": "Secondo Megaspeed, il sospetto agente cinese legato all'ex capo di Nvidia lascerà l'azienda nel 2025",
+      "titolo_originale": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "sommario": "Lo scandalo Nvidia ha sollevato interrogativi sul fatto che i chip di intelligenza artificiale avanzati siano finiti in Cina, nonostante le restrizioni statunitensi.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Mon, 16 Nov 2026 01:47:57 GMT"
+    },
+    {
+      "titolo": "Il deputato australiano \"pieno di gratitudine\" dopo essere uscito dall'ospedale a seguito del presunto attacco in auto",
+      "titolo_originale": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "sommario": "La parlamentare ha perso entrambe le gambe in seguito al presunto attacco avvenuto quattro settimane fa fuori dal suo ufficio elettorale.",
+      "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Mon, 16 Nov 2026 03:09:49 GMT"
+    },
+    {
+      "titolo": "Il signore della droga messicano Miguel Ángel Félix Gallardo muore all'età di 80 anni",
+      "titolo_originale": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "sommario": "Noto come il \"Capo dei capi\", era a capo dell'onnipotente Cartello di Guadalajara negli anni '80, prima che il suo arresto provocasse lo scioglimento della sua organizzazione criminale.",
+      "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Mon, 16 Nov 2026 03:21:56 GMT"
+    },
+    {
+      "titolo": "Il principe Harry elogia i veterani di guerra durante una visita a sorpresa in Ucraina",
+      "titolo_originale": "Prince Harry praises war veterans on surprise visit to Ukraine",
+      "sommario": "Ha espresso il suo sostegno ai veterani feriti in Ucraina e ha elogiato la resilienza del Paese.",
+      "link": "https://www.bbc.co.uk/news/articles/c60evn992jq8o?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sun, 15 Nov 2026 22:00:13 GMT"
+    },
+    {
+      "titolo": "Il Canada esclude la Russia dai Campionati del mondo juniores",
+      "titolo_originale": "Canada bars Russia from Junior World Championships",
+      "sommario": "Il Canada afferma che non consentirà agli atleti russi di partecipare ai Campionati mondiali di hockey su ghiaccio juniores a causa della guerra in Ucraina.",
+      "link": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Sun, 15 Nov 2026 22:01:16 GMT"
+    },
+    {
       "titolo": "Il miglior punteggio della Corea del Sud all'esame di contabilità fiscale ammette di aver imbrogliato",
       "titolo_originale": "South Korea's top scorer in tax accountancy exam admits cheating",
       "sommario": "Han Won-seok, 34 anni, ha confessato di aver utilizzato una telecamera nascosta e l'intelligenza artificiale per ottenere un punteggio quasi perfetto al test importante.",
@@ -21,7 +75,7 @@
       "data": "Sun, 15 Nov 2026 13:37:45 GMT"
     },
     {
-      "titolo": "Papa Leone siede nella cabina di pilotaggio di un elicottero durante il viaggio in Perù",
+      "titolo": "Papa Leone entra nella cabina di pilotaggio di un elicottero durante il viaggio in Perù",
       "titolo_originale": "Pope Leo rides in helicopter cockpit during Peru trip",
       "sommario": "Il Papa ha preso il volo prima di arrivare a Cusco, il penultimo giorno del suo tour in America Latina.",
       "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
@@ -30,72 +84,18 @@
       "data": "Sun, 15 Nov 2026 18:38:11 GMT"
     },
     {
-      "titolo": "Secondo Megaspeed, il sospetto agente cinese legato all'ex capo di Nvidia lascerà l'azienda nel 2025",
-      "titolo_originale": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "sommario": "Lo scandalo Nvidia ha sollevato interrogativi sul fatto che i chip di intelligenza artificiale avanzati siano finiti in Cina, nonostante le restrizioni statunitensi.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Il guasto al timone ha preceduto la collisione della nave da crociera a New Orleans, afferma il NTSB",
+      "titolo_originale": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "sommario": "I risultati preliminari degli investigatori del National Transportation Safety Board suggeriscono che la nave cisterna abbia subito un \"guasto al timone\" prima di scontrarsi con la nave da crociera venerdì.",
+      "link": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 22:24:20 GMT"
+      "data": "Sun, 15 Nov 2026 22:57:27 GMT"
     },
     {
-      "titolo": "I cechi protestano contro il piano di modifica del finanziamento dei media pubblici",
-      "titolo_originale": "Czechs rally against plan to switch funding of public media",
-      "sommario": "I manifestanti affermano che la mossa soffocherà la libertà dei media, mentre il governo insiste sul fatto che le emittenti devono ridurre i costi.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 21:03:40 GMT"
-    },
-    {
-      "titolo": "L'Iran prende di mira una base militare statunitense in Bahrein con un attacco di droni",
-      "titolo_originale": "Iran targets US military base in Bahrain with drone attack",
-      "sommario": "Si tratta del secondo attacco nel Paese in tre giorni e avviene mentre gli Stati Uniti e l'Iran restano bloccati in una situazione di stallo sullo Stretto di Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 13:42:58 GMT"
-    },
-    {
-      "titolo": "Tre uomini condannati a morte in Giordania per la sparatoria mortale avvenuta durante una messa in chiesa",
-      "titolo_originale": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "sommario": "L'attentato al funerale in una chiesa greco-ortodossa ha causato nove morti e 34 feriti il mese scorso.",
-      "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 11:06:32 GMT"
-    },
-    {
-      "titolo": "Chiusura delle fabbriche di abbigliamento in Bangladesh a causa dello sciopero dei lavoratori per le retribuzioni",
-      "titolo_originale": "Clothing factories shut in Bangladesh as workers strike over pay",
-      "sommario": "I lavoratori sono in sciopero per chiedere un salario minimo di 30.000 taka (182 sterline) al mese.",
-      "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 16:15:20 GMT"
-    },
-    {
-      "titolo": "Migliaia di voli statunitensi sono ancora cancellati o in ritardo due giorni dopo l'immobilizzazione degli aerei a livello nazionale",
-      "titolo_originale": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "sommario": "Il segretario ai trasporti degli Stati Uniti afferma che le normali operazioni di traffico aereo potrebbero non essere ripristinate prima di lunedì.",
-      "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 19:20:53 GMT"
-    },
-    {
-      "titolo": "Domenica un giudice blocca la chiusura da parte di Trump del campo da golf \"Trash Island\" a Washington DC",
-      "titolo_originale": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-      "sommario": "L'ordinanza temporanea rientra in una contestazione lunga mesi dei piani del presidente degli Stati Uniti di trasformare l'East Potomac Golf Links in un campo da campionato.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 15:57:03 GMT"
-    },
-    {
-      "titolo": "Il PSOE propone di destinare l'1% del PIL all'edilizia popolare e di istituire un sussidio statale per l'affidamento dei minori",
+      "titolo": "Il PSOE propone di destinare l'1% del PIL all'edilizia popolare e di istituire un sussidio statale per l'accoglienza dei minori",
       "titolo_originale": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-      "sommario": "Il programma elettorale dei socialisti prevede una nuova imposta “contro la speculazione” dei fondi avvoltoio e dei grandi proprietari e sostiene la promozione delle energie rinnovabili per raggiungere l'81% della produzione di energia elettrica entro il 2030",
+      "sommario": "Il programma elettorale dei socialisti prevede una nuova tassa “contro la speculazione” dei fondi avvoltoio e dei grandi proprietari terrieri e sostiene la promozione delle energie rinnovabili per raggiungere l'81% della produzione di energia elettrica entro il 2030",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html",
       "fonte": "El País",
       "lingua_originale": "es",
@@ -129,7 +129,7 @@
       "data": "Sun, 15 Nov 2026 14:10:56 GMT"
     },
     {
-      "titolo": "Il PSOE guadagna a sinistra quello che perde a destra, secondo il terzo ‘tracking’ della campagna elettorale",
+      "titolo": "Il PSOE guadagna a sinistra ciò che perde a destra, secondo il terzo ‘tracking’ della campagna elettorale",
       "titolo_originale": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
       "sommario": "I socialisti migliorano le loro posizioni tra l'elettorato di centro, ma rischiano di perdere un milione di voti sul fronte conservatore",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html",
@@ -140,7 +140,7 @@
     {
       "titolo": "Sánchez e Chelo García Cortés per i rintocchi di La Séptima o \"La Peter\" in \"Fuera de Control\"",
       "titolo_originale": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
-      "sommario": "Il presidente del Governo parla del suo ruolo di suocero e di come ha conosciuto sua moglie, Begoña Gómez",
+      "sommario": "Il presidente del governo parla del suo ruolo di suocero e di come ha conosciuto sua moglie, Begoña Gómez",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html",
       "fonte": "El País",
       "lingua_originale": "es",
@@ -158,7 +158,7 @@
     {
       "titolo": "La bussola infallibile di Sigüés punta a destra",
       "titolo_originale": "La brújula infalible de Sigüés apunta a la derecha",
-      "sommario": "Dal 1977, il partito che vince le elezioni politiche nel piccolo paese aragonese è quello che prevale in tutta la Spagna. “Non è malcontento, è delusione”, concordano gli ex elettori socialisti",
+      "sommario": "Dal 1977, il partito che vince le elezioni politiche nel piccolo paese aragonese è quello che prevale in tutta la Spagna. “Non è insoddisfazione, è delusione”, concordano gli ex elettori socialisti",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-15/la-brujula-infalible-de-sigues-apunta-a-la-derecha.html",
       "fonte": "El País",
       "lingua_originale": "es",
@@ -167,7 +167,7 @@
     {
       "titolo": "Sergio Ramírez entra nella RAE: \"Ho perso un Paese, ma non sono mai stato uno straniero in Spagna\"",
       "titolo_originale": "Sergio Ramírez ingresa en la RAE: “Perdí un país, pero nunca he sido extranjero en España”",
-      "sommario": "Il nuovo accademico, esiliato dal Nicaragua nel 2021, nel suo discorso elogia la figura di Vargas Llosa, di cui eredita la sedia L",
+      "sommario": "Il nuovo accademico, esiliato dal Nicaragua nel 2021, nel suo discorso elogia la figura di Vargas Llosa, di cui eredita la poltrona L",
       "link": "https://elpais.com/cultura/2026-11-15/sergio-ramirez-ingresa-en-la-rae-perdi-un-pais-pero-nunca-he-sido-extranjero-en-espana.html",
       "fonte": "El País",
       "lingua_originale": "es",
@@ -183,97 +183,97 @@
       "data": "Sun, 15 Nov 2026 22:19:40 GMT"
     },
     {
-      "titolo": "Benjamin Netanyahu non può rimanere \"un minuto di più\" alla guida del governo israeliano, ritiene Gadi Eisenkot",
-      "titolo_originale": "Benyamin Nétanyahou ne peut pas rester « une minute de plus » à la tête du gouvernement israélien, estime Gadi Eisenkot",
-      "sommario": "Secondo un servizio trasmesso domenica sera, il capo di gabinetto del primo ministro uscente ha presentato alla polizia, alla vigilia delle elezioni legislative, una denuncia riguardante alcuni attivisti del partito arabo Raam, che si è rivelata infondata.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/benyamin-netanyahou-ne-peut-pas-rester-une-minute-de-plus-a-la-tete-du-gouvernement-israelien-estime-gadi-eisenkot_6811061_3210.html",
+      "titolo": "COP31: quali Paesi devono pagare il conto della lotta contro la catastrofe climatica?",
+      "titolo_originale": "COP31 : quels pays doivent régler la facture de la lutte contre la catastrophe climatique ?",
+      "sommario": "La Francia ha fatto dell'ampliamento del novero degli Stati tenuti a fornire assistenza finanziaria ai paesi in via di sviluppo \"una priorità\" della COP31, che prosegue in Turchia.",
+      "link": "https://www.lemonde.fr/planete/article/2026/11/16/cop31-quels-pays-doivent-regler-la-facture-de-la-lutte-contre-la-catastrophe-climatique_6811341_3244.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 22:27:40 +0100"
+      "data": "Mon, 16 Nov 2026 05:30:15 +0100"
     },
     {
-      "titolo": "Gaza: Regno Unito, Italia, Australia e Canada chiedono a Israele di consentire l'accesso umanitario «immediato» e «senza ostacoli» nel territorio palestinese",
-      "titolo_originale": "Gaza : Royaume-Uni, Italie, Australie et Canada appellent Israël à permettre un accès humanitaire « immédiat » et « sans entrave » dans le territoire palestinien",
-      "sommario": "L’enclave è stata colpita da piogge torrenziali che hanno provocato l’allagamento di migliaia di tende di sfollati. Secondo i capi della diplomazia dei quattro Paesi occidentali, quasi 150.000 tende e altri beni di prima necessità sono \"bloccati\" alla frontiera.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/gaza-royaume-uni-italie-australie-et-canada-appellent-israel-a-permettre-un-acces-humanitaire-immediat-et-sans-entrave-dans-le-territoire-palestinien_6811057_3210.html",
+      "titolo": "Elezioni presidenziali 2027: Marine Le Pen conferma la sua volontà di abbandonare l'Ucraina ponendo fine agli aiuti francesi",
+      "titolo_originale": "Présidentielle 2027 : Marine Le Pen assume sa volonté d’abandonner l’Ukraine en mettant fin aux aides françaises",
+      "sommario": "La candidata del RN non ha risposto all'invito del presidente ucraino Volodymyr Zelensky, ma lunedì incontrerà l'ambasciatore di Kiev in un luogo tenuto segreto. Sabato, Emmanuel Macron aveva criticato coloro che «desiderano costringere» l’Ucraina a una «pace ingiusta».",
+      "link": "https://www.lemonde.fr/politique/article/2026/11/16/presidentielle-2027-marine-le-pen-assume-sa-volonte-d-abandonner-l-ukraine-en-mettant-fin-aux-aides-francaises_6811338_823448.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 22:01:00 +0100"
+      "data": "Mon, 16 Nov 2026 05:30:03 +0100"
     },
     {
-      "titolo": "In Yemen, il campo governativo schiera rinforzi intorno ad Aden, minacciata dagli Houthi",
-      "titolo_originale": "Au Yémen, le camp gouvernemental redéploie des renforts autour d’Aden, menacée par les houthistes",
-      "sommario": "Il ridispiegamento delle truppe governative dalla regione di Bab Al-Mandab verso la capitale provvisoria consentirà agli Houthi di consolidare il loro controllo sullo stretto strategico di Bab Al-Mandab, che collega l'Asia all'Europa attraverso il Canale di Suez.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/au-yemen-le-camp-gouvernemental-redeploie-des-renforts-autour-d-aden-menacee-par-les-houthistes_6811027_3211.html",
+      "titolo": "Miguel Ángel Félix Gallardo, uno dei narcotrafficanti messicani più potenti, è morto dopo trentasette anni di carcere",
+      "titolo_originale": "Miguel Angel Félix Gallardo, l’un des narcotrafiquants mexicains les plus puissants, est mort après trente-sept ans passés en prison",
+      "sommario": "Questo signore della droga è morto domenica in ospedale, all'età di 80 anni, mentre stava scontando pene per un totale di settantasette anni di carcere. Ha segnato la storia criminale del Messico gettando le basi dei cartelli moderni, fino a ispirare la serie Netflix \"Narcos: Messico\".",
+      "link": "https://www.lemonde.fr/disparitions/article/2026/11/16/miguel-angel-felix-gallardo-l-un-des-narcotrafiquants-mexicains-les-plus-reputes-est-mort-apres-trente-sept-ans-passes-en-prison_6811303_3382.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 21:16:11 +0100"
+      "data": "Mon, 16 Nov 2026 05:17:11 +0100"
     },
     {
-      "titolo": "IN DIRETTA, guerra in Ucraina: l’Estonia chiude le sue frontiere con la Russia, Kiev invita i governi europei a dimostrare la stessa fermezza",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : l’Estonie ferme ses frontières avec la Russie, Kiev invite les gouvernements européens à faire preuve de la même fermeté",
-      "sommario": "Domenica, il ministro degli Esteri estone Margus Tsahkna ha annunciato la chiusura di tutti i valichi di frontiera con la Russia a partire dal 1° dicembre. Ha dichiarato di essere in possesso di «prove evidenti» che indicano che il servizio di intelligence militare russo ha ordinato un'«operazione di sabotaggio» contro un'azienda estone del settore della difesa.",
-      "link": "https://www.lemonde.fr/international/live/2026/11/15/en-direct-guerre-en-ukraine-l-estonie-ferme-ses-frontieres-avec-la-russie-kiev-invite-les-gouvernements-europeens-a-faire-preuve-de-la-meme-fermete_6810982_3210.html",
+      "titolo": "Fare la guerra con l’IA? Per l’Ucraina, un dilemma di coscienza morale e politica",
+      "titolo_originale": "Faire la guerre avec l’IA ? Pour l’Ukraine, un cas de conscience moral et politique",
+      "sommario": "Mentre la 7ª Conferenza di revisione della Convenzione su talune armi convenzionali è in procinto di iniziare lunedì a Ginevra, soldati e specialisti ucraini dell'IA si interrogano sulle responsabilità legate al suo utilizzo. Una riflessione difficile da portare avanti in tempo di guerra, mentre il nemico russo avanza senza porsi domande.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/16/faire-la-guerre-avec-l-ia-pour-l-ukraine-un-cas-de-conscience-moral-et-politique_6811239_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 20:05:08 +0100"
+      "data": "Mon, 16 Nov 2026 05:00:14 +0100"
     },
     {
-      "titolo": "In Cisgiordania, un collaboratore freelance dell'Agence France-Presse arrestato dalle forze israeliane",
-      "titolo_originale": "En Cisjordanie, un pigiste de l’Agence France-Presse arrêté par les forces israéliennes",
-      "sommario": "Un portavoce dell'esercito israeliano ha confermato l'arresto del giornalista, precisando che era \"sospettato di avere legami con Hamas\", senza fornire prove o elementi a sostegno di tale accusa.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/en-cisjordanie-un-pigiste-de-l-agence-france-presse-arrete-par-les-forces-israeliennes_6811047_3210.html",
+      "titolo": "Brutto colpo per Amazon con la perdita di 40 satelliti a causa del fallimento del razzo Vulcan",
+      "titolo_originale": "Coup dur pour Amazon avec la perte de 40 satellites due à l’échec de la fusée Vulcan",
+      "sommario": "Il lanciatore ha subito un'anomalia circa dieci minuti dopo il decollo, perdendo i satelliti che trasportava. Si è trattato del primo di diverse decine di voli acquistati dal gruppo United Launch Alliance dalla società di Jeff Bezos per lo sviluppo della sua rete Internet.",
+      "link": "https://www.lemonde.fr/sciences/article/2026/11/16/coup-dur-pour-amazon-avec-la-perte-de-40-satellites-due-a-l-echec-de-la-fusee-vulcan_6811204_1650684.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 19:52:58 +0100"
+      "data": "Mon, 16 Nov 2026 04:11:01 +0100"
     },
     {
-      "titolo": "Sospensione dei voli negli Stati Uniti: si prevede il ritorno alla normalità del traffico aereo lunedì; Donald Trump definisce \"disastrosa\" la gestione dell'aviazione da parte di Joe Biden",
-      "titolo_originale": "Suspension des vols aux Etats-Unis : retour à la normale du trafic aérien espéré lundi ; Donald Trump qualifie la gestion de l’aviation par Joe Biden de « désastre »",
-      "sommario": "Domenica mattina negli Stati Uniti sono stati cancellati altri 1.500 voli, dopo che ne erano già stati cancellati oltre 18.000 venerdì e sabato. \"Probabilmente lunedì vedremo le cose tornare completamente alla normalità\", ha dichiarato il Segretario ai trasporti.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/suspension-des-vols-aux-etats-unis-retour-a-la-normale-du-trafic-aerien-espere-lundi-donald-trump-qualifie-la-gestion-de-l-aviation-par-joe-biden-de-desastre_6811046_3210.html",
+      "titolo": "In Marocco, Casablanca, sotto la pressione del settore immobiliare, vuole preservare i suoi edifici Art Déco",
+      "titolo_originale": "Au Maroc, Casablanca, sous pression immobilière, veut préserver ses immeubles Art déco",
+      "sommario": "Negli ultimi anni, lo Stato marocchino ha accelerato la sua politica di tutela del patrimonio architettonico ereditato dal protettorato francese, ma anche dagli anni successivi all'indipendenza.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/16/au-maroc-casablanca-sous-pression-immobiliere-veut-preserver-ses-immeubles-art-deco_6811171_3212.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 19:20:27 +0100"
+      "data": "Mon, 16 Nov 2026 04:00:10 +0100"
     },
     {
-      "titolo": "La Marina militare francese intercetta nell'Atlantico un semisommergibile carico di diverse tonnellate di cocaina; quattro sospettati sono stati arrestati",
-      "titolo_originale": "La marine nationale intercepte un semi-submersible chargé de plusieurs tonnes de cocaïne dans l’Atlantique ; quatre suspects interpellés",
-      "sommario": "Quando la fregata della marina si è avvicinata all'imbarcazione, tre persone si sono gettate in acqua, prima di essere ripescate. Un quarto sospettato, che ha avuto il tempo di affondare l'imbarcazione, è stato arrestato a bordo della nave semisommergibile, che è affondata.",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/15/la-marine-nationale-intercepte-un-semi-submersible-charge-de-plusieurs-tonnes-de-cocaine-dans-l-atlantique-quatre-suspects-interpelles_6811045_3224.html",
+      "titolo": "In Amazzonia peruviana, Leone XIV lancia l'allarme sulla deforestazione e denuncia l'abbandono dei popoli indigeni",
+      "titolo_originale": "En Amazonie péruvienne, Léon XIV alerte sur la déforestation et dénonce l’abandon des peuples autochtones",
+      "sommario": "\"Il grido della terra e il grido dei poveri si levano insieme\", ha dichiarato domenica il Sommo Pontefice durante una nuova tappa del suo viaggio in America Latina. In particolare, ha denunciato lo \"sfruttamento\" delle risorse e l'assassinio di capi indigeni che difendono le loro terre.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/16/en-amazonie-peruvienne-leon-xiv-alerte-sur-la-deforestation-et-denonce-l-abandon-des-peuples-autochtones_6811105_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 19:00:35 +0100"
+      "data": "Mon, 16 Nov 2026 02:23:44 +0100"
     },
     {
-      "titolo": "Una giudice ordina che un parco di Washington, che Donald Trump vuole trasformare in un campo da golf di lusso, rimanga aperto",
-      "titolo_originale": "Une juge ordonne qu’un parc de Washington dont Donald Trump souhaite faire un golf de luxe reste ouvert",
-      "sommario": "Il presidente americano desidera riqualificare l'East Potomac Park per trasformarlo in un sito in grado di ospitare competizioni di golf di altissimo livello. La sua amministrazione aveva chiesto la chiusura, domenica, di questo spazio verde di 160 ettari.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/une-juge-ordonne-qu-un-parc-de-washington-dont-donald-trump-souhaite-faire-un-golf-de-luxe-reste-ouvert_6811041_3210.html",
+      "titolo": "IN DIRETTA, guerra in Ucraina: Volodymyr Zelensky annuncia la preparazione di una riunione della coalizione dei volontari, \"che potrebbe rivelarsi storica\"",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky annonce la préparation d’une réunion de la coalition des volontaires, « qui pourrait s’avérer historique »",
+      "sommario": "L’obiettivo presentato dal presidente ucraino è quello di definire la posizione europea nei futuri colloqui con Mosca. Inoltre, l’Estonia ha annunciato la chiusura delle sue frontiere con la Russia a partire dal 1° dicembre, dopo un nuovo tentativo di sabotaggio.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/16/en-direct-guerre-en-ukraine-volodymyr-zelensky-annonce-la-preparation-d-une-reunion-de-la-coalition-des-volontaires-qui-pourrait-s-averer-historique_6810982_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 18:36:44 +0100"
+      "data": "Mon, 16 Nov 2026 01:20:00 +0100"
     },
     {
-      "titolo": "Immigrazione: quasi 1.500 migranti sono arrivati alle Isole Canarie in un solo giorno",
-      "titolo_originale": "Immigration : près de 1 500 migrants sont arrivés aux îles Canaries en une seule journée",
-      "sommario": "Sabato, 1.488 persone, a bordo di 14 imbarcazioni, sono state soccorse dalle guardie costiere dell'arcipelago spagnolo. Un numero record di arrivi in un solo giorno dal 2020, secondo l'agenzia di stampa spagnola EFE.",
-      "link": "https://www.lemonde.fr/international/video/2026/11/15/immigration-pres-de-1-500-migrants-sont-arrives-aux-iles-canaries-en-une-seule-journee_6811039_3210.html",
+      "titolo": "A Capo Verde, José Maria Neves rieletto presidente al primo turno",
+      "titolo_originale": "Au Cap-Vert, José Maria Neves réélu président dès le premier tour",
+      "sommario": "Il presidente uscente, favorito per un secondo mandato consecutivo, ha vinto al primo turno domenica con oltre il 63% dei voti in questo arcipelago lusofono noto per la sua stabilità democratica.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/16/au-cap-vert-jose-maria-neves-reelu-president-des-le-premier-tour_6811072_3212.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 18:20:25 +0100"
+      "data": "Mon, 16 Nov 2026 01:03:59 +0100"
     },
     {
-      "titolo": "In Cambogia, che ospita il vertice dell’Organizzazione internazionale della Francofonia, il lungo declino della lingua francese",
-      "titolo_originale": "Au Cambodge, qui organise le sommet de l’Organisation internationale de la francophonie, le long déclin de la langue française",
-      "sommario": "Phnom Penh ospita fino al 16 novembre il XX Vertice dell'Organizzazione internazionale della Francofonia. Ma nell'ex protettorato, la lingua di Sihanouk sta perdendo terreno rispetto all'inglese e al cinese. Sopravvive ormai solo in alcuni corsi universitari e nel vocabolario di uso quotidiano.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/15/au-cambodge-qui-organise-le-sommet-de-l-organisation-internationale-de-la-francophonie-le-long-declin-de-la-langue-francaise_6811037_3210.html",
+      "titolo": "Oltre 157.000 firmatari, tra cui Elon Musk, chiedono il ritorno di Jensen Huang alla guida di Nvidia",
+      "titolo_originale": "Plus de 157 000 signataires, dont Elon Musk, demandent le retour de Jensen Huang à la tête de Nvidia",
+      "sommario": "Una lettera, con 7.500 firmatari che si dichiarano dipendenti dell'azienda, chiede la reintegrazione dell'ex capo del colosso americano dei semiconduttori, almeno il tempo di difendersi dalle accuse di relazioni extraconiugali che hanno provocato la sua caduta.",
+      "link": "https://www.lemonde.fr/pixels/article/2026/11/16/plus-de-157-000-signataires-dont-elon-musk-demandent-le-retour-de-jensen-huang-a-la-tete-de-nvidia_6811065_4408996.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Sun, 15 Nov 2026 18:00:07 +0100"
+      "data": "Mon, 16 Nov 2026 00:22:46 +0100"
     },
     {
-      "titolo": "I diritti delle minoranze nelle elezioni di metà mandato: un contraccolpo democratico ai diritti delle persone transgender",
+      "titolo": "I diritti delle minoranze alle elezioni di midterm: un contraccolpo democratico ai diritti delle persone transgender",
       "titolo_originale": "Minority Rights in the Midterms: A Democratic Recoil from Transgender Rights",
       "sommario": "Prima delle elezioni di midterm, i Repubblicani hanno inondato le onde radio di messaggi anti-transgender. In una svolta nuova e preoccupante, alcuni democratici hanno seguito l'esempio. La comunità LGBTQ+ dell'Ohio è divisa su come reagire.",
       "link": "https://www.spiegel.de/international/world/minority-rights-in-the-midterms-a-democratic-recoil-from-transgender-rights-a-628f6205-c90b-421b-a564-58bbbac5a0e1#ref=rss",
@@ -284,7 +284,7 @@
     {
       "titolo": "Crisi nello Yemen: \"È imperativo che le potenze mondiali difendano con determinazione il diritto marittimo internazionale\"",
       "titolo_originale": "Crisis in Yemen: \"Imperative that World Powers Resolutely Defend International Maritime Law\"",
-      "sommario": "Tutti i segnali indicano un'escalation. L'inviato speciale delle Nazioni Unite nello Yemen, Hans Grundberg, spiega quanto le due parti fossero un tempo vicine alla pace e quali siano ora le prospettive.",
+      "sommario": "Tutti i segnali indicano un'escalation. L'inviato speciale delle Nazioni Unite nello Yemen, Hans Grundberg, spiega quanto le due parti fossero state vicine alla pace un tempo – e come si presentano ora le prospettive.",
       "link": "https://www.spiegel.de/international/world/crisis-in-yemen-imperative-that-world-powers-resolutely-defend-international-maritime-law-a-46cd5da6-a026-495d-9f55-3f137c6814ee#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -293,7 +293,7 @@
     {
       "titolo": "Lasciare gli Stati Uniti: l'erosione del mio sogno americano",
       "titolo_originale": "Leaving the US: The Erosion of My American Dream",
-      "sommario": "Dopo oltre 30 anni come corrispondente di DER SPIEGEL negli Stati Uniti, me ne vado. Il Paese che pensavo di conoscere non esiste più. Era un'illusione – e sta venendo sostituita dall'ignoto.",
+      "sommario": "Dopo oltre 30 anni come corrispondente di DER SPIEGEL negli Stati Uniti, me ne vado. Il Paese che pensavo di conoscere non esiste più. Era un'illusione – e sta per essere sostituita dall'ignoto.",
       "link": "https://www.spiegel.de/international/world/leaving-the-us-the-erosion-of-my-american-dream-a-509fdb80-9895-4612-a6b7-5c2f253982f4#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -309,9 +309,9 @@
       "data": "Sun, 11 Oct 2026 22:08:00 +0200"
     },
     {
-      "titolo": "\"Segreti di Stato sfruttati per profitto\": i servizi segreti tedeschi scossi dall'arresto per spionaggio dell'ex capo",
+      "titolo": "\"Segreti di Stato sfruttati a scopo di lucro\": i servizi di intelligence tedeschi scossi dall'arresto per spionaggio dell'ex capo",
       "titolo_originale": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
-      "sommario": "L'arresto dell'ex capo del BND August Hanning ha scosso il mondo dei servizi segreti. Eppure, il discutibile lavoro di consulenza di Hanning non era un segreto. I servizi segreti tedeschi hanno un problema sistemico?",
+      "sommario": "L'arresto dell'ex capo del BND August Hanning ha provocato un'ondata di sgomento nel mondo dei servizi segreti. Eppure, il discutibile lavoro di consulenza di Hanning non era un segreto. I servizi segreti tedeschi hanno un problema sistemico?",
       "link": "https://www.spiegel.de/international/germany/exploited-state-secrets-for-profit-german-intelligence-rocked-by-espionage-arrest-of-former-chief-a-06a62002-0fc7-4bc0-b7c7-5e6e9c829d0f#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -320,7 +320,7 @@
     {
       "titolo": "Abusi in Francia: \"Qualcuno pensa ai bambini?\"",
       "titolo_originale": "Abuse in France: \"Is Anyone Thinking of the Children?\"",
-      "sommario": "La Francia è stata scossa da un'ondata di accuse di abusi su minori rivolte agli operatori della scuola materna. Lo scandalo colpisce il cuore del famoso sistema scolastico del Paese. I genitori sono furiosi.",
+      "sommario": "La Francia è stata scossa da un'ondata di accuse di abusi su minori rivolte al personale educativo delle scuole dell'infanzia. Lo scandalo colpisce il cuore del rinomato sistema scolastico del Paese. I genitori sono furiosi.",
       "link": "https://www.spiegel.de/international/europe/abuse-in-france-is-anyone-thinking-of-the-children-a-04efcfff-d952-469b-879d-e8486cecd806#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -329,7 +329,7 @@
     {
       "titolo": "La guerra di aggressione di Putin: un viaggio lungo il Dnepr nell'Ucraina in tempo di guerra",
       "titolo_originale": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
-      "sommario": "Il maestoso Dnepr attraversa l'Ucraina e – nel sud – il campo di battaglia. Un viaggio da nord a sud offre una prospettiva unica su come gli ucraini stanno sopravvivendo a questa guerra.",
+      "sommario": "Il maestoso Dnepr attraversa l'Ucraina e, nel sud, il campo di battaglia. Un viaggio da nord a sud offre una prospettiva unica su come gli ucraini stanno sopravvivendo a questa guerra.",
       "link": "https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -338,7 +338,7 @@
     {
       "titolo": "Truffe online: il mondo losco dei siti di investimento fraudolenti",
       "titolo_originale": "Online Scams: The Shady World of Fraudulent Investment Sites",
-      "sommario": "Utilizzando un software di una società israeliana, i truffatori attirano investitori ingenui e rubano tutto il loro denaro. DER SPIEGEL si è addentrato in questo mondo di reti criminali alimentate dall'avidità – e ha trovato un eroe.",
+      "sommario": "Utilizzando un software di una società israeliana, i truffatori attirano investitori ingenui e rubano tutto il loro denaro. DER SPIEGEL si è addentrato in questo mondo di reti criminali alimentate dall'avidità - e ha trovato un eroe.",
       "link": "https://www.spiegel.de/international/world/online-scams-the-shady-world-of-fraudulent-investment-sites-a-36d59b48-23ea-4ae5-9532-7a6d3fb086d3#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -354,7 +354,7 @@
       "data": "Wed, 16 Sep 2026 11:15:00 +0200"
     },
     {
-      "titolo": "Falsa discendenza ebraica: lo schema dei passaporti che ha sfruttato la storia nazista della Germania",
+      "titolo": "Falsa discendenza ebraica: lo stratagemma del passaporto che ha sfruttato la storia nazista della Germania",
       "titolo_originale": "Fake Jewish Lineage: The Passport Scheme that Exploited Germany’s Nazi History",
       "sommario": "DER SPIEGEL ha appreso che un gran numero di truffatori ha ottenuto la cittadinanza tedesca dichiarando di essere discendenti di ebrei perseguitati dai nazisti. Le vere famiglie sono furibonde.",
       "link": "https://www.spiegel.de/international/germany/fake-jewish-lineage-the-passport-scheme-that-exploited-germanys-nazi-history-a-215f2f6a-613e-4371-8786-054ed3a90f98#ref=rss",
@@ -423,7 +423,7 @@
       "link": "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/15/nations-league-italia-passo-indietro-e-travolta-in-belgio-e-saluta-la-nations-league_c9e4e2b8-d8e7-489f-8d65-615b5bb7a7a4.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 23:09:51 +0100"
+      "data": "Mon, 16 Nov 2026 00:02:54 +0100"
     },
     {
       "titolo": "Scoop del Financial Times: 'Huang pensa a un clamoroso ritorno alla guida di Nvidia'",
@@ -435,13 +435,13 @@
       "data": "Sun, 15 Nov 2026 21:38:14 +0100"
     },
     {
-      "titolo": "Trump scarica su Biden lo stop dei voli, 'un disastro'",
-      "titolo_originale": "Trump scarica su Biden lo stop dei voli, 'un disastro'",
-      "sommario": "Il Congresso apre sui nuovi fondi per ammodernare i sistemi. Altri 1.600 aerei cancellati",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/15/cancellati-oggi-negli-usa-altri-1.400-voli-dopo-i-6.700-di-sabato_cbe40d91-464e-4ab8-99c1-80fe5bc20559.html",
+      "titolo": "Pechino conferma il trilaterale tra Xi, Trump e Putin e gli Usa si blindano sull'IA contro la Cina",
+      "titolo_originale": "Pechino conferma il trilaterale tra Xi, Trump e Putin e gli Usa si blindano sull'IA contro la Cina",
+      "sommario": "Gli Stati Uniti ei suoi alleati hanno concordato di creare un elenco congiunto di tecnologie e supply chain dell'IA che necessitano di più protezione",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/16/pechino-conferma-il-trilaterale-tra-xi-trump-e-putin-e-gli-usa-si-blindano-sullia_719b0e4a-833e-4411-9f49-e3bdeca194d9.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 20:19:15 +0100"
+      "data": "Mon, 16 Nov 2026 04:08:00 +0100"
     },
     {
       "titolo": "Il Papa a Cusco, l'Angelus a 3mila metri dopo l'operazione",
@@ -453,286 +453,322 @@
       "data": "Sun, 15 Nov 2026 22:01:09 +0100"
     },
     {
-      "titolo": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
-      "titolo_originale": "L’Iran attacca gli Usa in Bahrein. Il Wsj: “Ha ancora fino a 2.500 missili”",
-      "sommario": "L’operazione nella notte come risposta ai colpi contro i radar. E il Wall Street Journal riporta la stima dell’intelligence sull’arsenale iraniano",
-      "link": "https://www.repubblica.it/esteri/2026/11/16/news/iran_attacca_gli_usa_in_bahrein_ha_ancora_fino_a_2500_missili-425725654/",
+      "titolo": "Meno piste, costi alle stelle e il rebus della neve: la stagione breve dello sci",
+      "titolo_originale": "Meno piste, costi alle stelle e il rebus della neve: la stagione breve dello sci",
+      "sommario": "Gli impianti a quote più basse spesso faticano ad aprire. Resistono meglio quelli più rinomati e cari: in cinque anni skipass su del 43%",
+      "link": "https://www.repubblica.it/cronaca/2026/11/16/news/turismo_meno_piste_prezzi_alti_e_rebus_neve_stagione_breve_dello_sci-425726222/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Mon, 16 Nov 2026 00:00:34 +0000"
+      "data": "Mon, 16 Nov 2026 04:16:10 +0000"
     },
     {
-      "titolo": "Felix Gallardo, è morto il “boss dei boss” dei narcotrafficanti messicani. Aveva 80 anni",
-      "titolo_originale": "Felix Gallardo, è morto il “boss dei boss” dei narcotrafficanti messicani. Aveva 80 anni",
-      "sommario": "Era detenuto dal 1989. Aveva contribuito al’ascesa dei principali cartelli della droga",
-      "link": "https://www.repubblica.it/esteri/2026/11/15/news/felix_gallardo_boss_morto_messico_droga-425726104/",
+      "titolo": "Intelligenza artificiale, accordo tra Usa e alleati per proteggere chip e tecnologie dalla Cina",
+      "titolo_originale": "Intelligenza artificiale, accordo tra Usa e alleati per proteggere chip e tecnologie dalla Cina",
+      "sommario": "L'intesa nell'ambito del progetto Pax Silica, a cui partecipa anche l'Italia. Giappone, Australia, Israele e Regno Unito tra i firmatari. Giovedì l'incontro tra Trump e Xi Jinping",
+      "link": "https://www.repubblica.it/economia/2026/11/16/news/intelligenza_artificiale_accordo_usa_alleati_per_proteggere_chip_tecnologie_cina_pax_silica-425726177/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 22:18:13 +0000"
+      "data": "Mon, 16 Nov 2026 02:19:04 +0000"
     },
     {
-      "titolo": "I nuovi saggi sono Zverev e Shelton",
-      "titolo_originale": "I nuovi saggi sono Zverev e Shelton",
-      "sommario": "La rubrica “Monday’s net”",
-      "link": "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/11/15/news/zverev_shelton_nuovi_saggu-425726068/",
+      "titolo": "Trump viaggia in Asia per superare la crisi e rilanciare il ruolo Usa",
+      "titolo_originale": "Trump viaggia in Asia per superare la crisi e rilanciare il ruolo Usa",
+      "sommario": "Dopo la disfatta alle midterm vedrà l’omologo di Pechino: sul tavolo Iran e nucleare",
+      "link": "https://www.repubblica.it/esteri/2026/11/16/news/trump_ciaggio_asia_asean_apec_trilaterale_putin_xi-425726030/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 22:11:26 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:45 +0000"
     },
     {
-      "titolo": "Belgio-Italia, le pagelle: Tonali costretto a correre all’indietro, Doku imprendibile",
-      "titolo_originale": "Belgio-Italia, le pagelle: Tonali costretto a correre all’indietro, Doku imprendibile",
-      "sommario": "Promossi e bocciati della gara di Bruxelles",
-      "link": "https://www.repubblica.it/sport/calcio/nazionale/2026/11/15/news/belgio_italia_pagelle_tonali_doku-425726019/",
+      "titolo": "Xi, il padrone di casa a Shenzen celebrerà se stesso tra i leader azzoppati",
+      "titolo_originale": "Xi, il padrone di casa a Shenzen celebrerà se stesso tra i leader azzoppati",
+      "sommario": "Dibattiti al minimo, agenda svuotata: al vertice Apec per il leader di Pechino conterà solo consacrarsi come superpotenza affidabile",
+      "link": "https://www.repubblica.it/esteri/2026/11/16/news/xi_jinping_trump_shenzen_vertice-425726005/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 21:48:08 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:30 +0000"
     },
     {
-      "titolo": "Nvidia, possibile colpo di scena: Huang pensa al ritorno, Bessent: “L’azienda cerchi un esterno”",
-      "titolo_originale": "Nvidia, possibile colpo di scena: Huang pensa al ritorno, Bessent: “L’azienda cerchi un esterno”",
-      "sommario": "Secondo il Financial Times sarebbe stato travolto da un’ondata di solidarietà dopo le dimissioni per la storia con Alice Huang, sospetta spia cinese",
-      "link": "https://www.repubblica.it/economia/2026/11/15/news/nvidia_la_svolta_possibile_huang_pensa_al_ritorno_come_ceo-425725753/",
+      "titolo": "Ue, assist a Trump: sì a un vertice in Europa per uscire dall’impasse",
+      "titolo_originale": "Ue, assist a Trump: sì a un vertice in Europa per uscire dall’impasse",
+      "sommario": "Gli Alleati vogliono favorire il tycoon nella ricerca di un accordo ma temono che Putin tenti di ridisegnare la sicurezza del Continente",
+      "link": "https://www.repubblica.it/esteri/2026/11/16/news/ue_assist_a_trump_si_a_un_vertice_in_europa_russia_ucraina-425725996/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 19:46:38 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:21 +0000"
     },
     {
-      "titolo": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
-      "titolo_originale": "La minaccia russa alla Ue: “Se non ci sarà un accordo dovremo usare la forza”",
-      "sommario": "Zelensky denuncia: “Ancora attacchi brutali e limiti a Starshield”. L’Estonia annuncia la chiusura del confine con la Russia a dicembre. Per Lavrov le condizioni per la Pace “restano quelle del 2024”",
-      "link": "https://www.repubblica.it/esteri/2026/11/15/news/russia_ue_senza_un_accordo_dovremo_usare_la_forza-425725745/",
+      "titolo": "L’analista Masala: “Patetico che l’Europa elemosini un posto al tavolo della trattativa con Mosca”",
+      "titolo_originale": "L’analista Masala: “Patetico che l’Europa elemosini un posto al tavolo della trattativa con Mosca”",
+      "sommario": "L’esperto militare tedesco: “Il punto vero è che i nemici hanno due mesi per ottenere risultati, prima cioè che si insedi a Washington il nuovo Congresso”",
+      "link": "https://www.repubblica.it/esteri/2026/11/16/news/europa_negoziati_ucraina_russia_masala-425725500/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 19:42:47 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:03 +0000"
     },
     {
-      "titolo": "Il tempo di Ronaldinho. A Ravenna classe e sorrisi: “È stata l’ultima? Chissà...”",
-      "titolo_originale": "Il tempo di Ronaldinho. A Ravenna classe e sorrisi: “È stata l’ultima? Chissà...”",
-      "sommario": "In campo a 46 anni e dopo 11 di assenza, il fuoriclasse ha esibito la solita allegria con qualche bel tocco e la partecipazione all’azione del gol dell’1-0 per la squadra di casa",
-      "link": "https://www.repubblica.it/sport/calcio/2026/11/15/news/ronaldinho_debutto_partita_ravenna_forli-425725517/",
+      "titolo": "La battaglia dei bot: ecco come l’IA cambia la politica",
+      "titolo_originale": "La battaglia dei bot: ecco come l’IA cambia la politica",
+      "sommario": "Gli agenti interagiscono con i profili, per elogiare il messaggio o denigrarlo. L’ombra dei regimi, dagli attacchi Navalny al faro di OpenAi su Cina e Iran",
+      "link": "https://www.repubblica.it/politica/2026/11/16/news/battaglia_bot_come_ia_cambia_politica-425726072/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 18:14:44 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Antonella Viola: “La mia Taranto ultima, serve una cura rivoluzionaria: ma Bari non ci ama”",
-      "titolo_originale": "Antonella Viola: “La mia Taranto ultima, serve una cura rivoluzionaria: ma Bari non ci ama”",
-      "sommario": "Intervista alla nota biologa sulla classifica di Italia Oggi che vede il capoluogo in fondo alla classifica nazionale per qualità della vita. E rivela: “Presentammo un progetto di ricerca avanzata in oncologia pediatrica ma perdemmo un anno inutilmente”",
-      "link": "https://bari.repubblica.it/cronaca/2026/11/15/news/antonella_viola_la_mia_taranto_ultima_serve_una_cura_rivoluzionaria_ma_bari_non_ci_ama-425725510/",
+      "titolo": "Minacce ibride: Crosetto accelera, ok al ddl sulla Difesa entro febbraio",
+      "titolo_originale": "Minacce ibride: Crosetto accelera, ok al ddl sulla Difesa entro febbraio",
+      "sommario": "In settimana primo sì alla legge che \nistituisce un centro ad hoc e specialisti cyber nelle forze armate",
+      "link": "https://www.repubblica.it/politica/2026/11/16/news/minacce_ibride_crosetto_accelera_cybersicurezza_febbraio-425726023/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 18:08:52 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Il Papa accolto da 500mila persone a Cusco, la città Inca: “Tradizioni popolari tesoro inestimabile”",
-      "titolo_originale": "Il Papa accolto da 500mila persone a Cusco, la città Inca: “Tradizioni popolari tesoro inestimabile”",
-      "sommario": "Leone XIV a 3.339 metri di altitudine dopo l’operazione al polmone, ieri era già stato sulle ande in elicottero, in giornata volerà nella foresta amazzonica",
-      "link": "https://www.repubblica.it/esteri/2026/11/15/news/papa_leone_peru_accolto_da_500mila_persone_a_cusco_la_citta_inca_tradizioni_popolari-425725414/",
+      "titolo": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
+      "titolo_originale": "Ciardi: “L’Italia investa di più contro gli attacchi cyber. Voto a rischio manipolazione”",
+      "sommario": "La vicedirettrice dell’Agenzia per la sicurezza cibernetica: “Non è più solo\ndisinformazione ma capacità di influire sull’opinione e il consenso”",
+      "link": "https://www.repubblica.it/politica/2026/11/16/news/nunzia_ciardi_italia_investa_di_piu_cybersicurezza_voto_manipolazione_intervista-425726012/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 16:58:03 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
-      "titolo_originale": "Padova, malore sui Colli Euganei: escursionista muore davanti al figlio di 7 anni",
-      "sommario": "Tragedia nel primo pomeriggio sul sentiero 29. L’allarme lanciato da alcune persone di passaggio, inutili i tentativi di rianimazione di Soccorso alpino ed elisoccorso",
-      "link": "https://www.repubblica.it/cronaca/2026/11/15/news/escursionista_muore_davanti_a_figlio_colli_euganei-425725385/",
+      "titolo": "Quando l’algoritmo che si ribella al capo è più libero di un peone",
+      "titolo_originale": "Quando l’algoritmo che si ribella al capo è più libero di un peone",
+      "sommario": "Abbiamo assistito a un corto circuito tra intelligenza ed etica che avevamo visto solo in Blade Runner o nelle fantasie di Asimov e di Philip Dick",
+      "link": "https://www.repubblica.it/politica/2026/11/16/news/bot_quando_algoritmo_si_ribella_al_capo_piu_libero_peone-425726081/",
       "fonte": "Repubblica",
       "lingua_originale": "it",
-      "data": "Sun, 15 Nov 2026 16:42:44 +0000"
+      "data": "Mon, 16 Nov 2026 00:00:00 +0000"
     },
     {
-      "titolo": "Australia, Canada, Italia e Regno Unito esortano Israele a consentire l'ingresso degli aiuti a Gaza",
-      "titolo_originale": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-      "sommario": "I Paesi accusano Israele di impedire l'ingresso di tende e altri rifornimenti a Gaza, nonostante la crisi umanitaria.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "titolo": "Il presidente indonesiano si scusa con Singapore e la Malesia per la cappa di fumo provocata dagli incendi boschivi",
+      "titolo_originale": "Indonesian president apologises to Singapore, Malaysia for wildfire haze",
+      "sommario": "Prabowo afferma che il suo governo applica una \"politica di tolleranza zero\" nei confronti delle aziende che contribuiscono agli incendi e promette di adottare misure severe.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/indonesian-president-apologises-to-singapore-malaysia-for-wildfire-haze?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 22:06:38 +0000"
+      "data": "Mon, 16 Nov 2026 04:11:53 +0000"
     },
     {
-      "titolo": "Il capo del Tesoro statunitense chiede che un esterno guidi l'azienda tecnologica Nvidia, in difficoltà",
-      "titolo_originale": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
-      "sommario": "Scott Bessent concede al consiglio di amministrazione di Nvidia 10 giorni per dimostrare la conformità dell'azienda ai controlli sulle esportazioni statunitensi.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+      "titolo": "Papa Leone vola a messa nel Papacottero",
+      "titolo_originale": "Pope Leo flies to mass in the Papacoptero",
+      "sommario": "Papa Leone è stato filmato mentre volava nella cabina di pilotaggio di un elicottero militare per celebrare la messa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-leo-flies-to-mass-in-the-papacoptero?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 21:47:47 +0000"
+      "data": "Mon, 16 Nov 2026 03:54:04 +0000"
     },
     {
-      "titolo": "Gli Houthi dello Yemen rilasciano unilateralmente 600 detenuti di guerra",
-      "titolo_originale": "Yemen’s Houthis unilaterally release 600 war detainees",
-      "sommario": "Gli Houthi dello Yemen hanno rilasciato 600 persone imprigionate durante la guerra civile del Paese.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "titolo": "Incendio in un edificio commerciale uccide almeno 11 persone a Phuket",
+      "titolo_originale": "Shophouse fire kills at least 11 in Phuket",
+      "sommario": "Un incendio ha avvolto gli edifici della famosa città turistica thailandese di Patong, uccidendo diverse persone e ferendone molte altre.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/shophouse-fire-kills-at-least-11-in-phuket?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 21:19:08 +0000"
+      "data": "Mon, 16 Nov 2026 03:51:43 +0000"
     },
     {
-      "titolo": "Foto: Papa Leone visita le regioni amazzoniche e andine del Perù durante un tour di 12 giorni",
-      "titolo_originale": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
-      "sommario": "Il Papa ha invitato a preservare le tradizioni indigene in Perù, mentre conclude un tour di 12 giorni in America Latina.",
-      "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+      "titolo": "L'ASEAN e la Cina non riescono a concordare un codice di condotta per il Mar Cinese Meridionale",
+      "titolo_originale": "ASEAN, China fall short of agreeing on South China Sea code",
+      "sommario": "I leader del Sud-Est asiatico denunciano anche le violenze in Myanmar e prorogano il divieto alla leader del Paese di partecipare ai vertici del blocco.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/asean-china-fall-short-of-agreeing-on-south-china-sea-code?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:54:13 +0000"
+      "data": "Mon, 16 Nov 2026 02:46:35 +0000"
     },
     {
-      "titolo": "I palestinesi riconquistano le coste di Gaza con una nuotata per la speranza",
-      "titolo_originale": "Palestinians reclaim Gaza’s shores with a swim for hope",
-      "sommario": "Per la prima volta dopo oltre tre anni, la federazione di nuoto di Gaza ha organizzato una competizione.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "titolo": "Gli Houthi avanzano nello Yemen mentre le forze governative si spostano per difendere Aden",
+      "titolo_originale": "Houthis advance in Yemen as government forces move to defend Aden",
+      "sommario": "L'avanzata del gruppo armato Houthi nello Yemen minaccia una delle ultime roccaforti del governo.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:50:15 +0000"
+      "data": "Mon, 16 Nov 2026 02:22:29 +0000"
     },
     {
-      "titolo": "Chi può costringere Israele ad attuare l'accordo di cessate il fuoco a Gaza?",
-      "titolo_originale": "Who can force Israel to implement Gaza ceasefire deal?",
-      "sommario": "Le tempeste colpiscono i territori palestinesi mentre Israele limita l'ingresso degli aiuti.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "titolo": "Il Papa condanna gli omicidi dei leader indigeni peruviani e la deforestazione dell'Amazzonia",
+      "titolo_originale": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "sommario": "Il Pontefice afferma di sostenere gli sforzi delle popolazioni indigene per proteggere le loro terre e chiede giustizia per gli attivisti ambientalisti uccisi.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:37:43 +0000"
+      "data": "Mon, 16 Nov 2026 01:52:12 +0000"
     },
     {
-      "titolo": "L'Estonia chiuderà i valichi di frontiera con la Russia dopo il presunto attacco incendiario",
-      "titolo_originale": "Estonia to close border crossings with Russia after alleged arson attack",
-      "sommario": "L'Estonia sta chiudendo i valichi di frontiera con la Russia a seguito di un presunto tentativo di incendio doloso in una fabbrica di droni.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+      "titolo": "Il Papa esorta a porre fine alla deforestazione dell'Amazzonia",
+      "titolo_originale": "Pope urges end to Amazon deforestation",
+      "sommario": "Papa Leone XIV mette in guardia sul fatto che la deforestazione e l'estrazione mineraria illegale minacciano la foresta pluviale amazzonica e le comunità locali.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:31:18 +0000"
+      "data": "Mon, 16 Nov 2026 01:44:11 +0000"
     },
     {
-      "titolo": "La Giordania condanna a morte tre uomini per l'attentato mortale alla chiesa di Karak",
-      "titolo_originale": "Jordan sentences three men to death over deadly church attack in Karak",
-      "sommario": "La Giordania condanna a morte tre uomini per l'attentato mortale alla chiesa di Karak",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+      "titolo": "Il fondatore del cartello di Guadalajara muore in ospedale dopo decenni di carcere",
+      "titolo_originale": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "sommario": "Miguel Ángel Félix Gallardo è stato condannato per l'omicidio, avvenuto nel 1985, di un agente antidroga statunitense e di un pilota messicano.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:12:38 +0000"
+      "data": "Mon, 16 Nov 2026 00:51:23 +0000"
     },
     {
-      "titolo": "Il CDC africano afferma che l'epidemia di Ebola nella Repubblica Democratica del Congo \"non è ancora sotto controllo\"",
-      "titolo_originale": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
-      "sommario": "\"Se non fermiamo subito questa epidemia, sarà la peggiore epidemia di Ebola\", afferma il direttore dell'Africa CDC.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+      "titolo": "Dopo un blocco a livello nazionale, gli Stati Uniti si trovano ad affrontare problemi legati alle infrastrutture del settore dell'aviazione",
+      "titolo_originale": "After a nationwide ground stop, US faces aviation infrastructure questions",
+      "sommario": "Trump ha chiesto 50 miliardi di dollari per gli aggiornamenti, ma i legislatori democratici chiedono trasparenza prima di spendere di più.",
+      "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 20:07:06 +0000"
+      "data": "Mon, 16 Nov 2026 00:45:48 +0000"
     },
     {
-      "titolo": "Un drone israeliano è stato filmato mentre volava basso fuori dalle case nel Libano meridionale",
-      "titolo_originale": "Israeli drone filmed flying low outside homes in southern Lebanon",
-      "sommario": "Il video mostra un drone israeliano che vola a bassa quota sopra una zona residenziale nel sud del Libano.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+      "titolo": "I cechi scendono in piazza contro la minaccia del governo all'indipendenza dei media",
+      "titolo_originale": "Czechs rally against gov’t threat to media independence",
+      "sommario": "I cechi hanno manifestato a Praga contro i piani di trasferire il finanziamento dei media pubblici allo Stato, sollevando timori sull'influenza del governo.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Sun, 15 Nov 2026 19:02:21 +0000"
+      "data": "Mon, 16 Nov 2026 00:26:32 +0000"
     },
     {
-      "titolo": "La russa Andreeva batte l'ucraina Svitolina e vince il torneo WTA di fine anno",
-      "titolo_originale": "Russia’s Andreeva beats Ukraine’s Svitolina to win WTA year-end tournament",
-      "sommario": "L'incontro si è concluso con il punteggio di 7-5, 6-3",
-      "link": "https://tass.com/sports/2218417",
+      "titolo": "La Casa Bianca conferma l'incontro Trump-Putin-Xi a Shenzhen",
+      "titolo_originale": "White House confirms Trump-Putin-Xi meeting in Shenzhen",
+      "sommario": "Il vertice trilaterale si svolgerà presso il resort Kylin Villa ed è previsto che inizi alle 6:30 GMT del 19 novembre, secondo il programma del leader statunitense.",
+      "link": "https://tass.com/world/2218449",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Mon, 16 Nov 2026 01:27:52 +0300"
+      "data": "Mon, 16 Nov 2026 07:52:41 +0300"
     },
     {
-      "titolo": "Trump accusa l'amministrazione Biden di danneggiare l'aviazione civile statunitense",
-      "titolo_originale": "Trump accuses Biden administration of damaging US civil aviation",
-      "sommario": "Secondo il presidente degli Stati Uniti, l'amministrazione del suo predecessore ha reso \"un sistema vecchio e malfunzionante peggiore di quanto fosse quando hanno iniziato\".",
-      "link": "https://tass.com/world/2218413",
+      "titolo": "La stella del tennis russo Mirra Andreeva sale al secondo posto nel ranking WTA",
+      "titolo_originale": "Russia’s tennis star Mirra Andreeva climbs to second in WTA rankings",
+      "sommario": "La kazaka Elena Rybakina rimane in cima alla classifica",
+      "link": "https://tass.com/sports/2218447",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Mon, 16 Nov 2026 00:47:20 +0300"
+      "data": "Mon, 16 Nov 2026 07:38:45 +0300"
     },
     {
-      "titolo": "Segnalate esplosioni nelle città ucraine di Charkiv e Čerkasy",
-      "titolo_originale": "Explosions reported in Ukrainian cities of Kharkov, Cherkassy",
-      "sommario": "Gli allarmi antiaerei sono in vigore anche in diverse altre regioni ucraine",
-      "link": "https://tass.com/emergencies/2218411",
+      "titolo": "Un analista statunitense afferma che la Russia sta effettivamente vincendo il conflitto in Ucraina",
+      "titolo_originale": "Russia effectively wins Ukraine conflict, US analyst says",
+      "sommario": "Secondo Ted Snider, rimane incerto per quanto tempo Volodymyr Zelensky e i leader europei \"resisteranno prima di staccare la spina\".",
+      "link": "https://tass.com/world/2218445",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Mon, 16 Nov 2026 00:24:06 +0300"
+      "data": "Mon, 16 Nov 2026 07:30:20 +0300"
     },
     {
-      "titolo": "I droni ucraini continuano a lanciare ordigni esplosivi su Ryl'sk, nella regione di Kursk",
-      "titolo_originale": "Ukrainian drones continue dropping explosive devices on Kursk Region’s Rylsk",
-      "sommario": "Gli artificieri inizieranno a bonificare l'area non appena la situazione lo consentirà, ha riferito il governatore Alexander Khinshtein.",
-      "link": "https://tass.com/emergencies/2218409",
+      "titolo": "Il presidente della Commissione europea conferma l'intenzione di partecipare ai colloqui sull'Ucraina",
+      "titolo_originale": "European Commission chief confirms plans to take part in Ukraine talks",
+      "sommario": "Ursula von der Leyen ha osservato che i Paesi europei parteciperanno al formato E5 + UE",
+      "link": "https://tass.com/world/2218443",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 23:58:20 +0300"
+      "data": "Mon, 16 Nov 2026 07:10:47 +0300"
     },
     {
-      "titolo": "Una petroliera prende fuoco dopo aver urtato una mina marina nello Stretto di Hormuz — Corpo delle Guardie rivoluzionarie islamiche (IRGC)",
-      "titolo_originale": "Tanker catches fire after striking sea mine in Strait of Hormuz — IRGC",
-      "sommario": "Secondo la dichiarazione, la petroliera stava percorrendo una rotta non autorizzata con i suoi sistemi di navigazione spenti.",
-      "link": "https://tass.com/world/2218407",
+      "titolo": "Shenzhen schiera ulteriori forze di polizia in vista del vertice dell'APEC",
+      "titolo_originale": "Shenzhen deploys additional police forces ahead of APEC summit",
+      "sommario": "Sono state intensificate le pattuglie di polizia e sono stati rafforzati i controlli sul trasporto e lo stoccaggio di sostanze pericolose ed esplosive.",
+      "link": "https://tass.com/world/2218441",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 23:52:37 +0300"
+      "data": "Mon, 16 Nov 2026 06:59:43 +0300"
     },
     {
-      "titolo": "Due civili feriti nell'esplosione di un ordigno nella città di Ryl'sk, nella regione di Kursk",
-      "titolo_originale": "Two civilians wounded in explosive device blast in Kursk Region’s Rylsk",
-      "sommario": "Entrambi sono in gravi condizioni, ha riferito il governatore Alexander Khinshtein",
-      "link": "https://tass.com/emergencies/2218405",
+      "titolo": "L'inviato iraniano fa riferimento al messaggio \"speciale\" della Guida Suprema a Putin",
+      "titolo_originale": "Iranian envoy points to Supreme Leader’s ‘special’ message to Putin",
+      "sommario": "Kazem Jalali ha sottolineato l'importanza delle relazioni tra i due Paesi",
+      "link": "https://tass.com/world/2218439",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 23:47:12 +0300"
+      "data": "Mon, 16 Nov 2026 06:22:52 +0300"
     },
     {
-      "titolo": "La Russia verificherà le informazioni sui piani dell'Estonia di chiudere i valichi di frontiera — diplomatico",
-      "titolo_originale": "Russia to check information about Estonia’s plans to close border crossings — diplomat",
-      "sommario": "Maria Zakharova ha aggiunto che, qualora queste informazioni dovessero essere confermate, \"saranno considerate l'ennesimo attacco di russofobia aggressiva e sfrenata\".",
-      "link": "https://tass.com/politics/2218399",
+      "titolo": "È improbabile che la decisione dell'IIHF costituisca un precedente per altri sport – Portavoce del Cremlino",
+      "titolo_originale": "IIHF decision unlikely to set precedent for other sports — Kremlin spokesman",
+      "sommario": "Dmitry Peskov ha inoltre affermato che la Russia intende continuare a collaborare con tutte le federazioni sportive internazionali per far tornare i suoi atleti alle competizioni internazionali.",
+      "link": "https://tass.com/politics/2218437",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 23:24:21 +0300"
+      "data": "Mon, 16 Nov 2026 05:46:54 +0300"
     },
     {
-      "titolo": "Le risposte degli Stati Uniti alle condizioni dell'Iran non possono essere attuate – alto diplomatico iraniano",
-      "titolo_originale": "US’ responses to Iran’s terms cannot be implemented — senior Iranian diplomat",
-      "sommario": "Kazem Gharibabadi ha spiegato che il documento prevede un rinvio nell'adempimento di determinate condizioni stabilite dall'Iran, il che è inaccettabile per Teheran",
-      "link": "https://tass.com/world/2218397",
+      "titolo": "Xi Jinping terrà un incontro trilaterale con Putin e Trump il 19 novembre — Ministero degli Affari Esteri cinese",
+      "titolo_originale": "Xi Jinping to hold trilateral meeting with Putin, Trump on November 19 — Chinese MFA",
+      "sommario": "Secondo la dichiarazione, l'evento si svolgerà a margine del vertice dell'APEC a Shenzhen",
+      "link": "https://tass.com/world/2218433",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 23:08:14 +0300"
+      "data": "Mon, 16 Nov 2026 04:46:51 +0300"
     },
     {
-      "titolo": "Gli Houthi affermano di aver colpito l'aeroporto di Riad e il centro finanziario",
-      "titolo_originale": "Houthis say they hit Riyadh’s airport, financial center",
-      "sommario": "Secondo il portavoce di Ansar Allah, Yahya Saree, i missili hanno colpito anche le postazioni delle forze saudite nel governatorato di Lahij, nel sud dello Yemen.",
-      "link": "https://tass.com/world/2218395",
+      "titolo": "La portaerei USS Theodore Roosevelt arriva nell'area di responsabilità del CENTCOM",
+      "titolo_originale": "USS Theodore Roosevelt aircraft carrier arrives in CENTCOM area of responsibility",
+      "sommario": "Secondo il corrispondente di Axios Barak Ravid, l'esercito statunitense dispone di tre navi di questo tipo nel CENTCOM.",
+      "link": "https://tass.com/world/2218431",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 22:49:02 +0300"
+      "data": "Mon, 16 Nov 2026 04:10:08 +0300"
     },
     {
-      "titolo": "La Russia farà appello al CIO dopo l'esclusione della sua squadra dai Campionati del mondo juniores",
-      "titolo_originale": "Russia to appeal to IOC following exclusion of its team from World Junior Championship",
-      "sommario": "L'IIHF ha dichiarato, in precedenza nella stessa giornata, che la squadra russa non potrà partecipare al torneo a causa della posizione delle autorità canadesi",
-      "link": "https://tass.com/sports/2218393",
+      "titolo": "Gli attacchi ucraini uccidono un civile e ne feriscono altri otto nella Repubblica Popolare di Donetsk nell'ultima giornata",
+      "titolo_originale": "Ukrainian attacks kill civilian, injure eight others in DPR over past day",
+      "sommario": "I militari ucraini hanno sparato 49 proiettili",
+      "link": "https://tass.com/defense/2218427",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 22:28:27 +0300"
+      "data": "Mon, 16 Nov 2026 03:08:12 +0300"
     },
     {
-      "titolo": "Meta multata per quasi 900 milioni di dollari per la sentenza sulla privacy delle foto su Facebook",
+      "titolo": "Israele accusa il giornalista dell'AFP arrestato di avere legami con Hamas",
+      "titolo_originale": "Israel accuses arrested AFP journalist of Hamas links",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afa806d203027470c79f092.jpg\" style=\"margin-right: 10px;\" /> Le forze israeliane hanno arrestato un cameraman dell'AFP nella Cisgiordania occupata, accusandolo di avere legami con Hamas senza presentare prove <br /><a href=\"https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/news/648878-israel-arrests-afp-journalist-over/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Mon, 16 Nov 2026 04:03:27 +0000"
+    },
+    {
+      "titolo": "L'ufficio di Netanyahu indagato per una presunta bufala di broglio elettorale – media",
+      "titolo_originale": "Netanyahu’s office probed over alleged election fraud hoax – media",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afa7ec7203027391e6c3749.jpg\" style=\"margin-right: 10px;\" /> Israeli police are reportedly examining whether Netanyahu’s aides planted false vote-buying allegations to undermine the October election <br /><a href=\"https://rt-english.com/news/648879-israel-netanyahu-voter-rigging-hoax-probe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/648879-israel-netanyahu-voter-rigging-hoax-probe/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Mon, 16 Nov 2026 03:56:42 +0000"
+    },
+    {
+      "titolo": "Houthis tighten grip on key Red Sea shipping route (VIDEOS)",
+      "titolo_originale": "Houthis tighten grip on key Red Sea shipping route (VIDEOS)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afa500c203027455e330c5b.jpg\" style=\"margin-right: 10px;\" /> Saudi-backed Yemeni forces have withdrawn from positions near the Bab el-Mandeb Strait as Houthi advances threaten Aden <br /><a href=\"https://rt-english.com/news/648876-houthis-tighten-grip-key-route/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/648876-houthis-tighten-grip-key-route/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Mon, 16 Nov 2026 00:36:55 +0000"
+    },
+    {
+      "titolo": "Zelensky blasts ‘empty shells’ among Ukraine support coalitions",
+      "titolo_originale": "Zelensky blasts ‘empty shells’ among Ukraine support coalitions",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afa3a83203027449c24e482.jpg\" style=\"margin-right: 10px;\" /> Zelensky has questioned the effectiveness of international coalitions backing Kiev as weapons deliveries face delays and funding shortages. <br /><a href=\"https://rt-english.com/russia/648875-zelensky-blasts-empty-shell-coalition/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/648875-zelensky-blasts-empty-shell-coalition/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "fonte": "RT",
+      "lingua_originale": "ru",
+      "data": "Sun, 15 Nov 2026 23:06:08 +0000"
+    },
+    {
+      "titolo": "Meta fined nearly $900 million in Facebook photo privacy ruling",
       "titolo_originale": "Meta fined nearly $900 million in Facebook photo privacy ruling",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9feea85f540285803c3a8.jpg\" style=\"margin-right: 10px;\" /> L'Italia ha inflitto a Meta una multa di 805 milioni di euro per l'accesso di Facebook alle gallerie fotografiche degli utenti Android senza il loro consenso informato <br /><a href=\"https://rt-english.com/news/648873-italy-fines-meta-privacy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9feea85f540285803c3a8.jpg\" style=\"margin-right: 10px;\" /> Italy has fined Meta €805 million over Facebook’s access to Android users’ photo galleries without informed consent <br /><a href=\"https://rt-english.com/news/648873-italy-fines-meta-privacy/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/648873-italy-fines-meta-privacy/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 15 Nov 2026 21:48:53 +0000"
     },
     {
-      "titolo": "La NATO annulla il vertice dei leader del 2027",
+      "titolo": "NATO cancels 2027 leaders’ summit",
       "titolo_originale": "NATO cancels 2027 leaders’ summit",
       "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9f338203027157c0812a3.jpg\" style=\"margin-right: 10px;\" /> NATO scrapped plans to hold a summit in Tirana next year, Albanian PM Edi Rama has said amid a rift between the US and European members <br /><a href=\"https://rt-english.com/news/648866-nato-cancels-leaders-summit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
       "link": "https://rt-english.com/news/648866-nato-cancels-leaders-summit/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
@@ -775,42 +811,6 @@
       "fonte": "RT",
       "lingua_originale": "ru",
       "data": "Sun, 15 Nov 2026 13:53:51 +0000"
-    },
-    {
-      "titolo": "Biden lashes out at Zelensky in new memoir",
-      "titolo_originale": "Biden lashes out at Zelensky in new memoir",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9afda85f540604a29e000.jpg\" style=\"margin-right: 10px;\" /> Biden has accused Zelensky of being stubborn and ungrateful in his new memoir, echoing Trump’s criticism of the Ukrainian leader <br /><a href=\"https://rt-english.com/news/648863-biden-zelensky-ungrateful-memoir/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648863-biden-zelensky-ungrateful-memoir/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 13:14:37 +0000"
-    },
-    {
-      "titolo": "The EU’s poorest state is done taking orders. Can it make Brussels listen?",
-      "titolo_originale": "The EU’s poorest state is done taking orders. Can it make Brussels listen?",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9a25920302715b131d518.jpg\" style=\"margin-right: 10px;\" /> Bulgaria’s election strengthens a sovereignty-first agenda, setting up tougher bargaining with Brussels over energy, borders, and EU funds <br /><a href=\"https://rt-english.com/news/648768-eus-poorest-state-is-done/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648768-eus-poorest-state-is-done/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 12:18:37 +0000"
-    },
-    {
-      "titolo": "Iran targets US military assets in Bahrain (VIDEOS)",
-      "titolo_originale": "Iran targets US military assets in Bahrain (VIDEOS)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af9600e85f5405f876fe85d.png\" style=\"margin-right: 10px;\" /> Iran’s IRGC claims six drones struck a US radar site in Bahrain in retaliation for US attacks on Iranian civilian areas <br /><a href=\"https://rt-english.com/news/648851-iran-us-base-bahrain/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648851-iran-us-base-bahrain/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 09:18:01 +0000"
-    },
-    {
-      "titolo": "French TV crew mugged while covering protests (VIDEOS)",
-      "titolo_originale": "French TV crew mugged while covering protests (VIDEOS)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6af96a0985f5405c7f10953c.png\" style=\"margin-right: 10px;\" /> A BFMTV cameraman was beaten and robbed during Lyon protests as France faces another weekend of unrest <br /><a href=\"https://rt-english.com/news/648853-french-tv-crew-mugged-lyon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/648853-french-tv-crew-mugged-lyon/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
-      "fonte": "RT",
-      "lingua_originale": "ru",
-      "data": "Sun, 15 Nov 2026 08:32:11 +0000"
     }
   ]
 }
