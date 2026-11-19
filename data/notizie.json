@@ -1,42 +1,51 @@
 {
-  "aggiornato": "2026-11-19T06:34:03.439137",
-  "totale_notizie": 80,
+  "aggiornato": "2026-11-19T20:03:19.321809",
+  "totale_notizie": 90,
   "notizie": [
     {
-      "titolo": "Questo è un momento diplomatico straordinario per Xi, il Presidente cinese, ma non è privo di insidie",
-      "titolo_originale": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-      "sommario": "L'incontro presenta delle sfide, poiché ci sono argomenti che Xi non sembra desideroso di discutere con Putin e Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "titolo": "La massima corte delle Nazioni Unite stabilisce che il Myanmar ha commesso un genocidio contro la minoranza Rohingya",
+      "titolo_originale": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "sommario": "La sentenza senza precedenti della Corte internazionale di giustizia riguarda una repressione militare del 2017 che ha provocato migliaia di morti.",
+      "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:42:52 GMT"
+      "data": "Thu, 19 Nov 2026 16:55:57 GMT"
     },
     {
-      "titolo": "All'interno del vecchio gasdotto dove l'Ucraina sta combattendo una guerra sotterranea con la Russia",
-      "titolo_originale": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "sommario": "Guarda: Jonathan Beale della BBC si unisce alle forze ucraine che portano la battaglia sottoterra e lontano dalla vista dei droni russi.",
-      "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Trump, Putin e Xi pubblicano una \"dichiarazione di pace\" dopo l'incontro storico",
+      "titolo_originale": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "sommario": "Sebbene i presidenti si siano già incontrati in incontri bilaterali, questa è la loro prima discussione trilaterale.",
+      "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Wed, 18 Nov 2026 17:00:40 GMT"
+      "data": "Thu, 19 Nov 2026 17:38:22 GMT"
     },
     {
-      "titolo": "La Corte dell'ONU emette una sentenza storica sul genocidio in Myanmar per i massacri dei Rohingya",
-      "titolo_originale": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-      "sommario": "Nessuno Stato è mai stato dichiarato colpevole di genocidio da un tribunale internazionale.",
-      "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+      "titolo": "I leader affermano che l'Europa è pronta a negoziare con la Russia per porre fine alla guerra in Ucraina",
+      "titolo_originale": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "sommario": "Gli alleati europei dell'Ucraina affermano di avere una posizione negoziale \"unita\" in occasione di un vertice a Berlino.",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Wed, 18 Nov 2026 23:04:06 GMT"
+      "data": "Thu, 19 Nov 2026 19:16:21 GMT"
     },
     {
-      "titolo": "Il gigante dell'IA Anthropic valutato fino a 1,5 trilioni di dollari prima del debutto in borsa",
-      "titolo_originale": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "sommario": "L'azienda ha iniziato la sua attività solo cinque anni fa ed è ora uno dei nomi più importanti nel campo dell'intelligenza artificiale.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Decine di dispersi dopo il naufragio di un'imbarcazione con a bordo migranti al largo della costa del Senegal",
+      "titolo_originale": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "sommario": "Sono stati recuperati almeno quattro corpi dall'imbarcazione che, secondo quanto riferito, trasportava tra le 50 e le 100 persone.",
+      "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 02:20:15 GMT"
+      "data": "Thu, 19 Nov 2026 15:52:26 GMT"
+    },
+    {
+      "titolo": "Putin promette una risposta \"molto più dolorosa\" agli attacchi dell'Ucraina al ponte di Crimea",
+      "titolo_originale": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "sommario": "Il ponte, simbolo dell'occupazione della penisola di Crimea da parte della Russia, ha subito gravi danni a seguito di un attacco combinato da parte dell'Ucraina all'inizio di questa settimana.",
+      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "fonte": "BBC World",
+      "lingua_originale": "en",
+      "data": "Thu, 19 Nov 2026 13:07:35 GMT"
     },
     {
       "titolo": "Un dipinto di Van Gogh venduto per la cifra record di 190,4 milioni di dollari dopo una controversia sulla sua storia legata al nazismo",
@@ -48,229 +57,238 @@
       "data": "Thu, 19 Nov 2026 00:49:19 GMT"
     },
     {
-      "titolo": "Secondo un funzionario russo, il ponte di Crimea è stato nuovamente attaccato",
-      "titolo_originale": "Crimean Bridge attacked again, Russian official says",
-      "sommario": "Il capo della Crimea ha dichiarato che il traffico è stato sospeso dopo un altro attacco al collegamento tra la Russia e il territorio occupato.",
-      "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "titolo": "Il Venezuela firma un accordo militare con gli Stati Uniti a meno di un anno dalla destituzione di Maduro",
+      "titolo_originale": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "sommario": "Il Segretario alla Difesa degli Stati Uniti afferma che il Venezuela è \"passato dall'essere la nostra minaccia regionale più aggressiva a un partner per la sicurezza collaborativo\".",
+      "link": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:37:17 GMT"
+      "data": "Thu, 19 Nov 2026 13:31:23 GMT"
     },
     {
-      "titolo": "L'esercito israeliano lancia una rara operazione di terra a Gaza oltre la Linea gialla",
-      "titolo_originale": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-      "sommario": "Hamas condanna l'incursione, che secondo l'esercito israeliano mira a smantellare un \"tunnel del terrore\", definendola una \"flagrante\" violazione del cessate il fuoco.",
-      "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "titolo": "A Susan Smith è stata nuovamente negata la libertà condizionale 32 anni dopo aver annegato i suoi due figli",
+      "titolo_originale": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "sommario": "Durante un'udienza sulla possibilità di ottenere la libertà condizionata, Smith ha dichiarato che avrebbe voluto poter cambiare il passato e che i suoi due figli \"non meritavano di morire\".",
+      "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Wed, 18 Nov 2026 22:34:56 GMT"
+      "data": "Thu, 19 Nov 2026 17:23:34 GMT"
     },
     {
-      "titolo": "Elon Musk afferma che la spesa record per le elezioni di midterm negli Stati Uniti è stata \"abbastanza sciocca\"",
-      "titolo_originale": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-      "sommario": "Il multimiliardario ha anche affermato di \"non essere Maga\", prendendo le distanze dal movimento politico legato a Trump.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "titolo": "Un consorzio statunitense si aggiudica un importante contratto minerario in Kenya, battendo i rivali cinesi",
+      "titolo_originale": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "sommario": "Si stima che il sito di Mrima Hill contenga giacimenti di minerali essenziali per un valore superiore a 60 miliardi di dollari (45 miliardi di sterline).",
+      "link": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 02:59:06 GMT"
+      "data": "Thu, 19 Nov 2026 12:56:30 GMT"
     },
     {
-      "titolo": "Un russo arrestato per aver spiato l'azienda statunitense della difesa Palantir per conto dell'Ucraina",
-      "titolo_originale": "Russian arrested for spying on US defence company Palantir over Ukraine support",
-      "sommario": "Secondo i pubblici ministeri, il sospettato ha seguito i dipendenti ed è stato trovato in possesso di documenti di identità statunitensi falsi e di due passaporti russi.",
-      "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+      "titolo": "I sopravvissuti alla frana mortale in Uganda chiedono giustizia alle Nazioni Unite",
+      "titolo_originale": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "sommario": "I sopravvissuti rifiutano i piani di trasferimento, affermando che non tengono conto della loro sicurezza, dei loro diritti fondiari e dei loro mezzi di sussistenza.",
+      "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
       "fonte": "BBC World",
       "lingua_originale": "en",
-      "data": "Wed, 18 Nov 2026 23:28:03 GMT"
+      "data": "Thu, 19 Nov 2026 09:21:54 GMT"
     },
     {
-      "titolo": "Genitori incarcerati per le torture e la morte di una bambina di quattro anni ritrovata lungo un'autostrada francese nel 1987",
-      "titolo_originale": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "sommario": "Il corpo di Inass Touloub è stato ritrovato lungo l'autostrada A10 nel 1987, con segni di violenza, e non è stato identificato fino al 2018.",
-      "link": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "fonte": "BBC World",
-      "lingua_originale": "en",
-      "data": "Wed, 18 Nov 2026 15:39:57 GMT"
-    },
-    {
-      "titolo": "Ada Colau: \"L'estrema destra ha saputo diagnosticare meglio del PSOE il malcontento dei cittadini\"",
-      "titolo_originale": "Ada Colau: “La ultraderecha ha sabido diagnosticar mejor que el PSOE el malestar de la ciudadanía”",
-      "sommario": "La candidata del Frente Amplio per il 29 novembre sostiene che la coalizione di sinistra sia il voto utile per \"fermare un governo di estrema destra e andare oltre in materia di edilizia abitativa\"",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/ada-colau-la-ultraderecha-ha-sabido-diagnosticar-mejor-que-el-psoe-el-malestar-de-la-ciudadania.html",
+      "titolo": "Dibattito elettorale del 29 novembre, in diretta | Sánchez è già nello studio per il suo unico confronto faccia a faccia con Feijóo",
+      "titolo_originale": "Debate electoral 29-N, en directo | Sánchez ya está en el estudio para su único cara a cara con Feijóo",
+      "sommario": "Feijóo è arrivato poco prima nello studio | Il presidente si è preparato al dibattito con il suo nucleo duro a La Moncloa e con la \"lezione appresa\" del 2023 | Il faccia a faccia inizia alle 22:00 ed è moderato da María Casado",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/debate-electoral-entre-pedro-sanchez-y-alberto-nunez-feijoo-en-directo.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
+      "data": "Thu, 19 Nov 2026 19:51:59 GMT"
     },
     {
-      "titolo": "90 minuti faccia a faccia: Sánchez cerca di recuperare i due punti che lo separano dal PP e Feijóo vuole ripetere il successo del 2023",
-      "titolo_originale": "90 minutos cara a cara: Sánchez busca remontar los dos puntos que le separan del PP y Feijóo repetir el éxito de 2023",
-      "sommario": "Il candidato socialista ha interesse a far sapere che la partita è ancora aperta e quello del PP, che non è ancora vinta. L'ultimo sondaggio di 40 dB. assegna 192 seggi al PP e a Vox e il 32,4% dei voti ai popolari contro il 30,4% del PSOE",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/90-minutos-cara-a-cara-sanchez-busca-remontar-los-dos-puntos-que-le-separan-del-pp-y-feijoo-repetir-el-exito-de-2023.html",
+      "titolo": "Il sondaggio prima del dibattito: lieve vantaggio del PP e vantaggio molto chiaro del blocco di destra",
+      "titolo_originale": "La encuesta antes del debate: ligera ventaja del PP y muy clara del bloque derechista",
+      "sommario": "I socialisti stanno gradualmente riducendo la perdita di voti a favore del Partito Popolare, ma continuano a non raggiungerlo, secondo il sondaggio di questo giovedì",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-encuesta-antes-del-debate-ligera-ventaja-del-pp-y-muy-clara-del-bloque-derechista.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
+      "data": "Thu, 19 Nov 2026 19:00:02 GMT"
     },
     {
-      "titolo": "Sánchez sta mettendo a punto gli ultimi dettagli dell'incontro faccia a faccia con il suo nucleo duro a La Moncloa e della \"lezione appresa\" nel 2023",
-      "titolo_originale": "Sánchez ultima los detalles del cara a cara con su núcleo duro en La Moncloa y la “lección aprendida” de 2023",
-      "sommario": "Il presidente ha approfittato della giornata di sciopero generale per iniziare riunioni, telefonate e muovere le pedine con il suo capo di gabinetto in prima linea, con consultazioni costanti con i membri del governo.",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/sanchez-ultima-los-detalles-del-cara-a-cara-con-su-nucleo-duro-en-la-moncloa-y-la-leccion-aprendida-de-2023.html",
+      "titolo": "La Commissione elettorale respinge il ricorso del PSOE contro il video del PP su Sánchez realizzato con il “nuovo strumento” dell'IA",
+      "titolo_originale": "La Junta Electoral rechaza el recurso del PSOE contra el vídeo del PP sobre Sánchez hecho con el “novedoso instrumento” de la IA",
+      "sommario": "L'organo elettorale respinge la denuncia di Vox contro \"La Revuelta\" per non aver trasmesso l'intervista integrale di Abascal",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/la-junta-electoral-rechaza-el-recurso-del-psoe-contra-el-video-del-pp-sobre-sanchez-hecho-con-el-novedoso-instrumento-de-la-ia.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
-    },
-    {
-      "titolo": "Feijóo prepara il dibattito con la sua squadra galiziana e senza Miguel Ángel Rodríguez: massima pressione su Sánchez senza mettere a rischio il profilo presidenziale",
-      "titolo_originale": "Feijóo prepara el debate con su equipo gallego y sin Miguel Ángel Rodríguez: máxima presión sobre Sánchez sin arriesgar el perfil presidencial",
-      "sommario": "A Genova sostengono che “tutta la pressione è sulle spalle di Pedro Sánchez”, che è quello che nei sondaggi è più indietro",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/feijoo-ira-a-la-yugular-sin-arriesgar-el-perfil-presidencial-en-un-debate-preparado-con-su-equipo-gallego-y-sin-miguel-angel-rodriguez.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
-    },
-    {
-      "titolo": "Video, analisi in diretta e verifica in tempo reale: ecco come potrai seguire il confronto faccia a faccia tra Sánchez e Feijóo su EL PAÍS",
-      "titolo_originale": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo  en EL PAÍS",
-      "sommario": "Il giornale schiera una squadra di analisti e specialisti in tutti i campi per seguire l'unico dibattito a due della campagna elettorale del 29 novembre",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Wed, 18 Nov 2026 20:33:23 GMT"
-    },
-    {
-      "titolo": "Miguel Ángel Rodríguez, il biglietto dell'autobus di Rajoy e il sampietrino: i sette momenti che hanno fatto saltare in aria i dibattiti elettorali in Spagna",
-      "titolo_originale": "Miguel Ángel Rodríguez, el bonobús de Rajoy y el adoquín: los siete instantes que hicieron saltar por los aires los debates electorales en España",
-      "sommario": "Stasera gli spagnoli assisteranno al loro quattordicesimo confronto televisivo tra i candidati. Ecco alcuni dei momenti più salienti della storia di questo appuntamento nel nostro Paese",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/miguel-angel-rodriguez-el-bonobus-de-rajoy-y-el-adoquin-los-siete-instantes-que-hicieron-saltar-por-los-aires-los-debates-electorales-en-espana.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
-    },
-    {
-      "titolo": "Sentito nei saloni di parrucchiere, a proposito della copertina di Sánchez su \"Lecturas\": \"Sarà quello che sarà, ma sta benissimo\"",
-      "titolo_originale": "Oído en peluquerías, sobre la portada de Sánchez en ‘Lecturas’: “Será lo que sea, pero está estupendo”",
-      "sommario": "I lettori reagiscono all'intervista del Presidente del Governo sulla rivista di gossip",
-      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/oido-en-peluquerias-sobre-la-portada-de-sanchez-en-lecturas-sera-lo-que-sea-pero-esta-estupendo.html",
-      "fonte": "El País",
-      "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
+      "data": "Thu, 19 Nov 2026 19:32:33 GMT"
     },
     {
       "titolo": "Dove si vota di meno in Spagna? La mappa dell'astensionismo e del reddito, strada per strada",
       "titolo_originale": "¿Dónde se vota menos en España? El mapa de la abstención y la renta, calle a calle",
-      "sommario": "I dati degli ultimi cicli elettorali mostrano uno schema che si ripete: nei quartieri con reddito più alto si vota di più rispetto a quelli più umili. Con qualche eccezione",
+      "sommario": "I dati degli ultimi cicli elettorali mostrano uno schema che si ripete: nei quartieri più ricchi si vota di più rispetto a quelli più poveri. Con qualche eccezione",
       "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-mapa-de-la-abstencion-y-la-renta-donde-se-vota-menos-calle-a-calle.html",
       "fonte": "El País",
       "lingua_originale": "es",
       "data": "Thu, 19 Nov 2026 04:30:01 GMT"
     },
     {
-      "titolo": "È così che Blackstone ha messo fine alla fastidiosa campagna di una inquilina: ha parlato con un funzionario della Comunità di Madrid e lei ha ottenuto un appartamento.",
-      "titolo_originale": "Así acabó Blackstone con la molesta campaña de una inquilina: habló con un cargo de la Comunidad de Madrid y ella obtuvo un piso",
-      "sommario": "Elsa Riquelme ha aspettato dieci anni un alloggio popolare finché il fondo statunitense non ha mosso i fili per porre fine a una campagna da lei guidata",
-      "link": "https://elpais.com/espana/madrid/2026-11-19/asi-acabo-blackstone-con-la-molesta-campana-de-una-inquilina-hablo-con-un-cargo-de-la-comunidad-de-madrid-y-ella-obtuvo-un-piso.html",
+      "titolo": "Emilio Delgado definisce \"codarda\" Ayuso per averlo criticato per essersi rivolto, insieme alla sua compagna, al sistema sanitario privato: \"Voi distruggete il pubblico\"",
+      "titolo_originale": "Emilio Delgado llama “cobarde” a Ayuso por criticarlo por ir con su pareja a la sanidad privada: “Ustedes destruyen lo público”",
+      "sommario": "La presidente della Comunità di Madrid ha condiviso una foto senza contesto del deputato di Más Madrid in una sala d'attesa",
+      "link": "https://elpais.com/espana/madrid/2026-11-19/emilio-delgado-llama-cobarde-a-ayuso-por-criticarle-por-ir-con-su-pareja-a-la-sanidad-privada-ustedes-destruyen-lo-publico.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:50:00 GMT"
+      "data": "Thu, 19 Nov 2026 11:41:43 GMT"
     },
     {
-      "titolo": "Luis Figo: \"Nessuno mi ha mai regalato nulla nella vita, so perfettamente cosa vuol dire attraversare momenti difficili\"",
-      "titolo_originale": "Luis Figo: “Nadie me ha regalado nada en la vida, sé perfectamente lo que significa pasar por momentos complicados”",
-      "sommario": "L'ex calciatore vede la vita in un modo molto diverso rispetto a quando era in attività. Nella sua variegata veste di imprenditore, presenta la nuova collezione della maison di moda maschile che ha lanciato nel 2024. “Il fatto che ci sia il tuo nome può aiutare nella promozione del progetto, ma questo deve mantenersi grazie alla sua qualità e a ciò che può offrire. Il nome non ti garantisce nulla”, afferma.",
-      "link": "https://elpais.com/gente/2026-11-19/luis-figo-nadie-me-ha-regalado-nada-en-la-vida-se-perfectamente-lo-que-significa-pasar-por-momentos-complicados.html",
+      "titolo": "Crolla la prima grande bufala della campagna elettorale: Alvise, un garage a Burgos e un \"violento attacco\" in un'abitazione",
+      "titolo_originale": "El primer gran bulo de la campaña se derrumba: Alvise, un garaje en Burgos y un “ataque violento” en un domicilio",
+      "sommario": "Il leader di Se Acabó La Fiesta (SALF) pubblica sui suoi social un'asserita aggressione avvenuta a casa della sua candidata al Congresso, ma la realtà è ben diversa",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/el-primer-gran-bulo-de-la-campana-se-derrumba-alvise-un-garaje-en-burgos-y-un-ataque-violento-en-un-domicilio.html",
       "fonte": "El País",
       "lingua_originale": "es",
-      "data": "Thu, 19 Nov 2026 04:30:01 GMT"
+      "data": "Thu, 19 Nov 2026 12:22:58 GMT"
     },
     {
-      "titolo": "\"Inside Deutsche Bank\": dietro la facciata verde, i retroscena del \"greenwashing\" della banca tedesca",
-      "titolo_originale": "« Inside Deutsche Bank » : derrière la façade verte, les coulisses du « greenwashing » de la banque allemande",
-      "sommario": "Dopo l'Accordo di Parigi del 2015, la banca ha moltiplicato gli annunci per ridurre il proprio impatto sul clima. La fuga di dati \"Inside Deutsche Bank\" dimostra che il gruppo ha eluso o ignorato le proprie promesse in diverse occasioni.",
-      "link": "https://www.lemonde.fr/les-decodeurs/article/2026/11/19/inside-deutsche-bank-derriere-la-facade-verte-les-coulisses-du-greenwashing-de-la-banque-allemande_6813239_4355770.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 06:58:07 +0100"
+      "titolo": "Colau e Rufián scendono in campo separatamente nella campagna elettorale valenciana con lo stesso obiettivo: ottenere un proprio gruppo al Congresso",
+      "titolo_originale": "Colau y Rufián aterrizan por separado en la campaña valenciana con un mismo objetivo: lograr grupo propio en el Congreso",
+      "sommario": "Il candidato repubblicano riunisce più di mille persone a Vila-real (Castellón), mentre la coalizione regionale, con buone previsioni, cerca di prendere le distanze dal rumore di Madrid",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/colau-y-rufian-aterrizan-por-separado-en-la-campana-valenciana-con-un-mismo-objetivo-lograr-grupo-propio-en-el-congreso.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Thu, 19 Nov 2026 19:14:49 GMT"
     },
     {
-      "titolo": "IN DIRETTA, guerra in Ucraina: poco prima dell'incontro tripartito in Cina, Donald Trump si confronta separatamente con Vladimir Putin e Xi Jinping",
-      "titolo_originale": "EN DIRECT, guerre en Ukraine : peu avant la rencontre tripartite en Chine, Donald Trump s’entretient séparément avec Vladimir Poutine et Xi Jinping",
-      "sommario": "I presidenti americano e russo hanno discusso per circa quaranta minuti a Shenzhen, senza che si sappia quali siano stati gli argomenti trattati. Inoltre, mercoledì sera il ponte di Crimea è stato nuovamente colpito, due giorni dopo gli attacchi ucraini che hanno gravemente danneggiato l’infrastruttura.",
-      "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-peu-avant-leur-rencontre-tripartite-en-chine-donald-trump-s-entretient-separement-avec-vladimir-poutine-et-xi-jinping_6810982_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 06:52:41 +0100"
+      "titolo": "Ayuso si presenta con Albiol nella \"zona zero\" di Vox a Barcellona: \"Tra dieci giorni, la Spagna dovrà decidere se suicidarsi\"",
+      "titolo_originale": "Ayuso se planta con Albiol en la ‘zona cero’ de Vox en Barcelona: “En diez días, España tiene que decidir si se suicida”",
+      "sommario": "La presidente della Comunità di Madrid mette in guardia da un \"cambiamento nel modello di Stato se Pedro Sánchez rimarrà al potere dopo il 29 novembre\"",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/ayuso-se-planta-con-albiol-en-la-zona-cero-de-vox-en-barcelona-en-diez-dias-espana-tiene-que-decidir-si-se-suicida.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Thu, 19 Nov 2026 18:57:31 GMT"
     },
     {
-      "titolo": "La crisi dello Stretto di Hormuz favorisce «una stretta convergenza tra sicurezza energetica e obiettivi climatici», secondo il direttore dell'AIE, Fatih Birol.",
-      "titolo_originale": "La crise du détroit d’Ormuz favorise « une étroite convergence entre sécurité énergétique et objectifs climatiques », selon le directeur de l’AIE, Fatih Birol",
-      "sommario": "Giovedì 19 novembre, l’Agenzia internazionale dell’energia pubblica il suo rapporto annuale. In un'intervista al \"Le Monde\", il suo direttore esecutivo sottolinea come la guerra in Medio Oriente stia accelerando lo sviluppo delle energie rinnovabili, del nucleare e dell'elettrificazione.",
-      "link": "https://www.lemonde.fr/economie/article/2026/11/19/la-crise-du-detroit-d-ormuz-favorise-une-etroite-convergence-entre-securite-energetique-et-objectifs-climatiques-selon-le-directeur-de-l-aie-fatih-birol_6813236_3234.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 06:00:28 +0100"
+      "titolo": "Junts giustifica l'attacco di Puigdemont a Sánchez per via dell'amnistia: \"Bisogna farsi spazio nella campagna elettorale\"",
+      "titolo_originale": "Junts justifica el ataque de Puigdemont a Sánchez por la amnistía: “Hay que hacerse un hueco en campaña”",
+      "sommario": "Il partito sostiene di subire un'emarginazione nel pieno della battaglia elettorale tra PSOE e PP",
+      "link": "https://elpais.com/espana/elecciones-generales/2026-11-19/junts-justifica-el-ataque-de-puigdemont-a-sanchez-por-la-amnistia-hay-que-hacerse-un-hueco-en-campana.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Thu, 19 Nov 2026 19:28:12 GMT"
     },
     {
-      "titolo": "Mezzo miliardo di dollari speso per le elezioni di midterm del 2026: Elon Musk ammette di sentirsi \"un po' stupido\" dopo la schiacciante vittoria dei Democratici",
-      "titolo_originale": "Un demi-milliard de dollars dépensé pour les midterms 2026 : Elon Musk avoue se sentir « un peu idiot » après la victoire écrasante des démocrates",
-      "sommario": "Il multimiliardario ha in particolare sborsato oltre 220 milioni di dollari a favore del senatore uscente del Texas, Ken Paxton, alla fine sconfitto. Ha spiegato che il suo impegno mirava a \"garantire un certo equilibrio dei poteri\".",
-      "link": "https://www.lemonde.fr/international/article/2026/11/19/un-demi-milliard-de-dollars-depense-pour-les-midterms-2026-elon-musk-avoue-se-sentir-un-peu-idiot-apres-la-victoire-ecrasante-des-democrates_6813228_3210.html",
-      "fonte": "Le Monde",
-      "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 05:52:01 +0100"
+      "titolo": "Xi, Trump e Putin, dopo il vertice di Shenzhen: \"Una guerra nucleare non può essere vinta e non dovrebbe mai essere combattuta\"",
+      "titolo_originale": "Xi, Trump y Putin, tras la cumbre de Shenzhen: “Una guerra nuclear no se puede ganar y nunca debe librarse”",
+      "sommario": "I leader delle tre maggiori potenze si impegnano a riformare l'ONU e a garantire i flussi energetici. Il repubblicano si riferisce al presidente russo come a un “amico”",
+      "link": "https://elpais.com/internacional/2026-11-19/trump-y-putin-interactuan-en-shenzhen-antes-de-las-reuniones-con-xi.html",
+      "fonte": "El País",
+      "lingua_originale": "es",
+      "data": "Thu, 19 Nov 2026 15:53:31 GMT"
     },
     {
-      "titolo": "Guerra in Ucraina: la presenza di soldati francesi in Ucraina rende Parigi una \"cobelligerante\" contro la quale la Russia potrebbe reagire?",
-      "titolo_originale": "Guerre en Ukraine : la présence de soldats français en Ukraine fait-elle de Paris un « cobelligérant » contre qui la Russie pourrait riposter ?",
-      "sommario": "Il governo ha ammesso di aver dispiegato militari sul territorio ucraino nell'ambito di missioni di addestramento e manutenzione, riaccendendo il dibattito sui rischi che Mosca prenda di mira la Francia o sulla necessità di una consultazione del Parlamento.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/19/guerre-en-ukraine-la-presence-de-soldats-francais-en-ukraine-fait-elle-de-paris-un-cobelligerant-contre-qui-la-russie-pourrait-riposter_6813225_3210.html",
+      "titolo": "Per gli afghani espulsi dall’Iran, un ritorno difficile nel loro Paese: «Alcune notti dormiamo a stomaco vuoto»",
+      "titolo_originale": "Pour les Afghans expulsés d’Iran, un retour difficile dans leur pays : « Certaines nuits, nous dormons le ventre vide »",
+      "sommario": "Dal 2023, oltre 6 milioni di afghani sono rientrati dall'Iran e dal Pakistan, spesso sotto costrizione. Queste famiglie faticano a ritrovare un lavoro, un alloggio e condizioni di vita dignitose.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/pour-les-afghans-expulses-d-iran-un-retour-difficile-dans-leur-pays-certaines-nuits-nous-dormons-le-ventre-vide_6813373_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 05:30:19 +0100"
+      "data": "Thu, 19 Nov 2026 20:00:12 +0100"
     },
     {
-      "titolo": "In Spagna, i candidati fanno campagna elettorale presso gli youtuber",
-      "titolo_originale": "En Espagne, les candidats font campagne chez les youtubeurs",
-      "sommario": "Con l’avvicinarsi delle elezioni legislative del 29 novembre, i principali esponenti politici spagnoli moltiplicano gli incontri con i creatori di contenuti. Conversazioni informali, a volte molto intime, che consentono loro di raggiungere un pubblico lontano dai media tradizionali.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/19/en-espagne-les-candidats-font-campagne-chez-les-youtubeurs_6813223_3210.html",
+      "titolo": "IN DIRETTA, guerra in Ucraina: gli europei ribadiscono il loro sostegno a Kiev e parlano della loro partecipazione a futuri negoziati con i russi e gli americani",
+      "titolo_originale": "EN DIRECT, guerre en Ukraine : les Européens réaffirment leur soutien à Kiev et évoquent leur participation à de futures négociations avec les Russes et les Américains",
+      "sommario": "Al termine di una riunione dei membri della coalizione dei volontari, Emmanuel Macron ha avanzato l'idea di «riaprire la questione dell'adesione alla NATO». L'inviato americano ha dichiarato che gli Stati Uniti sarebbero disposti a concedere all'Ucraina una protezione di tipo NATO.",
+      "link": "https://www.lemonde.fr/international/live/2026/11/19/en-direct-guerre-en-ukraine-les-europeens-reaffirment-leur-soutien-a-kiev-et-evoquent-leur-participation-a-de-futures-negociations-avec-les-russes-et-les-americains_6810982_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 05:30:04 +0100"
+      "data": "Thu, 19 Nov 2026 19:40:13 +0100"
     },
     {
-      "titolo": "Vietare il commercio con gli insediamenti israeliani: i deputati vogliono mettere la Francia di fronte ai suoi impegni",
-      "titolo_originale": "Interdire le commerce avec les colonies israéliennes : des députés veulent placer la France face à ses engagements",
-      "sommario": "Una proposta di legge del Partito Socialista, esaminata giovedì 19 novembre all'Assemblea nazionale, intende vietare gli scambi commerciali con gli insediamenti israeliani, compresi i servizi finanziari, mentre il governo, due mesi dopo aver annunciato sanzioni, non agisce.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/19/interdire-le-commerce-avec-les-colonies-israeliennes-des-deputes-veulent-placer-la-france-face-a-ses-engagements_6813220_3210.html",
+      "titolo": "In Senegal, sdegno dopo la morte di una neonata vittima di mutilazione genitale femminile",
+      "titolo_originale": "Au Sénégal, l’émoi après la mort d’un nourrisson victime d’une excision",
+      "sommario": "La bambina di 2 giorni è morta per emorragia il 13 novembre, dopo essere stata sottoposta a un'escissione praticata dalla nonna. Alcuni collettivi femministi chiedono allo Stato senegalese di intensificare gli sforzi per porre fine a questa pratica che persiste nonostante il suo divieto.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/19/au-senegal-l-emoi-apres-la-mort-d-un-nourrisson-victime-d-une-excision_6813368_3212.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 05:00:05 +0100"
+      "data": "Thu, 19 Nov 2026 19:30:00 +0100"
     },
     {
-      "titolo": "Assassinio del presidente haitiano Jovenel Moïse: un pastore italo-haitiano riconosciuto colpevole di complicità",
-      "titolo_originale": "Assassinat du président haïtien Jovenel Moïse : un pasteur américano-haïtien reconnu coupable d’implication",
-      "sommario": "Christian Sanon, che ambiva a prendere la guida di Haiti, è stato in particolare dichiarato colpevole, mercoledì, da un tribunale federale di Miami, del progetto di assassinio di Jovenel Moïse.",
-      "link": "https://www.lemonde.fr/international/article/2026/11/19/assassinat-du-president-haitien-jovenel-moise-un-pasteur-americano-haitien-reconnu-coupable-aux-etats-unis-d-implication_6813218_3210.html",
+      "titolo": "589 milioni di bambini nel mondo vivono in una zona di guerra, un numero \"record\", secondo l’ONG Save the Children",
+      "titolo_originale": "589 millions d’enfants dans le monde vivent dans une zone de guerre, un chiffre « record », selon l’ONG Save the Children",
+      "sommario": "Secondo il rapporto, la percentuale di bambini che vivono in zone di conflitto è più che raddoppiata, passando dal 10% a metà degli anni '90 al 23,4% nel 2025, ovvero quasi un quarto.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/pres-d-un-quart-des-enfants-du-monde-vivent-dans-une-zone-de-conflit-selon-l-ong-save-the-children_6813367_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Thu, 19 Nov 2026 03:57:00 +0100"
+      "data": "Thu, 19 Nov 2026 19:29:43 +0100"
     },
     {
-      "titolo": "Tre «rimpatriate» francesi condannate a pene detentive da cinque a dodici anni per essersi unite all'organizzazione Stato Islamico",
-      "titolo_originale": "Trois « revenantes » françaises condamnées à des peines de cinq à douze ans de prison pour avoir rejoint l’organisation Etat islamique",
-      "sommario": "La Corte d’assise speciale di Parigi ha condannato due ex mogli di Adrien Guihal, alto dirigente dell’ISIS che nel 2016 aveva rivendicato gli attentati di Nizza e di Magnanville (Yvelines), nonché un’ex militare processata insieme a loro dal 9 novembre.",
-      "link": "https://www.lemonde.fr/societe/article/2026/11/18/trois-revenantes-francaises-condamnees-a-des-peines-de-cinq-a-douze-ans-de-prison-pour-avoir-rejoint-l-organisation-etat-islamique_6813211_3224.html",
+      "titolo": "\"Non si tratta più solo di mutilare, alcune ragazze vengono anche cucite\": in Gambia, un potente movimento conservatore cerca di riabilitare la mutilazione genitale femminile",
+      "titolo_originale": "« Il ne s’agit plus seulement d’exciser, certaines filles sont également cousues » : en Gambie, un puissant mouvement conservateur tente de réhabiliter l’excision",
+      "sommario": "In un Paese in cui quasi tre quarti delle donne di età compresa tra i 15 e i 49 anni sono vittime di mutilazioni genitali, una coalizione di esponenti religiosi, capi tradizionali ed eletti conservatori sta cercando di abrogare la legge del 2015 che criminalizza tali pratiche.",
+      "link": "https://www.lemonde.fr/afrique/article/2026/11/19/il-ne-s-agit-plus-seulement-d-exciser-certaines-filles-sont-egalement-cousues-en-gambie-un-puissant-mouvement-conservateur-tente-de-rehabiliter-l-excision_6813366_3212.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 18 Nov 2026 22:00:35 +0100"
+      "data": "Thu, 19 Nov 2026 19:00:17 +0100"
     },
     {
-      "titolo": "Hakeem Jeffries, futuro primo presidente nero della Camera dei rappresentanti statunitense?",
-      "titolo_originale": "Hakeem Jeffries, futur premier président noir de la Chambre des représentants américaine ?",
-      "sommario": "La sua elezione, prevista per gennaio, avrebbe un peso altamente simbolico, poiché il presidente della Camera dei Rappresentanti è a capo di una delle istituzioni più potenti di Washington ed è il secondo nella linea di successione presidenziale, dopo il vicepresidente.",
-      "link": "https://www.lemonde.fr/international/video/2026/11/18/hakeem-jeffries-futur-premier-president-noir-de-la-chambre-des-representants-americaine_6813207_3210.html",
+      "titolo": "Nei campi profughi Rohingya, dopo il riconoscimento del genocidio commesso dalla Birmania: \"È prima di tutto un momento per ricordare coloro che non ci sono più\"",
+      "titolo_originale": "Dans les camps de réfugiés rohingya, après la reconnaissance du génocide commis par la Birmanie : « C’est d’abord un moment pour se souvenir de ceux qui ne sont plus là »",
+      "sommario": "La sentenza della CIG è stata seguita in diretta dagli enormi campi profughi del Bangladesh, dove vivono oltre 1 milione di Rohingya. Un momento \"storico\", che riaccende il trauma del 2017.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/dans-les-camps-de-refugies-rohingya-apres-la-reconnaissance-du-genocide-commis-par-la-birmanie-c-est-d-abord-un-moment-pour-se-souvenir-de-ceux-qui-ne-sont-plus-la_6813365_3210.html",
       "fonte": "Le Monde",
       "lingua_originale": "fr",
-      "data": "Wed, 18 Nov 2026 21:21:10 +0100"
+      "data": "Thu, 19 Nov 2026 19:00:17 +0100"
+    },
+    {
+      "titolo": "\"La battaglia di Kinmen\": Stéphane Malsagne ripercorre i primi giorni del conflitto tra Cina e Taiwan",
+      "titolo_originale": "« La Bataille de Kinmen » : Stéphane Malsagne revient sur les premiers jours du conflit entre la Chine et Taïwan",
+      "sommario": "In un nuovo libro, lo storico racconta un momento cruciale dello scontro tra Cina e Taiwan: nel 1949, la battaglia sull'isola di Kinmen, che vide prevalere i nazionalisti, allora in piena disfatta.",
+      "link": "https://www.lemonde.fr/idees/article/2026/11/19/la-bataille-de-kinmen-stephane-malsagne-revient-sur-les-premiers-jours-du-conflit-entre-la-chine-et-taiwan_6813361_3232.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Thu, 19 Nov 2026 19:00:07 +0100"
+    },
+    {
+      "titolo": "Metano: l’UE rinvia l’entrata in vigore del suo regolamento pionieristico in nome della sicurezza energetica",
+      "titolo_originale": "Méthane : l’UE reporte l’entrée en vigueur de son règlement pionnier au nom de la sécurité énergétique",
+      "sommario": "Il testo è stato, per mesi, oggetto di un fuoco incrociato da parte di Washington e del settore petrolifero e del gas.",
+      "link": "https://www.lemonde.fr/economie/article/2026/11/19/l-union-europeenne-reporte-l-entree-en-vigueur-de-son-reglement-pionnier-sur-le-methane-au-nom-de-la-securite-energetique_6813359_3234.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Thu, 19 Nov 2026 18:32:25 +0100"
+    },
+    {
+      "titolo": "In Iraq, la giustizia decide il destino di sei jihadisti francesi, tra cui Thomas Barnouin",
+      "titolo_originale": "En Irak, la justice scelle le sort de six djihadistes français, dont Thomas Barnouin",
+      "sommario": "Mercoledì 18 novembre, a Baghdad, un tribunale iracheno ha condannato sei cittadini francesi all'ergastolo – equivalente a vent'anni di detenzione in Iraq – per la loro appartenenza all'organizzazione Stato Islamico. Tra questi figura il jihadista veterano Thomas Barnouin, proveniente dalla filiera di Artigat, nell'Ariège.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/en-irak-la-justice-scelle-le-sort-de-six-djihadistes-francais-dont-thomas-barnouin_6813357_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Thu, 19 Nov 2026 18:30:03 +0100"
+    },
+    {
+      "titolo": "A Shenzhen, Xi Jinping e il suo \"amico\" Vladimir Putin hanno addormentato Donald Trump tra gli sfarzi",
+      "titolo_originale": "A Shenzhen, Xi Jinping et « l’ami » Vladimir Poutine ont endormi Donald Trump sous les fastes",
+      "sommario": "I capi di Stato delle tre grandi potenze hanno approfittato del vertice in Cina per coltivare una falsa vicinanza, che non rivela nulla dei loro disaccordi su temi come l’intelligenza artificiale o gli arsenali nucleari.",
+      "link": "https://www.lemonde.fr/international/article/2026/11/19/a-shenzhen-xi-jinping-et-l-ami-vladimir-ont-endormi-donald-trump-sous-les-fastes_6813336_3210.html",
+      "fonte": "Le Monde",
+      "lingua_originale": "fr",
+      "data": "Thu, 19 Nov 2026 16:50:36 +0100"
+    },
+    {
+      "titolo": "Epstein e Deutsche Bank: \"I documenti hanno identificato pagamenti effettuati a favore di donne\"",
+      "titolo_originale": "Epstein and Deutsche Bank: “The Filings Identfied Payments Made to Women”",
+      "sommario": "Documenti della Deutsche Bank mostrano che l'istituto finanziario ha elaborato molti più pagamenti per Jeffrey Epstein di quanto fosse noto in precedenza. Tutto ciò che la banca vedeva era un cliente con un \"patrimonio netto estremamente elevato\"",
+      "link": "https://www.spiegel.de/international/business/epstein-and-deutsche-bank-the-filings-identfied-payments-made-to-women-a-e8f529f6-c583-4c99-a432-d0684c6697d7#ref=rss",
+      "fonte": "Der Spiegel",
+      "lingua_originale": "de",
+      "data": "Thu, 19 Nov 2026 16:19:00 +0100"
+    },
+    {
+      "titolo": "Il Summit di Shenzhen: Kevin Rudd mette in guardia dalla guerra a Taiwan",
+      "titolo_originale": "The Summit in Shenzhen: Kevin Rudd Warns against War in Taiwan",
+      "sommario": "In un'intervista, l'ex primo ministro australiano mette in guardia sul fatto che Xi Jinping sta cercando di dominare la corsa all'intelligenza artificiale grazie alle sue dimensioni. Afferma inoltre che un'invasione cinese di Taiwan avrebbe conseguenze drastiche.",
+      "link": "https://www.spiegel.de/international/world/the-summit-in-shenzhen-kevin-rudd-warns-against-war-in-taiwan-a-b6ec4620-7c68-4896-a720-67b160598aec#ref=rss",
+      "fonte": "Der Spiegel",
+      "lingua_originale": "de",
+      "data": "Thu, 19 Nov 2026 14:06:00 +0100"
     },
     {
       "titolo": "Documenti interni: come Donald Trump è diventato un cliente tossico per Deutsche Bank",
@@ -302,7 +320,7 @@
     {
       "titolo": "I diritti delle minoranze nelle elezioni di metà mandato: un contraccolpo democratico ai diritti delle persone transgender",
       "titolo_originale": "Minority Rights in the Midterms: A Democratic Recoil from Transgender Rights",
-      "sommario": "In vista delle elezioni di midterm, i Repubblicani hanno inondato le onde radio di messaggi anti-transgender. In una svolta nuova e preoccupante, alcuni democratici hanno seguito l'esempio. La comunità LGBTQ+ dell'Ohio è divisa su come reagire.",
+      "sommario": "Prima delle elezioni di midterm, i Repubblicani hanno inondato le onde radio di messaggi anti-transgender. In una svolta nuova e preoccupante, alcuni democratici hanno seguito l'esempio. La comunità LGBTQ+ dell'Ohio è divisa su come reagire.",
       "link": "https://www.spiegel.de/international/world/minority-rights-in-the-midterms-a-democratic-recoil-from-transgender-rights-a-628f6205-c90b-421b-a564-58bbbac5a0e1#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
@@ -336,391 +354,463 @@
       "data": "Sun, 11 Oct 2026 22:08:00 +0200"
     },
     {
-      "titolo": "\"Segreti di Stato sfruttati per profitto\": i servizi segreti tedeschi scossi dall'arresto per spionaggio dell'ex capo",
+      "titolo": "\"Segreti di Stato sfruttati a scopo di lucro\": i servizi segreti tedeschi scossi dall'arresto per spionaggio dell'ex capo",
       "titolo_originale": "\"Exploited State Secrets for Profit\": German Intelligence Rocked by Espionage Arrest of Former Chief",
-      "sommario": "L'arresto dell'ex capo del BND August Hanning ha provocato un'ondata di sgomento nel mondo dei servizi segreti. Eppure, il discutibile lavoro di consulenza di Hanning non era un segreto. I servizi segreti tedeschi hanno un problema sistemico?",
+      "sommario": "L'arresto dell'ex capo del BND August Hanning ha scosso il mondo dei servizi segreti. Eppure, l'attività di consulenza ambigua di Hanning non era un segreto. I servizi segreti tedeschi hanno un problema sistemico?",
       "link": "https://www.spiegel.de/international/germany/exploited-state-secrets-for-profit-german-intelligence-rocked-by-espionage-arrest-of-former-chief-a-06a62002-0fc7-4bc0-b7c7-5e6e9c829d0f#ref=rss",
       "fonte": "Der Spiegel",
       "lingua_originale": "de",
       "data": "Thu, 8 Oct 2026 15:30:00 +0200"
     },
     {
-      "titolo": "Abusi in Francia: \"Qualcuno pensa ai bambini?\"",
-      "titolo_originale": "Abuse in France: \"Is Anyone Thinking of the Children?\"",
-      "sommario": "La Francia è stata scossa da un'ondata di accuse di abusi su minori rivolte agli operatori della scuola materna. Lo scandalo colpisce il cuore del rinomato sistema scolastico del Paese. I genitori sono furiosi.",
-      "link": "https://www.spiegel.de/international/europe/abuse-in-france-is-anyone-thinking-of-the-children-a-04efcfff-d952-469b-879d-e8486cecd806#ref=rss",
-      "fonte": "Der Spiegel",
-      "lingua_originale": "de",
-      "data": "Wed, 7 Oct 2026 17:11:00 +0200"
-    },
-    {
-      "titolo": "La guerra di aggressione di Putin: un viaggio lungo il Dnipro nell'Ucraina in tempo di guerra",
-      "titolo_originale": "Putin's War of Aggression: A Journey Along the Dnipro in Wartime Ukraine",
-      "sommario": "Il maestoso Dnepr attraversa l'Ucraina e, nel sud, il campo di battaglia. Un viaggio da nord a sud offre una prospettiva unica su come gli ucraini stanno sopravvivendo a questa guerra.",
-      "link": "https://www.spiegel.de/international/world/putins-war-of-aggression-a-journey-along-the-dnipro-in-wartime-ukraine-a-b943efc8-a374-4f78-a8e9-0d55e750a8dc#ref=rss",
-      "fonte": "Der Spiegel",
-      "lingua_originale": "de",
-      "data": "Wed, 23 Sep 2026 17:28:00 +0200"
-    },
-    {
-      "titolo": "Xi accoglie Trump all'aeroporto di Shenzhen e lo abbraccia",
-      "titolo_originale": "Xi accoglie Trump all'aeroporto di Shenzhen e lo abbraccia",
-      "sommario": "Cnn, 'il leader comunista non era mai andato in aeroporto per ricevere un presidente Usa'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/18/xi-accoglie-trump-allaeroporto-di-shenzhen-e-lo-abbraccia_17e71e32-b3bf-40a2-8db8-97caa2c1d4c1.html",
+      "titolo": "Matt Damon: “Difficile lasciarsi alle spalle Ulisse”",
+      "titolo_originale": "Matt Damon: “Difficile lasciarsi alle spalle Ulisse”",
+      "sommario": "L'Odissea di Nolan disponibile per l'acquisto in digitale",
+      "link": "https://www.ansa.it/sito/videogallery/spettacolo/2026/11/19/matt-damon-difficile-lasciarsi-alle-spalle-ulisse_f3a205ec-df51-41ce-ba16-2488775edbfd.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 19:48:28 +0100"
+      "data": "Thu, 19 Nov 2026 13:40:22 +0100"
     },
     {
-      "titolo": "Dopo Pattinson nuovo 007, Brad Pitt si offre per il ruolo del cattivo",
-      "titolo_originale": "Dopo Pattinson nuovo 007, Brad Pitt si offre per il ruolo del cattivo",
-      "sommario": "Cillian Murphy in corsa per Kalshi, per la Bond Girl tra i nomi Zendaya e Pugh",
-      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/17/dopo-pattinson-nuovo-007-brad-pitt-si-offre-per-il-ruolo-del_a03fce5d-f80f-484c-912a-9c65fbc6c532.html",
+      "titolo": "Jenkins, Ruffalo, Swinton, Gibney e Binoche tra gli artisti mobilitati per Panahi",
+      "titolo_originale": "Jenkins, Ruffalo, Swinton, Gibney e Binoche tra gli artisti mobilitati per Panahi",
+      "sommario": "Appello con centinaia di nomi in difesa del cineasta iraniano",
+      "link": "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/18/jenkins-ruffalo-swinton-gibney-e-binoche-tra-gli-artisti-mobilitati-per_cb007421-649c-455b-a578-646e97d317ed.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 17 Nov 2026 18:10:13 +0100"
+      "data": "Thu, 19 Nov 2026 09:05:01 +0100"
     },
     {
-      "titolo": "Il lusso sta cambiando, addio logomania, è la Legitimacy Era",
-      "titolo_originale": "Il lusso sta cambiando, addio logomania, è la Legitimacy Era",
-      "sommario": "Qualità, autenticità e trasparenza diventano valori decisivi, i consumatori aspirazionali la forza del settore",
-      "link": "https://www.ansa.it/canale_lifestyle/notizie/lusso/2026/11/17/il-lusso-sta-cambiando-addio-logomania-e-la-legitimacy-era_bed062ea-3f50-409f-aaee-41ff2ca73731.html",
+      "titolo": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+      "titolo_originale": "Sophia e Marcello insieme nella top 100 dei divi di tutti i tempi di Variety",
+      "sommario": "Soli italiani in lista, in testa Marilyn Monroe",
+      "link": "https://www.ansa.it/canale_lifestyle/notizie/people/2026/11/18/sophia-e-marcello-insieme-nella-top-100-dei-divi-di-tutti-i-tempi_6eb37ec5-68f2-4465-b54b-6ed9f758bcda.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 23:13:49 +0100"
+      "data": "Wed, 18 Nov 2026 23:12:44 +0100"
     },
     {
-      "titolo": "Microsoft, un 'bug' nascosto da luglio ha causato il grande disservizio",
-      "titolo_originale": "Microsoft, un 'bug' nascosto da luglio ha causato il grande disservizio",
-      "sommario": "\"Problema tecnico non correlato ad attacchi informatici o ad attività di IA\"",
-      "link": "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/17/microsoft-un-bug-nascosto-da-luglio-ha-causato-il-grande-disservizio_e63eb592-e582-476c-b840-9e69d0aa8d72.html",
+      "titolo": "Renato Zero, nuovo progetto Le Mie Radici, tributo alla grande musica internazionale",
+      "titolo_originale": "Renato Zero, nuovo progetto Le Mie Radici, tributo alla grande musica internazionale",
+      "sommario": "18 interpretazioni di capolavori storici. Dal 21 novembre il brano 'L'applauso è per noi!'",
+      "link": "https://www.ansa.it/sito/notizie/cultura/musica/2026/11/18/renato-zero-nuovo-progetto-le-mie-radici-tributo-alla-grande-musica_310d479a-aef9-46f4-9af2-e9a39608b822.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Tue, 17 Nov 2026 14:37:43 +0100"
+      "data": "Wed, 18 Nov 2026 18:01:52 +0100"
     },
     {
-      "titolo": "A Genova la cerimonia d'apertura di Best, il summit dell'economia del mare",
-      "titolo_originale": "A Genova la cerimonia d'apertura di Best, il summit dell'economia del mare",
-      "sommario": "Vago, la blue economy non è settore ma un modello per il futuro",
-      "link": "https://www.ansa.it/ansacom/notizie/economia/blue-media/2026/11/17/a-genova-la-cerimonia-dapertura-di-best-il-summit-delleconomia-del-mare_f4c6145b-56ae-4b80-b420-3ec55df750eb.html",
+      "titolo": "Hanno permesso calcoli impossibili, a 2 italiani il premio Sakurai",
+      "titolo_originale": "Hanno permesso calcoli impossibili, a 2 italiani il premio Sakurai",
+      "sommario": "Laporta e Remiddi vincono con Gehrmann, per la fisica teorica delle particelle",
+      "link": "https://www.ansa.it/canale_scienza/notizie/fisica_matematica/2026/11/19/hanno-permesso-calcoli-impossibili-a-2-italiani-il-premio-sakurai_a4f9a122-95b1-4a78-aa04-3de48e1e862a.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 17:45:57 +0100"
+      "data": "Thu, 19 Nov 2026 11:40:02 +0100"
     },
     {
-      "titolo": "Il Cremlino: 'L'incontro tra Putin e Trump è andato bene', il presidente russo 'è di ottimo umore'",
-      "titolo_originale": "Il Cremlino: 'L'incontro tra Putin e Trump è andato bene', il presidente russo 'è di ottimo umore'",
-      "sommario": "I due leader 'hanno discusso della risoluzione del conflitto ucraino e delle relazioni bilaterali'",
-      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/il-cremlino-lincontro-tra-putin-e-trump-e-andato-bene-il-presidente-russo-e-di-ottimo_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
+      "titolo": "Cina, Usa e Russia adottano una dichiarazione di pace, 'Ue e Ucraina non sono pronte'",
+      "titolo_originale": "Cina, Usa e Russia adottano una dichiarazione di pace, 'Ue e Ucraina non sono pronte'",
+      "sommario": "Concluso l'incontro trilaterale. Putin: 'Una pagina di storia della diplomazia, ne auspico altri'. Trump agli europei: 'L'incontro è andato bene'. Ma critica i nuovi aiuti a Kiev",
+      "link": "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 19 Nov 2026 07:18:42 +0100"
+      "data": "Thu, 19 Nov 2026 19:17:19 +0100"
     },
     {
-      "titolo": "Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk",
-      "titolo_originale": "Anthropic amplia la sua Ipo a 81 miliardi, batte quella di SpaceX di Musk",
-      "sommario": "È la più grande della storia, la capitalizzazione si attesta intorno ai 1.500 miliardi",
-      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-amplia-la-sua-ipo-a-81-miliardi-batte-quella-di-spacex-di-musk_2cf9df65-bd5c-467f-896f-d1b00fa2056f.html",
+      "titolo": "Zelensky ai Volenterosi: 'Kiev nella Nato'. Meloni: 'Mandato chiaro al formato E5'",
+      "titolo_originale": "Zelensky ai Volenterosi: 'Kiev nella Nato'. Meloni: 'Mandato chiaro al formato E5'",
+      "sommario": "Vertice a Berlino, Kushner: 'Trump non vuole un acciordo unilaterale, Mosca ha accettato la presenza degli europei'",
+      "link": "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/19/zelensky-ai-volenterosi-kiev-nella-nato.-meloni-mandato-chiaro-al-formato-e5_63e4f927-d622-4c44-a03d-1000e20ff862.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Thu, 19 Nov 2026 02:26:52 +0100"
+      "data": "Thu, 19 Nov 2026 19:06:16 +0100"
     },
     {
-      "titolo": "Atp Finals: Cobolli crolla con Tiafoe, sfumano le semifinali",
-      "titolo_originale": "Atp Finals: Cobolli crolla con Tiafoe, sfumano le semifinali",
-      "sommario": "Statunitense vince 7-6 6-0",
-      "link": "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/18/atp-finals-cobolli-crolla-con-tiafoe-sfumano-le-semifinali-_e8d16eb9-9af9-429a-a084-310b0d445171.html",
+      "titolo": "Addio a Corrado Augias, giornalista, scrittore, conduttore e autore televisivo",
+      "titolo_originale": "Addio a Corrado Augias, giornalista, scrittore, conduttore e autore televisivo",
+      "sommario": "Nato a Roma il 26 gennaio 1935, aveva 91 anni",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/addio-a-corrado-augias-giornalista-scrittore-conduttore-e-autore-televisivo_ec1aa297-bc9d-47f4-827a-2310ee2e3c22.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 22:17:36 +0100"
+      "data": "Thu, 19 Nov 2026 15:55:13 +0100"
     },
     {
-      "titolo": "'Futuro Nazionale viola la legge Scelba', la Procura di Roma apre un fascicolo",
-      "titolo_originale": "'Futuro Nazionale viola la legge Scelba', la Procura di Roma apre un fascicolo",
-      "sommario": "Esposto del Sindacato dei militari. Il legale di Vannacci: 'Accuse inconsistenti'",
-      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/18/futuro-nazionale-viola-la-legge-scelba-la-procura-di-roma-apre-un-fascicolo_a3af0102-2a85-40ca-9ff0-e03b981a65b6.html",
+      "titolo": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore",
+      "titolo_originale": "Ok all'emendamento sugli e-book: 84 sì e 76 no, con Fi contro e Az a favore",
+      "sommario": "'Prendiamo atto del nuovo metodo introdotto'. Meloni va via in anticipo dal summit dei Volenterosi, in serata vertice sulla manovra",
+      "link": "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 20:00:41 +0100"
+      "data": "Thu, 19 Nov 2026 19:44:48 +0100"
     },
     {
-      "titolo": "Manovra: spuntano 800 milioni per la sanità, ipotesi card anziani più mirata",
-      "titolo_originale": "Manovra: spuntano 800 milioni per la sanità, ipotesi card anziani più mirata",
-      "sommario": "Voucher da 300 euro ma con Isee. Tensione nella maggioranza sul condono",
-      "link": "https://www.ansa.it/sito/notizie/economia/pmi/2026/11/18/manovra-spuntano-800-milioni-per-la-sanita-ipotesi-card-anziani-piu_92e99b6c-49d8-4f68-9bee-71fff3bdc40a.html",
+      "titolo": "Lo sciopero Cgil, 'basta propaganda, la manovra va cambiata'",
+      "titolo_originale": "Lo sciopero Cgil, 'basta propaganda, la manovra va cambiata'",
+      "sommario": "Attesi i big del campo largo. Mobilitazione degli studenti, in piazza anche i Cobas",
+      "link": "https://www.ansa.it/sito/notizie/economia/2026/11/19/sciopero-generale-da-scuola-a-bus.-treni-dalla-sera-niente-stop-aerei_01d5c5ed-72b4-4546-acc1-472847a25848.html",
       "fonte": "ANSA",
       "lingua_originale": "it",
-      "data": "Wed, 18 Nov 2026 21:51:29 +0100"
+      "data": "Thu, 19 Nov 2026 20:19:55 +0100"
     },
     {
-      "titolo": "La Corte internazionale di giustizia si pronuncerà sul caso di genocidio dei Rohingya contro il Myanmar: cosa c'è in gioco?",
-      "titolo_originale": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-      "sommario": "La Corte internazionale di giustizia emetterà una sentenza fondamentale, la sua prima sentenza in materia di genocidio da oltre un decennio.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
+      "titolo": "Davis, Berrettini tra i convocati, giocherà il doppio con Vavassori",
+      "titolo_originale": "Davis, Berrettini tra i convocati, giocherà il doppio con Vavassori",
+      "sommario": "Il romano è la novità del ct Volandri rispetto alle precedenti convocazioni. Cobolli, Musetti e Darderi gli altri scelti",
+      "link": "https://www.repubblica.it/sport/tennis/2026/11/19/news/davis_convocati_italia-425736091/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 18:34:50 +0000"
+    },
+    {
+      "titolo": "Meloni scettica su Shenzen: “Dai russi non so che aspettarmi, la Cina può avere un ruolo su Kiev”",
+      "titolo_originale": "Meloni scettica su Shenzen: “Dai russi non so che aspettarmi, la Cina può avere un ruolo su Kiev”",
+      "sommario": "La premier parla al vertice dei volenterosi, dopo i faccia a faccia con Zelensky e l’inviato di Trump, Kushner. La frecciata all’E3: “A Dublino si è decisa una squadra europea unica”",
+      "link": "https://www.repubblica.it/politica/2026/11/19/news/meloni_scettica_shenzen_russia_cina_kiev-425735907/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 17:41:53 +0000"
+    },
+    {
+      "titolo": "Atp Finals, Shelton supera Jodar in due set. Ora per le semifinali deve tifare Zverev",
+      "titolo_originale": "Atp Finals, Shelton supera Jodar in due set. Ora per le semifinali deve tifare Zverev",
+      "sommario": "L’americano deve sperare che il numero uno tedesco, già sicuro del primo posto nel girone, vinca almeno un set contro Fils",
+      "link": "https://www.repubblica.it/sport/tennis/2026/11/19/news/atp_finals_shelton_jodar_zverev_fils-425735763/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 16:51:01 +0000"
+    },
+    {
+      "titolo": "Augias, nella musica classica la sua vera passione",
+      "titolo_originale": "Augias, nella musica classica la sua vera passione",
+      "sommario": "Da Beethoven alla lirica: è l’arte che ha corteggiato sin da adolescente. Fino alle affollate conversazioni-concerto all’Accademia Nazionale di Santa Cecilia, a Roma",
+      "link": "https://www.repubblica.it/cultura/2026/11/19/news/passione_musica_corrado_augias-425735755/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 16:47:33 +0000"
+    },
+    {
+      "titolo": "Roberto D’Agostino ricorda Augias: “Parlavamo di fede, amore e musica. Non di Meloni e Schlein”",
+      "titolo_originale": "Roberto D’Agostino ricorda Augias: “Parlavamo di fede, amore e musica. Non di Meloni e Schlein”",
+      "sommario": "l ricordo dell’amico: “Avevamo idee diverse sulla fede ma ci confrontavamo senza voler imporre le nostre convinzioni. Ci univano la musica, l’opera e la grande cultura europea. Avevo ancora tante cose di cui parlare con lui”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/19/news/roberto_dagostino_morte_corrado_augias_intervista-425735742/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 16:42:43 +0000"
+    },
+    {
+      "titolo": "Francesca Fagnani: “Non devo favori a nessuno”",
+      "titolo_originale": "Francesca Fagnani: “Non devo favori a nessuno”",
+      "sommario": "“Mai stata una risorsa a disposizione dei partiti” dice la giornalista che il 24 novembre torna a condurre Belve. L’ultima volta in Rai? Si vedrà. Intanto ha qualcosa da dire a Beppe Grillo e a Roberto Vannacci...",
+      "link": "https://www.repubblica.it/venerdi/2026/11/19/news/francesca_fagnani_belve_intervista-425735276/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "titolo": "Luca Salsi: «La Scala fa paura ma è casa mia»",
+      "titolo_originale": "Luca Salsi: «La Scala fa paura ma è casa mia»",
+      "sommario": "Siamo stati con il baritono alle prove dell’Otello diretto da Myung-Whun Chung che il 7 dicembre inaugura la stagione del teatro. Ma prima lo ha voluto anche re Carlo",
+      "link": "https://www.repubblica.it/venerdi/2026/11/19/news/scala_prove_baritono_luca_salsi_iago_otello-425735313/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 16:00:00 +0000"
+    },
+    {
+      "titolo": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”",
+      "titolo_originale": "Il principe Harry e la minaccia russa: “Tornerei a combattere nell’esercito”",
+      "sommario": "In un una puntata di un podcast con il Telegraph registrata durante una visita a sorpresa a Leopoli, il secondogenito di Carlo ha dichiarato di essere disposto a riarruolarsi. E non ha risparmiato critiche a Trump",
+      "link": "https://www.repubblica.it/esteri/2026/11/19/news/principe_harry_pronto_ad_arruolarmi_esercito_se_necessario_minaccia_russia-425735499/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 15:22:04 +0000"
+    },
+    {
+      "titolo": "Andrea Salerno: “Corrado Augias ha pensato insieme a noi la puntata con cui sarà ricordato”",
+      "titolo_originale": "Andrea Salerno: “Corrado Augias ha pensato insieme a noi la puntata con cui sarà ricordato”",
+      "sommario": "Il direttore di La7 ricorda gli ultimi tre anni al fianco del giornalista: “Era un entusiasta, curioso e umile. Abbiamo parlato fino a mercoledì, anche di come voleva essere ricordato”",
+      "link": "https://www.repubblica.it/spettacoli/tv-radio/2026/11/19/news/andrea_salerno_direttore_la7_corrado_augias-425735522/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 15:00:00 +0000"
+    },
+    {
+      "titolo": "La guerra ormai è sulle coste europee",
+      "titolo_originale": "La guerra ormai è sulle coste europee",
+      "sommario": "Altre cinque navi attaccate davanti a Romania e Bulgaria: in due mesi ne sono state colpite 17 con la morte di trenta marinai. Ma Ue e Nato non sono in grado di contrastare l’offensiva russa",
+      "link": "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/11/19/news/la_guerra_ormai_e_sulle_coste_europee-425735444/",
+      "fonte": "Repubblica",
+      "lingua_originale": "it",
+      "data": "Thu, 19 Nov 2026 14:54:14 +0000"
+    },
+    {
+      "titolo": "\"Sulla stessa lunghezza d'onda\": Hegseth plaude ai legami degli Stati Uniti con de la Espriella della Colombia",
+      "titolo_originale": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
+      "sommario": "Il Segretario alla Difesa degli Stati Uniti ha elogiato la cooperazione in materia di sicurezza con la Colombia, in occasione dell'adesione del Paese alla Coalizione anti-cartello delle Americhe.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 05:13:13 +0000"
+      "data": "Thu, 19 Nov 2026 19:53:24 +0000"
     },
     {
-      "titolo": "Lontana dall'incontro Trump-Putin, l'Europa calcola il costo della difesa dell'Ucraina",
-      "titolo_originale": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-      "sommario": "I leader europei si riuniranno a Berlino mentre Kyiv si trova ad affrontare un deficit di finanziamento di 25 miliardi di euro (27,4 miliardi di dollari) per il prossimo anno.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "titolo": "I leader europei si riuniscono a Berlino per ribadire il sostegno all'Ucraina",
+      "titolo_originale": "European leaders unite in Berlin to reaffirm support for Ukraine",
+      "sommario": "Il cancelliere tedesco avverte che i colloqui di pace senza il coinvolgimento dell'Europa sono destinati a fallire e sollecita l'unità con l'Ucraina.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:58:36 +0000"
+      "data": "Thu, 19 Nov 2026 19:40:23 +0000"
     },
     {
-      "titolo": "Trump vuole parlare di nucleare con Putin e Xi",
-      "titolo_originale": "Trump wants to talk nuclear with Putin and Xi",
-      "sommario": "Il presidente degli Stati Uniti Donald Trump afferma di voler affrontare il tema della non proliferazione nucleare con Xi della Cina e Putin della Russia.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
+      "titolo": "Foto: la sentenza sul genocidio mette in luce il bilancio umano della crisi dei Rohingya del 2017",
+      "titolo_originale": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
+      "sommario": "Nel 2017, quasi un milione di Rohingya sono fuggiti in Bangladesh, formando uno dei più grandi campi profughi del mondo vicino a Cox's Bazar.",
+      "link": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:50:28 +0000"
+      "data": "Thu, 19 Nov 2026 19:33:25 +0000"
     },
     {
-      "titolo": "Trump presenta la terza istanza alla Corte Suprema per porre fine alle tutele per i migranti venezuelani",
-      "titolo_originale": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
-      "sommario": "L'appello d'urgenza fa seguito alla sentenza di un giudice della California secondo cui la revoca del loro status di protezione temporanea era illegale.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
+      "titolo": "L'uscita del blockbuster GTA VI dimostra il peso culturale ed economico dei videogiochi",
+      "titolo_originale": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+      "sommario": "L'incredibile successo del popolare franchise arriva in un momento in cui l'industria dei videogiochi ha dovuto affrontare massicci licenziamenti negli ultimi anni.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:46:59 +0000"
+      "data": "Thu, 19 Nov 2026 19:27:32 +0000"
     },
     {
-      "titolo": "Elon Musk afferma di sentirsi \"abbastanza sciocco\" per le spese sostenute per le elezioni di midterm negli Stati Uniti",
-      "titolo_originale": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
-      "sommario": "Musk afferma che i soli fondi per la campagna elettorale non possono decidere le elezioni, anche se ha finanziato generosamente i candidati repubblicani in Texas.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
+      "titolo": "Save the Children: i bambini di Gaza affrontano \"pericoli senza pari\"",
+      "titolo_originale": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+      "sommario": "Un'organizzazione umanitaria afferma che un terzo delle violazioni contro i minori in tutto il mondo si è verificato nei territori palestinesi occupati.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:46:18 +0000"
+      "data": "Thu, 19 Nov 2026 19:23:45 +0000"
     },
     {
-      "titolo": "Questa antica città swahili è a rischio a causa del boom energetico del Kenya?",
-      "titolo_originale": "Is this ancient Swahili town at risk from Kenya’s energy boom",
-      "sommario": "L'Africa orientale sta investendo miliardi di dollari nelle infrastrutture petrolifere per rafforzare la sicurezza energetica e ridurre la dipendenza dalle importazioni.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-this-ancient-swahili-town-at-risk-from-kenyas-energy-boom?traffic_source=rss",
+      "titolo": "Il mondo reagisce alla sentenza della Corte internazionale di giustizia che riconosce la colpevolezza del Myanmar per il genocidio contro i Rohingya",
+      "titolo_originale": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+      "sommario": "La sentenza storica dell'Aia è la prima volta che uno Stato viene ritenuto responsabile di genocidio dalla Corte internazionale di giustizia.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 04:44:24 +0000"
+      "data": "Thu, 19 Nov 2026 19:19:06 +0000"
     },
     {
-      "titolo": "Il tribunale di Miami condanna un pastore statunitense-haitiano per l'assassinio del presidente nel 2021",
-      "titolo_originale": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
-      "sommario": "I pubblici ministeri hanno accusato Christian Emmanuel Sanon di aver cercato di sostituire l'allora presidente haitiano Moïse.",
-      "link": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
+      "titolo": "I sopravvissuti Rohingya reagiscono alla storica sentenza sul genocidio contro il Myanmar",
+      "titolo_originale": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+      "sommario": "I rifugiati Rohingya in Bangladesh e un attivista a New York reagiscono alla sentenza della massima corte delle Nazioni Unite, secondo cui il Myanmar ha commesso un genocidio",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 03:58:10 +0000"
+      "data": "Thu, 19 Nov 2026 19:16:34 +0000"
     },
     {
-      "titolo": "APEC Live: Trump, Xi e Putin si incontreranno al vertice trilaterale storico in Cina",
-      "titolo_originale": "APEC Live: Trump, Xi and Putin to meet at historic trilateral China summit",
-      "sommario": "I leader di Stati Uniti, Cina e Russia dovrebbero tenere i tanto attesi colloqui a Shenzhen.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
+      "titolo": "Un uomo protesta sul tetto dell'ambasciata spagnola per l'estradizione di Fergie Chambers",
+      "titolo_originale": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+      "sommario": "Un uomo ha protestato sul tetto dell'ambasciata spagnola a Londra contro l'estradizione dell'erede dei media statunitensi Fergie Chambers.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 03:30:26 +0000"
+      "data": "Thu, 19 Nov 2026 19:15:10 +0000"
     },
     {
-      "titolo": "Xi Jinping accoglie Putin e Trump all'APEC prima del vertice storico",
-      "titolo_originale": "China’s Xi greets Putin and Trump at APEC before historic summit",
-      "sommario": "Il presidente cinese Xi Jinping ha accolto Donald Trump e Vladimir Putin al vertice dell'APEC.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+      "titolo": "Le famiglie fuggono dal campo di Bureij a Gaza mentre Israele lancia una nuova offensiva",
+      "titolo_originale": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "sommario": "Le famiglie fuggono dal campo di Bureij a Gaza mentre Israele lancia una nuova offensiva",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 03:01:27 +0000"
+      "data": "Thu, 19 Nov 2026 19:01:00 +0000"
     },
     {
-      "titolo": "L'auto senza conducente di Google incontra un ostacolo",
-      "titolo_originale": "Google’s driverless car hits a roadblock",
-      "sommario": "Waymo è sottoposta a nuovi controlli dopo che un'auto senza conducente si è bloccata nelle acque alluvionali di San Francisco, tra gli altri incidenti stradali.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
+      "titolo": "La Francia attende il verdetto sei anni dopo il pestaggio di un produttore musicale nero da parte della polizia",
+      "titolo_originale": "France awaits verdict six years after police beat Black music producer",
+      "sommario": "Tre agenti sono accusati di aver aggredito Michel Zecler in un episodio ripreso dalle telecamere di sorveglianza.",
+      "link": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
       "fonte": "Al Jazeera",
       "lingua_originale": "en",
-      "data": "Thu, 19 Nov 2026 02:57:56 +0000"
+      "data": "Thu, 19 Nov 2026 18:51:50 +0000"
     },
     {
-      "titolo": "Cosa sappiamo dell'incontro Putin-Trump",
-      "titolo_originale": "What we know about Putin-Trump meeting",
-      "sommario": "I due presidenti si sono incontrati per la prima volta dopo il vertice di Anchorage dell'agosto 2025",
-      "link": "https://tass.com/politics/2220993",
+      "titolo": "Trump definisce il suo viaggio in Cina eccezionale e molto importante",
+      "titolo_originale": "Trump calls his trip to China superb and very important",
+      "sommario": "Il presidente russo Vladimir Putin, il presidente cinese Xi Jinping e Trump hanno tenuto un incontro in occasione del vertice dell'APEC a Shenzhen, il primo vertice in assoluto tra i tre leader.",
+      "link": "https://tass.com/world/2222087",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 09:14:26 +0300"
+      "data": "Thu, 19 Nov 2026 22:45:53 +0300"
     },
     {
-      "titolo": "Il corso strategico della Russia, l'apertura al mondo, il ruolo dell'APEC: le dichiarazioni di Putin",
-      "titolo_originale": "Russia’s strategic course, openness to world, APEC’s role: statements by Putin",
-      "sommario": "Il Presidente russo ha sottolineato che una partnership costruttiva con le economie della regione Asia-Pacifico rappresenta un orientamento strategico per la Russia",
-      "link": "https://tass.com/politics/2220963",
+      "titolo": "Trump preferisce la pace ai profitti – Kushner",
+      "titolo_originale": "Trump prefers peace over profits — Kushner",
+      "sommario": "La domanda è sorta sulla scia di un articolo di Politico in cui si afferma che Trump era scettico sul fatto che all'Ucraina venissero forniti ulteriori miliardi di dollari di aiuti da parte dei membri della Coalizione dei Volonterosi.",
+      "link": "https://tass.com/world/2222085",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 09:00:01 +0300"
+      "data": "Thu, 19 Nov 2026 22:27:43 +0300"
     },
     {
-      "titolo": "L'incontro Putin-Trump dura meno di un'ora",
-      "titolo_originale": "Putin-Trump meeting lasts less than hour",
-      "sommario": "Questo è stato l'ottavo incontro faccia a faccia tra i leader russo e statunitense durante i due mandati presidenziali di Donald Trump.",
-      "link": "https://tass.com/world/2220959",
+      "titolo": "I leader europei non hanno discusso di un possibile viaggio a Mosca durante l'incontro di Berlino — Fonte TASS",
+      "titolo_originale": "European leaders did not discuss possible trip to Moscow at Berlin meeting — TASS source",
+      "sommario": "In precedenza, il Presidente russo Vladimir Putin aveva dichiarato che era stato inviato un invito, tramite i canali diplomatici, ad alcuni rappresentanti europei affinché si recassero a Mosca per chiarire la loro posizione in merito alla possibile partecipazione al processo di pace.",
+      "link": "https://tass.com/world/2222083",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 08:25:45 +0300"
+      "data": "Thu, 19 Nov 2026 22:02:52 +0300"
     },
     {
-      "titolo": "Putin e Trump si scambiano brevi osservazioni in inglese all'inizio del loro incontro",
-      "titolo_originale": "Putin, Trump exchange brief remarks in English at start of their meeting",
-      "sommario": "I due leader si sono salutati calorosamente",
-      "link": "https://tass.com/politics/2220953",
+      "titolo": "Qualsiasi garanzia di sicurezza per l'Ucraina dovrebbe far parte di accordi più ampi — Kushner",
+      "titolo_originale": "Any security guarantees for Ukraine should be part of broader agreements — Kushner",
+      "sommario": "L'inviato speciale ha inoltre affermato che la Russia era d'accordo con questo approccio.",
+      "link": "https://tass.com/world/2222081",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 08:10:45 +0300"
+      "data": "Thu, 19 Nov 2026 22:01:55 +0300"
     },
     {
-      "titolo": "Trump chiama Putin suo amico durante l'incontro bilaterale",
-      "titolo_originale": "Trump calls Putin his friend at bilateral meeting",
-      "sommario": "L'incontro tra i due leader si sta svolgendo a Shenzhen",
-      "link": "https://tass.com/world/2220951",
+      "titolo": "La cancelliera tedesca sostiene i colloqui di pace con l'Ucraina su terreno neutrale",
+      "titolo_originale": "German chancellor backs Ukraine peace talks on neutral ground",
+      "sommario": "Friedrich Merz ha proposto gli Emirati Arabi Uniti come sede dell'incontro",
+      "link": "https://tass.com/world/2222079",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 08:05:51 +0300"
+      "data": "Thu, 19 Nov 2026 21:54:49 +0300"
     },
     {
-      "titolo": "Trump ritiene che il suo incontro con Putin darà ottimi risultati",
-      "titolo_originale": "Trump believes his meeting with Putin to yield excellent results",
-      "sommario": "Il presidente degli Stati Uniti ha aggiunto di aspettarsi un \"ottimo\" incontro",
-      "link": "https://tass.com/world/2220949",
+      "titolo": "Trump è pronto a rivolgersi al Congresso degli Stati Uniti per ottenere garanzie di sicurezza per Kiev – Kushner",
+      "titolo_originale": "Trump ready to appeal to US Congress to ensure security guarantees to Kiev — Kushner",
+      "sommario": "Jared Kushner ha anche affermato che gli Stati Uniti stanno facendo molti progressi sul piano per la prosperità postbellica dell'Ucraina.",
+      "link": "https://tass.com/world/2222077",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 07:59:17 +0300"
+      "data": "Thu, 19 Nov 2026 21:52:15 +0300"
     },
     {
-      "titolo": "Trump afferma di avere ottimi rapporti con Putin",
-      "titolo_originale": "Trump says he has excellent relationship with Putin",
-      "sommario": "Il leader statunitense afferma che i due presidenti si conoscono da molto tempo",
-      "link": "https://tass.com/world/2220947",
+      "titolo": "La cancelliera tedesca definisce irrealistiche le richieste della Russia in materia di sicurezza europea del 2021",
+      "titolo_originale": "German chancellor calls Russia's European security demands from 2021 unrealistic",
+      "sommario": "Friedrich Merz ha riconosciuto che l'UE dovrà parlare con Mosca della riduzione dei rischi e della trasparenza delle sue azioni",
+      "link": "https://tass.com/world/2222069",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 07:52:07 +0300"
+      "data": "Thu, 19 Nov 2026 21:31:53 +0300"
     },
     {
-      "titolo": "Il traffico ferroviario lungo il ponte di Crimea è stato sospeso dopo l'attacco con i droni",
-      "titolo_originale": "Railway traffic along Crimean Bridge suspended after drone attack",
-      "sommario": "Nessuno è rimasto ferito",
-      "link": "https://tass.com/emergencies/2220945",
+      "titolo": "La Russia vince sette medaglie ai Campionati mondiali di tennistavolo paralimpico 2026 in Thailandia",
+      "titolo_originale": "Russia wins seven medals at 2026 World Para Table Tennis Championship in Thailand",
+      "sommario": "I Campionati mondiali ITTF di para-tennis tavolo 2026 si sono svolti dal 13 al 19 novembre a Pattaya.",
+      "link": "https://tass.com/sports/2222065",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 07:51:03 +0300"
+      "data": "Thu, 19 Nov 2026 21:29:51 +0300"
     },
     {
-      "titolo": "Lavrov, Siluanov, Ušakov e Dmitriev partecipano all'incontro Putin-Trump",
-      "titolo_originale": "Lavrov, Siluanov, Ushakov, Dmitriev attend Putin-Trump meeting",
-      "sommario": "Gli Stati Uniti sono rappresentati dal Segretario di Stato Marco Rubio e dal Segretario al Tesoro Scott Bessent",
-      "link": "https://tass.com/politics/2220943",
+      "titolo": "Merz lancia l'idea di revocare gradualmente le sanzioni alla Russia man mano che l'accordo con l'Ucraina procede",
+      "titolo_originale": "Merz floats idea of lifting Russia sanctions piecemeal as Ukraine deal progresses",
+      "sommario": "\"L'obiettivo era ed è un'Ucraina sovrana in un'Europa sicura\", ha aggiunto la cancelliera tedesca.",
+      "link": "https://tass.com/world/2222061",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 07:47:55 +0300"
+      "data": "Thu, 19 Nov 2026 21:14:51 +0300"
     },
     {
-      "titolo": "Il rafforzamento delle infrastrutture di transito russe offre nuove prospettive per l'Asia-Pacifico — Putin",
-      "titolo_originale": "Strengthening Russian transit infrastructure offers new prospects for Asia Pacific — Putin",
-      "sommario": "La Russia, secondo il presidente, invita tutte le economie della regione a sfruttare le opportunità offerte da queste nuove rotte logistiche.",
-      "link": "https://tass.com/politics/2220931",
+      "titolo": "L'Europa discute l'ipotesi di un incontro con la Russia – Bloomberg",
+      "titolo_originale": "Europe discusses holding meeting with Russia — Bloomberg",
+      "sommario": "L'agenzia non ha fornito ulteriori dettagli sulla discussione",
+      "link": "https://tass.com/world/2222057",
       "fonte": "TASS",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 07:38:47 +0300"
+      "data": "Thu, 19 Nov 2026 21:10:04 +0300"
     },
     {
-      "titolo": "Agenti dell'ICE spruzzano spray al peperoncino su una donna incinta in California (VIDEO)",
-      "titolo_originale": "ICE agents pepper-spray pregnant woman in California (VIDEO)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afd901e2030274aa67c428b.jpg\" style=\"margin-right: 10px;\" /> Secondo il suo avvocato, gli agenti dell'ICE hanno spruzzato spray al peperoncino e hanno arrestato una cittadina statunitense incinta durante una manifestazione in California. <br /><a href=\"https://rt-english.com/news/649005-ice-pepper-spray-pregnant-woman/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
-      "link": "https://rt-english.com/news/649005-ice-pepper-spray-pregnant-woman/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Chi detiene il vantaggio militare nell'Artico?",
+      "titolo_originale": "Who holds the military advantage in the Arctic?",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6aff315585f540611074b145.jpg\" style=\"margin-right: 10px;\" /> Mentre la NATO si espande nell'Artico, analizziamo le armi, le reti di sorveglianza e i rischi strategici che stanno plasmando le difese russe nell'Artico <br /><a href=\"https://rt-english.com/news/648783-who-holds-military-advantage-arctic/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Leggi l'articolo completo su RT.com</a>",
+      "link": "https://rt-english.com/news/648783-who-holds-military-advantage-arctic/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 03:35:46 +0000"
+      "data": "Thu, 19 Nov 2026 18:00:39 +0000"
     },
     {
-      "titolo": "Trump chiama Putin \"mio amico\" durante l'incontro bilaterale: AGGIORNAMENTI IN DIRETTA, VIDEO",
-      "titolo_originale": "Trump calls Putin ‘my friend’ at bilateral meeting: LIVE UPDATES, VIDEOS",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe5ce72030270c612d7c14.png\" style=\"margin-right: 10px;\" /> Putin, Trump, and Xi gather in China for a historic trilateral meeting as the APEC Summit brings together Asia-Pacific leaders <br /><a href=\"https://rt-english.com/news/649007-putin-trump-xi-historic-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649007-putin-trump-xi-historic-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "I missili degli Houthi colpiscono un grattacielo saudita (VIDEO)",
+      "titolo_originale": "Houthi missiles hit Saudi skyscraper (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6aff434c85f540028147dbb8.png\" style=\"margin-right: 10px;\" /> Yemen’s Houthi forces have hit the PIF Tower in Riyadh with ballistic missiles, damaging the tallest skyscraper in the Saudi capital <br /><a href=\"https://rt-english.com/news/649129-houthis-strike-tower-riyadh/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/649129-houthis-strike-tower-riyadh/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 01:53:06 +0000"
+      "data": "Thu, 19 Nov 2026 17:56:50 +0000"
     },
     {
-      "titolo": "US charges Irish national with ‘destroying’ $60 million military plane with ax",
-      "titolo_originale": "US charges Irish national with ‘destroying’ $60 million military plane with ax",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe0f4985f54078027a8db2.jpg\" style=\"margin-right: 10px;\" /> The US has indicted an Irish man accused of destroying a C-130 Hercules transport plane at Ireland’s Shannon Airport in April <br /><a href=\"https://rt-english.com/news/649032-us-charges-irishman-plane-destruction/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649032-us-charges-irishman-plane-destruction/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Musk exposes Zelensky’s Starlink ‘lies’",
+      "titolo_originale": "Musk exposes Zelensky’s Starlink ‘lies’",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afef35b2030275bf52ad3c6.jpg\" style=\"margin-right: 10px;\" /> Elon Musk has accused Zelensky of lying about Starlink restrictions <br /><a href=\"https://rt-english.com/news/649096-musk-zelensky-starlink-lies/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/649096-musk-zelensky-starlink-lies/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Thu, 19 Nov 2026 00:36:24 +0000"
+      "data": "Thu, 19 Nov 2026 15:35:30 +0000"
     },
     {
-      "titolo": "Israeli tanks roll into Gaza during top US commander’s visit",
-      "titolo_originale": "Israeli tanks roll into Gaza during top US commander’s visit",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe3ad22030277e347e3d6f.jpg\" style=\"margin-right: 10px;\" /> The incursion deeper into the Palestinian enclave comes as Washington’s military chief for the Middle East holds high-level talks in Israel <br /><a href=\"https://rt-english.com/news/649040-israel-gaza-ground-operation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649040-israel-gaza-ground-operation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Modi showcases India’s progress using GTA",
+      "titolo_originale": "Modi showcases India’s progress using GTA",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6aff13a985f54005b25fd1b2.jpg\" style=\"margin-right: 10px;\" /> The Indian leader drew a parallel between GTA’s improvement since the early 2010s and the changes India has seen under his government <br /><a href=\"https://rt-english.com/india/649113-modi-showcases-indias-progress-using/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/649113-modi-showcases-indias-progress-using/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 23:56:32 +0000"
+      "data": "Thu, 19 Nov 2026 15:24:19 +0000"
     },
     {
-      "titolo": "Putin makes major Arctic announcement at APEC Summit",
-      "titolo_originale": "Putin makes major Arctic announcement at APEC Summit",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe1d9d85f540407c501d5f.jpg\" style=\"margin-right: 10px;\" /> Putin has pitched Russia’s Arctic and Far East to Asia-Pacific investors as the EU and NATO expand their military ambitions in the region <br /><a href=\"https://rt-english.com/russia/649039-putin-arctic-asia-pacific-investors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/649039-putin-arctic-asia-pacific-investors/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Libya seizes over 4 million narcotic pills (VIDEO)",
+      "titolo_originale": "Libya seizes over 4 million narcotic pills (VIDEO)",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afefc8585f54005d717034e.jpg\" style=\"margin-right: 10px;\" /> Libyan authorities have announced the seizure of over 4 million narcotic pills, 11 kg of cocaine, and 18 kg of hashish <br /><a href=\"https://rt-english.com/africa/649104-libya-intercepts-massive-narcotics-haul/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/africa/649104-libya-intercepts-massive-narcotics-haul/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 22:46:19 +0000"
+      "data": "Thu, 19 Nov 2026 14:22:47 +0000"
     },
     {
-      "titolo": "Source wars: Jensen Huang and the battle for AI dominance",
-      "titolo_originale": "Source wars: Jensen Huang and the battle for AI dominance",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afdb66e85f5407cb8007bc8.jpg\" style=\"margin-right: 10px;\" /> Jensen Huang’s ouster from Nvidia is a win for proponents of closed-source AI, who want to regulate their way into control of the industry <br /><a href=\"https://rt-english.com/news/649015-nvidia-huang-open-source/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649015-nvidia-huang-open-source/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Three killed in Ukrainian drone raid on Russia’s Saratov Region – governor",
+      "titolo_originale": "Three killed in Ukrainian drone raid on Russia’s Saratov Region – governor",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6aff084e20302743646fab0a.jpg\" style=\"margin-right: 10px;\" /> Three people have been killed in a Ukrainian drone attack on Russia’s Saratov Region, according to local governor Roman Busargin <br /><a href=\"https://rt-english.com/russia/649119-ukraine-drone-attack-russia/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/649119-ukraine-drone-attack-russia/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 22:26:49 +0000"
+      "data": "Thu, 19 Nov 2026 14:22:20 +0000"
     },
     {
-      "titolo": "European Commission proposes new loan for Kiev",
-      "titolo_originale": "European Commission proposes new loan for Kiev",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe12d785f540407c501d5a.jpg\" style=\"margin-right: 10px;\" /> The European Commission has officially presented its plan to borrow €45 billion guaranteed by the bloc’s budget to supply funding to Kiev <br /><a href=\"https://rt-english.com/news/649038-european-commission-new-loan-kiev/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649038-european-commission-new-loan-kiev/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Putin reveals EU+ invited to Moscow for talks",
+      "titolo_originale": "Putin reveals EU+ invited to Moscow for talks",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6aff0d5885f54003cd501516.jpg\" style=\"margin-right: 10px;\" /> Russian President Vladimir Putin invited European representatives to Moscow to explain their positions on a Ukraine settlement <br /><a href=\"https://rt-english.com/russia/649120-putin-invites-european-delegation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/russia/649120-putin-invites-european-delegation/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 21:29:49 +0000"
+      "data": "Thu, 19 Nov 2026 14:21:29 +0000"
     },
     {
-      "titolo": "More missiles, more war: Europe pledges to keep Kiev fighting",
-      "titolo_originale": "More missiles, more war: Europe pledges to keep Kiev fighting",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afe0cc385f5407d853889c3.jpg\" style=\"margin-right: 10px;\" /> European governments have pledged billions in military aid for Ukraine as Zelensky demands more weapons and funding at Ramstein meeting <br /><a href=\"https://rt-english.com/news/649037-nato-europe-ukraine-weapons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/news/649037-nato-europe-ukraine-weapons/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "India questions ‘archaic’ river-sharing mechanisms at COP31",
+      "titolo_originale": "India questions ‘archaic’ river-sharing mechanisms at COP31",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afef83220302760c364a8fa.jpg\" style=\"margin-right: 10px;\" /> India says water-sharing cannot be separated from wider bilateral ties amid its dispute with Pakistan over the Indus Waters Treaty. <br /><a href=\"https://rt-english.com/india/649116-india-pakistan-indus-waters/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/649116-india-pakistan-indus-waters/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 21:01:59 +0000"
+      "data": "Thu, 19 Nov 2026 13:36:09 +0000"
     },
     {
-      "titolo": "Russia seeks to tackle double standards on human rights (VIDEO)",
-      "titolo_originale": "Russia seeks to tackle double standards on human rights (VIDEO)",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afdfc9f85f5407e3531e701.png\" style=\"margin-right: 10px;\" /> Russia has introduced the Moscow Principles, a draft document that seeks to counter double standards in international human rights <br /><a href=\"https://rt-english.com/russia/649010-russia-tackle-double-standards-human-rights/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/649010-russia-tackle-double-standards-human-rights/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Bangladesh PM blames ousted leader, India for escalating violence",
+      "titolo_originale": "Bangladesh PM blames ousted leader, India for escalating violence",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afef0502030273bf475f757.jpg\" style=\"margin-right: 10px;\" /> Prime Minister Tarique Rahman has accused New Delhi of sheltering “terrorists” amid fresh unrest over the planned return of Sheikh Hasina <br /><a href=\"https://rt-english.com/india/649107-bangladesh-rahman-hasina-violence/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/india/649107-bangladesh-rahman-hasina-violence/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 19:54:55 +0000"
+      "data": "Thu, 19 Nov 2026 13:17:02 +0000"
     },
     {
-      "titolo": "Russian general tells EU’s Kallas to ‘sort out her sh*t’",
-      "titolo_originale": "Russian general tells EU’s Kallas to ‘sort out her sh*t’",
-      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afdf2a220302765f63e70eb.jpg\" style=\"margin-right: 10px;\" /> Retired Russian general Vladimir Shamanov has told EU top diplomat Kaja Kallas to “sort out her own sh*t” over her data theft proposal <br /><a href=\"https://rt-english.com/russia/649028-russian-general-eu-kallas/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
-      "link": "https://rt-english.com/russia/649028-russian-general-eu-kallas/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
+      "titolo": "Denmark’s oldest-ever citizen a former ‘prominent’ Nazi leader – media",
+      "titolo_originale": "Denmark’s oldest-ever citizen a former ‘prominent’ Nazi leader – media",
+      "sommario": "<img align=\"left\" alt=\"Preview\" src=\"https://mf.b37mrtl.ru/files/2026.11/thumbnail/6afedd8085f54007f47c6ab4.jpg\" style=\"margin-right: 10px;\" /> Denmark’s oldest-ever person, Kirsten Schwalbe, now 112, admitted joining the Nazi party but allegedly concealed local leadership roles <br /><a href=\"https://rt-english.com/news/649076-denmark-oldest-person-prominent-nazi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=RSS\">Read Full Article at RT.com</a>",
+      "link": "https://rt-english.com/news/649076-denmark-oldest-person-prominent-nazi/?utm_source=rss&utm_medium=rss&utm_campaign=RSS",
       "fonte": "RT",
       "lingua_originale": "ru",
-      "data": "Wed, 18 Nov 2026 18:58:52 +0000"
+      "data": "Thu, 19 Nov 2026 13:04:34 +0000"
     }
   ]
 }
